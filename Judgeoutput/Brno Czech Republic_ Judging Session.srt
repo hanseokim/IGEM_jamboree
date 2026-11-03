@@ -1,0 +1,948 @@
+1
+00:00:05,380 --> 00:00:05,810
+So
+
+2
+00:00:06,440 --> 00:00:09,040
+A lot of us grew up on farms and most of us
+
+3
+00:00:14,370 --> 00:00:20,980
+So, a lot of us grew up on farms and most of us have a farmer in our family. We know how hard running a farm is.
+
+4
+00:00:21,830 --> 00:00:26,190
+All 42 farmers we talk to struggle to pay their animals' fees.
+
+5
+00:00:26,660 --> 00:00:29,420
+Take their eregals. They have to prefer the high protein diet.
+
+6
+00:00:30,120 --> 00:00:34,990
+The price of the best protein source, soybean, has doubled over the last 25 years.
+
+7
+00:00:35,720 --> 00:00:39,340
+The largest soy producer and exporter in the world is Brazil.
+
+8
+00:00:39,880 --> 00:00:45,940
+The rapidly growing agro businesses have brought the most vulnerable Brazilian ecosystem, Serrado,
+
+9
+00:00:46,410 --> 00:00:47,860
+to its knees.
+
+10
+00:00:48,490 --> 00:00:51,660
+A huge problem with one tiny answer.
+
+11
+00:00:52,200 --> 00:00:53,040
+Meet Dakui.
+
+12
+00:00:53,410 --> 00:01:05,550
+This plant contains as much protein as soybean and double-sizz biomass every two days. It easily outperforms soy, which, mind you, was selectively bred for thousands of years. Just imagine where duckweed could have been.
+
+13
+00:01:07,170 --> 00:01:08,210
+We run the numbers.
+
+14
+00:01:08,580 --> 00:01:14,030
+Switching feed from soybean to duckweed would require expensive changes in farm infrastructure.
+
+15
+00:01:14,440 --> 00:01:17,140
+this would be a lot of risk. And to make it worthy...
+
+16
+00:01:17,510 --> 00:01:35,120
+duckweed needs to make even more biomass. And while it's already too late for selective breeding, it might be too early for synthetic biology. We try to overexpress the bollnake enzymes in nitrogen metabolism in duckweed to boost its growth on manure and feed the biomass to cows.
+
+17
+00:01:35,970 --> 00:01:36,430
+So.
+
+18
+00:01:36,870 --> 00:01:38,740
+Why isn't it done already? If it's that
+
+19
+00:01:39,560 --> 00:01:40,910
+Well, it's not.
+
+20
+00:01:41,290 --> 00:01:50,160
+Genetic engineering of duckweed is painfully slow and this is the real bottleneck holding back duckweed research and application.
+
+21
+00:01:50,660 --> 00:01:53,100
+We talk to a lot of experts around the world.
+
+22
+00:01:53,570 --> 00:01:54,670
+Do I engineer Duckweed?
+
+23
+00:01:55,110 --> 00:01:56,430
+They all have to do the same
+
+24
+00:01:56,840 --> 00:02:05,170
+transform ducuite tissue culture with agrobacterium, a natural plant pathogen. Then they can regenerate new plants, but this takes 5 months.
+
+25
+00:02:05,540 --> 00:02:11,150
+Researchers suffer with deadlines and their plans suffer with unwanted mutations and multiplicative genomes.
+
+26
+00:02:12,040 --> 00:02:12,880
+And it's iTunes.
+
+27
+00:02:13,250 --> 00:02:24,370
+We're suffering enough anyway, so we wanted to avoid tissue culture completely. But when we tried applying agrobacterium directly to that weed, we found our DNA is not getting integrated into the genome.
+
+28
+00:02:25,320 --> 00:02:30,030
+And that's why we built our transposase assisted insertion and front regeneration method.
+
+29
+00:02:30,890 --> 00:02:35,540
+In Tifer, our Pong transposase recognizes a specific transposon, BINX.
+
+30
+00:02:35,970 --> 00:02:43,220
+And if we border our gene of interest with these pink elements, Pong transposase will excise it and insert it into the Daku e-genome.
+
+31
+00:02:44,100 --> 00:02:44,560
+So?
+
+32
+00:02:45,060 --> 00:02:46,860
+after 4.5 dB tail cycles.
+
+33
+00:02:47,490 --> 00:02:56,020
+For the first time in Plan C bio, we inserted a gene into the dacu-geneum without the need for tissue culture, in two weeks instead of two months.
+
+34
+00:02:56,490 --> 00:02:59,250
+We confirm this by antibiotic survival and genotype.
+
+35
+00:03:00,490 --> 00:03:00,980
+However,
+
+36
+00:03:01,640 --> 00:03:05,620
+In our cells, in our duck reads, not all cells carry the trench genes.
+
+37
+00:03:06,120 --> 00:03:10,740
+So we designed and built parts to address this in our ongoing fifth D-Meteo cycle.
+
+38
+00:03:11,140 --> 00:03:17,810
+And to make dacuit engineering even easier, we identified, isolated, tested and characterized 7 dacuit promoters,
+
+39
+00:03:18,340 --> 00:03:21,170
+and build a customizable contract for CRISPR knockouts.
+
+40
+00:03:21,570 --> 00:03:24,500
+Genetic engineering is the fun part of synthetic biology.
+
+41
+00:03:25,030 --> 00:03:27,570
+but that creature cultivation is the exact opposite.
+
+42
+00:03:28,550 --> 00:03:34,220
+Right? Dark lead researchers spend hours of work on harvesting, medium exchange and maintenance.
+
+43
+00:03:34,980 --> 00:03:35,540
+Not anymore.
+
+44
+00:03:35,970 --> 00:03:51,340
+We built a fully-automized system for efficient dark-witch cultivation with five autonomous layers, medium enriched with four additives, pH and nutrients levels monitored continuously, automized harvest and biomass monitoring. Everything controlled via mobile.
+
+45
+00:03:52,200 --> 00:03:56,850
+guided by the predictor, a model trained on 6 months of our cultivation data.
+
+46
+00:03:57,350 --> 00:03:59,570
+everything for less than $1,000.
+
+47
+00:04:00,200 --> 00:04:02,220
+Blueprints available for everyone.
+
+48
+00:04:03,330 --> 00:04:04,340
+throughout development
+
+49
+00:04:04,870 --> 00:04:11,600
+For that, researchers tested our cultivator and we integrated their feedback to improve our design.
+
+50
+00:04:13,030 --> 00:04:18,540
+Finally, IGMS and scientists can focus on what's truly important and not on repetitive tasks.
+
+51
+00:04:20,170 --> 00:04:34,990
+With our customizable pink and pink constructs, anyone can insert any gene into the dakuit genome and with our COS9 tool, anyone can knock any gene out. Those modified dakuits can be then easily grown in our autonomous cultivator in a predictable way.
+
+52
+00:04:35,620 --> 00:04:36,560
+we call this
+
+53
+00:04:37,030 --> 00:04:57,230
+the Darkweed toolbox. With it, future eye jammers, researchers, and even entrepreneurs can use Darkweed for bio remediation, recombinant protein production, or fundamental research. We will bring the Darkweed's potential back to farms and this time make it profitable enough for farmers to finally replace soybean.
+
+54
+00:05:00,710 --> 00:05:01,140
+Cool.
+
+55
+00:05:01,640 --> 00:05:02,030
+Hey.
+
+56
+00:05:02,470 --> 00:05:04,590
+Just in time, 5 seconds left.
+
+57
+00:05:06,440 --> 00:05:06,930
+um
+
+58
+00:05:08,840 --> 00:05:19,600
+I think I have the first question because I'm really curious. You teased on the wiki about the front regeneration and if your algal bacterium can reach the meristematic cells.
+
+59
+00:05:20,520 --> 00:05:20,940
+Show me
+
+60
+00:05:21,510 --> 00:05:23,410
+Does it work? Does it not work? What did
+
+61
+00:05:29,890 --> 00:05:30,450
+here. So
+
+62
+00:05:35,460 --> 00:05:45,580
+it was on our wiki we designed a way to see if that is actually possible with the time that we had we didn't test it but if you want to we can go over the
+
+63
+00:05:45,990 --> 00:05:47,630
+duh
+
+64
+00:05:48,260 --> 00:05:49,580
+sorry, how's the disc all
+
+65
+00:05:50,180 --> 00:05:52,370
+about the scheme, what's supposed to happen and what not.
+
+66
+00:05:54,630 --> 00:05:58,190
+I mean, I was also mostly interested in
+
+67
+00:05:58,630 --> 00:06:25,280
+what you teach on your wiki, what you will see if you can see the contract. - We realized that agrobacterium, this plant pathogen, which like transferring the DNA, possibly cannot go to the meristematic cells because those have natural mechanism to be like, you know, safeguarded. So we designed the meristematic assay, which is meant to test if agrobacterium can reach to meristematic cells, just knocking out the GFP in our stable clone obtained from Dr. Ordonez, our advisor.
+
+68
+00:06:25,380 --> 00:06:30,290
+But unfortunately, due to many cloning setbacks, we didn't manage to test this.
+
+69
+00:06:30,660 --> 00:06:44,720
+But for the possibility that Agrobacterium can enter the meristematic cells, we developed a new assay basically transforming the regeneration factors to basically change those inserted cells into the meristematic, which give rise to a new front.
+
+70
+00:06:47,370 --> 00:06:53,620
+Okay. Can you give a timeline on how long this will take? So at this point, we're
+
+71
+00:06:54,210 --> 00:06:58,830
+at the stage where we have those anti GFP guide RNAs inserted in our...
+
+72
+00:06:59,240 --> 00:07:07,220
+construct and we can use them basically as quick as we get back from the from the gem array. Then it will take
+
+73
+00:07:08,230 --> 00:07:16,690
+As fast as that could grow, so it's one or two generations over a week, we should see the first GFP quenching. And if we see that, we see that...
+
+74
+00:07:17,320 --> 00:07:21,940
+meristematic cells got transformed and got knocked out by our construct.
+
+75
+00:07:22,340 --> 00:07:26,030
+So it shouldn't take very long to find out what should be next.
+
+76
+00:07:26,950 --> 00:07:27,890
+Cool, thank you.
+
+77
+00:07:32,520 --> 00:07:34,800
+Yeah, one quick question because.
+
+78
+00:07:35,210 --> 00:07:37,620
+I'm living in the countryland and...
+
+79
+00:07:38,150 --> 00:07:41,200
+So I see some farmers around my house.
+
+80
+00:07:41,570 --> 00:07:45,140
+and one of your strategies to harvest
+
+81
+00:07:45,670 --> 00:07:47,340
+40%
+
+82
+00:07:47,720 --> 00:07:48,820
+every three days.
+
+83
+00:07:49,320 --> 00:07:50,060
+Keep it.
+
+84
+00:07:50,820 --> 00:07:55,790
+In my countryland, farmers cannot afford to buy
+
+85
+00:07:56,260 --> 00:08:05,520
+harvesting gears so they have to rent them for, I don't know, maybe one day or two days so they have to harvest old or their feed.
+
+86
+00:08:06,050 --> 00:08:07,980
+how can be possible to...
+
+87
+00:08:08,390 --> 00:08:10,450
+to split the harvesting.
+
+88
+00:08:12,040 --> 00:08:12,850
+split in which way
+
+89
+00:08:13,320 --> 00:08:36,560
+by 40% every three days. This is very expensive. - Yeah, sure, sure, sure. - In one day, maybe in one night. - Sure, and this comes to also the thing we were saying, that it's a huge risk and a huge change in farm infrastructure. So we need to justify the change with biomazeal being much higher than there are now. So this is... (static)
+
+90
+00:08:36,930 --> 00:08:41,460
+we can't really precisely calculate how much is that going to cost.
+
+91
+00:08:41,830 --> 00:08:47,340
+We don't know, it is not used yet. But yeah, as we were...
+
+92
+00:08:48,740 --> 00:08:53,070
+It takes some time to get to the biomass boosts.
+
+93
+00:08:53,610 --> 00:08:57,740
+We're saying we need to make it profitable and so on. By the time we can...
+
+94
+00:08:58,250 --> 00:09:21,390
+also improve the technical part of our solution, right? So regarding harvesting strategies. So there are companies actually that are doing this quite well. For example, Phyto in the US. And they have the modular harvesting systems that actually allow for easy harvest, autonomous harvest of duckweed. So that would solve that.
+
+95
+00:09:22,020 --> 00:09:34,100
+Or am I answering your question? - Because you have a lot of discussions with farmers, but did you talk about that, about this change of harvesting method?
+
+96
+00:09:35,810 --> 00:10:01,370
+Yeah, basically we told the farmers and I know Matusz told us we were like enthusiastically came to the farmers, you know, like it is now three times more efficient than the soybeans. So switch the degree than farmers like guys from quite a conservative like industry as a good countries were like, okay, but I have no, we have no idea how much it will cost us to grow and harvest that wheat. And so we were like, okay, let's make the worst scenario that duck with a growing duck with on one hectare will be like
+
+97
+00:10:01,640 --> 00:10:04,910
+same times more like more like financial in
+
+98
+00:10:05,290 --> 00:10:32,730
+investment than the soybean. So to be like 8,000 euros while soybean is basically 800 euros. And how much we need to improve the duckweed yields to justify this cost of switching, this risk of switching for the farmers. Because farmers have to be sure that when they will switch, they will basically see the profits. And we counted that profits for farmers with just three times more efficient duckweed will basically, they will repay the--
+
+99
+00:10:32,840 --> 00:10:34,540
+harvesting mechanism in four years.
+
+100
+00:10:37,860 --> 00:10:45,650
+or just an estimation that we try to estimate it. Exaggerating operation cost of for one hectare of $8,000.
+
+101
+00:10:46,050 --> 00:10:47,380
+probably very anoreistic
+
+102
+00:10:57,250 --> 00:11:01,140
+So regarding the duckweed cultivation.
+
+103
+00:11:01,770 --> 00:11:05,870
+Where should that take place? Because on the farms you have limited space and we don't have...
+
+104
+00:11:06,440 --> 00:11:18,770
+Yeah, big seas or bodies of water to cultivate dark wheat. And if you have a facility to harvest dark wheat, it's a huge effort to transport it to the farms while it's still fresh because I think...
+
+105
+00:11:19,530 --> 00:11:23,730
+Stowing dark wheat in a dry farm, it's gonna be more expensive and...
+
+106
+00:11:24,230 --> 00:11:25,040
+just to letting it
+
+107
+00:11:26,600 --> 00:11:29,970
+put somewhere and just let it be that wouldn't be.
+
+108
+00:11:30,500 --> 00:11:31,860
+really good for the protein so
+
+109
+00:11:32,650 --> 00:11:36,300
+Yeah, exactly that. I don't think your cultivation...
+
+110
+00:11:37,730 --> 00:11:38,740
+Method is really...
+
+111
+00:11:39,430 --> 00:11:46,610
+cheap compared to soybeans because you need energy you need to build these facilities so do you have a different plan or
+
+112
+00:11:47,850 --> 00:11:53,490
+Yes, well, as you said, right now this type of cultivation is definitely much more expensive than soybean.
+
+113
+00:11:53,930 --> 00:11:57,780
+But that's why we built the cultivator and...
+
+114
+00:11:58,630 --> 00:11:59,220
+We
+
+115
+00:11:59,620 --> 00:12:01,420
+Currently the
+
+116
+00:12:02,500 --> 00:12:06,060
+The bottleneck is the speed at which the duckweed grows.
+
+117
+00:12:06,440 --> 00:12:12,300
+And in order to improve this, we need to do a lot of experiments, a lot of synthetic biology, and for that...
+
+118
+00:12:12,680 --> 00:12:21,520
+We have developed the cultivator so that it helps with these experiments. At some point in the future, once dacuit grows 6 times faster, 10 times faster...
+
+119
+00:12:22,210 --> 00:12:31,600
+the technology of the cultivator will already have improved alongside it. And at that point, we believe that this type of dakrit cultivation will be more affordable than soy.
+
+120
+00:12:35,080 --> 00:13:02,080
+But on the other hand, while it will be happening because it will take some years, the Brazilian farmers can grow dakwit instead of soybean. Because in Brazil, we will feed 100 cows from 9 hectares of dakwit instead of 27 hectares of soybean. So it means that they could be incentivized to use dakwit, even as it's efficient as a well type. Or it will be increased in biomass three times.
+
+121
+00:13:02,340 --> 00:13:28,600
+While if we would grow dacwin in Czech Republic, we will get only like 4.5 tons from hectare, which is very similar to barley. And Czech farmers wouldn't be incentivized to switch at such a yield because they can grow barley on which they are used to. So basically, and the more Brazilian farmers will grow the dacweed, the bigger the competition will be and the lower the price will be. So Czech farmers can buy cheaper protein from Brazilian farmers, while Brazilian farmers can still have a job which is quite a--
+
+122
+00:13:28,680 --> 00:13:29,230
+quite a cool
+
+123
+00:13:33,410 --> 00:13:42,930
+I have kind of two questions about safety because you said you genetically modify your dark weight. So first of all, you're generating a GMO.
+
+124
+00:13:43,370 --> 00:13:45,940
+So what was the response on the farmer?
+
+125
+00:13:46,570 --> 00:13:47,020
+They-
+
+126
+00:13:47,430 --> 00:13:49,580
+Are they open to use gmos?
+
+127
+00:13:50,050 --> 00:13:59,310
+and directly then the next question you make can combine. So how you then avoid escaping your GMO in the nature.
+
+128
+00:13:59,750 --> 00:14:08,300
+Yeah, we talk with farmers about the GMO and they are currently using GMO soy. So they are okay with it.
+
+129
+00:14:08,810 --> 00:14:14,000
+if it's economically better for them.
+
+130
+00:14:16,230 --> 00:14:19,660
+to answer the rest of your question.
+
+131
+00:14:20,290 --> 00:14:47,900
+To avoid spilling dakweed into the wild GMO dakweed after consultation with Professor Hansen, we wanted to make auxotrophic dakweed, which with our Cas-A-Crisper Cas9 system we will cut off a gene called Theamine synthetase. So the dakweed would depend on vitamin B1 in its media.
+
+132
+00:14:53,700 --> 00:15:11,310
+And to adapt to it, we already designed the GRNAs for this T-amine phosphatase and it's already cloning our like CRISPR construct, but again, we didn't have time to finish this, but it's our first step after that. And just to add a little bit, we also did some calculations on how much would it cost the farmers to grow this.
+
+133
+00:15:12,010 --> 00:15:17,780
+they mean deficient or the mutant knockout for them and it would add.
+
+134
+00:15:18,310 --> 00:15:26,060
+or approximately $600 per hectare, which is a negligible cost with everything's going on.
+
+135
+00:15:27,140 --> 00:15:28,460
+Yeah, for 100.
+
+136
+00:15:30,370 --> 00:15:44,660
+Okay. And because soya beans are also in human food. I mean, a lot of human food also depends on or use soya beans. Can you also imagine that the dark wheat would be possible as our food?
+
+137
+00:15:45,320 --> 00:15:56,110
+Yeah, so we already tried this. We take part in multiple like startup competitions and there we used Daquid as a supplement for humans, mostly for.
+
+138
+00:15:56,580 --> 00:15:58,900
+performance athletes and
+
+139
+00:16:00,260 --> 00:16:01,780
+sports person.
+
+140
+00:16:03,910 --> 00:16:04,400
+I didn
+
+141
+00:16:05,060 --> 00:16:07,060
+Should I continue or?
+
+142
+00:16:07,490 --> 00:16:08,210
+and
+
+143
+00:16:09,250 --> 00:16:09,840
+Yes, so
+
+144
+00:16:11,690 --> 00:16:13,140
+We will pause for 10 seconds.
+
+145
+00:16:20,770 --> 00:16:22,030
+seven languages
+
+146
+00:16:22,410 --> 00:16:24,400
+OK, I fixed it.
+
+147
+00:16:25,250 --> 00:16:26,580
+Can we shit?
+
+148
+00:16:29,320 --> 00:16:29,870
+uh
+
+149
+00:16:30,410 --> 00:16:40,690
+And as we mentioned, Dacrid has a lot of benefits that can be utilized in, for example, enhancing performance. It has a full amino acid spectrum, which is a rarity among plants.
+
+150
+00:16:41,090 --> 00:16:44,910
+Then it has a lot of Omega-3 assets.
+
+151
+00:16:45,320 --> 00:16:50,540
+And we pitched this to many companies and investors and many of them were...
+
+152
+00:16:51,080 --> 00:16:56,820
+willing to cooperate with us and we had some deals on the table but we decided to fully focus on.
+
+153
+00:16:57,350 --> 00:17:05,040
+IGM and so therefore we decided not to continue with this project but it's definitely an option and a good one.
+
+154
+00:17:05,800 --> 00:17:11,730
+But you will also talk with the public about because this is another point public and GMOs.
+
+155
+00:17:12,170 --> 00:17:27,760
+because people don't want to eat it. It's important to say that all this project was based on vault type dakwitt, which as it is, is really good and can be used as well. And as you're saying, we...
+
+156
+00:17:28,260 --> 00:17:39,220
+thought about this and since our main customer would be someone who is really health conscious or maybe even a vegan which would be great alternative for them those people are a lot of like
+
+157
+00:17:39,620 --> 00:17:44,660
+A lot of them are conscious about GMOs. So therefore we have decided to just use...
+
+158
+00:17:45,090 --> 00:17:49,070
+wall type decorate as it is. And even though we use just wall type.
+
+159
+00:17:50,210 --> 00:17:55,250
+It was like beneficial for the people and it was even beneficial for us as entrepreneurs or.
+
+160
+00:17:55,750 --> 00:17:56,300
+It was.
+
+161
+00:17:57,190 --> 00:18:09,300
+Just a little bit, dakwit has been already consumed in many parts of the world naturally as a cheap source of protein. For centuries, people in South Asia have been eating it and it's even called Mankai, you know, water eggs, because it contains so much protein.
+
+162
+00:18:10,250 --> 00:18:30,420
+And also we talked to a lot of people at our outreach activities and we talked with them about the GMOs and they were like, okay, you are doing something new, something great. That weed contains a lot of protein and has the great amino acid profile. So they were like, wow.
+
+163
+00:18:34,210 --> 00:18:44,110
+You focus a lot on land usage and yield. I was wondering about the water consumption. So how does that lead scale against soil other feeds there?
+
+164
+00:18:45,380 --> 00:19:13,210
+Basically, if you would like to feed 100 cows, protein intake for 100 cows a yearly, using a dakkwe, you will need a little bit above 100,000 cubic meters of water. And using the soybean, you will use a little bit less, around like 70,000 cubic meters of water. But in the same time, you will use much less land for dakkwe. So the water is a little bit like forest in dakkwe, but the land is significantly better.
+
+165
+00:19:13,380 --> 00:19:16,560
+land usage. So there is no like cause and benefit analysis.
+
+166
+00:19:19,010 --> 00:19:19,920
+and the light.
+
+167
+00:19:22,600 --> 00:19:27,950
+Was there any other part of your question? And the light? I mean, you need water and light, if I get it correctly.
+
+168
+00:19:28,650 --> 00:19:35,890
+Yeah, but energy. Yeah, yeah. Regarding the regarding the dakkweed and the Brazilian farmers, they will grow it in like
+
+169
+00:19:36,290 --> 00:19:39,310
+open field with the sandwiches for free and regarding the cultivator.
+
+170
+00:19:42,370 --> 00:19:47,220
+regarding the cultivator, if we, for example, think of...
+
+171
+00:19:47,720 --> 00:19:48,300
+Oh...
+
+172
+00:19:48,970 --> 00:20:01,010
+1000 square meters of cultivation area which packs into just one regular size shipping container. The price for electricity would be about 45 euros per day.
+
+173
+00:20:02,180 --> 00:20:10,030
+But this cultivator feeds three cows and it is with our current technology and without the GMO dacrit.
+
+174
+00:20:10,690 --> 00:20:12,530
+So this cost...
+
+175
+00:20:13,220 --> 00:20:19,340
+Once we make that create grow faster, let's say 10 times faster, this cost will actually go down 10 fold.
+
+176
+00:20:24,230 --> 00:20:34,960
+Just to add to the water question, I think it's important to say that also our cultivator recycles the water, so it's not needed to put more water inside each time.
+
+177
+00:20:37,700 --> 00:20:44,140
+[speaking in foreign language]
+
+178
+00:20:45,610 --> 00:20:46,670
+You got bad.
+
+179
+00:20:47,170 --> 00:20:50,350
+(speaking in foreign language)
+
+180
+00:20:50,820 --> 00:20:53,680
+(speaking in Chinese)
+
+181
+00:20:55,400 --> 00:21:09,360
+Okay, so on your wiki you described that you optimized the plasmid or I think all the plasmids for darkweed. How did the optimization process look like?
+
+182
+00:21:11,880 --> 00:21:35,890
+- Yeah, so we looked at the Kami Misu database, sorry, Kazusa database, and there are more species of dakwid that we looked at. We looked at the codon usage, and then we used the medium of the codon usage for the different dakwid types because they usually, the codons that they use are quite similar, but not for Walthia or Walthia, right? Yeah. (static buzzing)
+
+183
+00:21:36,260 --> 00:21:45,230
+So that one was a bit different, but the other ones are pretty similar. So we just did the mean of it. How much goodness do they use at which frequency?
+
+184
+00:21:46,210 --> 00:21:48,270
+Does it answer a question? Okay, great.
+
+185
+00:21:52,610 --> 00:22:01,010
+maybe adding to that in your experiments where you looked at the GFP expression in the fronts.
+
+186
+00:22:01,730 --> 00:22:04,750
+I can't know what is the name
+
+187
+00:22:05,250 --> 00:22:13,260
+Yeah, the daughter fronts, daughter fronts. You saw only about half of the daughter fronts produce GFP.
+
+188
+00:22:13,990 --> 00:22:14,580
+um
+
+189
+00:22:14,980 --> 00:22:21,940
+Do you have a hypothesis why this may be since you state that there is no gene silencing in duckweed?
+
+190
+00:22:22,820 --> 00:22:25,490
+I think that it's because the...
+
+191
+00:22:26,020 --> 00:22:30,450
+transformation efficiency just wasn't working for the
+
+192
+00:22:30,820 --> 00:22:36,400
+one that we didn't glow. So I think that everyone, every deck we didn't glow just wasn't transformed.
+
+193
+00:22:36,870 --> 00:22:41,620
+Just the... Erubakcham didn't get inside because the... yeah.
+
+194
+00:22:42,280 --> 00:22:43,410
+anyone with MC Dredd?
+
+195
+00:22:44,930 --> 00:23:00,340
+So then how did you choose the plants that you use the daughter fronts of? - Just to make sure, are you the daughter fronts that glowed? - Yeah. - Okay, so-- - Well, not the dot, but so if I understood correctly, you took like parent-- (static)
+
+196
+00:23:01,000 --> 00:23:11,790
+plants that glowed and then you looked at the daughter fronts and they didn't glow. So then you did PCR and you could detect the product in about half of the plants. And I was just wondering how this works.
+
+197
+00:23:13,570 --> 00:23:15,790
+You mean, I guess you mean the...
+
+198
+00:23:16,390 --> 00:23:19,700
+the thing where we've shown in our presentation.
+
+199
+00:23:20,070 --> 00:23:20,780
+[static]
+
+200
+00:23:21,610 --> 00:23:27,440
+No, not this one. Yeah, the one we shown in presentation, the neomycin-resistant fronds. You mean those?
+
+201
+00:23:30,950 --> 00:23:32,620
+Neomizing resistance fronds, do you mean
+
+202
+00:23:34,120 --> 00:23:36,370
+I think so. I really spend like the...
+
+203
+00:23:36,810 --> 00:23:39,060
+Maybe we can make it back or not.
+
+204
+00:23:41,450 --> 00:23:43,120
+There are 12 languages.
+
+205
+00:23:44,170 --> 00:23:45,040
+I already said that.
+
+206
+00:23:50,530 --> 00:23:51,730
+In the
+
+207
+00:23:52,520 --> 00:24:01,170
+Maybe you specify this on the booth. Last question. What was the most thing you enjoyed in iGEM?
+
+208
+00:24:03,750 --> 00:24:18,740
+endless laboratory hours of engineering. It was just, you know, honestly it was exhausting sometimes, but this creative process of like finding how to connect those DNA and how to create the construct you need and you really work was really like, like,
+
+209
+00:24:19,110 --> 00:24:19,660
+how to
+
+210
+00:24:20,330 --> 00:24:24,140
+rewarding rewarding and enriching that was for me maybe but maybe
+
+211
+00:24:24,580 --> 00:24:41,900
+Yeah, and to add to that, I think it was fun, but there were more people around, so the nights were there, more people working on it than we were watching movies or something. And sometimes a person came to the lab to check if the PCR is correct and then came to tell us the results. I think that was the fun part.
+
+212
+00:24:44,740 --> 00:24:47,440
+Maybe maybe a bit to add that it.
+
+213
+00:24:48,130 --> 00:24:52,660
+wasn't just in the lab and a lot of work was done out of the lab.
+
+214
+00:24:53,190 --> 00:24:55,920
+And it was something that really connects.
+
+215
+00:24:56,290 --> 00:24:57,260
+like
+
+216
+00:24:57,640 --> 00:25:01,460
+groups of us and it like makes us to learn.
+
+217
+00:25:02,120 --> 00:25:06,290
+new things and a lot of new things and to sing more
+
+218
+00:25:06,730 --> 00:25:07,980
+in like bigger picture.
+
+219
+00:25:08,550 --> 00:25:11,410
+And that was really amazing to like help.
+
+220
+00:25:11,780 --> 00:25:12,240
+and
+
+221
+00:25:12,740 --> 00:25:14,640
+help with each other.
+
+222
+00:25:15,400 --> 00:25:16,430
+to each other.
+
+223
+00:25:19,370 --> 00:25:20,530
+Can I have it explain the
+
+224
+00:25:21,000 --> 00:25:21,840
+[INAUDIBLE]
+
+225
+00:25:22,600 --> 00:25:23,280
+- Yeah, it
+
+226
+00:25:24,770 --> 00:25:37,140
+Can I explain the fronds or not? Sure. You have 30 seconds. Maybe to understand, you know. So we basically this is co-transformation. The pink contract is where the transposons are. This is like the pink. And when we transform the fronds by the pink...
+
+227
+00:25:37,540 --> 00:25:42,030
+We got the fluorescence. But when we co-transformed with the pong, which is the transposase-- [
+
+228
+00:25:42,410 --> 00:26:10,240
+In the first six days, we didn't get any fluorescence. So what we were evaluating was just the absence or presence of fluorescence. And the absence of fluorescence meant that the pink, like the pink construct was being excised, moved, and inserted with a, we are like transposase that like it hindered the polymerase, RNA polymerase to express it. But after 12 days, the spots of the GFP starts appearing in mother, mothers, and also the daughter front. So that's the, that's how we evaluated basically the presence and absence of the fluorescence.
+
+229
+00:26:11,530 --> 00:26:11,920
+Alright.
+
+230
+00:26:13,640 --> 00:26:14,740
+Thank you so much for that
+
+231
+00:26:15,110 --> 00:26:18,860
+We have to close here and enjoy the jamboree.
+
+232
+00:26:19,270 --> 00:26:20,690
+And maybe--
+
+233
+00:26:21,770 --> 00:26:23,120
+We will see each other on the booth
+
+234
+00:26:23,810 --> 00:26:27,220
+But anyways, yeah, yeah, I thought it'd be working.
+
+235
+00:26:27,780 --> 00:26:29,260
+then we will definitely see each other.
+
+236
+00:26:31,530 --> 00:26:34,420
+Okay, thank you very much for your time. Thank you!
+
+237
+00:26:34,820 --> 00:26:35,280
+See you
+

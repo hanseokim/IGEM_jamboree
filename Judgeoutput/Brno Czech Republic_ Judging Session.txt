@@ -1,0 +1,237 @@
+So
+A lot of us grew up on farms and most of us
+So, a lot of us grew up on farms and most of us have a farmer in our family. We know how hard running a farm is.
+All 42 farmers we talk to struggle to pay their animals' fees.
+Take their eregals. They have to prefer the high protein diet.
+The price of the best protein source, soybean, has doubled over the last 25 years.
+The largest soy producer and exporter in the world is Brazil.
+The rapidly growing agro businesses have brought the most vulnerable Brazilian ecosystem, Serrado,
+to its knees.
+A huge problem with one tiny answer.
+Meet Dakui.
+This plant contains as much protein as soybean and double-sizz biomass every two days. It easily outperforms soy, which, mind you, was selectively bred for thousands of years. Just imagine where duckweed could have been.
+We run the numbers.
+Switching feed from soybean to duckweed would require expensive changes in farm infrastructure.
+this would be a lot of risk. And to make it worthy...
+duckweed needs to make even more biomass. And while it's already too late for selective breeding, it might be too early for synthetic biology. We try to overexpress the bollnake enzymes in nitrogen metabolism in duckweed to boost its growth on manure and feed the biomass to cows.
+So.
+Why isn't it done already? If it's that
+Well, it's not.
+Genetic engineering of duckweed is painfully slow and this is the real bottleneck holding back duckweed research and application.
+We talk to a lot of experts around the world.
+Do I engineer Duckweed?
+They all have to do the same
+transform ducuite tissue culture with agrobacterium, a natural plant pathogen. Then they can regenerate new plants, but this takes 5 months.
+Researchers suffer with deadlines and their plans suffer with unwanted mutations and multiplicative genomes.
+And it's iTunes.
+We're suffering enough anyway, so we wanted to avoid tissue culture completely. But when we tried applying agrobacterium directly to that weed, we found our DNA is not getting integrated into the genome.
+And that's why we built our transposase assisted insertion and front regeneration method.
+In Tifer, our Pong transposase recognizes a specific transposon, BINX.
+And if we border our gene of interest with these pink elements, Pong transposase will excise it and insert it into the Daku e-genome.
+So?
+after 4.5 dB tail cycles.
+For the first time in Plan C bio, we inserted a gene into the dacu-geneum without the need for tissue culture, in two weeks instead of two months.
+We confirm this by antibiotic survival and genotype.
+However,
+In our cells, in our duck reads, not all cells carry the trench genes.
+So we designed and built parts to address this in our ongoing fifth D-Meteo cycle.
+And to make dacuit engineering even easier, we identified, isolated, tested and characterized 7 dacuit promoters,
+and build a customizable contract for CRISPR knockouts.
+Genetic engineering is the fun part of synthetic biology.
+but that creature cultivation is the exact opposite.
+Right? Dark lead researchers spend hours of work on harvesting, medium exchange and maintenance.
+Not anymore.
+We built a fully-automized system for efficient dark-witch cultivation with five autonomous layers, medium enriched with four additives, pH and nutrients levels monitored continuously, automized harvest and biomass monitoring. Everything controlled via mobile.
+guided by the predictor, a model trained on 6 months of our cultivation data.
+everything for less than $1,000.
+Blueprints available for everyone.
+throughout development
+For that, researchers tested our cultivator and we integrated their feedback to improve our design.
+Finally, IGMS and scientists can focus on what's truly important and not on repetitive tasks.
+With our customizable pink and pink constructs, anyone can insert any gene into the dakuit genome and with our COS9 tool, anyone can knock any gene out. Those modified dakuits can be then easily grown in our autonomous cultivator in a predictable way.
+we call this
+the Darkweed toolbox. With it, future eye jammers, researchers, and even entrepreneurs can use Darkweed for bio remediation, recombinant protein production, or fundamental research. We will bring the Darkweed's potential back to farms and this time make it profitable enough for farmers to finally replace soybean.
+Cool.
+Hey.
+Just in time, 5 seconds left.
+um
+I think I have the first question because I'm really curious. You teased on the wiki about the front regeneration and if your algal bacterium can reach the meristematic cells.
+Show me
+Does it work? Does it not work? What did
+here. So
+it was on our wiki we designed a way to see if that is actually possible with the time that we had we didn't test it but if you want to we can go over the
+duh
+sorry, how's the disc all
+about the scheme, what's supposed to happen and what not.
+I mean, I was also mostly interested in
+what you teach on your wiki, what you will see if you can see the contract. - We realized that agrobacterium, this plant pathogen, which like transferring the DNA, possibly cannot go to the meristematic cells because those have natural mechanism to be like, you know, safeguarded. So we designed the meristematic assay, which is meant to test if agrobacterium can reach to meristematic cells, just knocking out the GFP in our stable clone obtained from Dr. Ordonez, our advisor.
+But unfortunately, due to many cloning setbacks, we didn't manage to test this.
+But for the possibility that Agrobacterium can enter the meristematic cells, we developed a new assay basically transforming the regeneration factors to basically change those inserted cells into the meristematic, which give rise to a new front.
+Okay. Can you give a timeline on how long this will take? So at this point, we're
+at the stage where we have those anti GFP guide RNAs inserted in our...
+construct and we can use them basically as quick as we get back from the from the gem array. Then it will take
+As fast as that could grow, so it's one or two generations over a week, we should see the first GFP quenching. And if we see that, we see that...
+meristematic cells got transformed and got knocked out by our construct.
+So it shouldn't take very long to find out what should be next.
+Cool, thank you.
+Yeah, one quick question because.
+I'm living in the countryland and...
+So I see some farmers around my house.
+and one of your strategies to harvest
+40%
+every three days.
+Keep it.
+In my countryland, farmers cannot afford to buy
+harvesting gears so they have to rent them for, I don't know, maybe one day or two days so they have to harvest old or their feed.
+how can be possible to...
+to split the harvesting.
+split in which way
+by 40% every three days. This is very expensive. - Yeah, sure, sure, sure. - In one day, maybe in one night. - Sure, and this comes to also the thing we were saying, that it's a huge risk and a huge change in farm infrastructure. So we need to justify the change with biomazeal being much higher than there are now. So this is... (static)
+we can't really precisely calculate how much is that going to cost.
+We don't know, it is not used yet. But yeah, as we were...
+It takes some time to get to the biomass boosts.
+We're saying we need to make it profitable and so on. By the time we can...
+also improve the technical part of our solution, right? So regarding harvesting strategies. So there are companies actually that are doing this quite well. For example, Phyto in the US. And they have the modular harvesting systems that actually allow for easy harvest, autonomous harvest of duckweed. So that would solve that.
+Or am I answering your question? - Because you have a lot of discussions with farmers, but did you talk about that, about this change of harvesting method?
+Yeah, basically we told the farmers and I know Matusz told us we were like enthusiastically came to the farmers, you know, like it is now three times more efficient than the soybeans. So switch the degree than farmers like guys from quite a conservative like industry as a good countries were like, okay, but I have no, we have no idea how much it will cost us to grow and harvest that wheat. And so we were like, okay, let's make the worst scenario that duck with a growing duck with on one hectare will be like
+same times more like more like financial in
+investment than the soybean. So to be like 8,000 euros while soybean is basically 800 euros. And how much we need to improve the duckweed yields to justify this cost of switching, this risk of switching for the farmers. Because farmers have to be sure that when they will switch, they will basically see the profits. And we counted that profits for farmers with just three times more efficient duckweed will basically, they will repay the--
+harvesting mechanism in four years.
+or just an estimation that we try to estimate it. Exaggerating operation cost of for one hectare of $8,000.
+probably very anoreistic
+So regarding the duckweed cultivation.
+Where should that take place? Because on the farms you have limited space and we don't have...
+Yeah, big seas or bodies of water to cultivate dark wheat. And if you have a facility to harvest dark wheat, it's a huge effort to transport it to the farms while it's still fresh because I think...
+Stowing dark wheat in a dry farm, it's gonna be more expensive and...
+just to letting it
+put somewhere and just let it be that wouldn't be.
+really good for the protein so
+Yeah, exactly that. I don't think your cultivation...
+Method is really...
+cheap compared to soybeans because you need energy you need to build these facilities so do you have a different plan or
+Yes, well, as you said, right now this type of cultivation is definitely much more expensive than soybean.
+But that's why we built the cultivator and...
+We
+Currently the
+The bottleneck is the speed at which the duckweed grows.
+And in order to improve this, we need to do a lot of experiments, a lot of synthetic biology, and for that...
+We have developed the cultivator so that it helps with these experiments. At some point in the future, once dacuit grows 6 times faster, 10 times faster...
+the technology of the cultivator will already have improved alongside it. And at that point, we believe that this type of dakrit cultivation will be more affordable than soy.
+But on the other hand, while it will be happening because it will take some years, the Brazilian farmers can grow dakwit instead of soybean. Because in Brazil, we will feed 100 cows from 9 hectares of dakwit instead of 27 hectares of soybean. So it means that they could be incentivized to use dakwit, even as it's efficient as a well type. Or it will be increased in biomass three times.
+While if we would grow dacwin in Czech Republic, we will get only like 4.5 tons from hectare, which is very similar to barley. And Czech farmers wouldn't be incentivized to switch at such a yield because they can grow barley on which they are used to. So basically, and the more Brazilian farmers will grow the dacweed, the bigger the competition will be and the lower the price will be. So Czech farmers can buy cheaper protein from Brazilian farmers, while Brazilian farmers can still have a job which is quite a--
+quite a cool
+I have kind of two questions about safety because you said you genetically modify your dark weight. So first of all, you're generating a GMO.
+So what was the response on the farmer?
+They-
+Are they open to use gmos?
+and directly then the next question you make can combine. So how you then avoid escaping your GMO in the nature.
+Yeah, we talk with farmers about the GMO and they are currently using GMO soy. So they are okay with it.
+if it's economically better for them.
+to answer the rest of your question.
+To avoid spilling dakweed into the wild GMO dakweed after consultation with Professor Hansen, we wanted to make auxotrophic dakweed, which with our Cas-A-Crisper Cas9 system we will cut off a gene called Theamine synthetase. So the dakweed would depend on vitamin B1 in its media.
+And to adapt to it, we already designed the GRNAs for this T-amine phosphatase and it's already cloning our like CRISPR construct, but again, we didn't have time to finish this, but it's our first step after that. And just to add a little bit, we also did some calculations on how much would it cost the farmers to grow this.
+they mean deficient or the mutant knockout for them and it would add.
+or approximately $600 per hectare, which is a negligible cost with everything's going on.
+Yeah, for 100.
+Okay. And because soya beans are also in human food. I mean, a lot of human food also depends on or use soya beans. Can you also imagine that the dark wheat would be possible as our food?
+Yeah, so we already tried this. We take part in multiple like startup competitions and there we used Daquid as a supplement for humans, mostly for.
+performance athletes and
+sports person.
+I didn
+Should I continue or?
+and
+Yes, so
+We will pause for 10 seconds.
+seven languages
+OK, I fixed it.
+Can we shit?
+uh
+And as we mentioned, Dacrid has a lot of benefits that can be utilized in, for example, enhancing performance. It has a full amino acid spectrum, which is a rarity among plants.
+Then it has a lot of Omega-3 assets.
+And we pitched this to many companies and investors and many of them were...
+willing to cooperate with us and we had some deals on the table but we decided to fully focus on.
+IGM and so therefore we decided not to continue with this project but it's definitely an option and a good one.
+But you will also talk with the public about because this is another point public and GMOs.
+because people don't want to eat it. It's important to say that all this project was based on vault type dakwitt, which as it is, is really good and can be used as well. And as you're saying, we...
+thought about this and since our main customer would be someone who is really health conscious or maybe even a vegan which would be great alternative for them those people are a lot of like
+A lot of them are conscious about GMOs. So therefore we have decided to just use...
+wall type decorate as it is. And even though we use just wall type.
+It was like beneficial for the people and it was even beneficial for us as entrepreneurs or.
+It was.
+Just a little bit, dakwit has been already consumed in many parts of the world naturally as a cheap source of protein. For centuries, people in South Asia have been eating it and it's even called Mankai, you know, water eggs, because it contains so much protein.
+And also we talked to a lot of people at our outreach activities and we talked with them about the GMOs and they were like, okay, you are doing something new, something great. That weed contains a lot of protein and has the great amino acid profile. So they were like, wow.
+You focus a lot on land usage and yield. I was wondering about the water consumption. So how does that lead scale against soil other feeds there?
+Basically, if you would like to feed 100 cows, protein intake for 100 cows a yearly, using a dakkwe, you will need a little bit above 100,000 cubic meters of water. And using the soybean, you will use a little bit less, around like 70,000 cubic meters of water. But in the same time, you will use much less land for dakkwe. So the water is a little bit like forest in dakkwe, but the land is significantly better.
+land usage. So there is no like cause and benefit analysis.
+and the light.
+Was there any other part of your question? And the light? I mean, you need water and light, if I get it correctly.
+Yeah, but energy. Yeah, yeah. Regarding the regarding the dakkweed and the Brazilian farmers, they will grow it in like
+open field with the sandwiches for free and regarding the cultivator.
+regarding the cultivator, if we, for example, think of...
+Oh...
+1000 square meters of cultivation area which packs into just one regular size shipping container. The price for electricity would be about 45 euros per day.
+But this cultivator feeds three cows and it is with our current technology and without the GMO dacrit.
+So this cost...
+Once we make that create grow faster, let's say 10 times faster, this cost will actually go down 10 fold.
+Just to add to the water question, I think it's important to say that also our cultivator recycles the water, so it's not needed to put more water inside each time.
+[speaking in foreign language]
+You got bad.
+(speaking in foreign language)
+(speaking in Chinese)
+Okay, so on your wiki you described that you optimized the plasmid or I think all the plasmids for darkweed. How did the optimization process look like?
+- Yeah, so we looked at the Kami Misu database, sorry, Kazusa database, and there are more species of dakwid that we looked at. We looked at the codon usage, and then we used the medium of the codon usage for the different dakwid types because they usually, the codons that they use are quite similar, but not for Walthia or Walthia, right? Yeah. (static buzzing)
+So that one was a bit different, but the other ones are pretty similar. So we just did the mean of it. How much goodness do they use at which frequency?
+Does it answer a question? Okay, great.
+maybe adding to that in your experiments where you looked at the GFP expression in the fronts.
+I can't know what is the name
+Yeah, the daughter fronts, daughter fronts. You saw only about half of the daughter fronts produce GFP.
+um
+Do you have a hypothesis why this may be since you state that there is no gene silencing in duckweed?
+I think that it's because the...
+transformation efficiency just wasn't working for the
+one that we didn't glow. So I think that everyone, every deck we didn't glow just wasn't transformed.
+Just the... Erubakcham didn't get inside because the... yeah.
+anyone with MC Dredd?
+So then how did you choose the plants that you use the daughter fronts of? - Just to make sure, are you the daughter fronts that glowed? - Yeah. - Okay, so-- - Well, not the dot, but so if I understood correctly, you took like parent-- (static)
+plants that glowed and then you looked at the daughter fronts and they didn't glow. So then you did PCR and you could detect the product in about half of the plants. And I was just wondering how this works.
+You mean, I guess you mean the...
+the thing where we've shown in our presentation.
+[static]
+No, not this one. Yeah, the one we shown in presentation, the neomycin-resistant fronds. You mean those?
+Neomizing resistance fronds, do you mean
+I think so. I really spend like the...
+Maybe we can make it back or not.
+There are 12 languages.
+I already said that.
+In the
+Maybe you specify this on the booth. Last question. What was the most thing you enjoyed in iGEM?
+endless laboratory hours of engineering. It was just, you know, honestly it was exhausting sometimes, but this creative process of like finding how to connect those DNA and how to create the construct you need and you really work was really like, like,
+how to
+rewarding rewarding and enriching that was for me maybe but maybe
+Yeah, and to add to that, I think it was fun, but there were more people around, so the nights were there, more people working on it than we were watching movies or something. And sometimes a person came to the lab to check if the PCR is correct and then came to tell us the results. I think that was the fun part.
+Maybe maybe a bit to add that it.
+wasn't just in the lab and a lot of work was done out of the lab.
+And it was something that really connects.
+like
+groups of us and it like makes us to learn.
+new things and a lot of new things and to sing more
+in like bigger picture.
+And that was really amazing to like help.
+and
+help with each other.
+to each other.
+Can I have it explain the
+[INAUDIBLE]
+- Yeah, it
+Can I explain the fronds or not? Sure. You have 30 seconds. Maybe to understand, you know. So we basically this is co-transformation. The pink contract is where the transposons are. This is like the pink. And when we transform the fronds by the pink...
+We got the fluorescence. But when we co-transformed with the pong, which is the transposase-- [
+In the first six days, we didn't get any fluorescence. So what we were evaluating was just the absence or presence of fluorescence. And the absence of fluorescence meant that the pink, like the pink construct was being excised, moved, and inserted with a, we are like transposase that like it hindered the polymerase, RNA polymerase to express it. But after 12 days, the spots of the GFP starts appearing in mother, mothers, and also the daughter front. So that's the, that's how we evaluated basically the presence and absence of the fluorescence.
+Alright.
+Thank you so much for that
+We have to close here and enjoy the jamboree.
+And maybe--
+We will see each other on the booth
+But anyways, yeah, yeah, I thought it'd be working.
+then we will definitely see each other.
+Okay, thank you very much for your time. Thank you!
+See you

@@ -1,0 +1,1182 @@
+[
+  {
+    "start": 2.25,
+    "end": 6.38,
+    "text": "Imagine the year 2050. Most diseases of today are treatable."
+  },
+  {
+    "start": 10.92,
+    "end": 14.35,
+    "text": "But as we go, all that once still remains a threat."
+  },
+  {
+    "start": 14.76,
+    "end": 15.34,
+    "text": "cancer."
+  },
+  {
+    "start": 15.91,
+    "end": 18.93,
+    "text": "Already it is the second leading cause of death worldwide."
+  },
+  {
+    "start": 20.65,
+    "end": 25.74,
+    "text": "Recently, cell therapies like CAR T cells have revolutionized the treatment of blood cancers."
+  },
+  {
+    "start": 26.25,
+    "end": 28.3,
+    "text": "Yet they remained far from perfect."
+  },
+  {
+    "start": 29.0,
+    "end": 34.99,
+    "text": "They resist against solid tumors, which account for over 90% of all cancer cases."
+  },
+  {
+    "start": 35.46,
+    "end": 40.21,
+    "text": "Within the tumor microenvironment, immunosuppressive signals exhaust car T cells"
+  },
+  {
+    "start": 40.68,
+    "end": 41.87,
+    "text": "and block efficacy."
+  },
+  {
+    "start": 42.82,
+    "end": 47.02,
+    "text": "So we went to the drawing board. What would the perfect cell therapy look like?"
+  },
+  {
+    "start": 47.49,
+    "end": 51.86,
+    "text": "off the shelf, safe and capable of targeting all tumors."
+  },
+  {
+    "start": 52.45,
+    "end": 61.33,
+    "text": "We envision a bottom-up synthetic immune cell designed for tumor-specific sensing, reversible signal processing, and flexible responses."
+  },
+  {
+    "start": 62.73,
+    "end": 66.9,
+    "text": "To test our vision, we entered Heidelberg's largest innovation competition."
+  },
+  {
+    "start": 67.59,
+    "end": 73.26,
+    "text": "Winning it highlighted the potential of our idea motivated us to bring Phoenix to life."
+  },
+  {
+    "start": 75.81,
+    "end": 81.07,
+    "text": "First, we engineered a sensing layer targeting tumor-specific ligands and activating our cells."
+  },
+  {
+    "start": 81.86,
+    "end": 87.28,
+    "text": "To ensure safety, we added a second receptor detecting healthy tissue cues, providing an off switch."
+  },
+  {
+    "start": 87.91,
+    "end": 94.67,
+    "text": "With the help of our digital twin Spark, we use coarse-grained simulations to reduce the background activity of our receptor constructs."
+  },
+  {
+    "start": 95.17,
+    "end": 100.88,
+    "text": "Next, once a ligand is detected, the cell must process the signal quickly and reversibly."
+  },
+  {
+    "start": 101.48,
+    "end": 106.61,
+    "text": "For this, we engineered a dynamic phosphorylation circuit inspired by T cell logic."
+  },
+  {
+    "start": 107.33,
+    "end": 114.64,
+    "text": "spark models these biochemical processes in CD-core and allows us to quickly identify optimal circuit compositions"
+  },
+  {
+    "start": 115.01,
+    "end": 116.21,
+    "text": "for fine-tuned activity."
+  },
+  {
+    "start": 116.97,
+    "end": 120.66,
+    "text": "Finally, molecular signals trigger therapeutic response."
+  },
+  {
+    "start": 121.38,
+    "end": 128.66,
+    "text": "The FOSFO binder, our output module, enables flexible control over immune-like functions such as expression,"
+  },
+  {
+    "start": 129.16,
+    "end": 132.75,
+    "text": "or secretion of therapeutic proteins like interleukin-12."
+  },
+  {
+    "start": 133.57,
+    "end": 135.12,
+    "text": "But there is one more thing."
+  },
+  {
+    "start": 135.91,
+    "end": 139.63,
+    "text": "How do we depth sensing without having to rebuild the entire unit?"
+  },
+  {
+    "start": 140.42,
+    "end": 141.23,
+    "text": "We use Spark."
+  },
+  {
+    "start": 141.61,
+    "end": 144.56,
+    "text": "to create de novo binders to cancer proteins."
+  },
+  {
+    "start": 145.13,
+    "end": 151.02,
+    "text": "Next, molecular dynamic simulations and wet lab validation identify functional binders."
+  },
+  {
+    "start": 151.62,
+    "end": 154.51,
+    "text": "This can now be used to create custom receptors."
+  },
+  {
+    "start": 155.17,
+    "end": 157.62,
+    "text": "We applied this pipeline to GDF 15."
+  },
+  {
+    "start": 158.02,
+    "end": 160.91,
+    "text": "A protein are regulated in pancreatic cancer."
+  },
+  {
+    "start": 161.32,
+    "end": 164.59,
+    "text": "and post-wiki freeze, we created a functioning receptor."
+  },
+  {
+    "start": 165.45,
+    "end": 171.79,
+    "text": "The binding of GDF15 recruits the substrate which leads to phosphorylation and nano-luciferase expression."
+  },
+  {
+    "start": 172.42,
+    "end": 173.42,
+    "text": "To our excitement."
+  },
+  {
+    "start": 173.83,
+    "end": 178.29,
+    "text": "We measured significant ligand-dependent increase on the first try."
+  },
+  {
+    "start": 178.95,
+    "end": 184.56,
+    "text": "This proves that with Spark we can rapidly retarget Phoenix cells to any cancer protein."
+  },
+  {
+    "start": 188.04,
+    "end": 190.32,
+    "text": "Sensing, processing, responding."
+  },
+  {
+    "start": 190.73,
+    "end": 201.01,
+    "text": "Together, these modules formed the Phoenix Toolbox, an interchangeable and expandable system developed with input from oncologists, protein engineers, and translational scientists."
+  },
+  {
+    "start": 201.48,
+    "end": 209.52,
+    "text": "To make our collection even better, we are currently extending our sensing repertoire to include pH, ATP, succinate and hypoxia."
+  },
+  {
+    "start": 210.37,
+    "end": 217.62,
+    "text": "To guide researchers and IGMAs in building synthetic cells, SPARK predicts how receptors, enzymes and substrates behave."
+  },
+  {
+    "start": 218.18,
+    "end": 224.53,
+    "text": "The result is a versatile framework for programmable immunity, ready to be deployed in a variety of chassis cells."
+  },
+  {
+    "start": 226.09,
+    "end": 230.93,
+    "text": "Bringing the proof of concept to the clinic is something students like us are barely trained for."
+  },
+  {
+    "start": 231.33,
+    "end": 241.46,
+    "text": "So together with experts in regulation, translation, and patient advocacy, we hosted a panel discussion where students learned how research can truly reach patients."
+  },
+  {
+    "start": 242.05,
+    "end": 248.24,
+    "text": "This led us to develop the Heidelberg Translation Roadmap, a student's guide navigating the innovation network."
+  },
+  {
+    "start": 248.74,
+    "end": 253.46,
+    "text": "It clarifies who to contact, when to engage, and how to prepare."
+  },
+  {
+    "start": 254.76,
+    "end": 261.07,
+    "text": "After the JEMBRE, our next JEM Forum will ignite the connections between young scientists and stakeholders."
+  },
+  {
+    "start": 262.82,
+    "end": 265.23,
+    "text": "With this foundation, we're ready to look ahead."
+  },
+  {
+    "start": 265.93,
+    "end": 267.38,
+    "text": "Let's fast forward 9 years."
+  },
+  {
+    "start": 268.01,
+    "end": 270.64,
+    "text": "patient is diagnosed with pancreatic cancer."
+  },
+  {
+    "start": 271.08,
+    "end": 281.3,
+    "text": "After a biopsy and secretome analysis, we identified cancer tumor characteristic proteins and generate a personalized Phoenix cell within days."
+  },
+  {
+    "start": 281.89,
+    "end": 284.94,
+    "text": "That same design now joins an off-the-shelf library."
+  },
+  {
+    "start": 285.93,
+    "end": 289.1,
+    "text": "that match the tumor profile of the next patient."
+  },
+  {
+    "start": 290.02,
+    "end": 290.86,
+    "text": "step by step."
+  },
+  {
+    "start": 291.3,
+    "end": 292.43,
+    "text": "We engineer a future."
+  },
+  {
+    "start": 292.81,
+    "end": 295.38,
+    "text": "Resynthetic immune cells outsmart cancer."
+  },
+  {
+    "start": 296.07,
+    "end": 296.85,
+    "text": "In other words..."
+  },
+  {
+    "start": 297.45,
+    "end": 298.26,
+    "text": "the circuit is built"
+  },
+  {
+    "start": 299.01,
+    "end": 299.63,
+    "text": "Let's switch"
+  },
+  {
+    "start": 305.06,
+    "end": 305.52,
+    "text": "Thanks."
+  },
+  {
+    "start": 310.63,
+    "end": 312.82,
+    "text": "So I'll start with the question and I think we have one"
+  },
+  {
+    "start": 313.38,
+    "end": 314.9,
+    "text": "Aisha, do you have a question?"
+  },
+  {
+    "start": 315.97,
+    "end": 317.55,
+    "text": "Yes."
+  },
+  {
+    "start": 318.12,
+    "end": 322.45,
+    "text": "You have done a great project, so congratulations."
+  },
+  {
+    "start": 322.89,
+    "end": 326.42,
+    "text": "I have a question about your hospital."
+  },
+  {
+    "start": 328.1,
+    "end": 334.51,
+    "text": "Phoenix relies on reversible kindness, hospitable and switch between on and off states."
+  },
+  {
+    "start": 335.46,
+    "end": 340.34,
+    "text": "What experimental evidence supports complete reversibility of the signal?"
+  },
+  {
+    "start": 340.77,
+    "end": 346.35,
+    "text": "and how the system behave under fluctuating hypoxia or stoking input."
+  },
+  {
+    "start": 348.13,
+    "end": 349.97,
+    "text": "I also write this question."
+  },
+  {
+    "start": 351.4,
+    "end": 356.18,
+    "text": "questions also on the Slack. You can also read the questions in the chat."
+  },
+  {
+    "start": 356.9,
+    "end": 382.2,
+    "text": "If you did not understand, it's written in the chat. So you can open the chat and maybe read it. I think I understood most of it. So we ourselves did not show full reversibility. Of course, we did show that once you add phosphatase and kinase activity, the circuit is quenched. We didn't induce it sequentially, but we talked to the main author of the phosphorylation circuit, and he told us that he extensively validated this. And since we talk his constructs-- [AUDIO OUT]"
+  },
+  {
+    "start": 382.69,
+    "end": 386.45,
+    "text": "that shouldn't be a problem for us. And I think the second question was related to hypoxia."
+  },
+  {
+    "start": 387.37,
+    "end": 387.92,
+    "text": "[AUDIO"
+  },
+  {
+    "start": 389.0,
+    "end": 397.9,
+    "text": "I hope I understood it correctly, but we want to integrate hypoxia by essentially fusing a HIF 1 alpha DAGRON to our SH2 or our synths up."
+  },
+  {
+    "start": 398.34,
+    "end": 407.5,
+    "text": "which then allows it to be degraded if it's in normal conditions and only be activated so the circuit is only switched on when it's in hypoxic conditions like in pancreatic cancer."
+  },
+  {
+    "start": 410.18,
+    "end": 411.38,
+    "text": "Okay, thank you."
+  },
+  {
+    "start": 411.75,
+    "end": 419.38,
+    "text": "And I have one more question. Your effector modules releases protein rapidly from the ER."
+  },
+  {
+    "start": 419.85,
+    "end": 423.66,
+    "text": "How do you prevent unwanted leakage or stress to the cell?"
+  },
+  {
+    "start": 429.32,
+    "end": 432.3,
+    "text": "So we extensively tested the whole secretion module."
+  },
+  {
+    "start": 432.74,
+    "end": 438.83,
+    "text": "And even without secretion, we could not see a cytotoxic effect on the cells, which suggests that the..."
+  },
+  {
+    "start": 439.3,
+    "end": 443.44,
+    "text": "ER clogging which would come from when there's a lack of secretion."
+  },
+  {
+    "start": 444.07,
+    "end": 445.68,
+    "text": "didn't really pose a problem for us."
+  },
+  {
+    "start": 446.5,
+    "end": 447.34,
+    "text": "and"
+  },
+  {
+    "start": 447.88,
+    "end": 449.46,
+    "text": "So what was the other question?"
+  },
+  {
+    "start": 450.6,
+    "end": 454.96,
+    "text": "How do you prevent unwanted leakage or stress to the self?"
+  },
+  {
+    "start": 455.88,
+    "end": 459.22,
+    "text": "So we did see leakage in the system, definitely."
+  },
+  {
+    "start": 459.78,
+    "end": 462.74,
+    "text": "But we also were in contact with the main author of the paper."
+  },
+  {
+    "start": 463.21,
+    "end": 467.92,
+    "text": "And he is still working on optimizing the system. So we cooperated with him."
+  },
+  {
+    "start": 468.29,
+    "end": 469.71,
+    "text": "and he... (static)"
+  },
+  {
+    "start": 470.09,
+    "end": 475.22,
+    "text": "suggested us to use different transmembrane domains in the release construct, which could"
+  },
+  {
+    "start": 475.75,
+    "end": 480.4,
+    "text": "substantially lower the background, but we didn't, we couldn't get to it because of time reasons in the end."
+  },
+  {
+    "start": 481.13,
+    "end": 483.06,
+    "text": "Okay, thank you."
+  },
+  {
+    "start": 488.9,
+    "end": 489.9,
+    "text": "presentation than your"
+  },
+  {
+    "start": 492.04,
+    "end": 494.1,
+    "text": "I have a question on your particle option."
+  },
+  {
+    "start": 494.57,
+    "end": 500.21,
+    "text": "about the GCPR setup. I see that in your part collections you..."
+  },
+  {
+    "start": 500.77,
+    "end": 511.6,
+    "text": "submitted both the activator and like activating receptor and the inhibiting receptor conjugated with an anti-VEGF."
+  },
+  {
+    "start": 512.04,
+    "end": 512.59,
+    "text": "Not a b"
+  },
+  {
+    "start": 513.09,
+    "end": 517.04,
+    "text": "So my question would be why on both receptors?"
+  },
+  {
+    "start": 517.57,
+    "end": 522.16,
+    "text": "Are you trying to detect the VEGF both for activation and communication?"
+  },
+  {
+    "start": 525.22,
+    "end": 553.05,
+    "text": "Yeah, thank you for the question. So first of all, this was a very nice proof of principle for us because we wanted to show that we can actually also gate this with protein based ligands. And of course, we also adapted it to GDF 15 for another positive ligand. But we also looked for different other negative ligands, which could be also used for for the same GPCR and just by exchanging the nano body make it adaptable to multiple different other negative inputs."
+  },
+  {
+    "start": 558.63,
+    "end": 569.23,
+    "text": "I have a question about safety concerns. What are the main safety concerns associated with your solution and how is your solution better, safer than other cell therapies?"
+  },
+  {
+    "start": 574.63,
+    "end": 585.01,
+    "text": "So the idea is that our system is safer than other current cell therapies where the incorporation of our secondary receptor, that's like the inhibitory input."
+  },
+  {
+    "start": 585.45,
+    "end": 589.74,
+    "text": "And regarding the overall safety, we're in close contact with safety experts at our university."
+  },
+  {
+    "start": 590.25,
+    "end": 609.46,
+    "text": "And we also incorporated a kill switch in our system. So if you administer the cells to the patient, and if there's an unforeseen side effect, you could actually administer a small molecule to the patient. And this would actually then trigger the kill switch in the cells, effectively killing them. It's based on the ICAS-S9."
+  },
+  {
+    "start": 609.83,
+    "end": 615.54,
+    "text": "kill switch. This is like working with a B-hominidimerizer, it's more monochrome, it could be administered."
+  },
+  {
+    "start": 615.91,
+    "end": 619.25,
+    "text": "to the patient and then the inducible castor S9 is."
+  },
+  {
+    "start": 619.62,
+    "end": 621.87,
+    "text": "Dimerized inducing apoptosis."
+  },
+  {
+    "start": 622.44,
+    "end": 626.58,
+    "text": "We did test this after wiki freeze. The data, oh, why that?"
+  },
+  {
+    "start": 629.13,
+    "end": 644.34,
+    "text": "The data is not the best looking ones. So on the right, we see like a titration curve with Triton just to have like a glimpse of the validation and AP20187 is like the TB homodomoriser. And we can see that if we administer that the cell viability drops."
+  },
+  {
+    "start": 644.81,
+    "end": 648.98,
+    "text": "But the dynamic range of the essay is not the best so far. So we would still refine this a bit further."
+  },
+  {
+    "start": 649.51,
+    "end": 650.54,
+    "text": "Thank you."
+  },
+  {
+    "start": 656.45,
+    "end": 657.04,
+    "text": "(static)"
+  },
+  {
+    "start": 659.01,
+    "end": 664.62,
+    "text": "My question for you is maybe, yeah, you talk a lot about clinicians and"
+  },
+  {
+    "start": 665.09,
+    "end": 674.51,
+    "text": "How do you foresee them using your technology?"
+  },
+  {
+    "start": 678.82,
+    "end": 686.26,
+    "text": "So we specifically decided against talking to patients because we have not received any training and also didn't want to raise any false hopes."
+  },
+  {
+    "start": 686.63,
+    "end": 690.0,
+    "text": "But we consulted patient advocates because of this."
+  },
+  {
+    "start": 690.66,
+    "end": 696.02,
+    "text": "and included them in our project and our panel discussion to also have their voices heard."
+  },
+  {
+    "start": 702.12,
+    "end": 703.22,
+    "text": "Sand further your-"
+  },
+  {
+    "start": 713.22,
+    "end": 719.09,
+    "text": "For most of our experimental data, we did a two-way ANOVA or one-way ANOVA as our statistical test."
+  },
+  {
+    "start": 719.75,
+    "end": 720.34,
+    "text": "um"
+  },
+  {
+    "start": 720.93,
+    "end": 733.2,
+    "text": "just to show that it's not a random statistical effect, but actually a biological effect. For our main results, we actually also have biological replicates. So for the court architecture, we have three biological replicates as well as for the least contract, I believe."
+  },
+  {
+    "start": 733.57,
+    "end": 746.48,
+    "text": "And we obviously repeated our experiments a lot with slightly different ratios either or induction ranges. So we also repeated it without being direct biological replicates and still saw the same trends and the same effects."
+  },
+  {
+    "start": 755.11,
+    "end": 761.71,
+    "text": "And one part you said you want to introduce another part this temperature sensitivity."
+  },
+  {
+    "start": 762.28,
+    "end": 763.06,
+    "text": "Um..."
+  },
+  {
+    "start": 763.62,
+    "end": 766.19,
+    "text": "Why you came up with this idea?"
+  },
+  {
+    "start": 767.14,
+    "end": 768.66,
+    "text": "like in the body."
+  },
+  {
+    "start": 769.89,
+    "end": 791.86,
+    "text": "Thank you for the question. Our idea and our approach was checking for current new novel proteins which we can introduce into our circuit. This would add additional input layer and has shown really promising results with the main paper we looked into. It's called a membrane..."
+  },
+  {
+    "start": 792.49,
+    "end": 808.59,
+    "text": "membrane localization using temperature. And you can adjust the temperature basically by fine tuning the protein. And the goal of this would be basically adding our SH2 which is cytosolically and binding it to the melt."
+  },
+  {
+    "start": 809.09,
+    "end": 821.49,
+    "text": "and having an additional precision by activating externally and locally heated by the patient, which would need further research into this."
+  },
+  {
+    "start": 821.96,
+    "end": 822.96,
+    "text": "a few here."
+  },
+  {
+    "start": 826.89,
+    "end": 836.46,
+    "text": "Do you think it's applicable because like 37, 40 degree it's not a huge difference and 40 degree I'll just think about when I have fever"
+  },
+  {
+    "start": 837.73,
+    "end": 839.06,
+    "text": "I don't think that it's"
+  },
+  {
+    "start": 840.29,
+    "end": 840.72,
+    "text": "I think"
+  },
+  {
+    "start": 842.28,
+    "end": 843.41,
+    "text": "(laughing)"
+  },
+  {
+    "start": 846.25,
+    "end": 871.52,
+    "text": "I think, yes, body temperature plays a role as well. However, there are technologies such as ultrasound, which can be specifically targeted at a very accurate and small layer where you can specifically heat up tissue to a very specific temperature. So we're not going in a fever direction because that is dangerous and unspecific. We are using specific temperatures triggered by an external"
+  },
+  {
+    "start": 871.72,
+    "end": 877.55,
+    "text": "source. And in this case, we envision ultrasound to be a very good application of this."
+  },
+  {
+    "start": 882.57,
+    "end": 883.98,
+    "text": "-"
+  },
+  {
+    "start": 884.87,
+    "end": 885.46,
+    "text": "Yes"
+  },
+  {
+    "start": 886.47,
+    "end": 893.87,
+    "text": "I think if you use an external source or yeah, or basically temperature."
+  },
+  {
+    "start": 894.47,
+    "end": 900.62,
+    "text": "you will limit your probability rate because the ultrasound's dignity is not that big."
+  },
+  {
+    "start": 901.83,
+    "end": 902.93,
+    "text": "about range"
+  },
+  {
+    "start": 903.37,
+    "end": 904.43,
+    "text": "I'll do you perceive that"
+  },
+  {
+    "start": 905.61,
+    "end": 910.03,
+    "text": "If I understood correctly, you're asking about because the temperature..."
+  },
+  {
+    "start": 910.73,
+    "end": 921.36,
+    "text": "Because the external trigger, the ultrasound is not that simple for it. So I want to go into the melt more."
+  },
+  {
+    "start": 921.77,
+    "end": 922.35,
+    "text": "and"
+  },
+  {
+    "start": 922.73,
+    "end": 947.93,
+    "text": "It's important to know that melt can be also adjusted to lower temperatures. We could do also cooling, for example. And the best part about melt is we can actually clone it in different architectures by adding, for example, stem domain to the loft domain. Like the loft domain is the main part, which has a mutation which is only for temperature. But by adding other domains like stem that can enhance or excluding it would-- [AUDIO OUT]"
+  },
+  {
+    "start": 948.07,
+    "end": 960.3,
+    "text": "lower the switching point of the temperature. So we have to figure out if we want to do a cooling or make a do inducing higher temperatures, but we're working on it."
+  },
+  {
+    "start": 961.64,
+    "end": 962.99,
+    "text": "I hope this clarified it."
+  },
+  {
+    "start": 963.62,
+    "end": 964.05,
+    "text": "Thank you"
+  },
+  {
+    "start": 965.73,
+    "end": 983.02,
+    "text": "Okay, one more question about this sort of clinical implementation of your project of your solution. So is it meant to work with any type of cancer or like some specific types of cancers or and do you have any evidence for that that it would work? Yes. So the question about the clinical implication."
+  },
+  {
+    "start": 983.94,
+    "end": 985.52,
+    "text": "Let me just--"
+  },
+  {
+    "start": 988.52,
+    "end": 993.26,
+    "text": "Okay. That's just like a comfortable."
+  },
+  {
+    "start": 997.99,
+    "end": 1005.55,
+    "text": "Sorry, am I still... Can someone help me?"
+  },
+  {
+    "start": 1008.87,
+    "end": 1009.26,
+    "text": "[static"
+  },
+  {
+    "start": 1010.5,
+    "end": 1011.28,
+    "text": "(buzzing"
+  },
+  {
+    "start": 1013.73,
+    "end": 1038.81,
+    "text": "So we considered proteomic studies of the cancer secretomes. For example, we focused on glioma on pancreatic cancer as mentioned about proof of concept and on the cervical cancer, the data we derived from the multi-patients studies of secretome analysis. So the purple ligands are the ligands upregulated in the tumor residues and so like"
+  },
+  {
+    "start": 1039.14,
+    "end": 1041.26,
+    "text": "positive input potential and"
+  },
+  {
+    "start": 1041.64,
+    "end": 1046.38,
+    "text": "Orange ligands are down-regulated ligands that would serve as an inhibitory input from the healthy tissue."
+  },
+  {
+    "start": 1047.17,
+    "end": 1048.75,
+    "text": "Did that answer your question, you've been"
+  },
+  {
+    "start": 1049.83,
+    "end": 1050.29,
+    "text": "Thank you"
+  },
+  {
+    "start": 1053.99,
+    "end": 1070.06,
+    "text": "So you did preliminary test of your split-tef protease. I could not exactly figure out what was your first idea to test or not idea, experimental setup to test this before you-- so-- [AUDIO OUT]"
+  },
+  {
+    "start": 1071.05,
+    "end": 1075.09,
+    "text": "you test this that you can show that the split protease"
+  },
+  {
+    "start": 1075.56,
+    "end": 1079.57,
+    "text": "is working. So there was an Lucifer raised readout."
+  },
+  {
+    "start": 1080.01,
+    "end": 1082.42,
+    "text": "about how the principle works."
+  },
+  {
+    "start": 1087.01,
+    "end": 1091.86,
+    "text": "So first of all, this is the system as it was published previously. So on the right you have the..."
+  },
+  {
+    "start": 1092.23,
+    "end": 1096.66,
+    "text": "Release construct, which is the non-elusive phrase in our case, tethered to the ER membrane."
+  },
+  {
+    "start": 1097.35,
+    "end": 1103.76,
+    "text": "and held back from the secretion pathway by the ER retention signal, which is cleaved off. So this is also our redot."
+  },
+  {
+    "start": 1104.13,
+    "end": 1108.21,
+    "text": "because the active type protease cleaves of the retention signal."
+  },
+  {
+    "start": 1108.81,
+    "end": 1113.97,
+    "text": "And then leads the, the surface into the secretary pathway where we measured it always in the supernatant."
+  },
+  {
+    "start": 1116.13,
+    "end": 1125.17,
+    "text": "So to confirm that a split-tap system in general works, we first did it with the FKBP FRB system, and usable with RAPALOG."
+  },
+  {
+    "start": 1125.57,
+    "end": 1128.46,
+    "text": "So there we saw that it works with an inducibility."
+  },
+  {
+    "start": 1129.32,
+    "end": 1131.82,
+    "text": "Then we first did the splits."
+  },
+  {
+    "start": 1132.65,
+    "end": 1134.54,
+    "text": "Design, you can see on the left on the screen"
+  },
+  {
+    "start": 1135.08,
+    "end": 1146.54,
+    "text": "where we have SH2 and CD3Z, so the substrate fused to the split-taf halves and later on we fuse them together to increase the overall signal while retaining low background."
+  },
+  {
+    "start": 1147.78,
+    "end": 1162.58,
+    "text": "Okay, so in diffusion, you also testing this, how hindering the because you fuse, fuse this together. So what is the distance, perfect distance that that it's not hindering that it's formed the split"
+  },
+  {
+    "start": 1163.17,
+    "end": 1177.52,
+    "text": "to the functional TV. So that's always the trade-off between the background and the overall activity when you split them. So in a whole fully split system, the overall activity was quite low compared to the split sort of the ink version."
+  },
+  {
+    "start": 1178.02,
+    "end": 1180.27,
+    "text": "And also we tested different..."
+  },
+  {
+    "start": 1180.65,
+    "end": 1191.06,
+    "text": "length of the hinge and also compositions where we saw that a flexible linker had a significantly higher background than for example a semi-rigid linker of proline and alanine which we used in the end."
+  },
+  {
+    "start": 1191.43,
+    "end": 1203.92,
+    "text": "And we saw that a linker of length seven worked pretty well. So we saw that the background was non-significantly higher than compared to the note of control while we retained a pretty high signal compared to a full tap."
+  },
+  {
+    "start": 1206.6,
+    "end": 1209.39,
+    "text": "And then you continue with this one."
+  },
+  {
+    "start": 1209.86,
+    "end": 1213.9,
+    "text": "We tried then the first experiment to see Creed IL-12."
+  },
+  {
+    "start": 1214.85,
+    "end": 1218.96,
+    "text": "but then you could not see really an increase in I/O growth."
+  },
+  {
+    "start": 1219.75,
+    "end": 1221.01,
+    "text": "compared to"
+  },
+  {
+    "start": 1221.45,
+    "end": 1222.99,
+    "text": "the Lucifer race."
+  },
+  {
+    "start": 1223.37,
+    "end": 1227.6,
+    "text": "Can you have an idea why this was not so effective?"
+  },
+  {
+    "start": 1230.53,
+    "end": 1256.86,
+    "text": "Yes, so our trial to secrete the IL-12 did indeed show significant increase, but of course you can see the mentioned leakage of the release system, which we are planning to improve and are currently implementing for differential spampering domain. But also IL-12 is a bigger protein than the report. And we only had time to do this quickly before the week if we swans with the freshly arrived ELISA kit."
+  },
+  {
+    "start": 1256.97,
+    "end": 1259.73,
+    "text": "So we definitely need a repeat."
+  },
+  {
+    "start": 1260.17,
+    "end": 1267.47,
+    "text": "which we would of course implement because this is our target, our butyl gut protein, which is really important for us to optimize without the background."
+  },
+  {
+    "start": 1269.96,
+    "end": 1273.2,
+    "text": "that you did most of your experiments in the last minute."
+  },
+  {
+    "start": 1273.93,
+    "end": 1274.61,
+    "text": "(laughing)"
+  },
+  {
+    "start": 1276.1,
+    "end": 1305.05,
+    "text": "- Question for you. - Yeah, no, like I wouldn't say so actually. We did a lot of refinement on all of these parts. So especially if you look at the mesa system in the beginning, actually it killed ourselves. So we actually report that the signal peptides that were used by some of the initial papers were not quite good for the secretile pathway. And for that reason, we did a lot of engineering on all of these parts. So the thing that we show you now are the best parts of all of them. And actually that's also the reason why we show the most promising experiments."
+  },
+  {
+    "start": 1305.19,
+    "end": 1308.21,
+    "text": "which were done actually at the end."
+  },
+  {
+    "start": 1308.61,
+    "end": 1309.65,
+    "text": "but they have a lever find"
+  },
+  {
+    "start": 1313.16,
+    "end": 1313.71,
+    "text": "questions."
+  },
+  {
+    "start": 1315.65,
+    "end": 1318.58,
+    "text": "No. Can you go a bit more on your."
+  },
+  {
+    "start": 1320.39,
+    "end": 1322.35,
+    "text": "I forgot the name on your modeling."
+  },
+  {
+    "start": 1323.21,
+    "end": 1327.15,
+    "text": "on the aspect. So how did you come up with combining?"
+  },
+  {
+    "start": 1327.81,
+    "end": 1329.84,
+    "text": "these different parts."
+  },
+  {
+    "start": 1330.21,
+    "end": 1331.7,
+    "text": "and what was your..."
+  },
+  {
+    "start": 1332.13,
+    "end": 1333.2,
+    "text": "time flow."
+  },
+  {
+    "start": 1333.73,
+    "end": 1335.06,
+    "text": "setup that you"
+  },
+  {
+    "start": 1335.78,
+    "end": 1338.96,
+    "text": "do it the best that it's also useful for eye jam."
+  },
+  {
+    "start": 1341.45,
+    "end": 1349.71,
+    "text": "- Yeah, so for a mathematical model, essentially we split into two parts. So that is the receptor dimerization and that's the intracellular processing."
+  },
+  {
+    "start": 1350.09,
+    "end": 1374.45,
+    "text": "And first we took both models. We looked into literature and found some good models that represent how we do it in the wet lab and for the intracellular. We took the original paper from Yang et al from 2025, who already did a model. And then we integrated into a complete model, which essentially can, based on the ligand concentrations, predict the phosphorylated substrate concentration."
+  },
+  {
+    "start": 1375.27,
+    "end": 1382.45,
+    "text": "And the idea is then that with this, we can predict the phosphorylation behavior of a certain cellular architecture."
+  },
+  {
+    "start": 1382.85,
+    "end": 1392.21,
+    "text": "And then because our system is so modular, we can in silico already predict how the cell behaves for very different architectures. And then."
+  },
+  {
+    "start": 1392.87,
+    "end": 1396.5,
+    "text": "find the best architecture for certain--"
+  },
+  {
+    "start": 1397.16,
+    "end": 1404.69,
+    "text": "for certain use case. - Okay, so this is then taking up the work from the lab. So you first do everything and..."
+  },
+  {
+    "start": 1405.06,
+    "end": 1406.06,
+    "text": "silly girl, whatever."
+  },
+  {
+    "start": 1407.91,
+    "end": 1437.24,
+    "text": "I wouldn't say so. I think the model is also helping us, as Paul pointed already out, for all of the future ways that we are going to focus on. If you look at the different tumor profiles that we are going to target, but the dry lab actually improved our wet lab work in so many different ways. If you looked at the dual ligand platform example, the concentrations that we used for both the phosphatase receptor and the kinase receptor were optimized by the model. So actually, all of these fine tuning steps that are pretty hard to tune in the wet lab alone"
+  },
+  {
+    "start": 1437.41,
+    "end": 1441.87,
+    "text": "We actually did the whole time by assembling with the dry lab team."
+  },
+  {
+    "start": 1444.55,
+    "end": 1446.22,
+    "text": "So, we have one minute left."
+  },
+  {
+    "start": 1447.05,
+    "end": 1448.5,
+    "text": "some questions or"
+  },
+  {
+    "start": 1448.97,
+    "end": 1450.06,
+    "text": "You have some."
+  },
+  {
+    "start": 1450.53,
+    "end": 1452.94,
+    "text": "giving some input what you enjoy the most."
+  },
+  {
+    "start": 1453.7,
+    "end": 1454.26,
+    "text": "doing item"
+  },
+  {
+    "start": 1455.49,
+    "end": 1481.88,
+    "text": "Yes, so with the plots that were of course minutes, hours, days before the wiki freeze, which you already mentioned were done quite lately. Quite late were the most exciting parts because our interlocated release, although the fault change is visible and needs to be refined, is the full architecture, dependent on the sensing, going through the processing of the signal for the phosphorylation, leading to the TEB reassembly and release of the herpetical payload."
+  },
+  {
+    "start": 1482.09,
+    "end": 1490.13,
+    "text": "which was really impressive to see fully working and fully assembled as we envision the future. So we not only optimize the parts."
+  },
+  {
+    "start": 1490.76,
+    "end": 1499.57,
+    "text": "through various validation of each of the layer, but also assembled it all together. And we are quite confident that refining it is only another step of our journey, which-- [AUDIO OUT]"
+  },
+  {
+    "start": 1499.94,
+    "end": 1502.86,
+    "text": "We are willing to compete and I'm really excited about it."
+  },
+  {
+    "start": 1503.53,
+    "end": 1506.38,
+    "text": "Okay, sounds good that you continue to work on it."
+  },
+  {
+    "start": 1508.52,
+    "end": 1510.96,
+    "text": "Then I thank you for the time."
+  },
+  {
+    "start": 1512.01,
+    "end": 1514.26,
+    "text": "Enjoy the last day scene."
+  },
+  {
+    "start": 1514.98,
+    "end": 1517.01,
+    "text": "Thank you."
+  },
+  {
+    "start": 1528.74,
+    "end": 1529.84,
+    "text": "(static)"
+  },
+  {
+    "start": 1530.47,
+    "end": 1532.43,
+    "text": "We just leave the zoomed move."
+  },
+  {
+    "start": 1534.21,
+    "end": 1534.99,
+    "text": "[INAUDIBLE"
+  },
+  {
+    "start": 1538.05,
+    "end": 1539.22,
+    "text": "how to leave all okay"
+  },
+  {
+    "start": 1540.26,
+    "end": 1540.69,
+    "text": "Bye."
+  },
+  {
+    "start": 1541.7,
+    "end": 1542.51,
+    "text": "Let's go."
+  },
+  {
+    "start": 1543.37,
+    "end": 1544.14,
+    "text": "(static)"
+  },
+  {
+    "start": 1544.55,
+    "end": 1545.81,
+    "text": "Oh, this is the one."
+  },
+  {
+    "start": 1546.92,
+    "end": 1547.44,
+    "text": "You OK?"
+  },
+  {
+    "start": 1550.28,
+    "end": 1550.86,
+    "text": "saying by"
+  },
+  {
+    "start": 1553.77,
+    "end": 1554.61,
+    "text": "I'm a black guy"
+  },
+  {
+    "start": 1558.6,
+    "end": 1559.01,
+    "text": "Move right"
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "start": 0.77,
+    "end": 11.82,
+    "text": "Good afternoon. We are one May I-GEM. We are aware that you have such a full schedule, so we thought we'd begin with a brief overview of our project, summarize our main deliverables, and present some exciting updates on what we've been up to since WikiFreeze."
+  },
+  {
+    "start": 12.49,
+    "end": 25.55,
+    "text": "Our team is from Williamsburg, Virginia, where Williamsburg and surrounding regions face really serious water challenges, including algal blooms in nearby lakes, corrosion on local ships and bridges, and pathogenic bacteria contamination in nearby cities."
+  },
+  {
+    "start": 26.21,
+    "end": 28.3,
+    "text": "We wanted to use Senbiah to address these problems."
+  },
+  {
+    "start": 28.71,
+    "end": 34.58,
+    "text": "But we found that there was a large gap in foundational knowledge of how engineered chassis actually function in the real world."
+  },
+  {
+    "start": 35.75,
+    "end": 37.49,
+    "text": "We took on a really ambitious project."
+  },
+  {
+    "start": 37.86,
+    "end": 42.48,
+    "text": "especially for a team of six people given that we started in February and no one university has worked on this before."
+  },
+  {
+    "start": 43.21,
+    "end": 54.19,
+    "text": "Rather than solely creating engineering solutions, we wanted to address the gap in foundational knowledge with the overall goal of generating design principles for employing sin bio and aquatic systems."
+  },
+  {
+    "start": 54.73,
+    "end": 57.3,
+    "text": "We did just that with the following accomplishments."
+  },
+  {
+    "start": 58.5,
+    "end": 65.87,
+    "text": "First, we created novel software tools, a query and a choir, which utilize machine learning to predict whether chassis will survive in an aquatic environment."
+  },
+  {
+    "start": 66.31,
+    "end": 73.07,
+    "text": "A query, or database with over 2,000 samples, relates metagenomic data stored in taxonomic matrices with environmental factors."
+  },
+  {
+    "start": 73.86,
+    "end": 80.3,
+    "text": "It features exclusively shotgun metagenomic data, not 16S, in order to achieve species-level taxonomic processing."
+  },
+  {
+    "start": 81.19,
+    "end": 88.05,
+    "text": "Acquire our ML software predicts chassis survival under provided conditions, considering environmental factors and community structure."
+  },
+  {
+    "start": 88.68,
+    "end": 95.18,
+    "text": "Since Wikifreeze, we've expanded a choir's coverage to over 20,000 chassis, and we're incorporating meta-transcriptomic data."
+  },
+  {
+    "start": 96.97,
+    "end": 99.6,
+    "text": "we also developed a generalizable math modeling framework."
+  },
+  {
+    "start": 100.1,
+    "end": 110.16,
+    "text": "not just for our individual case studies, but to support a broad range of aquatic applications by incorporating complex fluid dynamics and accounting for biotic and abiotic factors to acquire."
+  },
+  {
+    "start": 110.82,
+    "end": 115.95,
+    "text": "After WikiFreeze, we expanded our modeling framework to include static water conditions and created a guidebook."
+  },
+  {
+    "start": 116.9,
+    "end": 125.9,
+    "text": "We also performed controlled, environmentally relevant case studies to generate design principles and developed as a byproduct potential engineering solutions in novel parts."
+  },
+  {
+    "start": 126.63,
+    "end": 132.46,
+    "text": "We began by engineering an inducible basil-sapil system that strengthens biofoam formation for corrosion prevention."
+  },
+  {
+    "start": 133.03,
+    "end": 139.38,
+    "text": "We also optimized the B-subtiles integration vector and made it compatible with iGenPART standards for everyone to use."
+  },
+  {
+    "start": 139.91,
+    "end": 151.66,
+    "text": "We then tested engineered strains on steel and seawater microcosms and identified gene expression differences through controlled paired RNA analysis. Something we found was rare in publicly available data sets."
+  },
+  {
+    "start": 152.71,
+    "end": 157.46,
+    "text": "Post-Wiki freeze, we studied our strains' corrosion inhibition efficiency for an extended period of time."
+  },
+  {
+    "start": 158.85,
+    "end": 173.36,
+    "text": "We then assessed two algal bloom remediation strategies. However, after conducting 250 assays searching for novel microcystis phage and from input from IHP, we found that phage did not offer feasible treatment strategies perhaps."
+  },
+  {
+    "start": 173.93,
+    "end": 191.18,
+    "text": "We therefore assessed A. balei's bloomer mediation potential through well-controlled microcosm experiments using metagenomic and metatranscriptomic analyses. Since wikiFREES, we've continued to analyze RNA-seq data and identified over 250 DE genes and associated pathways that affect chassis behavior in realistic environments."
+  },
+  {
+    "start": 192.1,
+    "end": 198.06,
+    "text": "We also developed a phage cocktail to maximize mycobacterial lysis and prevent biofilm maturation in household pipes."
+  },
+  {
+    "start": 198.57,
+    "end": 202.93,
+    "text": "We tested it both under lab conditions and a microcosm simulating PVC pipes."
+  },
+  {
+    "start": 203.91,
+    "end": 210.67,
+    "text": "Using different forms of measurement and RNA-seq data, we generated design principles for FAGE treatments better suited for dynamic environments."
+  },
+  {
+    "start": 211.17,
+    "end": 217.17,
+    "text": "Post-Wiki-Freeze, we analyzed RNA-seq data further in order to identify almost 500 differential expressed genes."
+  },
+  {
+    "start": 218.05,
+    "end": 227.92,
+    "text": "our CART project incorporated measurements across multiple stages. This approach not only provided a comprehensive evaluation of experimental outcomes, but also promoted accessibility."
+  },
+  {
+    "start": 228.93,
+    "end": 241.2,
+    "text": "Perhaps most importantly, we include a type of measurement not typical for iGEM. We mined the wealth of publicly available RNA-seq data and performed a meta-analysis of genes differentially expressed between lab in more dynamic conditions."
+  },
+  {
+    "start": 242.15,
+    "end": 246.96,
+    "text": "We identified paired studies in literature and performed pathway analysis for each study ourselves."
+  },
+  {
+    "start": 247.59,
+    "end": 255.54,
+    "text": "Given the substantial amount of data, thousands of samples, we then turn to using AI tools to complement this analysis, which we verified using the previous approach."
+  },
+  {
+    "start": 257.32,
+    "end": 269.2,
+    "text": "Through a meta-analysis of existing data sets, mathematical modeling, and wet lab experimentation in aquatic environments, our project generated foundational advances into how synthetic constructs actually behave in aquatic environments."
+  },
+  {
+    "start": 270.09,
+    "end": 278.35,
+    "text": "From there, we generated design principles that offer guidelines for how to select, enhance, and engineer constructs that would function more reliably in the real world."
+  },
+  {
+    "start": 278.98,
+    "end": 285.42,
+    "text": "For resources on reliable implementation, we offer a guidebook and a quick start guide for synthetic biologists and policy makers."
+  },
+  {
+    "start": 285.93,
+    "end": 298.77,
+    "text": "Circling back to where we started, we hope that these foundational insights will help enhance safety understanding and lead to more effective policy, as suggested by our RHP, to one day channel sent bio from the lab into aquatic environments."
+  },
+  {
+    "start": 299.46,
+    "end": 302.22,
+    "text": "Thank you, we'd love to answer any questions."
+  },
+  {
+    "start": 302.66,
+    "end": 308.05,
+    "text": "It's exactly five minutes. So we'll move on to the 20 minute Q and a session."
+  },
+  {
+    "start": 308.58,
+    "end": 317.55,
+    "text": "So I would first invite the online judges. If you have any questions, you may speak up or type in the chat. I'll have you read it out."
+  },
+  {
+    "start": 320.1,
+    "end": 324.94,
+    "text": "Can you also open the chat here? Oh, I'm so sorry. You guys can just read the options."
+  },
+  {
+    "start": 328.42,
+    "end": 329.58,
+    "text": "So uh..."
+  },
+  {
+    "start": 330.18,
+    "end": 330.7,
+    "text": "Yes."
+  },
+  {
+    "start": 331.59,
+    "end": 349.01,
+    "text": "So from Kennedy, in my professional experience, it's often the case that the barrier of implementation of sin-bio solutions is not the concern that the solution will survive, but in fact, the concern that the sin-bio solution will be too successful and imbalance the ecosystem."
+  },
+  {
+    "start": 349.41,
+    "end": 352.78,
+    "text": "How could your models be further developed to address these concerns?"
+  },
+  {
+    "start": 354.12,
+    "end": 357.87,
+    "text": "This stresses the importance of testing things in realistic environments."
+  },
+  {
+    "start": 358.6,
+    "end": 371.54,
+    "text": "Our models may not suggest how this is going to overpower because our models do not incorporate specifically engineered solutions. We focused more on using available data from the real world and that data does not usually incorporate."
+  },
+  {
+    "start": 372.04,
+    "end": 372.75,
+    "text": "Engineered."
+  },
+  {
+    "start": 373.13,
+    "end": 375.76,
+    "text": "solutions because they've never been implemented in the real world."
+  },
+  {
+    "start": 376.39,
+    "end": 400.24,
+    "text": "However, this is the importance of testing in simulated real-world environments. For all of our case studies, we constructed microcosms and tested that and got RNA-seq data, as well as 16S data, which would be an indicator of species competition. So through 16S data and metagenomic data, you'd be able to see competition, and you'd be able to see how it would outcompute other species."
+  },
+  {
+    "start": 404.84,
+    "end": 408.18,
+    "text": "Okay. Thank you for your presentation. Can you hear me?"
+  },
+  {
+    "start": 408.77,
+    "end": 424.85,
+    "text": "Yes. Yes. Okay. Thank you. I'm Wilson and I'm the online judge. So I'm very curious about your, um, module in part, like how modular and transferable is your project. Could other IGM teams like easily adapt?"
+  },
+  {
+    "start": 425.35,
+    "end": 430.99,
+    "text": "your equations or your your modeling to their own applications."
+  },
+  {
+    "start": 432.93,
+    "end": 436.21,
+    "text": "Am I muted?"
+  },
+  {
+    "start": 436.93,
+    "end": 439.5,
+    "text": "We tried to make it as accessible for..."
+  },
+  {
+    "start": 439.97,
+    "end": 450.03,
+    "text": "future synthetic biologists to use our modeling framework as possible. So in the case of pipe transport, we reduce the system so that..."
+  },
+  {
+    "start": 450.73,
+    "end": 451.73,
+    "text": "although it's"
+  },
+  {
+    "start": 452.36,
+    "end": 459.31,
+    "text": "modeling how phage is being transported. It could be any tran, any species being transported in that pipe framework."
+  },
+  {
+    "start": 459.75,
+    "end": 462.7,
+    "text": "or for modeling stuff in lakes."
+  },
+  {
+    "start": 463.11,
+    "end": 475.95,
+    "text": "We made some various assumptions, but overall it's simulating how that bacteria or how that chassis is being transported along in that lake and how it's reacting with the environments around it."
+  },
+  {
+    "start": 478.15,
+    "end": 479.31,
+    "text": "All right, thank you."
+  },
+  {
+    "start": 483.97,
+    "end": 484.62,
+    "text": "So"
+  },
+  {
+    "start": 485.83,
+    "end": 486.93,
+    "text": "One more question from-- ["
+  },
+  {
+    "start": 487.46,
+    "end": 497.07,
+    "text": "So based on the data generated from studying the microcosms, do you have any safety recommendations for future synbaro products targeting an aquatic system?"
+  },
+  {
+    "start": 498.02,
+    "end": 500.66,
+    "text": "Yeah, so do you want to answer this one with your, okay."
+  },
+  {
+    "start": 501.13,
+    "end": 521.87,
+    "text": "So through our microcosm experiments, we did do differential gene expression analysis, and we found different pathways, some of which may be toxic on a larger scale. So this is something we need to take into account when we circle back to engineering again, based on this RNA-seq data, to try to suppress the genes that encode for toxins."
+  },
+  {
+    "start": 522.53,
+    "end": 525.58,
+    "text": "to prevent those from being expressed in a larger scale."
+  },
+  {
+    "start": 526.53,
+    "end": 553.34,
+    "text": "Besides, in the corrosion case study, we engineer a totally controllable, zealous, inducible controlling system that only when the inducer is present, it is going to express the engineered circuits. So this is also for a safety concern. Also, we chose zealous as the inducer. It's not like IPTG or other inducers that there are some inducers that are toxic to the ocean environments."
+  },
+  {
+    "start": 553.41,
+    "end": 557.62,
+    "text": "'Cause we are aware that we are spreading those inducers. (static)"
+  },
+  {
+    "start": 558.05,
+    "end": 563.09,
+    "text": "for the corrosion example on the ship's surfaces. So we are aware of this."
+  },
+  {
+    "start": 563.59,
+    "end": 565.97,
+    "text": "we're selecting zylos which is totally like biodegradable"
+  },
+  {
+    "start": 570.18,
+    "end": 596.16,
+    "text": "- Thank you. So any questions from? - Okay. I think it's my turn to ask a question. Thank you for your presentation. Your project is saving three problem including the steel corrosion, micro bacteria, biofilm removal. I want to confirm why did you choose bacillus, sub-tillius?"
+  },
+  {
+    "start": 596.42,
+    "end": 603.06,
+    "text": "as the charges, organization. Do you have any data or evidence to support your conclusion? - Okay."
+  },
+  {
+    "start": 603.72,
+    "end": 616.66,
+    "text": "First our project is not to create engineering solution for these three case studies, but use these three case studies as a proof of concept engineering for our software and our mathematical model to"
+  },
+  {
+    "start": 617.19,
+    "end": 643.04,
+    "text": "like fulfill the gap in the foundational events of channeling these assets to the aquatic environment. Second, for my bacillus, I choose bacillus septulus because there were a Google SL 2017 paper, which is also like I believe in our reference list, that is proving that like using the bacillus septulus can form a microbial biofilm that uniformly coat."
+  },
+  {
+    "start": 643.14,
+    "end": 648.91,
+    "text": "on the steel surfaces that is going to protect the steel surfaces from corrosion. There's also a-- [AUDIO OUT]"
+  },
+  {
+    "start": 650.05,
+    "end": 658.29,
+    "text": "Also, go at L 2021, I believe, review paper on this total, like, microbial induced corrosion inhibition method. Yeah."
+  },
+  {
+    "start": 659.75,
+    "end": 672.24,
+    "text": "I'd like to say that the ideal way of choosing a chassis would be to use the software that we developed to test if it's going to be compatible in the environment we want to put it in. However, we did not have the software when we're starting our case studies. This is something we developed throughout. [AUDIO OUT]"
+  },
+  {
+    "start": 673.09,
+    "end": 680.66,
+    "text": "throughout our projects. By the time we had the software available, we had already chosen our chassis, but that would be the way that we would go about that now."
+  },
+  {
+    "start": 681.96,
+    "end": 695.28,
+    "text": "Okay, could you tell me what's your application scenario in the future? Do you consider the long term impact under efficiency application? - So, tell us about our overall project."
+  },
+  {
+    "start": 696.81,
+    "end": 715.86,
+    "text": "Yeah, over a trap. So we see the large long-term implementation of our project to be a synthetic biologist or people in the field using our design principles, the ones that we generated throughout our project, using our software and using our math models to predict whether chassis will survive and function reliably. Using the..."
+  },
+  {
+    "start": 716.9,
+    "end": 720.56,
+    "text": "using our pathways that we found through differential gene analysis."
+  },
+  {
+    "start": 721.16,
+    "end": 728.91,
+    "text": "in order to enhance their chassis in order to function. So using our design principles, and I can bring them back up."
+  },
+  {
+    "start": 729.41,
+    "end": 729.94,
+    "text": "Um."
+  },
+  {
+    "start": 730.76,
+    "end": 737.94,
+    "text": "using our design principles on a larger scale in order to create some biosolutions that would be more applicable in the real world."
+  },
+  {
+    "start": 738.63,
+    "end": 740.72,
+    "text": "to be better working in the real world."
+  },
+  {
+    "start": 747.49,
+    "end": 756.82,
+    "text": "further about the deficiency. Did you consider the long term efficiency of your project to the environment?"
+  },
+  {
+    "start": 758.05,
+    "end": 758.61,
+    "text": "and"
+  },
+  {
+    "start": 760.26,
+    "end": 763.6,
+    "text": "of our design principles?"
+  },
+  {
+    "start": 764.26,
+    "end": 764.75,
+    "text": "Yes."
+  },
+  {
+    "start": 765.57,
+    "end": 769.1,
+    "text": "Maybe I can improve my expression into the chat box."
+  },
+  {
+    "start": 773.48,
+    "end": 775.12,
+    "text": "Do you consider the long term?"
+  },
+  {
+    "start": 775.88,
+    "end": 779.22,
+    "text": "impact on drip efficiency to"
+  },
+  {
+    "start": 779.85,
+    "end": 781.46,
+    "text": "to the environment."
+  },
+  {
+    "start": 787.01,
+    "end": 788.21,
+    "text": "Yes, so."
+  },
+  {
+    "start": 788.71,
+    "end": 802.13,
+    "text": "Because our design principles include RNA-seq analysis, that is a really good indicator of toxin and gene expression that would affect the environment. This is a really important part before-- [AUDIO OUT]"
+  },
+  {
+    "start": 803.17,
+    "end": 806.93,
+    "text": "before applying anything you want to see if it's going to be one harmful."
+  },
+  {
+    "start": 807.81,
+    "end": 808.27,
+    "text": "first."
+  },
+  {
+    "start": 808.77,
+    "end": 810.42,
+    "text": "Safety is the most important."
+  },
+  {
+    "start": 810.89,
+    "end": 817.84,
+    "text": "So you want an RNA-seq analysis would be able to tell you that because the chassis sometimes can express toxin."
+  },
+  {
+    "start": 818.31,
+    "end": 818.8,
+    "text": "jeans."
+  },
+  {
+    "start": 819.21,
+    "end": 819.73,
+    "text": "um"
+  },
+  {
+    "start": 820.87,
+    "end": 822.35,
+    "text": "And it's really important to--"
+  },
+  {
+    "start": 822.89,
+    "end": 830.8,
+    "text": "make sure that your circuit does not, your chassis does not. And that is the importance of this sort of testing in realistic conditions."
+  },
+  {
+    "start": 831.4,
+    "end": 834.13,
+    "text": "So the efficiency of our project would be."
+  },
+  {
+    "start": 834.6,
+    "end": 840.98,
+    "text": "We do see long-term efficiency in our long-term implementation of our project because it"
+  },
+  {
+    "start": 841.64,
+    "end": 843.02,
+    "text": "It has so many rigorous"
+  },
+  {
+    "start": 843.56,
+    "end": 850.32,
+    "text": "steps to verify that this is one safe and two would function properly without damaging the surrounding ecosystem."
+  },
+  {
+    "start": 850.92,
+    "end": 852.5,
+    "text": "Okay, thank you, I have no more"
+  },
+  {
+    "start": 855.69,
+    "end": 861.23,
+    "text": "OK, so I have a quick question about the transcriptomic analysis. So-- [AUDIO OUT]"
+  },
+  {
+    "start": 861.61,
+    "end": 877.36,
+    "text": "I didn't quite understand how the samples were prepared because you guys have different three types of transcriptomic datas. And in the Wiki page, I didn't see any of the raw datas or any-- [AUDIO OUT]"
+  },
+  {
+    "start": 878.21,
+    "end": 880.08,
+    "text": "analytical data with"
+  },
+  {
+    "start": 880.45,
+    "end": 883.5,
+    "text": "the gene names or and the p-values."
+  },
+  {
+    "start": 883.97,
+    "end": 885.23,
+    "text": "and the expression changes."
+  },
+  {
+    "start": 885.61,
+    "end": 892.02,
+    "text": "So can you explain how do you guys design this transcriptomic data analysis?"
+  },
+  {
+    "start": 892.65,
+    "end": 916.34,
+    "text": "How do you guys analyze this? - With our case studies. - Right. - Yes. So within our case studies, each one has such different sample types that each one had different ways of preparing the sample. For example, with the time points from the microcosms, those were all flash frozen, centrifuge and then flash frozen, and then RNA was extracted from that versus with the biofilms, those were scraped off of pipes. (static)"
+  },
+  {
+    "start": 916.71,
+    "end": 921.36,
+    "text": "centrifuged and we used the NEB RNA extraction kit."
+  },
+  {
+    "start": 921.83,
+    "end": 927.82,
+    "text": "as well as trizol in order to extract RNA and prepare those samples. We had-- [AUDIO OUT]"
+  },
+  {
+    "start": 928.39,
+    "end": 933.74,
+    "text": "hundreds of jeans, which would have been great to put on the wiki. I do think we have some up there."
+  },
+  {
+    "start": 934.34,
+    "end": 950.64,
+    "text": "in the results section as well. So how many samples do you guys have in numbers? Like for example, like for the control samples, you guys need like the replicates. So how many replicates were there? Yes. So this varied by experiment. So for the harmful algal blooms case study,"
+  },
+  {
+    "start": 951.01,
+    "end": 976.76,
+    "text": "We used triplicates, three control cultures and three microcosms. And we exposed them to the same overall conditions, except for the fact that the microcosms have different species present because we used real lake water from a local lake for the microcosms. And we also added an element of water flow by adding small water pumps to the microcosms. And then the control cultures are static. So what you would see-- [AUDIO OUT]"
+  },
+  {
+    "start": 977.35,
+    "end": 985.14,
+    "text": "typical lab setting when this kind of solution is being tested. So we did have triplicates for that experiment."
+  },
+  {
+    "start": 987.85,
+    "end": 988.21,
+    "text": "[static"
+  },
+  {
+    "start": 990.05,
+    "end": 990.45,
+    "text": "We."
+  },
+  {
+    "start": 991.17,
+    "end": 993.26,
+    "text": "we extract RNA from both"
+  },
+  {
+    "start": 995.69,
+    "end": 1012.3,
+    "text": "for one natural string and two engineered lab strings which showed good potential in corrosion inhibition in the previous SEM analysis. - And for the mycobacteria in pipes, we had two controls and two. (static)"
+  },
+  {
+    "start": 1012.68,
+    "end": 1018.96,
+    "text": "samples of mycobacteria forming biofilms in dynamic environments on PVC pipes."
+  },
+  {
+    "start": 1019.4,
+    "end": 1025.74,
+    "text": "because it was difficult to extract RNA so we could not get a high end on that because the biofilm was 90%."
+  },
+  {
+    "start": 1026.18,
+    "end": 1029.07,
+    "text": "other things that's not bacteria, so it was difficult."
+  },
+  {
+    "start": 1029.77,
+    "end": 1043.6,
+    "text": "So just for the last questions, I think there will be a lot of like DEGs that you guys have found. Maybe some of the genes were up-regulated and some of them are down-regulated. So compared to the previous studies, do you guys have found some-- [AUDIO OUT]"
+  },
+  {
+    "start": 1044.29,
+    "end": 1047.15,
+    "text": "that are not actually reported."
+  },
+  {
+    "start": 1048.81,
+    "end": 1049.71,
+    "text": "or do you guys have"
+  },
+  {
+    "start": 1050.92,
+    "end": 1053.39,
+    "text": "when you guys analyze the gene expression patterns."
+  },
+  {
+    "start": 1053.8,
+    "end": 1057.52,
+    "text": "Did it show like the similar pattern as the previous studies?"
+  },
+  {
+    "start": 1058.02,
+    "end": 1059.38,
+    "text": "and the gene list."
+  },
+  {
+    "start": 1059.88,
+    "end": 1080.78,
+    "text": "- Yeah, so I would say that across all of our case studies, we found some similarities in the genes that were differentially expressed. And this was also validated by our meta-analysis. So we found similar pathways that were differentially expressed across all of them. Of course, there were some differences and that's why this is important to do on a species-specific level for your specific implementation that you're trying to develop."
+  },
+  {
+    "start": 1081.16,
+    "end": 1106.94,
+    "text": "Some examples of commonly differentially expressed pathways are those involved in oxidative stress response, osmoregulation, nutrient uptake. Those are all related to stress responses and we see downregulation in the microcosms of DNA replication and things that would be related to the bacteria's ability to replicate and survive. But again, it's important to do this on"
+  },
+  {
+    "start": 1107.17,
+    "end": 1121.87,
+    "text": "case study level basis and understand the specific differences that are related to your chassis of interest. Safety comes into that as well because that is going to vary heavily across different species. Not everything is going to produce the same toxins."
+  },
+  {
+    "start": 1122.34,
+    "end": 1140.82,
+    "text": "And also we did see a lot of genes or pathways that we did not expect. I mean, some of them are obvious. We're going to see that they have trouble metabolizing because they don't have enough nutrients. But we did see things like metal metabolism and things that we did not expect to see because they're not commonly known in literature in our pathways."
+  },
+  {
+    "start": 1142.73,
+    "end": 1143.47,
+    "text": "So"
+  },
+  {
+    "start": 1144.07,
+    "end": 1145.04,
+    "text": "So my question is--"
+  },
+  {
+    "start": 1145.64,
+    "end": 1151.06,
+    "text": "So during your presentation, you mentioned that this entire system would help-- [AUDIO OUT]"
+  },
+  {
+    "start": 1151.46,
+    "end": 1158.38,
+    "text": "of aquatic biologists to perfect their selection of chassis and design better experiments."
+  },
+  {
+    "start": 1158.79,
+    "end": 1171.73,
+    "text": "So let me just throw you a hypothetical. So let's say if you were doing this project again, but it's already there, how would you use your system to perfect your experiments?"
+  },
+  {
+    "start": 1172.33,
+    "end": 1175.79,
+    "text": "- Yes, so we would begin with using the chassis selection software."
+  },
+  {
+    "start": 1176.45,
+    "end": 1185.1,
+    "text": "in order to select a chassis because we obviously have ideas of what we would want. We want for corrosion, we would want a bacteria that is able to form biofilms."
+  },
+  {
+    "start": 1185.51,
+    "end": 1186.06,
+    "text": "and for"
+  },
+  {
+    "start": 1188.13,
+    "end": 1207.63,
+    "text": "on the steel and in the ocean, but is it going to be compatible in this ocean environment with this type of salinity and this type of pH? We want to use that software to verify that. We would then turn to the mathematical modeling framework. So instead of starting from scratch like we did this time, we would have a framework in order to more accurately model before we even start wet lab to save ourselves the--"
+  },
+  {
+    "start": 1208.39,
+    "end": 1211.06,
+    "text": "tedious work that our model could predict instead."
+  },
+  {
+    "start": 1211.56,
+    "end": 1213.71,
+    "text": "before even beginning to waste resources."
+  },
+  {
+    "start": 1215.14,
+    "end": 1217.36,
+    "text": "Then we would begin with..."
+  },
+  {
+    "start": 1218.28,
+    "end": 1223.63,
+    "text": "with creating a construct, testing it in the lab, and then testing it microcosm simultaneously."
+  },
+  {
+    "start": 1224.17,
+    "end": 1234.7,
+    "text": "These microcosms we did do, we made ourselves, but now we don't have to make them from scratch. We don't have to think of how am I going to make a pipe microcosm. I have the three, we have the available."
+  },
+  {
+    "start": 1235.53,
+    "end": 1238.93,
+    "text": "way of making it. We have a PVC pipe. This took a lot of"
+  },
+  {
+    "start": 1239.37,
+    "end": 1244.24,
+    "text": "brainstorming and trying to figure out a way to sample from a biofilm growing inside of a pipe."
+  },
+  {
+    "start": 1244.65,
+    "end": 1250.38,
+    "text": "Now we have a way to do that. And this is all available to any researcher who wants to take on these projects themselves."
+  },
+  {
+    "start": 1250.79,
+    "end": 1251.18,
+    "text": "um"
+  },
+  {
+    "start": 1253.19,
+    "end": 1258.29,
+    "text": "And we know the importance of RNA testing. So that is the next thing we would always do."
+  },
+  {
+    "start": 1259.97,
+    "end": 1260.62,
+    "text": "so"
+  },
+  {
+    "start": 1261.0,
+    "end": 1263.57,
+    "text": "My follow-up question would be..."
+  },
+  {
+    "start": 1264.23,
+    "end": 1265.9,
+    "text": "What do you expect?"
+  },
+  {
+    "start": 1266.34,
+    "end": 1268.56,
+    "text": "Let's say you do the experiment using your system."
+  },
+  {
+    "start": 1269.22,
+    "end": 1281.04,
+    "text": "What do you expect the discrepancies from the program and your actual results be from? So what are some limitations of your program that might manifest in your actual experiments?"
+  },
+  {
+    "start": 1281.7,
+    "end": 1304.66,
+    "text": "What your limitation of a program is that it does not consider specifically engineered domesticated species. Like lab strain? Lab strain. Because we have environmental data and these are not considered in our environmental data. There's a way to remediate that. We take the domesticated strain, we put it in a microcosm, we observe how it functions relative to the other species there."
+  },
+  {
+    "start": 1305.32,
+    "end": 1308.11,
+    "text": "However, we have not done this yet, therefore-- [AUDIO OUT]"
+  },
+  {
+    "start": 1309.13,
+    "end": 1314.99,
+    "text": "Therefore, that is the main discrepancy we would see of differences of how it would differentiate between our software."
+  },
+  {
+    "start": 1316.49,
+    "end": 1341.66,
+    "text": "what we also kept in mind with our software with the database, we're able to add more going forward so we can easily add new submissions, even for other synthetic biologists as they work with this framework to improve the database overall. So as we already started setting up the system in place where you can click a tab and you allow it to submit like a CSV file with your environmental metadata along with your metagenomic sample."
+  },
+  {
+    "start": 1341.73,
+    "end": 1362.7,
+    "text": "and the abundance scissors, because we also have a metagenomic pipeline publicly available on our GitLab as well. So we kept this in mind because we always want to keep it growing and to also see the trends and changes, because one location could have changed, especially with climate change. And we want to be able to address that and be able to rerun our predictive models on these new variables."
+  },
+  {
+    "start": 1364.93,
+    "end": 1365.55,
+    "text": "So"
+  },
+  {
+    "start": 1368.58,
+    "end": 1370.58,
+    "text": "30 seconds left maybe we can do one more"
+  },
+  {
+    "start": 1371.33,
+    "end": 1376.34,
+    "text": "There's a question in the group."
+  },
+  {
+    "start": 1376.81,
+    "end": 1381.81,
+    "text": "Can you imagine a scenario where the definition of survival might not be what is desired?"
+  },
+  {
+    "start": 1383.21,
+    "end": 1405.49,
+    "text": "Yes, we understand that our definition of survival is limited to what was available. So right now our survival score is like a proxy score for survival. We're able to get metagenomic data which showed species presence. Pause there. When you say it's a proxy for survival, how do you define survival itself? Is it that the organisms released are alive?"
+  },
+  {
+    "start": 1405.89,
+    "end": 1414.26,
+    "text": "Is it that the organisms released are replicating? Is it that they're able to replicate at a certain growth rate? What exactly does survival mean? That's what I'm trying to ask."
+  },
+  {
+    "start": 1416.01,
+    "end": 1445.98,
+    "text": "Survival stands for presence in this case because from the metagenomic sequence and what we could achieve from what is publicly available reliably across multiple samples was just presence abundance values. So basically we used cracking and breaking to process all these metagenomic samples and we were able to get basically species abundance matrix that said the species present and also the abundance values. So we understand that it may be limited in the fact that it's metagenomics. It's going to show traces of whatever"
+  },
+  {
+    "start": 1446.28,
+    "end": 1456.69,
+    "text": "been there or passed through there, which is why we really want to focus on trying to implement meta transcriptomic data as well to see expression of the genes as well, not just the."
+  },
+  {
+    "start": 1457.13,
+    "end": 1483.32,
+    "text": "possible presence or previous presence out there. Right now, the working definition we are working with is the presence value. So we use a higher presence or abundance value to relate to a higher survival score. So we basically worked under the assumption that with this higher score, then it's likely that the species is able to survive reliably there, especially if we see patterns of similar environments has typically higher abundance scores."
+  },
+  {
+    "start": 1483.43,
+    "end": 1485.36,
+    "text": "So that's what we're working it right now."
+  },
+  {
+    "start": 1487.27,
+    "end": 1490.0,
+    "text": "So we have like 20 seconds left. So"
+  },
+  {
+    "start": 1490.44,
+    "end": 1490.9,
+    "text": "uh"
+  },
+  {
+    "start": 1495.59,
+    "end": 1507.66,
+    "text": "maybe we will stop the session here. So thank you very much. - Thank you very much. - So you can like, yes, thank you very much. And you can backdrop and we'll be ready for the next team. And thank you judges as well."
+  },
+  {
+    "start": 1509.48,
+    "end": 1512.27,
+    "text": "Thank you so much to all the virtual judges as well."
+  },
+  {
+    "start": 1528.17,
+    "end": 1530.38,
+    "text": "Am I still in the Zoom? I am so sorry."
+  },
+  {
+    "start": 1531.27,
+    "end": 1534.54,
+    "text": "I thought I could the zoom -"
+  },
+  {
+    "start": 1536.71,
+    "end": 1539.06,
+    "text": "Thank you so much once again. - Thank you."
+  },
+  {
+    "start": 1541.96,
+    "end": 1543.01,
+    "text": "Yes. Thank you."
+  }
+]

@@ -1,0 +1,236 @@
+Imagine the year 2050. Most diseases of today are treatable.
+But as we go, all that once still remains a threat.
+cancer.
+Already it is the second leading cause of death worldwide.
+Recently, cell therapies like CAR T cells have revolutionized the treatment of blood cancers.
+Yet they remained far from perfect.
+They resist against solid tumors, which account for over 90% of all cancer cases.
+Within the tumor microenvironment, immunosuppressive signals exhaust car T cells
+and block efficacy.
+So we went to the drawing board. What would the perfect cell therapy look like?
+off the shelf, safe and capable of targeting all tumors.
+We envision a bottom-up synthetic immune cell designed for tumor-specific sensing, reversible signal processing, and flexible responses.
+To test our vision, we entered Heidelberg's largest innovation competition.
+Winning it highlighted the potential of our idea motivated us to bring Phoenix to life.
+First, we engineered a sensing layer targeting tumor-specific ligands and activating our cells.
+To ensure safety, we added a second receptor detecting healthy tissue cues, providing an off switch.
+With the help of our digital twin Spark, we use coarse-grained simulations to reduce the background activity of our receptor constructs.
+Next, once a ligand is detected, the cell must process the signal quickly and reversibly.
+For this, we engineered a dynamic phosphorylation circuit inspired by T cell logic.
+spark models these biochemical processes in CD-core and allows us to quickly identify optimal circuit compositions
+for fine-tuned activity.
+Finally, molecular signals trigger therapeutic response.
+The FOSFO binder, our output module, enables flexible control over immune-like functions such as expression,
+or secretion of therapeutic proteins like interleukin-12.
+But there is one more thing.
+How do we depth sensing without having to rebuild the entire unit?
+We use Spark.
+to create de novo binders to cancer proteins.
+Next, molecular dynamic simulations and wet lab validation identify functional binders.
+This can now be used to create custom receptors.
+We applied this pipeline to GDF 15.
+A protein are regulated in pancreatic cancer.
+and post-wiki freeze, we created a functioning receptor.
+The binding of GDF15 recruits the substrate which leads to phosphorylation and nano-luciferase expression.
+To our excitement.
+We measured significant ligand-dependent increase on the first try.
+This proves that with Spark we can rapidly retarget Phoenix cells to any cancer protein.
+Sensing, processing, responding.
+Together, these modules formed the Phoenix Toolbox, an interchangeable and expandable system developed with input from oncologists, protein engineers, and translational scientists.
+To make our collection even better, we are currently extending our sensing repertoire to include pH, ATP, succinate and hypoxia.
+To guide researchers and IGMAs in building synthetic cells, SPARK predicts how receptors, enzymes and substrates behave.
+The result is a versatile framework for programmable immunity, ready to be deployed in a variety of chassis cells.
+Bringing the proof of concept to the clinic is something students like us are barely trained for.
+So together with experts in regulation, translation, and patient advocacy, we hosted a panel discussion where students learned how research can truly reach patients.
+This led us to develop the Heidelberg Translation Roadmap, a student's guide navigating the innovation network.
+It clarifies who to contact, when to engage, and how to prepare.
+After the JEMBRE, our next JEM Forum will ignite the connections between young scientists and stakeholders.
+With this foundation, we're ready to look ahead.
+Let's fast forward 9 years.
+patient is diagnosed with pancreatic cancer.
+After a biopsy and secretome analysis, we identified cancer tumor characteristic proteins and generate a personalized Phoenix cell within days.
+That same design now joins an off-the-shelf library.
+that match the tumor profile of the next patient.
+step by step.
+We engineer a future.
+Resynthetic immune cells outsmart cancer.
+In other words...
+the circuit is built
+Let's switch
+Thanks.
+So I'll start with the question and I think we have one
+Aisha, do you have a question?
+Yes.
+You have done a great project, so congratulations.
+I have a question about your hospital.
+Phoenix relies on reversible kindness, hospitable and switch between on and off states.
+What experimental evidence supports complete reversibility of the signal?
+and how the system behave under fluctuating hypoxia or stoking input.
+I also write this question.
+questions also on the Slack. You can also read the questions in the chat.
+If you did not understand, it's written in the chat. So you can open the chat and maybe read it. I think I understood most of it. So we ourselves did not show full reversibility. Of course, we did show that once you add phosphatase and kinase activity, the circuit is quenched. We didn't induce it sequentially, but we talked to the main author of the phosphorylation circuit, and he told us that he extensively validated this. And since we talk his constructs-- [AUDIO OUT]
+that shouldn't be a problem for us. And I think the second question was related to hypoxia.
+[AUDIO
+I hope I understood it correctly, but we want to integrate hypoxia by essentially fusing a HIF 1 alpha DAGRON to our SH2 or our synths up.
+which then allows it to be degraded if it's in normal conditions and only be activated so the circuit is only switched on when it's in hypoxic conditions like in pancreatic cancer.
+Okay, thank you.
+And I have one more question. Your effector modules releases protein rapidly from the ER.
+How do you prevent unwanted leakage or stress to the cell?
+So we extensively tested the whole secretion module.
+And even without secretion, we could not see a cytotoxic effect on the cells, which suggests that the...
+ER clogging which would come from when there's a lack of secretion.
+didn't really pose a problem for us.
+and
+So what was the other question?
+How do you prevent unwanted leakage or stress to the self?
+So we did see leakage in the system, definitely.
+But we also were in contact with the main author of the paper.
+And he is still working on optimizing the system. So we cooperated with him.
+and he... (static)
+suggested us to use different transmembrane domains in the release construct, which could
+substantially lower the background, but we didn't, we couldn't get to it because of time reasons in the end.
+Okay, thank you.
+presentation than your
+I have a question on your particle option.
+about the GCPR setup. I see that in your part collections you...
+submitted both the activator and like activating receptor and the inhibiting receptor conjugated with an anti-VEGF.
+Not a b
+So my question would be why on both receptors?
+Are you trying to detect the VEGF both for activation and communication?
+Yeah, thank you for the question. So first of all, this was a very nice proof of principle for us because we wanted to show that we can actually also gate this with protein based ligands. And of course, we also adapted it to GDF 15 for another positive ligand. But we also looked for different other negative ligands, which could be also used for for the same GPCR and just by exchanging the nano body make it adaptable to multiple different other negative inputs.
+I have a question about safety concerns. What are the main safety concerns associated with your solution and how is your solution better, safer than other cell therapies?
+So the idea is that our system is safer than other current cell therapies where the incorporation of our secondary receptor, that's like the inhibitory input.
+And regarding the overall safety, we're in close contact with safety experts at our university.
+And we also incorporated a kill switch in our system. So if you administer the cells to the patient, and if there's an unforeseen side effect, you could actually administer a small molecule to the patient. And this would actually then trigger the kill switch in the cells, effectively killing them. It's based on the ICAS-S9.
+kill switch. This is like working with a B-hominidimerizer, it's more monochrome, it could be administered.
+to the patient and then the inducible castor S9 is.
+Dimerized inducing apoptosis.
+We did test this after wiki freeze. The data, oh, why that?
+The data is not the best looking ones. So on the right, we see like a titration curve with Triton just to have like a glimpse of the validation and AP20187 is like the TB homodomoriser. And we can see that if we administer that the cell viability drops.
+But the dynamic range of the essay is not the best so far. So we would still refine this a bit further.
+Thank you.
+(static)
+My question for you is maybe, yeah, you talk a lot about clinicians and
+How do you foresee them using your technology?
+So we specifically decided against talking to patients because we have not received any training and also didn't want to raise any false hopes.
+But we consulted patient advocates because of this.
+and included them in our project and our panel discussion to also have their voices heard.
+Sand further your-
+For most of our experimental data, we did a two-way ANOVA or one-way ANOVA as our statistical test.
+um
+just to show that it's not a random statistical effect, but actually a biological effect. For our main results, we actually also have biological replicates. So for the court architecture, we have three biological replicates as well as for the least contract, I believe.
+And we obviously repeated our experiments a lot with slightly different ratios either or induction ranges. So we also repeated it without being direct biological replicates and still saw the same trends and the same effects.
+And one part you said you want to introduce another part this temperature sensitivity.
+Um...
+Why you came up with this idea?
+like in the body.
+Thank you for the question. Our idea and our approach was checking for current new novel proteins which we can introduce into our circuit. This would add additional input layer and has shown really promising results with the main paper we looked into. It's called a membrane...
+membrane localization using temperature. And you can adjust the temperature basically by fine tuning the protein. And the goal of this would be basically adding our SH2 which is cytosolically and binding it to the melt.
+and having an additional precision by activating externally and locally heated by the patient, which would need further research into this.
+a few here.
+Do you think it's applicable because like 37, 40 degree it's not a huge difference and 40 degree I'll just think about when I have fever
+I don't think that it's
+I think
+(laughing)
+I think, yes, body temperature plays a role as well. However, there are technologies such as ultrasound, which can be specifically targeted at a very accurate and small layer where you can specifically heat up tissue to a very specific temperature. So we're not going in a fever direction because that is dangerous and unspecific. We are using specific temperatures triggered by an external
+source. And in this case, we envision ultrasound to be a very good application of this.
+-
+Yes
+I think if you use an external source or yeah, or basically temperature.
+you will limit your probability rate because the ultrasound's dignity is not that big.
+about range
+I'll do you perceive that
+If I understood correctly, you're asking about because the temperature...
+Because the external trigger, the ultrasound is not that simple for it. So I want to go into the melt more.
+and
+It's important to know that melt can be also adjusted to lower temperatures. We could do also cooling, for example. And the best part about melt is we can actually clone it in different architectures by adding, for example, stem domain to the loft domain. Like the loft domain is the main part, which has a mutation which is only for temperature. But by adding other domains like stem that can enhance or excluding it would-- [AUDIO OUT]
+lower the switching point of the temperature. So we have to figure out if we want to do a cooling or make a do inducing higher temperatures, but we're working on it.
+I hope this clarified it.
+Thank you
+Okay, one more question about this sort of clinical implementation of your project of your solution. So is it meant to work with any type of cancer or like some specific types of cancers or and do you have any evidence for that that it would work? Yes. So the question about the clinical implication.
+Let me just--
+Okay. That's just like a comfortable.
+Sorry, am I still... Can someone help me?
+[static
+(buzzing
+So we considered proteomic studies of the cancer secretomes. For example, we focused on glioma on pancreatic cancer as mentioned about proof of concept and on the cervical cancer, the data we derived from the multi-patients studies of secretome analysis. So the purple ligands are the ligands upregulated in the tumor residues and so like
+positive input potential and
+Orange ligands are down-regulated ligands that would serve as an inhibitory input from the healthy tissue.
+Did that answer your question, you've been
+Thank you
+So you did preliminary test of your split-tef protease. I could not exactly figure out what was your first idea to test or not idea, experimental setup to test this before you-- so-- [AUDIO OUT]
+you test this that you can show that the split protease
+is working. So there was an Lucifer raised readout.
+about how the principle works.
+So first of all, this is the system as it was published previously. So on the right you have the...
+Release construct, which is the non-elusive phrase in our case, tethered to the ER membrane.
+and held back from the secretion pathway by the ER retention signal, which is cleaved off. So this is also our redot.
+because the active type protease cleaves of the retention signal.
+And then leads the, the surface into the secretary pathway where we measured it always in the supernatant.
+So to confirm that a split-tap system in general works, we first did it with the FKBP FRB system, and usable with RAPALOG.
+So there we saw that it works with an inducibility.
+Then we first did the splits.
+Design, you can see on the left on the screen
+where we have SH2 and CD3Z, so the substrate fused to the split-taf halves and later on we fuse them together to increase the overall signal while retaining low background.
+Okay, so in diffusion, you also testing this, how hindering the because you fuse, fuse this together. So what is the distance, perfect distance that that it's not hindering that it's formed the split
+to the functional TV. So that's always the trade-off between the background and the overall activity when you split them. So in a whole fully split system, the overall activity was quite low compared to the split sort of the ink version.
+And also we tested different...
+length of the hinge and also compositions where we saw that a flexible linker had a significantly higher background than for example a semi-rigid linker of proline and alanine which we used in the end.
+And we saw that a linker of length seven worked pretty well. So we saw that the background was non-significantly higher than compared to the note of control while we retained a pretty high signal compared to a full tap.
+And then you continue with this one.
+We tried then the first experiment to see Creed IL-12.
+but then you could not see really an increase in I/O growth.
+compared to
+the Lucifer race.
+Can you have an idea why this was not so effective?
+Yes, so our trial to secrete the IL-12 did indeed show significant increase, but of course you can see the mentioned leakage of the release system, which we are planning to improve and are currently implementing for differential spampering domain. But also IL-12 is a bigger protein than the report. And we only had time to do this quickly before the week if we swans with the freshly arrived ELISA kit.
+So we definitely need a repeat.
+which we would of course implement because this is our target, our butyl gut protein, which is really important for us to optimize without the background.
+that you did most of your experiments in the last minute.
+(laughing)
+- Question for you. - Yeah, no, like I wouldn't say so actually. We did a lot of refinement on all of these parts. So especially if you look at the mesa system in the beginning, actually it killed ourselves. So we actually report that the signal peptides that were used by some of the initial papers were not quite good for the secretile pathway. And for that reason, we did a lot of engineering on all of these parts. So the thing that we show you now are the best parts of all of them. And actually that's also the reason why we show the most promising experiments.
+which were done actually at the end.
+but they have a lever find
+questions.
+No. Can you go a bit more on your.
+I forgot the name on your modeling.
+on the aspect. So how did you come up with combining?
+these different parts.
+and what was your...
+time flow.
+setup that you
+do it the best that it's also useful for eye jam.
+- Yeah, so for a mathematical model, essentially we split into two parts. So that is the receptor dimerization and that's the intracellular processing.
+And first we took both models. We looked into literature and found some good models that represent how we do it in the wet lab and for the intracellular. We took the original paper from Yang et al from 2025, who already did a model. And then we integrated into a complete model, which essentially can, based on the ligand concentrations, predict the phosphorylated substrate concentration.
+And the idea is then that with this, we can predict the phosphorylation behavior of a certain cellular architecture.
+And then because our system is so modular, we can in silico already predict how the cell behaves for very different architectures. And then.
+find the best architecture for certain--
+for certain use case. - Okay, so this is then taking up the work from the lab. So you first do everything and...
+silly girl, whatever.
+I wouldn't say so. I think the model is also helping us, as Paul pointed already out, for all of the future ways that we are going to focus on. If you look at the different tumor profiles that we are going to target, but the dry lab actually improved our wet lab work in so many different ways. If you looked at the dual ligand platform example, the concentrations that we used for both the phosphatase receptor and the kinase receptor were optimized by the model. So actually, all of these fine tuning steps that are pretty hard to tune in the wet lab alone
+We actually did the whole time by assembling with the dry lab team.
+So, we have one minute left.
+some questions or
+You have some.
+giving some input what you enjoy the most.
+doing item
+Yes, so with the plots that were of course minutes, hours, days before the wiki freeze, which you already mentioned were done quite lately. Quite late were the most exciting parts because our interlocated release, although the fault change is visible and needs to be refined, is the full architecture, dependent on the sensing, going through the processing of the signal for the phosphorylation, leading to the TEB reassembly and release of the herpetical payload.
+which was really impressive to see fully working and fully assembled as we envision the future. So we not only optimize the parts.
+through various validation of each of the layer, but also assembled it all together. And we are quite confident that refining it is only another step of our journey, which-- [AUDIO OUT]
+We are willing to compete and I'm really excited about it.
+Okay, sounds good that you continue to work on it.
+Then I thank you for the time.
+Enjoy the last day scene.
+Thank you.
+(static)
+We just leave the zoomed move.
+[INAUDIBLE
+how to leave all okay
+Bye.
+Let's go.
+(static)
+Oh, this is the one.
+You OK?
+saying by
+I'm a black guy
+Move right

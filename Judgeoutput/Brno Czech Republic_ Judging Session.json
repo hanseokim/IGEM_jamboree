@@ -1,0 +1,1187 @@
+[
+  {
+    "start": 5.38,
+    "end": 5.81,
+    "text": "So"
+  },
+  {
+    "start": 6.44,
+    "end": 9.04,
+    "text": "A lot of us grew up on farms and most of us"
+  },
+  {
+    "start": 14.37,
+    "end": 20.98,
+    "text": "So, a lot of us grew up on farms and most of us have a farmer in our family. We know how hard running a farm is."
+  },
+  {
+    "start": 21.83,
+    "end": 26.19,
+    "text": "All 42 farmers we talk to struggle to pay their animals' fees."
+  },
+  {
+    "start": 26.66,
+    "end": 29.42,
+    "text": "Take their eregals. They have to prefer the high protein diet."
+  },
+  {
+    "start": 30.12,
+    "end": 34.99,
+    "text": "The price of the best protein source, soybean, has doubled over the last 25 years."
+  },
+  {
+    "start": 35.72,
+    "end": 39.34,
+    "text": "The largest soy producer and exporter in the world is Brazil."
+  },
+  {
+    "start": 39.88,
+    "end": 45.94,
+    "text": "The rapidly growing agro businesses have brought the most vulnerable Brazilian ecosystem, Serrado,"
+  },
+  {
+    "start": 46.41,
+    "end": 47.86,
+    "text": "to its knees."
+  },
+  {
+    "start": 48.49,
+    "end": 51.66,
+    "text": "A huge problem with one tiny answer."
+  },
+  {
+    "start": 52.2,
+    "end": 53.04,
+    "text": "Meet Dakui."
+  },
+  {
+    "start": 53.41,
+    "end": 65.55,
+    "text": "This plant contains as much protein as soybean and double-sizz biomass every two days. It easily outperforms soy, which, mind you, was selectively bred for thousands of years. Just imagine where duckweed could have been."
+  },
+  {
+    "start": 67.17,
+    "end": 68.21,
+    "text": "We run the numbers."
+  },
+  {
+    "start": 68.58,
+    "end": 74.03,
+    "text": "Switching feed from soybean to duckweed would require expensive changes in farm infrastructure."
+  },
+  {
+    "start": 74.44,
+    "end": 77.14,
+    "text": "this would be a lot of risk. And to make it worthy..."
+  },
+  {
+    "start": 77.51,
+    "end": 95.12,
+    "text": "duckweed needs to make even more biomass. And while it's already too late for selective breeding, it might be too early for synthetic biology. We try to overexpress the bollnake enzymes in nitrogen metabolism in duckweed to boost its growth on manure and feed the biomass to cows."
+  },
+  {
+    "start": 95.97,
+    "end": 96.43,
+    "text": "So."
+  },
+  {
+    "start": 96.87,
+    "end": 98.74,
+    "text": "Why isn't it done already? If it's that"
+  },
+  {
+    "start": 99.56,
+    "end": 100.91,
+    "text": "Well, it's not."
+  },
+  {
+    "start": 101.29,
+    "end": 110.16,
+    "text": "Genetic engineering of duckweed is painfully slow and this is the real bottleneck holding back duckweed research and application."
+  },
+  {
+    "start": 110.66,
+    "end": 113.1,
+    "text": "We talk to a lot of experts around the world."
+  },
+  {
+    "start": 113.57,
+    "end": 114.67,
+    "text": "Do I engineer Duckweed?"
+  },
+  {
+    "start": 115.11,
+    "end": 116.43,
+    "text": "They all have to do the same"
+  },
+  {
+    "start": 116.84,
+    "end": 125.17,
+    "text": "transform ducuite tissue culture with agrobacterium, a natural plant pathogen. Then they can regenerate new plants, but this takes 5 months."
+  },
+  {
+    "start": 125.54,
+    "end": 131.15,
+    "text": "Researchers suffer with deadlines and their plans suffer with unwanted mutations and multiplicative genomes."
+  },
+  {
+    "start": 132.04,
+    "end": 132.88,
+    "text": "And it's iTunes."
+  },
+  {
+    "start": 133.25,
+    "end": 144.37,
+    "text": "We're suffering enough anyway, so we wanted to avoid tissue culture completely. But when we tried applying agrobacterium directly to that weed, we found our DNA is not getting integrated into the genome."
+  },
+  {
+    "start": 145.32,
+    "end": 150.03,
+    "text": "And that's why we built our transposase assisted insertion and front regeneration method."
+  },
+  {
+    "start": 150.89,
+    "end": 155.54,
+    "text": "In Tifer, our Pong transposase recognizes a specific transposon, BINX."
+  },
+  {
+    "start": 155.97,
+    "end": 163.22,
+    "text": "And if we border our gene of interest with these pink elements, Pong transposase will excise it and insert it into the Daku e-genome."
+  },
+  {
+    "start": 164.1,
+    "end": 164.56,
+    "text": "So?"
+  },
+  {
+    "start": 165.06,
+    "end": 166.86,
+    "text": "after 4.5 dB tail cycles."
+  },
+  {
+    "start": 167.49,
+    "end": 176.02,
+    "text": "For the first time in Plan C bio, we inserted a gene into the dacu-geneum without the need for tissue culture, in two weeks instead of two months."
+  },
+  {
+    "start": 176.49,
+    "end": 179.25,
+    "text": "We confirm this by antibiotic survival and genotype."
+  },
+  {
+    "start": 180.49,
+    "end": 180.98,
+    "text": "However,"
+  },
+  {
+    "start": 181.64,
+    "end": 185.62,
+    "text": "In our cells, in our duck reads, not all cells carry the trench genes."
+  },
+  {
+    "start": 186.12,
+    "end": 190.74,
+    "text": "So we designed and built parts to address this in our ongoing fifth D-Meteo cycle."
+  },
+  {
+    "start": 191.14,
+    "end": 197.81,
+    "text": "And to make dacuit engineering even easier, we identified, isolated, tested and characterized 7 dacuit promoters,"
+  },
+  {
+    "start": 198.34,
+    "end": 201.17,
+    "text": "and build a customizable contract for CRISPR knockouts."
+  },
+  {
+    "start": 201.57,
+    "end": 204.5,
+    "text": "Genetic engineering is the fun part of synthetic biology."
+  },
+  {
+    "start": 205.03,
+    "end": 207.57,
+    "text": "but that creature cultivation is the exact opposite."
+  },
+  {
+    "start": 208.55,
+    "end": 214.22,
+    "text": "Right? Dark lead researchers spend hours of work on harvesting, medium exchange and maintenance."
+  },
+  {
+    "start": 214.98,
+    "end": 215.54,
+    "text": "Not anymore."
+  },
+  {
+    "start": 215.97,
+    "end": 231.34,
+    "text": "We built a fully-automized system for efficient dark-witch cultivation with five autonomous layers, medium enriched with four additives, pH and nutrients levels monitored continuously, automized harvest and biomass monitoring. Everything controlled via mobile."
+  },
+  {
+    "start": 232.2,
+    "end": 236.85,
+    "text": "guided by the predictor, a model trained on 6 months of our cultivation data."
+  },
+  {
+    "start": 237.35,
+    "end": 239.57,
+    "text": "everything for less than $1,000."
+  },
+  {
+    "start": 240.2,
+    "end": 242.22,
+    "text": "Blueprints available for everyone."
+  },
+  {
+    "start": 243.33,
+    "end": 244.34,
+    "text": "throughout development"
+  },
+  {
+    "start": 244.87,
+    "end": 251.6,
+    "text": "For that, researchers tested our cultivator and we integrated their feedback to improve our design."
+  },
+  {
+    "start": 253.03,
+    "end": 258.54,
+    "text": "Finally, IGMS and scientists can focus on what's truly important and not on repetitive tasks."
+  },
+  {
+    "start": 260.17,
+    "end": 274.99,
+    "text": "With our customizable pink and pink constructs, anyone can insert any gene into the dakuit genome and with our COS9 tool, anyone can knock any gene out. Those modified dakuits can be then easily grown in our autonomous cultivator in a predictable way."
+  },
+  {
+    "start": 275.62,
+    "end": 276.56,
+    "text": "we call this"
+  },
+  {
+    "start": 277.03,
+    "end": 297.23,
+    "text": "the Darkweed toolbox. With it, future eye jammers, researchers, and even entrepreneurs can use Darkweed for bio remediation, recombinant protein production, or fundamental research. We will bring the Darkweed's potential back to farms and this time make it profitable enough for farmers to finally replace soybean."
+  },
+  {
+    "start": 300.71,
+    "end": 301.14,
+    "text": "Cool."
+  },
+  {
+    "start": 301.64,
+    "end": 302.03,
+    "text": "Hey."
+  },
+  {
+    "start": 302.47,
+    "end": 304.59,
+    "text": "Just in time, 5 seconds left."
+  },
+  {
+    "start": 306.44,
+    "end": 306.93,
+    "text": "um"
+  },
+  {
+    "start": 308.84,
+    "end": 319.6,
+    "text": "I think I have the first question because I'm really curious. You teased on the wiki about the front regeneration and if your algal bacterium can reach the meristematic cells."
+  },
+  {
+    "start": 320.52,
+    "end": 320.94,
+    "text": "Show me"
+  },
+  {
+    "start": 321.51,
+    "end": 323.41,
+    "text": "Does it work? Does it not work? What did"
+  },
+  {
+    "start": 329.89,
+    "end": 330.45,
+    "text": "here. So"
+  },
+  {
+    "start": 335.46,
+    "end": 345.58,
+    "text": "it was on our wiki we designed a way to see if that is actually possible with the time that we had we didn't test it but if you want to we can go over the"
+  },
+  {
+    "start": 345.99,
+    "end": 347.63,
+    "text": "duh"
+  },
+  {
+    "start": 348.26,
+    "end": 349.58,
+    "text": "sorry, how's the disc all"
+  },
+  {
+    "start": 350.18,
+    "end": 352.37,
+    "text": "about the scheme, what's supposed to happen and what not."
+  },
+  {
+    "start": 354.63,
+    "end": 358.19,
+    "text": "I mean, I was also mostly interested in"
+  },
+  {
+    "start": 358.63,
+    "end": 385.28,
+    "text": "what you teach on your wiki, what you will see if you can see the contract. - We realized that agrobacterium, this plant pathogen, which like transferring the DNA, possibly cannot go to the meristematic cells because those have natural mechanism to be like, you know, safeguarded. So we designed the meristematic assay, which is meant to test if agrobacterium can reach to meristematic cells, just knocking out the GFP in our stable clone obtained from Dr. Ordonez, our advisor."
+  },
+  {
+    "start": 385.38,
+    "end": 390.29,
+    "text": "But unfortunately, due to many cloning setbacks, we didn't manage to test this."
+  },
+  {
+    "start": 390.66,
+    "end": 404.72,
+    "text": "But for the possibility that Agrobacterium can enter the meristematic cells, we developed a new assay basically transforming the regeneration factors to basically change those inserted cells into the meristematic, which give rise to a new front."
+  },
+  {
+    "start": 407.37,
+    "end": 413.62,
+    "text": "Okay. Can you give a timeline on how long this will take? So at this point, we're"
+  },
+  {
+    "start": 414.21,
+    "end": 418.83,
+    "text": "at the stage where we have those anti GFP guide RNAs inserted in our..."
+  },
+  {
+    "start": 419.24,
+    "end": 427.22,
+    "text": "construct and we can use them basically as quick as we get back from the from the gem array. Then it will take"
+  },
+  {
+    "start": 428.23,
+    "end": 436.69,
+    "text": "As fast as that could grow, so it's one or two generations over a week, we should see the first GFP quenching. And if we see that, we see that..."
+  },
+  {
+    "start": 437.32,
+    "end": 441.94,
+    "text": "meristematic cells got transformed and got knocked out by our construct."
+  },
+  {
+    "start": 442.34,
+    "end": 446.03,
+    "text": "So it shouldn't take very long to find out what should be next."
+  },
+  {
+    "start": 446.95,
+    "end": 447.89,
+    "text": "Cool, thank you."
+  },
+  {
+    "start": 452.52,
+    "end": 454.8,
+    "text": "Yeah, one quick question because."
+  },
+  {
+    "start": 455.21,
+    "end": 457.62,
+    "text": "I'm living in the countryland and..."
+  },
+  {
+    "start": 458.15,
+    "end": 461.2,
+    "text": "So I see some farmers around my house."
+  },
+  {
+    "start": 461.57,
+    "end": 465.14,
+    "text": "and one of your strategies to harvest"
+  },
+  {
+    "start": 465.67,
+    "end": 467.34,
+    "text": "40%"
+  },
+  {
+    "start": 467.72,
+    "end": 468.82,
+    "text": "every three days."
+  },
+  {
+    "start": 469.32,
+    "end": 470.06,
+    "text": "Keep it."
+  },
+  {
+    "start": 470.82,
+    "end": 475.79,
+    "text": "In my countryland, farmers cannot afford to buy"
+  },
+  {
+    "start": 476.26,
+    "end": 485.52,
+    "text": "harvesting gears so they have to rent them for, I don't know, maybe one day or two days so they have to harvest old or their feed."
+  },
+  {
+    "start": 486.05,
+    "end": 487.98,
+    "text": "how can be possible to..."
+  },
+  {
+    "start": 488.39,
+    "end": 490.45,
+    "text": "to split the harvesting."
+  },
+  {
+    "start": 492.04,
+    "end": 492.85,
+    "text": "split in which way"
+  },
+  {
+    "start": 493.32,
+    "end": 516.56,
+    "text": "by 40% every three days. This is very expensive. - Yeah, sure, sure, sure. - In one day, maybe in one night. - Sure, and this comes to also the thing we were saying, that it's a huge risk and a huge change in farm infrastructure. So we need to justify the change with biomazeal being much higher than there are now. So this is... (static)"
+  },
+  {
+    "start": 516.93,
+    "end": 521.46,
+    "text": "we can't really precisely calculate how much is that going to cost."
+  },
+  {
+    "start": 521.83,
+    "end": 527.34,
+    "text": "We don't know, it is not used yet. But yeah, as we were..."
+  },
+  {
+    "start": 528.74,
+    "end": 533.07,
+    "text": "It takes some time to get to the biomass boosts."
+  },
+  {
+    "start": 533.61,
+    "end": 537.74,
+    "text": "We're saying we need to make it profitable and so on. By the time we can..."
+  },
+  {
+    "start": 538.25,
+    "end": 561.39,
+    "text": "also improve the technical part of our solution, right? So regarding harvesting strategies. So there are companies actually that are doing this quite well. For example, Phyto in the US. And they have the modular harvesting systems that actually allow for easy harvest, autonomous harvest of duckweed. So that would solve that."
+  },
+  {
+    "start": 562.02,
+    "end": 574.1,
+    "text": "Or am I answering your question? - Because you have a lot of discussions with farmers, but did you talk about that, about this change of harvesting method?"
+  },
+  {
+    "start": 575.81,
+    "end": 601.37,
+    "text": "Yeah, basically we told the farmers and I know Matusz told us we were like enthusiastically came to the farmers, you know, like it is now three times more efficient than the soybeans. So switch the degree than farmers like guys from quite a conservative like industry as a good countries were like, okay, but I have no, we have no idea how much it will cost us to grow and harvest that wheat. And so we were like, okay, let's make the worst scenario that duck with a growing duck with on one hectare will be like"
+  },
+  {
+    "start": 601.64,
+    "end": 604.91,
+    "text": "same times more like more like financial in"
+  },
+  {
+    "start": 605.29,
+    "end": 632.73,
+    "text": "investment than the soybean. So to be like 8,000 euros while soybean is basically 800 euros. And how much we need to improve the duckweed yields to justify this cost of switching, this risk of switching for the farmers. Because farmers have to be sure that when they will switch, they will basically see the profits. And we counted that profits for farmers with just three times more efficient duckweed will basically, they will repay the--"
+  },
+  {
+    "start": 632.84,
+    "end": 634.54,
+    "text": "harvesting mechanism in four years."
+  },
+  {
+    "start": 637.86,
+    "end": 645.65,
+    "text": "or just an estimation that we try to estimate it. Exaggerating operation cost of for one hectare of $8,000."
+  },
+  {
+    "start": 646.05,
+    "end": 647.38,
+    "text": "probably very anoreistic"
+  },
+  {
+    "start": 657.25,
+    "end": 661.14,
+    "text": "So regarding the duckweed cultivation."
+  },
+  {
+    "start": 661.77,
+    "end": 665.87,
+    "text": "Where should that take place? Because on the farms you have limited space and we don't have..."
+  },
+  {
+    "start": 666.44,
+    "end": 678.77,
+    "text": "Yeah, big seas or bodies of water to cultivate dark wheat. And if you have a facility to harvest dark wheat, it's a huge effort to transport it to the farms while it's still fresh because I think..."
+  },
+  {
+    "start": 679.53,
+    "end": 683.73,
+    "text": "Stowing dark wheat in a dry farm, it's gonna be more expensive and..."
+  },
+  {
+    "start": 684.23,
+    "end": 685.04,
+    "text": "just to letting it"
+  },
+  {
+    "start": 686.6,
+    "end": 689.97,
+    "text": "put somewhere and just let it be that wouldn't be."
+  },
+  {
+    "start": 690.5,
+    "end": 691.86,
+    "text": "really good for the protein so"
+  },
+  {
+    "start": 692.65,
+    "end": 696.3,
+    "text": "Yeah, exactly that. I don't think your cultivation..."
+  },
+  {
+    "start": 697.73,
+    "end": 698.74,
+    "text": "Method is really..."
+  },
+  {
+    "start": 699.43,
+    "end": 706.61,
+    "text": "cheap compared to soybeans because you need energy you need to build these facilities so do you have a different plan or"
+  },
+  {
+    "start": 707.85,
+    "end": 713.49,
+    "text": "Yes, well, as you said, right now this type of cultivation is definitely much more expensive than soybean."
+  },
+  {
+    "start": 713.93,
+    "end": 717.78,
+    "text": "But that's why we built the cultivator and..."
+  },
+  {
+    "start": 718.63,
+    "end": 719.22,
+    "text": "We"
+  },
+  {
+    "start": 719.62,
+    "end": 721.42,
+    "text": "Currently the"
+  },
+  {
+    "start": 722.5,
+    "end": 726.06,
+    "text": "The bottleneck is the speed at which the duckweed grows."
+  },
+  {
+    "start": 726.44,
+    "end": 732.3,
+    "text": "And in order to improve this, we need to do a lot of experiments, a lot of synthetic biology, and for that..."
+  },
+  {
+    "start": 732.68,
+    "end": 741.52,
+    "text": "We have developed the cultivator so that it helps with these experiments. At some point in the future, once dacuit grows 6 times faster, 10 times faster..."
+  },
+  {
+    "start": 742.21,
+    "end": 751.6,
+    "text": "the technology of the cultivator will already have improved alongside it. And at that point, we believe that this type of dakrit cultivation will be more affordable than soy."
+  },
+  {
+    "start": 755.08,
+    "end": 782.08,
+    "text": "But on the other hand, while it will be happening because it will take some years, the Brazilian farmers can grow dakwit instead of soybean. Because in Brazil, we will feed 100 cows from 9 hectares of dakwit instead of 27 hectares of soybean. So it means that they could be incentivized to use dakwit, even as it's efficient as a well type. Or it will be increased in biomass three times."
+  },
+  {
+    "start": 782.34,
+    "end": 808.6,
+    "text": "While if we would grow dacwin in Czech Republic, we will get only like 4.5 tons from hectare, which is very similar to barley. And Czech farmers wouldn't be incentivized to switch at such a yield because they can grow barley on which they are used to. So basically, and the more Brazilian farmers will grow the dacweed, the bigger the competition will be and the lower the price will be. So Czech farmers can buy cheaper protein from Brazilian farmers, while Brazilian farmers can still have a job which is quite a--"
+  },
+  {
+    "start": 808.68,
+    "end": 809.23,
+    "text": "quite a cool"
+  },
+  {
+    "start": 813.41,
+    "end": 822.93,
+    "text": "I have kind of two questions about safety because you said you genetically modify your dark weight. So first of all, you're generating a GMO."
+  },
+  {
+    "start": 823.37,
+    "end": 825.94,
+    "text": "So what was the response on the farmer?"
+  },
+  {
+    "start": 826.57,
+    "end": 827.02,
+    "text": "They-"
+  },
+  {
+    "start": 827.43,
+    "end": 829.58,
+    "text": "Are they open to use gmos?"
+  },
+  {
+    "start": 830.05,
+    "end": 839.31,
+    "text": "and directly then the next question you make can combine. So how you then avoid escaping your GMO in the nature."
+  },
+  {
+    "start": 839.75,
+    "end": 848.3,
+    "text": "Yeah, we talk with farmers about the GMO and they are currently using GMO soy. So they are okay with it."
+  },
+  {
+    "start": 848.81,
+    "end": 854.0,
+    "text": "if it's economically better for them."
+  },
+  {
+    "start": 856.23,
+    "end": 859.66,
+    "text": "to answer the rest of your question."
+  },
+  {
+    "start": 860.29,
+    "end": 887.9,
+    "text": "To avoid spilling dakweed into the wild GMO dakweed after consultation with Professor Hansen, we wanted to make auxotrophic dakweed, which with our Cas-A-Crisper Cas9 system we will cut off a gene called Theamine synthetase. So the dakweed would depend on vitamin B1 in its media."
+  },
+  {
+    "start": 893.7,
+    "end": 911.31,
+    "text": "And to adapt to it, we already designed the GRNAs for this T-amine phosphatase and it's already cloning our like CRISPR construct, but again, we didn't have time to finish this, but it's our first step after that. And just to add a little bit, we also did some calculations on how much would it cost the farmers to grow this."
+  },
+  {
+    "start": 912.01,
+    "end": 917.78,
+    "text": "they mean deficient or the mutant knockout for them and it would add."
+  },
+  {
+    "start": 918.31,
+    "end": 926.06,
+    "text": "or approximately $600 per hectare, which is a negligible cost with everything's going on."
+  },
+  {
+    "start": 927.14,
+    "end": 928.46,
+    "text": "Yeah, for 100."
+  },
+  {
+    "start": 930.37,
+    "end": 944.66,
+    "text": "Okay. And because soya beans are also in human food. I mean, a lot of human food also depends on or use soya beans. Can you also imagine that the dark wheat would be possible as our food?"
+  },
+  {
+    "start": 945.32,
+    "end": 956.11,
+    "text": "Yeah, so we already tried this. We take part in multiple like startup competitions and there we used Daquid as a supplement for humans, mostly for."
+  },
+  {
+    "start": 956.58,
+    "end": 958.9,
+    "text": "performance athletes and"
+  },
+  {
+    "start": 960.26,
+    "end": 961.78,
+    "text": "sports person."
+  },
+  {
+    "start": 963.91,
+    "end": 964.4,
+    "text": "I didn"
+  },
+  {
+    "start": 965.06,
+    "end": 967.06,
+    "text": "Should I continue or?"
+  },
+  {
+    "start": 967.49,
+    "end": 968.21,
+    "text": "and"
+  },
+  {
+    "start": 969.25,
+    "end": 969.84,
+    "text": "Yes, so"
+  },
+  {
+    "start": 971.69,
+    "end": 973.14,
+    "text": "We will pause for 10 seconds."
+  },
+  {
+    "start": 980.77,
+    "end": 982.03,
+    "text": "seven languages"
+  },
+  {
+    "start": 982.41,
+    "end": 984.4,
+    "text": "OK, I fixed it."
+  },
+  {
+    "start": 985.25,
+    "end": 986.58,
+    "text": "Can we shit?"
+  },
+  {
+    "start": 989.32,
+    "end": 989.87,
+    "text": "uh"
+  },
+  {
+    "start": 990.41,
+    "end": 1000.69,
+    "text": "And as we mentioned, Dacrid has a lot of benefits that can be utilized in, for example, enhancing performance. It has a full amino acid spectrum, which is a rarity among plants."
+  },
+  {
+    "start": 1001.09,
+    "end": 1004.91,
+    "text": "Then it has a lot of Omega-3 assets."
+  },
+  {
+    "start": 1005.32,
+    "end": 1010.54,
+    "text": "And we pitched this to many companies and investors and many of them were..."
+  },
+  {
+    "start": 1011.08,
+    "end": 1016.82,
+    "text": "willing to cooperate with us and we had some deals on the table but we decided to fully focus on."
+  },
+  {
+    "start": 1017.35,
+    "end": 1025.04,
+    "text": "IGM and so therefore we decided not to continue with this project but it's definitely an option and a good one."
+  },
+  {
+    "start": 1025.8,
+    "end": 1031.73,
+    "text": "But you will also talk with the public about because this is another point public and GMOs."
+  },
+  {
+    "start": 1032.17,
+    "end": 1047.76,
+    "text": "because people don't want to eat it. It's important to say that all this project was based on vault type dakwitt, which as it is, is really good and can be used as well. And as you're saying, we..."
+  },
+  {
+    "start": 1048.26,
+    "end": 1059.22,
+    "text": "thought about this and since our main customer would be someone who is really health conscious or maybe even a vegan which would be great alternative for them those people are a lot of like"
+  },
+  {
+    "start": 1059.62,
+    "end": 1064.66,
+    "text": "A lot of them are conscious about GMOs. So therefore we have decided to just use..."
+  },
+  {
+    "start": 1065.09,
+    "end": 1069.07,
+    "text": "wall type decorate as it is. And even though we use just wall type."
+  },
+  {
+    "start": 1070.21,
+    "end": 1075.25,
+    "text": "It was like beneficial for the people and it was even beneficial for us as entrepreneurs or."
+  },
+  {
+    "start": 1075.75,
+    "end": 1076.3,
+    "text": "It was."
+  },
+  {
+    "start": 1077.19,
+    "end": 1089.3,
+    "text": "Just a little bit, dakwit has been already consumed in many parts of the world naturally as a cheap source of protein. For centuries, people in South Asia have been eating it and it's even called Mankai, you know, water eggs, because it contains so much protein."
+  },
+  {
+    "start": 1090.25,
+    "end": 1110.42,
+    "text": "And also we talked to a lot of people at our outreach activities and we talked with them about the GMOs and they were like, okay, you are doing something new, something great. That weed contains a lot of protein and has the great amino acid profile. So they were like, wow."
+  },
+  {
+    "start": 1114.21,
+    "end": 1124.11,
+    "text": "You focus a lot on land usage and yield. I was wondering about the water consumption. So how does that lead scale against soil other feeds there?"
+  },
+  {
+    "start": 1125.38,
+    "end": 1153.21,
+    "text": "Basically, if you would like to feed 100 cows, protein intake for 100 cows a yearly, using a dakkwe, you will need a little bit above 100,000 cubic meters of water. And using the soybean, you will use a little bit less, around like 70,000 cubic meters of water. But in the same time, you will use much less land for dakkwe. So the water is a little bit like forest in dakkwe, but the land is significantly better."
+  },
+  {
+    "start": 1153.38,
+    "end": 1156.56,
+    "text": "land usage. So there is no like cause and benefit analysis."
+  },
+  {
+    "start": 1159.01,
+    "end": 1159.92,
+    "text": "and the light."
+  },
+  {
+    "start": 1162.6,
+    "end": 1167.95,
+    "text": "Was there any other part of your question? And the light? I mean, you need water and light, if I get it correctly."
+  },
+  {
+    "start": 1168.65,
+    "end": 1175.89,
+    "text": "Yeah, but energy. Yeah, yeah. Regarding the regarding the dakkweed and the Brazilian farmers, they will grow it in like"
+  },
+  {
+    "start": 1176.29,
+    "end": 1179.31,
+    "text": "open field with the sandwiches for free and regarding the cultivator."
+  },
+  {
+    "start": 1182.37,
+    "end": 1187.22,
+    "text": "regarding the cultivator, if we, for example, think of..."
+  },
+  {
+    "start": 1187.72,
+    "end": 1188.3,
+    "text": "Oh..."
+  },
+  {
+    "start": 1188.97,
+    "end": 1201.01,
+    "text": "1000 square meters of cultivation area which packs into just one regular size shipping container. The price for electricity would be about 45 euros per day."
+  },
+  {
+    "start": 1202.18,
+    "end": 1210.03,
+    "text": "But this cultivator feeds three cows and it is with our current technology and without the GMO dacrit."
+  },
+  {
+    "start": 1210.69,
+    "end": 1212.53,
+    "text": "So this cost..."
+  },
+  {
+    "start": 1213.22,
+    "end": 1219.34,
+    "text": "Once we make that create grow faster, let's say 10 times faster, this cost will actually go down 10 fold."
+  },
+  {
+    "start": 1224.23,
+    "end": 1234.96,
+    "text": "Just to add to the water question, I think it's important to say that also our cultivator recycles the water, so it's not needed to put more water inside each time."
+  },
+  {
+    "start": 1237.7,
+    "end": 1244.14,
+    "text": "[speaking in foreign language]"
+  },
+  {
+    "start": 1245.61,
+    "end": 1246.67,
+    "text": "You got bad."
+  },
+  {
+    "start": 1247.17,
+    "end": 1250.35,
+    "text": "(speaking in foreign language)"
+  },
+  {
+    "start": 1250.82,
+    "end": 1253.68,
+    "text": "(speaking in Chinese)"
+  },
+  {
+    "start": 1255.4,
+    "end": 1269.36,
+    "text": "Okay, so on your wiki you described that you optimized the plasmid or I think all the plasmids for darkweed. How did the optimization process look like?"
+  },
+  {
+    "start": 1271.88,
+    "end": 1295.89,
+    "text": "- Yeah, so we looked at the Kami Misu database, sorry, Kazusa database, and there are more species of dakwid that we looked at. We looked at the codon usage, and then we used the medium of the codon usage for the different dakwid types because they usually, the codons that they use are quite similar, but not for Walthia or Walthia, right? Yeah. (static buzzing)"
+  },
+  {
+    "start": 1296.26,
+    "end": 1305.23,
+    "text": "So that one was a bit different, but the other ones are pretty similar. So we just did the mean of it. How much goodness do they use at which frequency?"
+  },
+  {
+    "start": 1306.21,
+    "end": 1308.27,
+    "text": "Does it answer a question? Okay, great."
+  },
+  {
+    "start": 1312.61,
+    "end": 1321.01,
+    "text": "maybe adding to that in your experiments where you looked at the GFP expression in the fronts."
+  },
+  {
+    "start": 1321.73,
+    "end": 1324.75,
+    "text": "I can't know what is the name"
+  },
+  {
+    "start": 1325.25,
+    "end": 1333.26,
+    "text": "Yeah, the daughter fronts, daughter fronts. You saw only about half of the daughter fronts produce GFP."
+  },
+  {
+    "start": 1333.99,
+    "end": 1334.58,
+    "text": "um"
+  },
+  {
+    "start": 1334.98,
+    "end": 1341.94,
+    "text": "Do you have a hypothesis why this may be since you state that there is no gene silencing in duckweed?"
+  },
+  {
+    "start": 1342.82,
+    "end": 1345.49,
+    "text": "I think that it's because the..."
+  },
+  {
+    "start": 1346.02,
+    "end": 1350.45,
+    "text": "transformation efficiency just wasn't working for the"
+  },
+  {
+    "start": 1350.82,
+    "end": 1356.4,
+    "text": "one that we didn't glow. So I think that everyone, every deck we didn't glow just wasn't transformed."
+  },
+  {
+    "start": 1356.87,
+    "end": 1361.62,
+    "text": "Just the... Erubakcham didn't get inside because the... yeah."
+  },
+  {
+    "start": 1362.28,
+    "end": 1363.41,
+    "text": "anyone with MC Dredd?"
+  },
+  {
+    "start": 1364.93,
+    "end": 1380.34,
+    "text": "So then how did you choose the plants that you use the daughter fronts of? - Just to make sure, are you the daughter fronts that glowed? - Yeah. - Okay, so-- - Well, not the dot, but so if I understood correctly, you took like parent-- (static)"
+  },
+  {
+    "start": 1381.0,
+    "end": 1391.79,
+    "text": "plants that glowed and then you looked at the daughter fronts and they didn't glow. So then you did PCR and you could detect the product in about half of the plants. And I was just wondering how this works."
+  },
+  {
+    "start": 1393.57,
+    "end": 1395.79,
+    "text": "You mean, I guess you mean the..."
+  },
+  {
+    "start": 1396.39,
+    "end": 1399.7,
+    "text": "the thing where we've shown in our presentation."
+  },
+  {
+    "start": 1400.07,
+    "end": 1400.78,
+    "text": "[static]"
+  },
+  {
+    "start": 1401.61,
+    "end": 1407.44,
+    "text": "No, not this one. Yeah, the one we shown in presentation, the neomycin-resistant fronds. You mean those?"
+  },
+  {
+    "start": 1410.95,
+    "end": 1412.62,
+    "text": "Neomizing resistance fronds, do you mean"
+  },
+  {
+    "start": 1414.12,
+    "end": 1416.37,
+    "text": "I think so. I really spend like the..."
+  },
+  {
+    "start": 1416.81,
+    "end": 1419.06,
+    "text": "Maybe we can make it back or not."
+  },
+  {
+    "start": 1421.45,
+    "end": 1423.12,
+    "text": "There are 12 languages."
+  },
+  {
+    "start": 1424.17,
+    "end": 1425.04,
+    "text": "I already said that."
+  },
+  {
+    "start": 1430.53,
+    "end": 1431.73,
+    "text": "In the"
+  },
+  {
+    "start": 1432.52,
+    "end": 1441.17,
+    "text": "Maybe you specify this on the booth. Last question. What was the most thing you enjoyed in iGEM?"
+  },
+  {
+    "start": 1443.75,
+    "end": 1458.74,
+    "text": "endless laboratory hours of engineering. It was just, you know, honestly it was exhausting sometimes, but this creative process of like finding how to connect those DNA and how to create the construct you need and you really work was really like, like,"
+  },
+  {
+    "start": 1459.11,
+    "end": 1459.66,
+    "text": "how to"
+  },
+  {
+    "start": 1460.33,
+    "end": 1464.14,
+    "text": "rewarding rewarding and enriching that was for me maybe but maybe"
+  },
+  {
+    "start": 1464.58,
+    "end": 1481.9,
+    "text": "Yeah, and to add to that, I think it was fun, but there were more people around, so the nights were there, more people working on it than we were watching movies or something. And sometimes a person came to the lab to check if the PCR is correct and then came to tell us the results. I think that was the fun part."
+  },
+  {
+    "start": 1484.74,
+    "end": 1487.44,
+    "text": "Maybe maybe a bit to add that it."
+  },
+  {
+    "start": 1488.13,
+    "end": 1492.66,
+    "text": "wasn't just in the lab and a lot of work was done out of the lab."
+  },
+  {
+    "start": 1493.19,
+    "end": 1495.92,
+    "text": "And it was something that really connects."
+  },
+  {
+    "start": 1496.29,
+    "end": 1497.26,
+    "text": "like"
+  },
+  {
+    "start": 1497.64,
+    "end": 1501.46,
+    "text": "groups of us and it like makes us to learn."
+  },
+  {
+    "start": 1502.12,
+    "end": 1506.29,
+    "text": "new things and a lot of new things and to sing more"
+  },
+  {
+    "start": 1506.73,
+    "end": 1507.98,
+    "text": "in like bigger picture."
+  },
+  {
+    "start": 1508.55,
+    "end": 1511.41,
+    "text": "And that was really amazing to like help."
+  },
+  {
+    "start": 1511.78,
+    "end": 1512.24,
+    "text": "and"
+  },
+  {
+    "start": 1512.74,
+    "end": 1514.64,
+    "text": "help with each other."
+  },
+  {
+    "start": 1515.4,
+    "end": 1516.43,
+    "text": "to each other."
+  },
+  {
+    "start": 1519.37,
+    "end": 1520.53,
+    "text": "Can I have it explain the"
+  },
+  {
+    "start": 1521.0,
+    "end": 1521.84,
+    "text": "[INAUDIBLE]"
+  },
+  {
+    "start": 1522.6,
+    "end": 1523.28,
+    "text": "- Yeah, it"
+  },
+  {
+    "start": 1524.77,
+    "end": 1537.14,
+    "text": "Can I explain the fronds or not? Sure. You have 30 seconds. Maybe to understand, you know. So we basically this is co-transformation. The pink contract is where the transposons are. This is like the pink. And when we transform the fronds by the pink..."
+  },
+  {
+    "start": 1537.54,
+    "end": 1542.03,
+    "text": "We got the fluorescence. But when we co-transformed with the pong, which is the transposase-- ["
+  },
+  {
+    "start": 1542.41,
+    "end": 1570.24,
+    "text": "In the first six days, we didn't get any fluorescence. So what we were evaluating was just the absence or presence of fluorescence. And the absence of fluorescence meant that the pink, like the pink construct was being excised, moved, and inserted with a, we are like transposase that like it hindered the polymerase, RNA polymerase to express it. But after 12 days, the spots of the GFP starts appearing in mother, mothers, and also the daughter front. So that's the, that's how we evaluated basically the presence and absence of the fluorescence."
+  },
+  {
+    "start": 1571.53,
+    "end": 1571.92,
+    "text": "Alright."
+  },
+  {
+    "start": 1573.64,
+    "end": 1574.74,
+    "text": "Thank you so much for that"
+  },
+  {
+    "start": 1575.11,
+    "end": 1578.86,
+    "text": "We have to close here and enjoy the jamboree."
+  },
+  {
+    "start": 1579.27,
+    "end": 1580.69,
+    "text": "And maybe--"
+  },
+  {
+    "start": 1581.77,
+    "end": 1583.12,
+    "text": "We will see each other on the booth"
+  },
+  {
+    "start": 1583.81,
+    "end": 1587.22,
+    "text": "But anyways, yeah, yeah, I thought it'd be working."
+  },
+  {
+    "start": 1587.78,
+    "end": 1589.26,
+    "text": "then we will definitely see each other."
+  },
+  {
+    "start": 1591.53,
+    "end": 1594.42,
+    "text": "Okay, thank you very much for your time. Thank you!"
+  },
+  {
+    "start": 1594.82,
+    "end": 1595.28,
+    "text": "See you"
+  }
+]

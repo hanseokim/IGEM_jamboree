@@ -1,0 +1,972 @@
+1
+00:00:00,610 --> 00:00:10,640
+Hello judges, we are the Azure COD stream. This year, with our project, Evistosis, we worked on highly fascinating IBM influencer, HP AI.
+
+2
+00:00:11,010 --> 00:00:14,350
+This is that cause major loss in pottery.
+
+3
+00:00:15,460 --> 00:00:16,400
+in our project
+
+4
+00:00:17,480 --> 00:00:24,980
+a create genetically modified chickens with high resistance to HBI using synthetic biopsy.
+
+5
+00:00:26,850 --> 00:00:31,020
+If these chickens are used across the robot 43 industry.
+
+6
+00:00:31,460 --> 00:00:35,090
+we can greatly reduce infection symptoms on this.
+
+7
+00:00:37,160 --> 00:00:38,770
+our system called COCO.
+
+8
+00:00:39,240 --> 00:00:43,380
+makes infective cell and entire apoptosis very quickly.
+
+9
+00:00:44,200 --> 00:00:46,770
+We are still this 2 days at the right time
+
+10
+00:00:47,430 --> 00:00:50,700
+The abuse is chance to replicate inside your cell.
+
+11
+00:00:52,010 --> 00:00:55,150
+This rock replicate across the body, say why sell.
+
+12
+00:00:55,720 --> 00:00:58,030
+and reduce the spread inside the angle.
+
+13
+00:01:00,290 --> 00:01:04,430
+This apoptosis as a clear trigger, double-swung RNA.
+
+14
+00:01:05,030 --> 00:01:10,000
+which appears during infection by RNA virus, such as blood-poor virus.
+
+15
+00:01:11,010 --> 00:01:14,510
+Tocco consists of a fusion protein with two modules.
+
+16
+00:01:15,270 --> 00:01:16,300
+The first module
+
+17
+00:01:16,710 --> 00:01:17,260
+It's up
+
+18
+00:01:18,180 --> 00:01:21,550
+Hey, DSRNA sensor, let's find DSRNA.
+
+19
+00:01:22,020 --> 00:01:24,560
+And then I already got my eyes.
+
+20
+00:01:25,290 --> 00:01:28,560
+The second module is an apoptosis in this area.
+
+21
+00:01:29,060 --> 00:01:31,980
+that becomes active when it polymerizes.
+
+22
+00:01:32,810 --> 00:01:35,600
+because fields need TSR to replicate.
+
+23
+00:01:37,380 --> 00:01:40,400
+the trigger remains even if the build mutates.
+
+24
+00:01:41,190 --> 00:01:46,130
+This means our difference can keep working over time, despite viral change.
+
+25
+00:01:47,750 --> 00:01:53,100
+We build this exciting HPI project and the power of synthetic biopsy was essential.
+
+26
+00:01:54,760 --> 00:01:57,390
+First, we used that idea of Mochira design.
+
+27
+00:01:58,020 --> 00:02:04,820
+Prior work for the DRACO shows a peripheral concept using a TKR FPF1 fusion protein.
+
+28
+00:02:05,480 --> 00:02:09,840
+We sell two roots and two rows inside that design.
+
+29
+00:02:10,310 --> 00:02:12,340
+our sensor and an easy set
+
+30
+00:02:12,900 --> 00:02:18,480
+We tried to build a better fusion by swapping in other proteins that can play some role.
+
+31
+00:02:19,110 --> 00:02:19,700
+Same note.
+
+32
+00:02:20,870 --> 00:02:22,160
+Very useful, right?
+
+33
+00:02:22,790 --> 00:02:25,460
+We kept only the part needed, the puncture.
+
+34
+00:02:26,150 --> 00:02:28,180
+and use Ista as module.
+
+35
+00:02:28,840 --> 00:02:30,900
+In his May, every part of the court called
+
+36
+00:02:31,400 --> 00:02:33,100
+for us the street of modularity.
+
+37
+00:02:35,080 --> 00:02:36,690
+This also a
+
+38
+00:02:40,650 --> 00:02:46,640
+This also makes it easier for others to reuse or adapt cocoa in their own work.
+
+39
+00:02:47,300 --> 00:02:50,160
+Second, our engineering mindset, that's our rival work.
+
+40
+00:02:50,660 --> 00:02:55,090
+A key step was to review and correct the DNS sequence of the GST tag.
+
+41
+00:02:58,530 --> 00:03:06,800
+When we focus on expected result and we analyze the cost ran from data, we change our next step.
+
+42
+00:03:07,370 --> 00:03:11,630
+We had many types of experiments on limited time, but this cycle
+
+43
+00:03:12,200 --> 00:03:14,480
+and help us improve protocol fast.
+
+44
+00:03:15,170 --> 00:03:17,360
+It moves our proof of concept for it.
+
+45
+00:03:18,050 --> 00:03:20,270
+raise the overall quality of our products.
+
+46
+00:03:21,930 --> 00:03:24,820
+We also highlight two topics, modern and human practice.
+
+47
+00:03:25,250 --> 00:03:33,420
+In this model, we video simulation of virus break inside of chickens and worked on improving the decomposition of the bin.
+
+48
+00:03:34,250 --> 00:03:38,380
+few items chains have built such video spreads in simulation
+
+49
+00:03:39,010 --> 00:03:43,920
+So we wrote the method from scratch and documented them clearly for easily.
+
+50
+00:03:44,550 --> 00:03:46,030
+The useful future arguments.
+
+51
+00:03:46,660 --> 00:03:52,880
+For protein inference, we created a workflow that explains standard protein and
+
+52
+00:03:53,290 --> 00:03:55,820
+In front run gates for isolates.
+
+53
+00:03:56,840 --> 00:03:58,640
+Even from high school students.
+
+54
+00:03:59,300 --> 00:04:05,650
+All future Azure teams should use a board to save time and optimize protein more efficiently.
+
+55
+00:04:06,820 --> 00:04:07,920
+In human practice
+
+56
+00:04:08,450 --> 00:04:10,160
+As a weight melon is
+
+57
+00:04:12,070 --> 00:04:21,970
+EBOB is a workflow that combines software often used by Isengine. This is another built example that our product work is used on standard components of synthetic biology.
+
+58
+00:04:22,920 --> 00:04:28,270
+In human practice, we build a new model called Compass3. It gives the project need fast interview.
+
+59
+00:04:28,810 --> 00:04:31,060
+to the right stakeholder to interview.
+
+60
+00:04:31,590 --> 00:04:37,550
+All future achievements should use compulsory to do human practice that varies quality over quantity.
+
+61
+00:04:38,210 --> 00:04:40,940
+Our project is perfect, it's not perfect.
+
+62
+00:04:41,730 --> 00:04:53,010
+We create a short model item work based on the idea of synthetic biology. We also provide use result for filter scenes, experiments, data, manufacture, model and clear methods.
+
+63
+00:04:53,770 --> 00:04:58,260
+We hope our project helps Azure grow and contribution.
+
+64
+00:04:58,630 --> 00:05:00,690
+to absorbing the HPA problem.
+
+65
+00:05:01,320 --> 00:05:02,350
+Thank you for your attention.
+
+66
+00:05:03,530 --> 00:05:04,500
+Thank you.
+
+67
+00:05:09,610 --> 00:05:12,780
+Thank you very much. We'll start again with the online judges.
+
+68
+00:05:15,270 --> 00:05:19,860
+Hello everyone, congratulations for a project. Very, very, very well thought.
+
+69
+00:05:20,450 --> 00:05:25,140
+So I would type my question here in the chat for a better clarification.
+
+70
+00:05:25,860 --> 00:05:31,310
+But the question is, your human practice is really impressive.
+
+71
+00:05:31,810 --> 00:05:38,930
+and comprehensive. So which stakeholder feedback do you think had the biggest impact?
+
+72
+00:05:39,300 --> 00:05:40,910
+on shaping your project.
+
+73
+00:06:02,850 --> 00:06:03,340
+wait a
+
+74
+00:06:24,770 --> 00:06:25,900
+Im... Im... Im...
+
+75
+00:06:26,340 --> 00:06:30,770
+Sorry, Ken, you get closer to the mic, please.
+
+76
+00:06:34,050 --> 00:06:34,700
+Oh
+
+77
+00:06:36,010 --> 00:06:36,530
+Thank you.
+
+78
+00:06:37,060 --> 00:06:38,060
+Can I hear my boss?
+
+79
+00:06:38,600 --> 00:06:39,020
+Yes.
+
+80
+00:06:42,500 --> 00:06:43,470
+the most ehh
+
+81
+00:06:44,260 --> 00:06:49,330
+In fact, a GitHub project is the researcher of League of Eye.
+
+82
+00:06:51,720 --> 00:06:52,210
+Yeah.
+
+83
+00:06:53,450 --> 00:06:57,940
+and our fusion protein consists of the DSR-NA sensor.
+
+84
+00:06:58,600 --> 00:07:02,320
+regret is important to us on the sensor as a plus. So.
+
+85
+00:07:03,880 --> 00:07:07,730
+through that interview of Regoi Ekspot.
+
+86
+00:07:08,930 --> 00:07:10,160
+We can't--
+
+87
+00:07:10,820 --> 00:07:15,220
+We can detect that regular is can't use for the disk unnecessary.
+
+88
+00:07:17,090 --> 00:07:18,030
+It is bad.
+
+89
+00:07:20,580 --> 00:07:23,220
+It just gave us the very, very big impact.
+
+90
+00:07:24,010 --> 00:07:24,370
+and
+
+91
+00:07:26,730 --> 00:07:29,070
+assemble our wet design.
+
+92
+00:07:29,890 --> 00:07:31,790
+So it's the most impact, the most impact,
+
+93
+00:07:35,270 --> 00:07:42,480
+- Perfect, thank you. My other question is if these genetically modified chickens were to be implemented. (static)
+
+94
+00:07:42,920 --> 00:07:44,340
+in real boat reforms.
+
+95
+00:07:44,740 --> 00:07:49,460
+What do you think would be the best, biggest, technical or logical challenge?
+
+96
+00:07:58,690 --> 00:08:00,720
+or logistical challenge for it.
+
+97
+00:08:10,890 --> 00:08:14,480
+And the biggest challenge and risk is--
+
+98
+00:08:14,890 --> 00:08:15,340
+and
+
+99
+00:08:18,760 --> 00:08:25,900
+(speaking in foreign language)
+
+100
+00:08:26,500 --> 00:08:29,970
+There's a risk of gene flow by mating with wide relatives.
+
+101
+00:08:30,370 --> 00:08:37,360
+To prevent this, we will not raise kiwachiken in area where the wild ancestor arrives.
+
+102
+00:08:38,250 --> 00:08:41,300
+for facility containment.
+
+103
+00:08:41,730 --> 00:08:43,920
+we can reinforce the cross.
+
+104
+00:08:44,770 --> 00:08:46,700
+and housing such as white and wind.
+
+105
+00:08:47,110 --> 00:08:48,690
+When a window rest.
+
+106
+00:08:49,090 --> 00:08:52,980
+a pottery farm to keep birds and materials inside.
+
+107
+00:08:56,970 --> 00:08:57,520
+Thank you.
+
+108
+00:08:58,690 --> 00:08:59,150
+Thank you
+
+109
+00:09:04,040 --> 00:09:04,980
+presentation
+
+110
+00:09:05,480 --> 00:09:06,580
+and good project.
+
+111
+00:09:07,330 --> 00:09:09,710
+and we can also see my question in the chat box.
+
+112
+00:09:10,730 --> 00:09:14,960
+How will the system and the distinction between the double strand RNA
+
+113
+00:09:16,010 --> 00:09:18,700
+I am the endogenous irony.
+
+114
+00:09:20,200 --> 00:09:24,460
+to prevent the unintended apoptosis in the normal cells or healthy cells.
+
+115
+00:09:33,670 --> 00:09:35,280
+Could you repeat your question?
+
+116
+00:09:36,520 --> 00:09:38,900
+I also give in the chat box, you can also read the question
+
+117
+00:09:40,200 --> 00:09:42,350
+The system you should be to develop now.
+
+118
+00:09:42,730 --> 00:09:46,160
+How can distinguish this double-san RNA from the wider intracruses?
+
+119
+00:09:47,080 --> 00:09:49,520
+and as well as from the healthy cells, normal cells.
+
+120
+00:10:19,780 --> 00:10:31,920
+Our DSR RNA sensor PKR and Reg Y don't detect the miRNA because miRNA is shorter than 13 base pair.
+
+121
+00:10:33,380 --> 00:10:40,210
+PKL only detects more than 30 base pair DSRNA.
+
+122
+00:10:40,610 --> 00:10:41,070
+So.
+
+123
+00:10:41,450 --> 00:10:47,470
+our DSR necessary to take, avoid the detecting and to.
+
+124
+00:10:47,880 --> 00:10:48,720
+in my RNA.
+
+125
+00:10:50,660 --> 00:10:54,160
+So the sensor will detect only the shorter RNA or longer RNA.
+
+126
+00:10:57,990 --> 00:10:59,150
+Sorry, could you repeat?
+
+127
+00:10:59,750 --> 00:11:04,620
+>> The detector will detect only the longer MIRNA or shorter one.
+
+128
+00:11:08,070 --> 00:11:11,820
+Sorry, please say that to your question more slowly.
+
+129
+00:11:13,960 --> 00:11:18,380
+I mean, we are not good at speaking and raising English.
+
+130
+00:11:18,890 --> 00:11:20,720
+OK, you can see the next question in the
+
+131
+00:11:23,370 --> 00:11:24,750
+so this
+
+132
+00:11:25,130 --> 00:11:27,500
+You know the virus will replicate very rapidly.
+
+133
+00:11:30,180 --> 00:11:33,520
+whether a system is fast enough to prevent the replication of this virus.
+
+134
+00:12:44,450 --> 00:12:45,780
+Sorry for waiting.
+
+135
+00:12:46,280 --> 00:12:49,390
+We do not talk exactly to...
+
+136
+00:12:49,960 --> 00:12:51,570
+It is enough to add.
+
+137
+00:12:53,030 --> 00:12:58,350
+in this process, okay, first enough to prevent significant virus amplification.
+
+138
+00:12:59,400 --> 00:13:06,670
+A coco can trigger apoptosis without new transcription or translation. So it should act before the virus grows in the cell.
+
+139
+00:13:07,620 --> 00:13:09,460
+Okay, okay, good, fine, thank you
+
+140
+00:13:09,990 --> 00:13:10,420
+Thank you
+
+141
+00:13:14,120 --> 00:13:19,630
+Yeah, I can go on. You have a very big entrepreneurship part in your project.
+
+142
+00:13:20,100 --> 00:13:35,380
+And I was very impressed by that. If you want to take this further into like real entrepreneurship, what would be your first step? Like, how would you enter the market or how would you deal with that?
+
+143
+00:13:37,130 --> 00:13:37,550
+[BL
+
+144
+00:13:38,150 --> 00:13:44,660
+And do you mean that to where the market first approach, how fast we approach?
+
+145
+00:13:45,130 --> 00:13:46,190
+Yes.
+
+146
+00:13:57,130 --> 00:14:01,070
+We approach some reasons that it is--
+
+147
+00:14:01,570 --> 00:14:02,030
+and
+
+148
+00:14:02,630 --> 00:14:04,240
+Wait a minute.
+
+149
+00:14:06,340 --> 00:14:08,620
+Difficult to say in English.
+
+150
+00:14:09,540 --> 00:14:10,350
+understandable.
+
+151
+00:14:42,920 --> 00:14:48,180
+To implement kyochicking as a product in real society, it is a tool.
+
+152
+00:14:51,050 --> 00:14:52,400
+It wait.
+
+153
+00:14:54,950 --> 00:14:56,300
+We established a flat.
+
+154
+00:14:57,090 --> 00:15:07,410
+and identify initial potential customer, the predatory farms in region with significant HPAI damage and predatory farms in region other than how
+
+155
+00:15:08,010 --> 00:15:10,380
+those with strict regulation.
+
+156
+00:15:11,490 --> 00:15:13,010
+or genetically modified foods.
+
+157
+00:15:13,510 --> 00:15:18,640
+So the region is North America, South America.
+
+158
+00:15:19,080 --> 00:15:19,950
+like those regions.
+
+159
+00:15:21,320 --> 00:15:22,380
+Thank you very much.
+
+160
+00:15:27,590 --> 00:15:28,050
+and
+
+161
+00:15:29,060 --> 00:15:33,360
+So I had a couple of questions about the wet lab work that you guys did.
+
+162
+00:15:34,020 --> 00:15:35,180
+As he did.
+
+163
+00:15:35,750 --> 00:15:39,760
+pull down assays to see if your protein interacted with your...
+
+164
+00:15:40,130 --> 00:15:43,470
+the DS-DNA that you put in as a...
+
+165
+00:15:43,970 --> 00:15:44,940
+mock
+
+166
+00:15:45,380 --> 00:15:47,790
+to add the event where the influenza.
+
+167
+00:15:48,170 --> 00:15:54,510
+DNA, and then you also did an influenza assay in the HEC cells, correct?
+
+168
+00:15:55,170 --> 00:15:56,110
+Do you know
+
+169
+00:15:57,290 --> 00:16:04,270
+Can you hypothesize to why you didn't observe any interaction between your protein and the DNA? Oh, okay. I see.
+
+170
+00:16:21,830 --> 00:16:22,350
+Oh.
+
+171
+00:16:23,490 --> 00:16:28,340
+We think the main cause of the in vitro failures were unstable recombinant proteins.
+
+172
+00:16:29,090 --> 00:16:37,740
+In iMouser, a cop is expressed and falls in a native environment, so this instability should be much lower.
+
+173
+00:16:38,340 --> 00:16:46,930
+supporting this, some line tests showed the core function, these are independent a-portals in different
+
+174
+00:16:47,690 --> 00:16:51,730
+Stabil Express Lick Eye Color Everfront.
+
+175
+00:16:52,170 --> 00:16:54,960
+Design and transfection led to a clear light of
+
+176
+00:16:55,620 --> 00:17:00,210
+(static)
+
+177
+00:17:05,570 --> 00:17:08,110
+Another question, which was, um,
+
+178
+00:17:09,610 --> 00:17:10,450
+If you...
+
+179
+00:17:11,430 --> 00:17:24,180
+burden does this system result in for the cell? And if it does cause burden, which most recombinant proteins do, how would you maintain expression in the chickens long term?
+
+180
+00:17:24,650 --> 00:17:30,420
+So how do you stop them from the cells from stopping expressing it because it doesn't need it. Yeah, not seeing the virus.
+
+181
+00:17:31,490 --> 00:17:32,270
+OK, thank you
+
+182
+00:17:41,800 --> 00:17:42,800
+of the
+
+183
+00:17:46,630 --> 00:17:49,260
+Can you summarize your question and drop the interrupt?
+
+184
+00:17:49,770 --> 00:17:50,480
+- That's a
+
+185
+00:17:51,050 --> 00:17:51,470
+Thank you
+
+186
+00:18:57,570 --> 00:18:58,220
+Use your not
+
+187
+00:19:07,690 --> 00:19:08,820
+Just it start on
+
+188
+00:19:10,280 --> 00:19:10,990
+- That's what
+
+189
+00:19:14,440 --> 00:19:14,830
+side
+
+190
+00:19:15,270 --> 00:19:15,860
+(static)
+
+191
+00:19:17,250 --> 00:19:18,540
+Our system code code.
+
+192
+00:19:19,110 --> 00:19:21,100
+It must end the prototype.
+
+193
+00:19:21,830 --> 00:19:23,920
+HPA eyes, a replication in the cell.
+
+194
+00:19:24,520 --> 00:19:30,260
+and hold the body. So our coco is expressed in all the cells in the hold the body.
+
+195
+00:19:31,370 --> 00:19:32,400
+and a tube.
+
+196
+00:19:33,570 --> 00:19:36,720
+We went from two to two.
+
+197
+00:19:37,730 --> 00:19:42,260
+go into a safe harbor site at the chicken cell.
+
+198
+00:19:42,660 --> 00:19:46,450
+or insert it near PKR or a regret local.
+
+199
+00:19:46,820 --> 00:19:47,760
+and raise reason
+
+200
+00:19:48,130 --> 00:19:49,490
+to keep stable expression.
+
+201
+00:19:50,250 --> 00:19:51,950
+in that cell as well.
+
+202
+00:19:52,360 --> 00:19:54,900
+same quantity.
+
+203
+00:19:55,780 --> 00:19:56,750
+PK out regretting
+
+204
+00:20:00,290 --> 00:20:01,230
+Thank you.
+
+205
+00:20:02,050 --> 00:20:03,700
+Thank you very much for your presentation.
+
+206
+00:20:04,200 --> 00:20:04,780
+M
+
+207
+00:20:05,450 --> 00:20:05,940
+So
+
+208
+00:20:07,330 --> 00:20:09,680
+My first question, I guess...
+
+209
+00:20:10,410 --> 00:20:12,690
+It's about the mutations you're trying to do.
+
+210
+00:20:13,090 --> 00:20:16,560
+to the double stranded RNA binding proteins.
+
+211
+00:20:16,970 --> 00:20:22,540
+At some point in your wiki you mentioned that you want to keep these proteins as...
+
+212
+00:20:23,080 --> 00:20:26,640
+similar as possible to the one that are in the chicken already.
+
+213
+00:20:27,140 --> 00:20:29,840
+but now you are starting to mutate them to a...
+
+214
+00:20:30,210 --> 00:20:31,790
+have the domain interactions
+
+215
+00:20:32,490 --> 00:20:33,100
+So.
+
+216
+00:20:34,050 --> 00:20:39,570
+How do you think you want to balance this out? Like how this is similar? Do you want them to keep to the natural proteins?
+
+217
+00:20:40,100 --> 00:20:44,400
+Or do you need to really heavily mutate them to actually make this work?
+
+218
+00:20:47,370 --> 00:20:48,210
+and stop writing
+
+219
+00:21:12,870 --> 00:21:14,190
+Yeah, one second.
+
+220
+00:23:18,850 --> 00:23:23,700
+Yeah, yeah, my voice.
+
+221
+00:23:24,170 --> 00:23:28,270
+Thank you very much as always.
+
+222
+00:23:56,100 --> 00:23:58,380
+(buzzing)
+
+223
+00:24:26,820 --> 00:24:29,010
+Sorry about my baking, no worries.
+
+224
+00:24:31,880 --> 00:24:35,860
+added mutations for our fusion protein.
+
+225
+00:24:36,580 --> 00:24:41,520
+It may not consist as self-learning and it's not a tool.
+
+226
+00:24:41,890 --> 00:24:44,400
+This is, it's not a tool.
+
+227
+00:24:45,890 --> 00:24:58,100
+categorized for safe to get them to edit it. Organisms. We aim to add our chickens and making to a game edit it seconds as a
+
+228
+00:24:58,980 --> 00:25:04,110
+as a stage, in the stage at the real application for society.
+
+229
+00:25:04,970 --> 00:25:08,400
+in some regions, but in some regions that are outside.
+
+230
+00:25:08,900 --> 00:25:09,490
+and
+
+231
+00:25:10,570 --> 00:25:11,380
+hot hangout rolls
+
+232
+00:25:13,410 --> 00:25:14,900
+Oh, wait a minute.
+
+233
+00:25:24,900 --> 00:25:26,420
+We didn't, sorry.
+
+234
+00:25:27,590 --> 00:25:31,630
+Let me rephrase my answer.
+
+235
+00:25:33,930 --> 00:25:37,170
+So we do not study the regular classic in detail yet, so
+
+236
+00:25:37,700 --> 00:25:40,180
+We will consult Japan's math and
+
+237
+00:25:41,130 --> 00:25:43,220
+to a clarify the category.
+
+238
+00:25:44,170 --> 00:25:45,620
+yes
+
+239
+00:25:46,820 --> 00:25:53,940
+Thank you very much. We are out of time. Thank you very much again for the presentation and good job everyone.
+
+240
+00:25:56,420 --> 00:25:57,010
+Thank you.
+
+241
+00:26:17,510 --> 00:26:20,180
+Thank you very much for online judges. Thank you.
+
+242
+00:26:21,670 --> 00:26:22,320
+participating.
+
+243
+00:26:22,690 --> 00:26:23,010
+Thank
+

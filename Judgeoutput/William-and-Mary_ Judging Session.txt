@@ -1,0 +1,184 @@
+Good afternoon. We are one May I-GEM. We are aware that you have such a full schedule, so we thought we'd begin with a brief overview of our project, summarize our main deliverables, and present some exciting updates on what we've been up to since WikiFreeze.
+Our team is from Williamsburg, Virginia, where Williamsburg and surrounding regions face really serious water challenges, including algal blooms in nearby lakes, corrosion on local ships and bridges, and pathogenic bacteria contamination in nearby cities.
+We wanted to use Senbiah to address these problems.
+But we found that there was a large gap in foundational knowledge of how engineered chassis actually function in the real world.
+We took on a really ambitious project.
+especially for a team of six people given that we started in February and no one university has worked on this before.
+Rather than solely creating engineering solutions, we wanted to address the gap in foundational knowledge with the overall goal of generating design principles for employing sin bio and aquatic systems.
+We did just that with the following accomplishments.
+First, we created novel software tools, a query and a choir, which utilize machine learning to predict whether chassis will survive in an aquatic environment.
+A query, or database with over 2,000 samples, relates metagenomic data stored in taxonomic matrices with environmental factors.
+It features exclusively shotgun metagenomic data, not 16S, in order to achieve species-level taxonomic processing.
+Acquire our ML software predicts chassis survival under provided conditions, considering environmental factors and community structure.
+Since Wikifreeze, we've expanded a choir's coverage to over 20,000 chassis, and we're incorporating meta-transcriptomic data.
+we also developed a generalizable math modeling framework.
+not just for our individual case studies, but to support a broad range of aquatic applications by incorporating complex fluid dynamics and accounting for biotic and abiotic factors to acquire.
+After WikiFreeze, we expanded our modeling framework to include static water conditions and created a guidebook.
+We also performed controlled, environmentally relevant case studies to generate design principles and developed as a byproduct potential engineering solutions in novel parts.
+We began by engineering an inducible basil-sapil system that strengthens biofoam formation for corrosion prevention.
+We also optimized the B-subtiles integration vector and made it compatible with iGenPART standards for everyone to use.
+We then tested engineered strains on steel and seawater microcosms and identified gene expression differences through controlled paired RNA analysis. Something we found was rare in publicly available data sets.
+Post-Wiki freeze, we studied our strains' corrosion inhibition efficiency for an extended period of time.
+We then assessed two algal bloom remediation strategies. However, after conducting 250 assays searching for novel microcystis phage and from input from IHP, we found that phage did not offer feasible treatment strategies perhaps.
+We therefore assessed A. balei's bloomer mediation potential through well-controlled microcosm experiments using metagenomic and metatranscriptomic analyses. Since wikiFREES, we've continued to analyze RNA-seq data and identified over 250 DE genes and associated pathways that affect chassis behavior in realistic environments.
+We also developed a phage cocktail to maximize mycobacterial lysis and prevent biofilm maturation in household pipes.
+We tested it both under lab conditions and a microcosm simulating PVC pipes.
+Using different forms of measurement and RNA-seq data, we generated design principles for FAGE treatments better suited for dynamic environments.
+Post-Wiki-Freeze, we analyzed RNA-seq data further in order to identify almost 500 differential expressed genes.
+our CART project incorporated measurements across multiple stages. This approach not only provided a comprehensive evaluation of experimental outcomes, but also promoted accessibility.
+Perhaps most importantly, we include a type of measurement not typical for iGEM. We mined the wealth of publicly available RNA-seq data and performed a meta-analysis of genes differentially expressed between lab in more dynamic conditions.
+We identified paired studies in literature and performed pathway analysis for each study ourselves.
+Given the substantial amount of data, thousands of samples, we then turn to using AI tools to complement this analysis, which we verified using the previous approach.
+Through a meta-analysis of existing data sets, mathematical modeling, and wet lab experimentation in aquatic environments, our project generated foundational advances into how synthetic constructs actually behave in aquatic environments.
+From there, we generated design principles that offer guidelines for how to select, enhance, and engineer constructs that would function more reliably in the real world.
+For resources on reliable implementation, we offer a guidebook and a quick start guide for synthetic biologists and policy makers.
+Circling back to where we started, we hope that these foundational insights will help enhance safety understanding and lead to more effective policy, as suggested by our RHP, to one day channel sent bio from the lab into aquatic environments.
+Thank you, we'd love to answer any questions.
+It's exactly five minutes. So we'll move on to the 20 minute Q and a session.
+So I would first invite the online judges. If you have any questions, you may speak up or type in the chat. I'll have you read it out.
+Can you also open the chat here? Oh, I'm so sorry. You guys can just read the options.
+So uh...
+Yes.
+So from Kennedy, in my professional experience, it's often the case that the barrier of implementation of sin-bio solutions is not the concern that the solution will survive, but in fact, the concern that the sin-bio solution will be too successful and imbalance the ecosystem.
+How could your models be further developed to address these concerns?
+This stresses the importance of testing things in realistic environments.
+Our models may not suggest how this is going to overpower because our models do not incorporate specifically engineered solutions. We focused more on using available data from the real world and that data does not usually incorporate.
+Engineered.
+solutions because they've never been implemented in the real world.
+However, this is the importance of testing in simulated real-world environments. For all of our case studies, we constructed microcosms and tested that and got RNA-seq data, as well as 16S data, which would be an indicator of species competition. So through 16S data and metagenomic data, you'd be able to see competition, and you'd be able to see how it would outcompute other species.
+Okay. Thank you for your presentation. Can you hear me?
+Yes. Yes. Okay. Thank you. I'm Wilson and I'm the online judge. So I'm very curious about your, um, module in part, like how modular and transferable is your project. Could other IGM teams like easily adapt?
+your equations or your your modeling to their own applications.
+Am I muted?
+We tried to make it as accessible for...
+future synthetic biologists to use our modeling framework as possible. So in the case of pipe transport, we reduce the system so that...
+although it's
+modeling how phage is being transported. It could be any tran, any species being transported in that pipe framework.
+or for modeling stuff in lakes.
+We made some various assumptions, but overall it's simulating how that bacteria or how that chassis is being transported along in that lake and how it's reacting with the environments around it.
+All right, thank you.
+So
+One more question from-- [
+So based on the data generated from studying the microcosms, do you have any safety recommendations for future synbaro products targeting an aquatic system?
+Yeah, so do you want to answer this one with your, okay.
+So through our microcosm experiments, we did do differential gene expression analysis, and we found different pathways, some of which may be toxic on a larger scale. So this is something we need to take into account when we circle back to engineering again, based on this RNA-seq data, to try to suppress the genes that encode for toxins.
+to prevent those from being expressed in a larger scale.
+Besides, in the corrosion case study, we engineer a totally controllable, zealous, inducible controlling system that only when the inducer is present, it is going to express the engineered circuits. So this is also for a safety concern. Also, we chose zealous as the inducer. It's not like IPTG or other inducers that there are some inducers that are toxic to the ocean environments.
+'Cause we are aware that we are spreading those inducers. (static)
+for the corrosion example on the ship's surfaces. So we are aware of this.
+we're selecting zylos which is totally like biodegradable
+- Thank you. So any questions from? - Okay. I think it's my turn to ask a question. Thank you for your presentation. Your project is saving three problem including the steel corrosion, micro bacteria, biofilm removal. I want to confirm why did you choose bacillus, sub-tillius?
+as the charges, organization. Do you have any data or evidence to support your conclusion? - Okay.
+First our project is not to create engineering solution for these three case studies, but use these three case studies as a proof of concept engineering for our software and our mathematical model to
+like fulfill the gap in the foundational events of channeling these assets to the aquatic environment. Second, for my bacillus, I choose bacillus septulus because there were a Google SL 2017 paper, which is also like I believe in our reference list, that is proving that like using the bacillus septulus can form a microbial biofilm that uniformly coat.
+on the steel surfaces that is going to protect the steel surfaces from corrosion. There's also a-- [AUDIO OUT]
+Also, go at L 2021, I believe, review paper on this total, like, microbial induced corrosion inhibition method. Yeah.
+I'd like to say that the ideal way of choosing a chassis would be to use the software that we developed to test if it's going to be compatible in the environment we want to put it in. However, we did not have the software when we're starting our case studies. This is something we developed throughout. [AUDIO OUT]
+throughout our projects. By the time we had the software available, we had already chosen our chassis, but that would be the way that we would go about that now.
+Okay, could you tell me what's your application scenario in the future? Do you consider the long term impact under efficiency application? - So, tell us about our overall project.
+Yeah, over a trap. So we see the large long-term implementation of our project to be a synthetic biologist or people in the field using our design principles, the ones that we generated throughout our project, using our software and using our math models to predict whether chassis will survive and function reliably. Using the...
+using our pathways that we found through differential gene analysis.
+in order to enhance their chassis in order to function. So using our design principles, and I can bring them back up.
+Um.
+using our design principles on a larger scale in order to create some biosolutions that would be more applicable in the real world.
+to be better working in the real world.
+further about the deficiency. Did you consider the long term efficiency of your project to the environment?
+and
+of our design principles?
+Yes.
+Maybe I can improve my expression into the chat box.
+Do you consider the long term?
+impact on drip efficiency to
+to the environment.
+Yes, so.
+Because our design principles include RNA-seq analysis, that is a really good indicator of toxin and gene expression that would affect the environment. This is a really important part before-- [AUDIO OUT]
+before applying anything you want to see if it's going to be one harmful.
+first.
+Safety is the most important.
+So you want an RNA-seq analysis would be able to tell you that because the chassis sometimes can express toxin.
+jeans.
+um
+And it's really important to--
+make sure that your circuit does not, your chassis does not. And that is the importance of this sort of testing in realistic conditions.
+So the efficiency of our project would be.
+We do see long-term efficiency in our long-term implementation of our project because it
+It has so many rigorous
+steps to verify that this is one safe and two would function properly without damaging the surrounding ecosystem.
+Okay, thank you, I have no more
+OK, so I have a quick question about the transcriptomic analysis. So-- [AUDIO OUT]
+I didn't quite understand how the samples were prepared because you guys have different three types of transcriptomic datas. And in the Wiki page, I didn't see any of the raw datas or any-- [AUDIO OUT]
+analytical data with
+the gene names or and the p-values.
+and the expression changes.
+So can you explain how do you guys design this transcriptomic data analysis?
+How do you guys analyze this? - With our case studies. - Right. - Yes. So within our case studies, each one has such different sample types that each one had different ways of preparing the sample. For example, with the time points from the microcosms, those were all flash frozen, centrifuge and then flash frozen, and then RNA was extracted from that versus with the biofilms, those were scraped off of pipes. (static)
+centrifuged and we used the NEB RNA extraction kit.
+as well as trizol in order to extract RNA and prepare those samples. We had-- [AUDIO OUT]
+hundreds of jeans, which would have been great to put on the wiki. I do think we have some up there.
+in the results section as well. So how many samples do you guys have in numbers? Like for example, like for the control samples, you guys need like the replicates. So how many replicates were there? Yes. So this varied by experiment. So for the harmful algal blooms case study,
+We used triplicates, three control cultures and three microcosms. And we exposed them to the same overall conditions, except for the fact that the microcosms have different species present because we used real lake water from a local lake for the microcosms. And we also added an element of water flow by adding small water pumps to the microcosms. And then the control cultures are static. So what you would see-- [AUDIO OUT]
+typical lab setting when this kind of solution is being tested. So we did have triplicates for that experiment.
+[static
+We.
+we extract RNA from both
+for one natural string and two engineered lab strings which showed good potential in corrosion inhibition in the previous SEM analysis. - And for the mycobacteria in pipes, we had two controls and two. (static)
+samples of mycobacteria forming biofilms in dynamic environments on PVC pipes.
+because it was difficult to extract RNA so we could not get a high end on that because the biofilm was 90%.
+other things that's not bacteria, so it was difficult.
+So just for the last questions, I think there will be a lot of like DEGs that you guys have found. Maybe some of the genes were up-regulated and some of them are down-regulated. So compared to the previous studies, do you guys have found some-- [AUDIO OUT]
+that are not actually reported.
+or do you guys have
+when you guys analyze the gene expression patterns.
+Did it show like the similar pattern as the previous studies?
+and the gene list.
+- Yeah, so I would say that across all of our case studies, we found some similarities in the genes that were differentially expressed. And this was also validated by our meta-analysis. So we found similar pathways that were differentially expressed across all of them. Of course, there were some differences and that's why this is important to do on a species-specific level for your specific implementation that you're trying to develop.
+Some examples of commonly differentially expressed pathways are those involved in oxidative stress response, osmoregulation, nutrient uptake. Those are all related to stress responses and we see downregulation in the microcosms of DNA replication and things that would be related to the bacteria's ability to replicate and survive. But again, it's important to do this on
+case study level basis and understand the specific differences that are related to your chassis of interest. Safety comes into that as well because that is going to vary heavily across different species. Not everything is going to produce the same toxins.
+And also we did see a lot of genes or pathways that we did not expect. I mean, some of them are obvious. We're going to see that they have trouble metabolizing because they don't have enough nutrients. But we did see things like metal metabolism and things that we did not expect to see because they're not commonly known in literature in our pathways.
+So
+So my question is--
+So during your presentation, you mentioned that this entire system would help-- [AUDIO OUT]
+of aquatic biologists to perfect their selection of chassis and design better experiments.
+So let me just throw you a hypothetical. So let's say if you were doing this project again, but it's already there, how would you use your system to perfect your experiments?
+- Yes, so we would begin with using the chassis selection software.
+in order to select a chassis because we obviously have ideas of what we would want. We want for corrosion, we would want a bacteria that is able to form biofilms.
+and for
+on the steel and in the ocean, but is it going to be compatible in this ocean environment with this type of salinity and this type of pH? We want to use that software to verify that. We would then turn to the mathematical modeling framework. So instead of starting from scratch like we did this time, we would have a framework in order to more accurately model before we even start wet lab to save ourselves the--
+tedious work that our model could predict instead.
+before even beginning to waste resources.
+Then we would begin with...
+with creating a construct, testing it in the lab, and then testing it microcosm simultaneously.
+These microcosms we did do, we made ourselves, but now we don't have to make them from scratch. We don't have to think of how am I going to make a pipe microcosm. I have the three, we have the available.
+way of making it. We have a PVC pipe. This took a lot of
+brainstorming and trying to figure out a way to sample from a biofilm growing inside of a pipe.
+Now we have a way to do that. And this is all available to any researcher who wants to take on these projects themselves.
+um
+And we know the importance of RNA testing. So that is the next thing we would always do.
+so
+My follow-up question would be...
+What do you expect?
+Let's say you do the experiment using your system.
+What do you expect the discrepancies from the program and your actual results be from? So what are some limitations of your program that might manifest in your actual experiments?
+What your limitation of a program is that it does not consider specifically engineered domesticated species. Like lab strain? Lab strain. Because we have environmental data and these are not considered in our environmental data. There's a way to remediate that. We take the domesticated strain, we put it in a microcosm, we observe how it functions relative to the other species there.
+However, we have not done this yet, therefore-- [AUDIO OUT]
+Therefore, that is the main discrepancy we would see of differences of how it would differentiate between our software.
+what we also kept in mind with our software with the database, we're able to add more going forward so we can easily add new submissions, even for other synthetic biologists as they work with this framework to improve the database overall. So as we already started setting up the system in place where you can click a tab and you allow it to submit like a CSV file with your environmental metadata along with your metagenomic sample.
+and the abundance scissors, because we also have a metagenomic pipeline publicly available on our GitLab as well. So we kept this in mind because we always want to keep it growing and to also see the trends and changes, because one location could have changed, especially with climate change. And we want to be able to address that and be able to rerun our predictive models on these new variables.
+So
+30 seconds left maybe we can do one more
+There's a question in the group.
+Can you imagine a scenario where the definition of survival might not be what is desired?
+Yes, we understand that our definition of survival is limited to what was available. So right now our survival score is like a proxy score for survival. We're able to get metagenomic data which showed species presence. Pause there. When you say it's a proxy for survival, how do you define survival itself? Is it that the organisms released are alive?
+Is it that the organisms released are replicating? Is it that they're able to replicate at a certain growth rate? What exactly does survival mean? That's what I'm trying to ask.
+Survival stands for presence in this case because from the metagenomic sequence and what we could achieve from what is publicly available reliably across multiple samples was just presence abundance values. So basically we used cracking and breaking to process all these metagenomic samples and we were able to get basically species abundance matrix that said the species present and also the abundance values. So we understand that it may be limited in the fact that it's metagenomics. It's going to show traces of whatever
+been there or passed through there, which is why we really want to focus on trying to implement meta transcriptomic data as well to see expression of the genes as well, not just the.
+possible presence or previous presence out there. Right now, the working definition we are working with is the presence value. So we use a higher presence or abundance value to relate to a higher survival score. So we basically worked under the assumption that with this higher score, then it's likely that the species is able to survive reliably there, especially if we see patterns of similar environments has typically higher abundance scores.
+So that's what we're working it right now.
+So we have like 20 seconds left. So
+uh
+maybe we will stop the session here. So thank you very much. - Thank you very much. - So you can like, yes, thank you very much. And you can backdrop and we'll be ready for the next team. And thank you judges as well.
+Thank you so much to all the virtual judges as well.
+Am I still in the Zoom? I am so sorry.
+I thought I could the zoom -
+Thank you so much once again. - Thank you.
+Yes. Thank you.

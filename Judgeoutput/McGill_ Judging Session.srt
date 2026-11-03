@@ -1,0 +1,904 @@
+1
+00:00:00,070 --> 00:00:03,220
+Should I take out the audio while I'm writing the audio?
+
+2
+00:00:04,130 --> 00:00:05,840
+Yes.
+
+3
+00:00:13,130 --> 00:00:15,730
+We'll be able to hear everyone. All right, speakers. - Yes
+
+4
+00:00:22,890 --> 00:00:26,930
+And if you want to share, you can share your screen if needed. Otherwise, it's absolutely fine.
+
+5
+00:00:27,490 --> 00:00:30,610
+Yes, I had a slideshow to get up and running for you.
+
+6
+00:00:35,940 --> 00:00:40,910
+I will show you the two minutes left and then time that. Okay. Perfect.
+
+7
+00:00:41,380 --> 00:00:44,140
+Is the mic on already?
+
+8
+00:00:45,830 --> 00:00:48,270
+Yes.
+
+9
+00:00:53,640 --> 00:00:54,480
+Are we all visual?
+
+10
+00:00:55,590 --> 00:00:58,580
+No, only the person from the computer can be visual.
+
+11
+00:00:59,430 --> 00:00:59,860
+best print
+
+12
+00:01:04,100 --> 00:01:08,590
+Is that all right? Would you? Yeah. Okay. We'll start in two minutes. Okay.
+
+13
+00:01:09,160 --> 00:01:09,780
+Misfits
+
+14
+00:01:15,750 --> 00:01:16,500
+I think it's
+
+15
+00:01:18,530 --> 00:01:19,600
+skivvts sounds like
+
+16
+00:01:22,440 --> 00:01:23,340
+right.
+
+17
+00:01:26,090 --> 00:01:26,670
+[BLANK
+
+18
+00:01:27,300 --> 00:01:33,650
+- Yeah, he shows a sign. - Yeah, that's correct.
+
+19
+00:02:16,200 --> 00:02:17,140
+Dennis
+
+20
+00:02:38,020 --> 00:02:39,380
+The soft working just right over here.
+
+21
+00:02:49,000 --> 00:02:49,940
+ratios
+
+22
+00:02:50,980 --> 00:02:51,540
+Right.
+
+23
+00:02:52,290 --> 00:02:58,160
+Hello judges, we're Ida McGill and we present CoHira, a new foundation for engineered multicellularity.
+
+24
+00:02:59,170 --> 00:03:05,390
+At the cellular level, Cohere provides an entirely genetically encoded toolkit for fine-tuned cell-cell adhesion.
+
+25
+00:03:06,090 --> 00:03:11,630
+At the molecular level, our model coherotune ensures that our system is functional in a diversity of environments.
+
+26
+00:03:12,010 --> 00:03:14,740
+by improving the stability of the involved adhesion proteins.
+
+27
+00:03:15,620 --> 00:03:23,410
+Beyond the lab, we investigated how our foundational project could bring about positive change in the real world through our extensive integrated human practices work.
+
+28
+00:03:25,190 --> 00:03:30,610
+In the wet lab, we had two core objectives. First, the formation of resilient bonds across domains of life.
+
+29
+00:03:31,110 --> 00:03:33,520
+And second, the reversal of those bonds on command.
+
+30
+00:03:34,410 --> 00:03:38,510
+Since wiki freeze, we have applied statistical methods to analyze our microscopy results.
+
+31
+00:03:39,140 --> 00:03:45,740
+We demonstrated that E. coli aggregate size could be modulated by titrating the concentration of the inducer molecule IPTG.
+
+32
+00:03:46,660 --> 00:03:55,890
+We performed a t-test on aggregate areas and showed that samples induced with both 0.1 millimolar and 1 millimolar had significantly larger aggregates than the uninduced control.
+
+33
+00:03:58,180 --> 00:04:04,750
+Similar results were obtained with S. cerevisiae and supported with statistical analysis of cell counts in randomly sampled frames.
+
+34
+00:04:05,320 --> 00:04:08,750
+Following this, we successfully achieved interspecies adhesion.
+
+35
+00:04:09,320 --> 00:04:16,430
+And again, similar results were obtained. Significantly larger aggregates are seen in the induced samples compared to the uninduced samples.
+
+36
+00:04:17,030 --> 00:04:22,190
+Finally, we demonstrated that coheura provides control over the adhesion state of our cells.
+
+37
+00:04:22,730 --> 00:04:29,390
+And this allows our tool to be used repeatedly as cellular assemblies are shown to be able to reform post the solution.
+
+38
+00:04:30,180 --> 00:04:32,560
+These results characterize Kokiras' part collection.
+
+39
+00:04:33,160 --> 00:04:35,760
+basis for programmable interspecies adhesion.
+
+40
+00:04:36,450 --> 00:04:44,560
+For a proof of concept, we developed a complete set of modules for two of the most central hosts to SUSAMBIO, E. coli and S. cerevisiae.
+
+41
+00:04:45,090 --> 00:04:50,030
+Our collection was designed to be easily expandable to a multitude of other hosts and protein elements.
+
+42
+00:04:50,820 --> 00:04:57,420
+provided a standard template for the addition of new parts as well as validation parts for rapid iteration on design.
+
+43
+00:04:59,620 --> 00:05:07,250
+At Dry Lab, we developed Coheratune, a model that enhances the stability of adhesion proteins to expand Cohera's applicability.
+
+44
+00:05:07,620 --> 00:05:14,350
+The heart of this model is our Bayesian optimization algorithm, which we developed with the principle of modularity as our focus.
+
+45
+00:05:14,850 --> 00:05:24,820
+We apply our algorithm to optimize fitness and stability in Spytag and Spycatcher, and our user manual details how it can be applied to optimize different properties in any given protein.
+
+46
+00:05:25,320 --> 00:05:32,910
+With our algorithm, we address a current knowledge gap in computational protein, redesigned by characterizing insertion and deletion mutations.
+
+47
+00:05:33,480 --> 00:05:39,920
+Additionally, our molecular dynamics simulations incorporate both quantitative and qualitative data from the literature.
+
+48
+00:05:40,360 --> 00:05:42,700
+in particular measurements of bond length and
+
+49
+00:05:43,330 --> 00:05:44,210
+protein folding.
+
+50
+00:05:45,540 --> 00:05:50,160
+are molecular dynamic simulations. Since wiki freeze, we're excited to share that.
+
+51
+00:05:50,730 --> 00:05:58,030
+Compared to the original Spycatcher and Spytag, our mutated complexes show improved performance in a variety of stability metrics.
+
+52
+00:05:58,760 --> 00:06:07,660
+With Coheretoon, we furthered our understanding of Spycatcher and Spytag, our adhesion proteins, both in isolation from and in harmony with its environment.
+
+53
+00:06:09,350 --> 00:06:24,820
+Expert consultations have guided the development of our project at every step. Speaking with Dr. Cassandra Joyner and Dr. Mark Howarth have helped us to choose our protein adhesion platform, and attending the Miele molecular machine learning conference helped us focus our model on protein stability rather than binding affinity.
+
+54
+00:06:25,250 --> 00:06:30,670
+We've also developed three key use cases to fully evaluate the potential of cohere in the downstream world.
+
+55
+00:06:31,080 --> 00:06:36,340
+with over 75 application stakeholders and 34 application specific consultations we've conducted.
+
+56
+00:06:37,060 --> 00:06:49,870
+On an iGEM timeline with the constraints we have, HP is the main validation that we have for our potential applications in foundational advance. But we've also developed a bunch of other resources for other teams to use that are documented on our wiki and easy to add and build on.
+
+57
+00:06:50,570 --> 00:07:01,870
+To wrap up our HP journey, we hosted a live stage talk yesterday, where we spoke about the lessons we learned in foundational advance, to hope to inspire other teams in foundational advance to conduct thorough human practices and go beyond.
+
+58
+00:07:02,630 --> 00:07:12,240
+Inside and outside the lab, Cohere lays the groundwork for synthetic biologists to explore the new realm of multicellularity by engineering unexpected connections.
+
+59
+00:07:12,680 --> 00:07:13,040
+Thank you
+
+60
+00:07:17,000 --> 00:07:19,180
+Thank you very much, very nice presentation.
+
+61
+00:07:19,940 --> 00:07:20,460
+uh
+
+62
+00:07:20,900 --> 00:07:22,640
+should have 30 seconds
+
+63
+00:07:23,140 --> 00:07:24,590
+in your presentation time
+
+64
+00:07:26,050 --> 00:07:32,620
+without any transition, we will go to the question session with the remote judge first.
+
+65
+00:07:34,020 --> 00:07:36,270
+Guys, feel free to come over if there's a question that
+
+66
+00:07:43,560 --> 00:07:48,210
+So I go fast. Thank you so much for your presentation.
+
+67
+00:07:48,680 --> 00:07:56,560
+And I'd like to congratulate your effort and in short time to provide the proper concept of this.
+
+68
+00:07:57,060 --> 00:08:01,900
+spike capture system to bring together different microorganisms.
+
+69
+00:08:02,340 --> 00:08:09,710
+which is quite intriguing. So my question is quite technical. So I like to ask about
+
+70
+00:08:10,210 --> 00:08:13,420
+how you prepare the sample for both
+
+71
+00:08:13,800 --> 00:08:15,730
+microscope and
+
+72
+00:08:16,130 --> 00:08:18,380
+I say and also is this page.
+
+73
+00:08:18,790 --> 00:08:20,940
+How did you grow?
+
+74
+00:08:21,670 --> 00:08:25,520
+the sample or culture at the same time and subject to
+
+75
+00:08:26,150 --> 00:08:28,780
+to different experiment or did you do it?
+
+76
+00:08:29,250 --> 00:08:36,370
+in the different batch. Could you elaborate a little bit about how you prepared and set up this experiment?
+
+77
+00:08:37,830 --> 00:08:40,050
+Yes, of course. Thank you for the question.
+
+78
+00:08:40,420 --> 00:08:47,570
+So for our microscopy assays and also for some of our SDS page results that come from cultures, each...
+
+79
+00:08:48,070 --> 00:08:59,570
+batch of experiments. I suppose the cultures were grown at the same time. Obviously, we can't grow cultures for several days. And so we try to keep things consistent.
+
+80
+00:08:59,970 --> 00:09:06,480
+from day to day when we're running different sets of microscopy, but all the images that you see are from the same day when they're side by side.
+
+81
+00:09:06,850 --> 00:09:22,830
+And so for E. coli, for instance, we grow them to a set O.D., O.D. 0.5. And then we induce with the inducer molecule, the first one IPTG to form the aggregation. We let it grow for one hour.
+
+82
+00:09:23,300 --> 00:09:29,100
+And then we mix the samples expressing Spytag and Spycatcher together.
+
+83
+00:09:29,610 --> 00:09:30,190
+Um.
+
+84
+00:09:30,790 --> 00:09:39,600
+And then if the experiment of the day involved inducing the protease, then we would add the second inducer in hydrotetracycline.
+
+85
+00:09:40,130 --> 00:09:47,860
+to induce the expression of the second molecule, again, the second protein, again, let it grow for an hour, and then the sort of same process repeats.
+
+86
+00:09:48,390 --> 00:09:49,070
+um
+
+87
+00:09:49,990 --> 00:09:53,300
+Yeah, and we try to keep things consistent between.
+
+88
+00:09:53,670 --> 00:09:54,860
+For the end for the yeast?
+
+89
+00:09:55,240 --> 00:10:07,980
+We first grow the culture in glucose to again let it reach a certain optical density and then we grow it in a raffinose pre-induction culture.
+
+90
+00:10:08,360 --> 00:10:10,640
+overnight and then in
+
+91
+00:10:11,010 --> 00:10:12,560
+We then
+
+92
+00:10:13,030 --> 00:10:28,340
+induce with galactose, or we supplement culture with galactose and then let it grow some more. But then before we mix it with E. coli or with other yeast cultures, we take the optical density and then we make sure to dilute it to a set optical density to make sure that our results are consistent.
+
+93
+00:10:31,620 --> 00:10:33,230
+One more question.
+
+94
+00:10:33,860 --> 00:10:34,640
+See you!
+
+95
+00:10:35,460 --> 00:10:36,300
+describes
+
+96
+00:10:36,970 --> 00:10:42,770
+this binding, this two kind of conjugation is very strong because it's coverant, but...
+
+97
+00:10:43,270 --> 00:10:48,530
+Have you done any experiment, kind of evidence to prove that
+
+98
+00:10:48,900 --> 00:10:49,460
+your
+
+99
+00:10:50,050 --> 00:10:53,840
+the binding is stronger than the other.
+
+100
+00:10:54,250 --> 00:10:56,940
+type of adhesion system.
+
+101
+00:11:03,010 --> 00:11:22,800
+So we didn't perform any direct comparisons because we didn't implement any other adhesion systems. However, what we can say is two things. First of all, one of the methods that other authors used using non covalent adhesion system to disrupt their adhesion was simply mechanical agitation. That was one factor we could test simply by vortexing our samples before doing microscopy.
+
+102
+00:11:23,270 --> 00:11:32,140
+That is what we did before, non-induced and induced samples. And you could see that aggregates remained in the induced samples and not in the uninduced samples. That's one thing we can say.
+
+103
+00:11:32,610 --> 00:11:41,550
+Another thing we can say is that other people have measured the strength until rupture or separation of the proteins using
+
+104
+00:11:41,930 --> 00:11:42,960
+optical tweezers.
+
+105
+00:11:43,940 --> 00:11:46,960
+Obviously this is not something we performed, but they found...
+
+106
+00:11:47,620 --> 00:11:53,620
+I believe it was three orders of magnitude higher than other non-covillain interactions in the strength of the bond.
+
+107
+00:11:55,650 --> 00:11:56,590
+that answers your question.
+
+108
+00:11:58,020 --> 00:11:59,920
+Thank you so much, and that's all from me
+
+109
+00:12:00,520 --> 00:12:02,000
+Thank you.
+
+110
+00:12:02,950 --> 00:12:04,500
+Okay, five.
+
+111
+00:12:04,900 --> 00:12:12,780
+First of all, I want to see that your project website is very fantastic. I always like it.
+
+112
+00:12:13,290 --> 00:12:19,760
+My question is about the ideas makes it seems very cool. Could you please?
+
+113
+00:12:20,170 --> 00:12:26,830
+Tell me more details about the signal and the switch you use to tear the seals to separate.
+
+114
+00:12:27,810 --> 00:12:28,210
+Thank you
+
+115
+00:12:29,450 --> 00:12:53,390
+Thank you for your question. So to separate the cellular assemblies, we use our novel membrane bound protease. So it's a tobacco-etched virus to have protease displayed on the surface of the cell. And we place the expression of this protein under a promoter inducible by anhydro-tetrous like these, so like a tet R.
+
+116
+00:12:53,770 --> 00:13:04,500
+induction system. And so for our proof of concept, we simply supplement the culture with a set amount of anhydro-tetracycline and that is shown to be able to
+
+117
+00:13:04,870 --> 00:13:10,100
+to separate the cells. And so that's the signal that we have done for our proof of concept. Does that answer your question?
+
+118
+00:13:11,560 --> 00:13:12,500
+Okay, thank you.
+
+119
+00:13:13,290 --> 00:13:13,710
+Thank you
+
+120
+00:13:18,690 --> 00:13:21,900
+Next question from our in-person judges maybe.
+
+121
+00:13:23,210 --> 00:13:38,610
+That's okay. All right. Yes, it was great. We can say we're declared. I have a question about the cell population. Of course you check it with equal I and then survey Z. But have you considered if there is a mixed cell system.
+
+122
+00:13:38,980 --> 00:13:50,990
+how would the addition specificity work in that particular case? And do you think that it can target a particular cell population in a mixture of different kinds of cells?
+
+123
+00:13:52,070 --> 00:14:03,310
+Do you mind elaborating please on what you mean by specificity and or like the mixture of cells? Yeah. So let's say you all your experimentation is based on of course.
+
+124
+00:14:03,750 --> 00:14:05,330
+service and then E. coli.
+
+125
+00:14:06,050 --> 00:14:14,320
+But let's suppose if we have a mixed cell culture and I want a particular scaffold out of a particular cell population.
+
+126
+00:14:14,790 --> 00:14:27,340
+then would this particular addition system work in a mixture of different kinds of cells? Or would that specificity be compromised in any way if there are different kinds of cell populations present in a mixture?
+
+127
+00:14:28,930 --> 00:14:36,460
+Definitely a relevant question for several of our applications, especially the colorectal cancer or like gastrointestinal therapy where there's a lot of cells in the microbiome, of course.
+
+128
+00:14:36,930 --> 00:14:45,740
+That's one of the reasons we selected this Bi-Tech Spy-Catch repair is because of how highly specific it is and how orthogonal it is to other proteins in just
+
+129
+00:14:46,340 --> 00:14:48,690
+a normal intracellular/exceller environment.
+
+130
+00:14:49,380 --> 00:15:07,950
+So again, non-experiments performed by us, but I believe they had like very high completion rates of the reactions in an interfellow environment just because the nature of the reaction is covalent. So it's not reversible. And of course there might be unspecific interactions with other proteins, but those are minimal compared to the actual specific interaction with the specific partner.
+
+131
+00:15:08,610 --> 00:15:14,060
+And so it's one of the reasons we selected this protein is for that specificity, which we believe would make us let there is no.
+
+132
+00:15:14,690 --> 00:15:17,070
+major on specific binding with other
+
+133
+00:15:17,570 --> 00:15:18,900
+cells and in the population.
+
+134
+00:15:21,990 --> 00:15:42,130
+So to add on to what Nicholas said, in the lab, when we are mixing samples of E. coli and S. cerevisiae to form the mixed species aggregates, we can also selectively just only express one of the pair, like spy tag in the yeast, for instance, and the spy catcher in the bacteria or the other way around. In that way-- [AUDIO OUT]
+
+135
+00:15:42,850 --> 00:15:52,720
+If it was only one of the species, they would only have one of the protein and so it wouldn't be able to form aggregates. And so if we see aggregates, we know that it's the different cell populations binding together.
+
+136
+00:15:54,050 --> 00:15:54,510
+Thank you
+
+137
+00:15:58,440 --> 00:15:58,990
+[b
+
+138
+00:16:05,290 --> 00:16:09,870
+Yeah, just like follow up question on the same topic first.
+
+139
+00:16:10,340 --> 00:16:13,870
+Congratulations on this work. It's really impressive. It's for all of you.
+
+140
+00:16:14,410 --> 00:16:26,030
+And just a follow up question is like, how can you able to control your population in co-cultural rangers like to see if to prevent overgrowth of any of the one strains that you have?
+
+141
+00:16:26,500 --> 00:16:51,420
+- Yeah, that was a really big question for us at the beginning of the year. 'Cause the first person we reached out to in Co-Culture was out in California and he told us off rip, he was like, this is not gonna work. And he said, your Co-Culture is going to be quite difficult. You have to figure out how exactly to do this. It's Hector Garcia Martin. And so we didn't love that answer. So we reached out to a couple other people in and around Co-Culture and we eventually found Dr. Yanran Li out of University of California, San Diego, who is incredibly helpful.
+
+142
+00:16:51,690 --> 00:17:12,270
+She recently published a paper in the co-culture production in both bacteria and yeast of streevalactones, which is another plant-produced compound, which is kind of a good allegory to our rubber application. And so in consultation with her, we found out that the basis for a lot of stable co-culture is the type of carbon source that you use. So yeast, for example, can metabolize xylose.
+
+143
+00:17:12,710 --> 00:17:16,340
+And Xylose has a byproduct of metabolization of acetate, which can be-- [AUD
+
+144
+00:17:16,930 --> 00:17:24,690
+Metabolized by bacteria and they don't necessarily metabolize each one the other direction. So for example bacteria can't metabolize xylose
+
+145
+00:17:25,380 --> 00:17:35,630
+And in this way, if your only carbon source in your mediums is xylose, you can control the ratio between these organisms because the bacteria must have the yeast to be able to have a carbon source to survive.
+
+146
+00:17:36,130 --> 00:17:41,680
+So just by control of simple carbon sources in the medium, you can create this ratio between bacteria and yeast in your...
+
+147
+00:17:46,280 --> 00:17:50,510
+I have a question about, for instance, if you do...
+
+148
+00:17:51,210 --> 00:17:51,790
+the
+
+149
+00:17:52,610 --> 00:17:56,270
+the adhesion between a bacteria and a yeast.
+
+150
+00:17:56,840 --> 00:18:00,210
+There is a difference in size.
+
+151
+00:18:00,610 --> 00:18:05,780
+So the difference in the surface is so available. So you will have--
+
+152
+00:18:06,250 --> 00:18:09,520
+like many bacteria able to...
+
+153
+00:18:10,150 --> 00:18:12,980
+link to one yeast.
+
+154
+00:18:13,410 --> 00:18:25,810
+So what can be the consequences of this difference and the risk, for example, in bio manufacturing where you have different metabolism for two different species?
+
+155
+00:18:27,240 --> 00:18:27,630
+Perfect.
+
+156
+00:18:28,040 --> 00:18:38,960
+Yeah, so I'm bringing up a little visual that we have here that is highly simplified of a microbial factory. But we've thought about this as well because protein expression can sometimes depend on the surface area of the membrane that it has to express.
+
+157
+00:18:39,330 --> 00:19:01,970
+And for biomanufacturing, we actually have a benefit to having more bacteria linked to one individual yeast. The reason being is the bacteria are kind of our monomer producer where they produce the IPP that we need to use to produce rubber. And yeast kind of act as the final transformational, bringing the small monomers into a long polymer chain. So we end up actually needing, yes, less yeast to produce our molecules.
+
+158
+00:19:02,660 --> 00:19:13,300
+And in other applications, this could potentially run into some consequences, but most of the applications we've developed today are perfectly fine with a higher concentration of bacteria compared to yeast.
+
+159
+00:19:14,050 --> 00:19:40,510
+Just a quick note to add onto that. Um, hopefully in the future, this would be a parameter to tune of our system rather than something that just kind of happens and we don't have any control over it. I think it's something that would be a clear next step for us. If we were to pursue characterization in the lab, it would be further characterization of all the parameters involved. So the promoters that are driving the expression of these proteins and many other factors like that, which through which I believe we could control the number of cells expressed on each.
+
+160
+00:19:40,740 --> 00:19:51,920
+cell, number of proteins expressed on each cell, and therefore control the ratio of bacteria to yeast and the size of the aggregates and so on. And so I believe with further characterization, this could be a parameter to be tuned rather than just...
+
+161
+00:19:53,060 --> 00:19:57,420
+a consequence that we can't control. And that way we could tune for any specific application you might have in mind.
+
+162
+00:19:58,530 --> 00:20:00,530
+It's very nice that you talk about it.
+
+163
+00:20:01,320 --> 00:20:02,510
+And thank you for the answer.
+
+164
+00:20:02,980 --> 00:20:06,260
+I have another question about...
+
+165
+00:20:07,080 --> 00:20:09,550
+like EHA transporter, you use...
+
+166
+00:20:10,020 --> 00:20:12,300
+to fuse the spire.
+
+167
+00:20:12,870 --> 00:20:15,820
+Spytag or spycatcher protein.
+
+168
+00:20:16,290 --> 00:20:17,260
+uh... where
+
+169
+00:20:17,730 --> 00:20:23,440
+Where is the localization of this transporter because Isherich alkali has two membrane?
+
+170
+00:20:23,970 --> 00:20:28,530
+Was it in the inner or the outer membrane? And if it's the inner...
+
+171
+00:20:29,090 --> 00:20:31,860
+How can it be linked to the partner?
+
+172
+00:20:32,900 --> 00:20:39,470
+Yeah, so EJ is an outer membrane transporter. It's outer membrane transporter.
+
+173
+00:20:39,850 --> 00:20:40,240
+um
+
+174
+00:20:40,810 --> 00:20:51,860
+Do you have any other questions about? No, I thought it was in the inner, but maybe I'm wrong. But okay. So if it's in the outer problem, there is no problem. Yes. Thank you. Good.
+
+175
+00:20:54,370 --> 00:21:04,270
+And yes, just a question about-- so the question was asked about the activation of the aggregation or of the cleavage. [AUDIO OUT]
+
+176
+00:21:05,030 --> 00:21:05,520
+So
+
+177
+00:21:05,930 --> 00:21:13,940
+If I understood correctly, you activate, so you induce the cleavage or the aggregation by inducing the projection of the...
+
+178
+00:21:14,310 --> 00:21:15,250
+of the proteins.
+
+179
+00:21:16,290 --> 00:21:16,720
+So...
+
+180
+00:21:17,130 --> 00:21:19,820
+the cells must be in a...
+
+181
+00:21:20,200 --> 00:21:22,420
+growing fees that can
+
+182
+00:21:23,010 --> 00:21:26,060
+like accept the overexpression.
+
+183
+00:21:26,760 --> 00:21:28,020
+how practically how
+
+184
+00:21:28,420 --> 00:21:33,680
+How do you do if you want, for example, to activate the aggregation, then cleave and then reactivate the aggregation?
+
+185
+00:21:34,630 --> 00:21:35,060
+Nah.
+
+186
+00:21:35,560 --> 00:21:37,940
+It has to be in the growing...
+
+187
+00:21:38,410 --> 00:21:41,550
+like an exponential growing phase of...
+
+188
+00:21:42,150 --> 00:21:44,720
+of the cell culture, so how can the--
+
+189
+00:21:45,250 --> 00:21:47,310
+Can it be done practically?
+
+190
+00:21:48,360 --> 00:22:00,750
+So thank you for the question. This is also something that we were very careful to consider, the growth phases of our cultures, not only making sure that it's consistent, but making sure that it is viable for our project.
+
+191
+00:22:01,250 --> 00:22:12,560
+So if we certainly, like what Nicholas said, a next step would be to characterizing all these parameters, including the growth time and the incubation time with the inducer molecules.
+
+192
+00:22:13,320 --> 00:22:21,100
+In general, we try to, for the sake of our microscopy results, keep things just consistent of inducing with the first molecule at...
+
+193
+00:22:21,540 --> 00:22:25,550
+The optical density of 0.5 made a log phase.
+
+194
+00:22:26,310 --> 00:22:35,950
+and then waiting an hour before adding the next molecule and then so on. But we have also tried to vary the time. It's-- [AUDIO OUT]
+
+195
+00:22:36,490 --> 00:22:46,740
+possible that a shorter incubation time with the molecule would still allow us to see aggregate formation or aggregate breakage. But we were not-- [AUDIO OUT]
+
+196
+00:22:47,110 --> 00:22:50,320
+fully able to characterize this. However, we have-- [AUDIO OUT]
+
+197
+00:22:51,080 --> 00:23:04,110
+being able to see that even though we're waiting a longer time past, like maybe the culture is not exactly a mid-log face, the aggregate formation and the protease cleavage is still able to work fully functional, as you've seen in our microscopy results.
+
+198
+00:23:09,670 --> 00:23:17,810
+Yeah, sorry. Again, what is the linkage between your spytag and spycatcher, like biochemically or chemically speaking?
+
+199
+00:23:18,730 --> 00:23:19,700
+So...
+
+200
+00:23:20,200 --> 00:23:39,090
+I suppose it's, is it chemically or biochemically? I'm not sure, but it's the spy tag and the spy catcher form two amino acid residues or one on each. They're able to form an isopeptide bond. So the amino group of one forms a bond with the carboxyl group of another.
+
+201
+00:23:40,740 --> 00:23:42,060
+Thank you. It's a pept
+
+202
+00:23:42,500 --> 00:23:43,980
+isopraptide, yes.
+
+203
+00:23:45,860 --> 00:23:46,260
+Um
+
+204
+00:23:46,790 --> 00:23:47,730
+I would like to choose
+
+205
+00:23:49,090 --> 00:23:52,980
+go on future steps that you could take.
+
+206
+00:23:53,510 --> 00:24:03,120
+If you had more time or more funding whatsoever, what kind of improvements you could do for your career at your own Mojo concept?
+
+207
+00:24:04,490 --> 00:24:08,980
+So we actually think about this. We wish we had much more time. There are many more things we wanted to do.
+
+208
+00:24:09,410 --> 00:24:18,030
+Our main goal being further characterization of the core system as a foundational advanced project. We think that's where we stand to bring the most value.
+
+209
+00:24:18,440 --> 00:24:44,250
+As you guys saw, we fleshed out three applications relatively in depth. We really wanted to go in depth and make sure that there was a real application somewhere, but we had many other ideas for other applications. And we spoke into many other iGEM teams that have actually been looking forward to using our system in their own work. And so there's many potential avenues we could go down. Given that, we think the best thing for us to do would be to validate the core system, the parameters we spoke about earlier, expand the core system, validate in algae, validate in other species.
+
+210
+00:24:44,450 --> 00:24:57,970
+expand to other adhesion proteins, like we've mentioned, just do it ourselves and then make that as accessible and public as possible so that many teams and researchers and entrepreneurs ideally can make use of our system in their own work. We think that's where we'd stand to have the most value.
+
+211
+00:24:58,660 --> 00:25:08,080
+With regards to our specific applications, we do have an implementation report where we kind of lay out the next steps we would take for each of those applications, which we can discuss if you're interested.
+
+212
+00:25:12,680 --> 00:25:21,650
+And then for the model, coherotune. So we have validated our mutated complexes using molecular dynamics, but we recognize that while lab validation would...
+
+213
+00:25:22,050 --> 00:25:40,560
+at the end of the day be crucial. So this extends to what Nicholas talked about about expanding our toolkit. If we could have different versions of the Spycatcher SpyTek proteins of our adhesion proteins that would be more suitable towards certain applications that would really expand the applicability of our system.
+
+214
+00:25:45,960 --> 00:25:46,830
+Also, also, I
+
+215
+00:25:49,030 --> 00:25:49,490
+your
+
+216
+00:25:49,890 --> 00:26:00,270
+example of applications are always between different species. So why this choice? Why didn't you choose like bacteria, bacteria or decolide examples?
+
+217
+00:26:01,480 --> 00:26:14,100
+So I think I can take this kind of from a point of passion. We looked at a lot of really cool projects last year that are done in single cells and using single sets of organisms. And there are even some teams out here today that are using multiple different strains of the same organisms.
+
+218
+00:26:15,010 --> 00:26:27,980
+Something that we found really, really cool in iGEM is that there are so many different organisms out there, even beyond just the model organisms that we use, that each have their own ecological niche and advantages that bring them kind of above other organisms in different areas.
+
+219
+00:26:28,450 --> 00:26:47,760
+And so the reason that we're using different organisms is mainly because we think the biggest value that we can have in foundational events is collecting, sorry, connecting those ecological niches from different organisms, taking advantage of each organism strengths to kind of come together and create a cohesive application that is more than the sum of its parts.
+
+220
+00:26:49,060 --> 00:26:49,420
+Thank you
+
+221
+00:26:53,800 --> 00:26:56,430
+Yeah, I think the time now is up.
+
+222
+00:26:58,370 --> 00:27:14,260
+Thank you very much. It's an impressive work. Very nice, Wiki. Very nice presentation.
+
+223
+00:27:15,270 --> 00:27:23,660
+Do you, we're just handing out our our biome book, which is this project that we did, this art design project that we did for.
+
+224
+00:27:24,550 --> 00:27:34,100
+for teams, so unfortunately we can't pass one on to you. So we do apologize for this, but I do believe all the art is on our wiki if you're interested to take a look.
+
+225
+00:27:35,720 --> 00:27:46,640
+assure you this will not affect the judging ballot at all. If the online judges didn't receive and in-person judges, you have no access. It's just a token of appreciation. Yeah, a slight exercise.
+
+226
+00:27:47,430 --> 00:27:49,020
+Thank you so much.
+

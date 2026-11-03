@@ -1,0 +1,243 @@
+Hello judges, we are the Azure COD stream. This year, with our project, Evistosis, we worked on highly fascinating IBM influencer, HP AI.
+This is that cause major loss in pottery.
+in our project
+a create genetically modified chickens with high resistance to HBI using synthetic biopsy.
+If these chickens are used across the robot 43 industry.
+we can greatly reduce infection symptoms on this.
+our system called COCO.
+makes infective cell and entire apoptosis very quickly.
+We are still this 2 days at the right time
+The abuse is chance to replicate inside your cell.
+This rock replicate across the body, say why sell.
+and reduce the spread inside the angle.
+This apoptosis as a clear trigger, double-swung RNA.
+which appears during infection by RNA virus, such as blood-poor virus.
+Tocco consists of a fusion protein with two modules.
+The first module
+It's up
+Hey, DSRNA sensor, let's find DSRNA.
+And then I already got my eyes.
+The second module is an apoptosis in this area.
+that becomes active when it polymerizes.
+because fields need TSR to replicate.
+the trigger remains even if the build mutates.
+This means our difference can keep working over time, despite viral change.
+We build this exciting HPI project and the power of synthetic biopsy was essential.
+First, we used that idea of Mochira design.
+Prior work for the DRACO shows a peripheral concept using a TKR FPF1 fusion protein.
+We sell two roots and two rows inside that design.
+our sensor and an easy set
+We tried to build a better fusion by swapping in other proteins that can play some role.
+Same note.
+Very useful, right?
+We kept only the part needed, the puncture.
+and use Ista as module.
+In his May, every part of the court called
+for us the street of modularity.
+This also a
+This also makes it easier for others to reuse or adapt cocoa in their own work.
+Second, our engineering mindset, that's our rival work.
+A key step was to review and correct the DNS sequence of the GST tag.
+When we focus on expected result and we analyze the cost ran from data, we change our next step.
+We had many types of experiments on limited time, but this cycle
+and help us improve protocol fast.
+It moves our proof of concept for it.
+raise the overall quality of our products.
+We also highlight two topics, modern and human practice.
+In this model, we video simulation of virus break inside of chickens and worked on improving the decomposition of the bin.
+few items chains have built such video spreads in simulation
+So we wrote the method from scratch and documented them clearly for easily.
+The useful future arguments.
+For protein inference, we created a workflow that explains standard protein and
+In front run gates for isolates.
+Even from high school students.
+All future Azure teams should use a board to save time and optimize protein more efficiently.
+In human practice
+As a weight melon is
+EBOB is a workflow that combines software often used by Isengine. This is another built example that our product work is used on standard components of synthetic biology.
+In human practice, we build a new model called Compass3. It gives the project need fast interview.
+to the right stakeholder to interview.
+All future achievements should use compulsory to do human practice that varies quality over quantity.
+Our project is perfect, it's not perfect.
+We create a short model item work based on the idea of synthetic biology. We also provide use result for filter scenes, experiments, data, manufacture, model and clear methods.
+We hope our project helps Azure grow and contribution.
+to absorbing the HPA problem.
+Thank you for your attention.
+Thank you.
+Thank you very much. We'll start again with the online judges.
+Hello everyone, congratulations for a project. Very, very, very well thought.
+So I would type my question here in the chat for a better clarification.
+But the question is, your human practice is really impressive.
+and comprehensive. So which stakeholder feedback do you think had the biggest impact?
+on shaping your project.
+wait a
+Im... Im... Im...
+Sorry, Ken, you get closer to the mic, please.
+Oh
+Thank you.
+Can I hear my boss?
+Yes.
+the most ehh
+In fact, a GitHub project is the researcher of League of Eye.
+Yeah.
+and our fusion protein consists of the DSR-NA sensor.
+regret is important to us on the sensor as a plus. So.
+through that interview of Regoi Ekspot.
+We can't--
+We can detect that regular is can't use for the disk unnecessary.
+It is bad.
+It just gave us the very, very big impact.
+and
+assemble our wet design.
+So it's the most impact, the most impact,
+- Perfect, thank you. My other question is if these genetically modified chickens were to be implemented. (static)
+in real boat reforms.
+What do you think would be the best, biggest, technical or logical challenge?
+or logistical challenge for it.
+And the biggest challenge and risk is--
+and
+(speaking in foreign language)
+There's a risk of gene flow by mating with wide relatives.
+To prevent this, we will not raise kiwachiken in area where the wild ancestor arrives.
+for facility containment.
+we can reinforce the cross.
+and housing such as white and wind.
+When a window rest.
+a pottery farm to keep birds and materials inside.
+Thank you.
+Thank you
+presentation
+and good project.
+and we can also see my question in the chat box.
+How will the system and the distinction between the double strand RNA
+I am the endogenous irony.
+to prevent the unintended apoptosis in the normal cells or healthy cells.
+Could you repeat your question?
+I also give in the chat box, you can also read the question
+The system you should be to develop now.
+How can distinguish this double-san RNA from the wider intracruses?
+and as well as from the healthy cells, normal cells.
+Our DSR RNA sensor PKR and Reg Y don't detect the miRNA because miRNA is shorter than 13 base pair.
+PKL only detects more than 30 base pair DSRNA.
+So.
+our DSR necessary to take, avoid the detecting and to.
+in my RNA.
+So the sensor will detect only the shorter RNA or longer RNA.
+Sorry, could you repeat?
+>> The detector will detect only the longer MIRNA or shorter one.
+Sorry, please say that to your question more slowly.
+I mean, we are not good at speaking and raising English.
+OK, you can see the next question in the
+so this
+You know the virus will replicate very rapidly.
+whether a system is fast enough to prevent the replication of this virus.
+Sorry for waiting.
+We do not talk exactly to...
+It is enough to add.
+in this process, okay, first enough to prevent significant virus amplification.
+A coco can trigger apoptosis without new transcription or translation. So it should act before the virus grows in the cell.
+Okay, okay, good, fine, thank you
+Thank you
+Yeah, I can go on. You have a very big entrepreneurship part in your project.
+And I was very impressed by that. If you want to take this further into like real entrepreneurship, what would be your first step? Like, how would you enter the market or how would you deal with that?
+[BL
+And do you mean that to where the market first approach, how fast we approach?
+Yes.
+We approach some reasons that it is--
+and
+Wait a minute.
+Difficult to say in English.
+understandable.
+To implement kyochicking as a product in real society, it is a tool.
+It wait.
+We established a flat.
+and identify initial potential customer, the predatory farms in region with significant HPAI damage and predatory farms in region other than how
+those with strict regulation.
+or genetically modified foods.
+So the region is North America, South America.
+like those regions.
+Thank you very much.
+and
+So I had a couple of questions about the wet lab work that you guys did.
+As he did.
+pull down assays to see if your protein interacted with your...
+the DS-DNA that you put in as a...
+mock
+to add the event where the influenza.
+DNA, and then you also did an influenza assay in the HEC cells, correct?
+Do you know
+Can you hypothesize to why you didn't observe any interaction between your protein and the DNA? Oh, okay. I see.
+Oh.
+We think the main cause of the in vitro failures were unstable recombinant proteins.
+In iMouser, a cop is expressed and falls in a native environment, so this instability should be much lower.
+supporting this, some line tests showed the core function, these are independent a-portals in different
+Stabil Express Lick Eye Color Everfront.
+Design and transfection led to a clear light of
+(static)
+Another question, which was, um,
+If you...
+burden does this system result in for the cell? And if it does cause burden, which most recombinant proteins do, how would you maintain expression in the chickens long term?
+So how do you stop them from the cells from stopping expressing it because it doesn't need it. Yeah, not seeing the virus.
+OK, thank you
+of the
+Can you summarize your question and drop the interrupt?
+- That's a
+Thank you
+Use your not
+Just it start on
+- That's what
+side
+(static)
+Our system code code.
+It must end the prototype.
+HPA eyes, a replication in the cell.
+and hold the body. So our coco is expressed in all the cells in the hold the body.
+and a tube.
+We went from two to two.
+go into a safe harbor site at the chicken cell.
+or insert it near PKR or a regret local.
+and raise reason
+to keep stable expression.
+in that cell as well.
+same quantity.
+PK out regretting
+Thank you.
+Thank you very much for your presentation.
+M
+So
+My first question, I guess...
+It's about the mutations you're trying to do.
+to the double stranded RNA binding proteins.
+At some point in your wiki you mentioned that you want to keep these proteins as...
+similar as possible to the one that are in the chicken already.
+but now you are starting to mutate them to a...
+have the domain interactions
+So.
+How do you think you want to balance this out? Like how this is similar? Do you want them to keep to the natural proteins?
+Or do you need to really heavily mutate them to actually make this work?
+and stop writing
+Yeah, one second.
+Yeah, yeah, my voice.
+Thank you very much as always.
+(buzzing)
+Sorry about my baking, no worries.
+added mutations for our fusion protein.
+It may not consist as self-learning and it's not a tool.
+This is, it's not a tool.
+categorized for safe to get them to edit it. Organisms. We aim to add our chickens and making to a game edit it seconds as a
+as a stage, in the stage at the real application for society.
+in some regions, but in some regions that are outside.
+and
+hot hangout rolls
+Oh, wait a minute.
+We didn't, sorry.
+Let me rephrase my answer.
+So we do not study the regular classic in detail yet, so
+We will consult Japan's math and
+to a clarify the category.
+yes
+Thank you very much. We are out of time. Thank you very much again for the presentation and good job everyone.
+Thank you.
+Thank you very much for online judges. Thank you.
+participating.
+Thank

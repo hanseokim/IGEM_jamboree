@@ -1,0 +1,736 @@
+1
+00:00:00,770 --> 00:00:11,820
+Good afternoon. We are one May I-GEM. We are aware that you have such a full schedule, so we thought we'd begin with a brief overview of our project, summarize our main deliverables, and present some exciting updates on what we've been up to since WikiFreeze.
+
+2
+00:00:12,490 --> 00:00:25,550
+Our team is from Williamsburg, Virginia, where Williamsburg and surrounding regions face really serious water challenges, including algal blooms in nearby lakes, corrosion on local ships and bridges, and pathogenic bacteria contamination in nearby cities.
+
+3
+00:00:26,210 --> 00:00:28,300
+We wanted to use Senbiah to address these problems.
+
+4
+00:00:28,710 --> 00:00:34,580
+But we found that there was a large gap in foundational knowledge of how engineered chassis actually function in the real world.
+
+5
+00:00:35,750 --> 00:00:37,490
+We took on a really ambitious project.
+
+6
+00:00:37,860 --> 00:00:42,480
+especially for a team of six people given that we started in February and no one university has worked on this before.
+
+7
+00:00:43,210 --> 00:00:54,190
+Rather than solely creating engineering solutions, we wanted to address the gap in foundational knowledge with the overall goal of generating design principles for employing sin bio and aquatic systems.
+
+8
+00:00:54,730 --> 00:00:57,300
+We did just that with the following accomplishments.
+
+9
+00:00:58,500 --> 00:01:05,870
+First, we created novel software tools, a query and a choir, which utilize machine learning to predict whether chassis will survive in an aquatic environment.
+
+10
+00:01:06,310 --> 00:01:13,070
+A query, or database with over 2,000 samples, relates metagenomic data stored in taxonomic matrices with environmental factors.
+
+11
+00:01:13,860 --> 00:01:20,300
+It features exclusively shotgun metagenomic data, not 16S, in order to achieve species-level taxonomic processing.
+
+12
+00:01:21,190 --> 00:01:28,050
+Acquire our ML software predicts chassis survival under provided conditions, considering environmental factors and community structure.
+
+13
+00:01:28,680 --> 00:01:35,180
+Since Wikifreeze, we've expanded a choir's coverage to over 20,000 chassis, and we're incorporating meta-transcriptomic data.
+
+14
+00:01:36,970 --> 00:01:39,600
+we also developed a generalizable math modeling framework.
+
+15
+00:01:40,100 --> 00:01:50,160
+not just for our individual case studies, but to support a broad range of aquatic applications by incorporating complex fluid dynamics and accounting for biotic and abiotic factors to acquire.
+
+16
+00:01:50,820 --> 00:01:55,950
+After WikiFreeze, we expanded our modeling framework to include static water conditions and created a guidebook.
+
+17
+00:01:56,900 --> 00:02:05,900
+We also performed controlled, environmentally relevant case studies to generate design principles and developed as a byproduct potential engineering solutions in novel parts.
+
+18
+00:02:06,630 --> 00:02:12,460
+We began by engineering an inducible basil-sapil system that strengthens biofoam formation for corrosion prevention.
+
+19
+00:02:13,030 --> 00:02:19,380
+We also optimized the B-subtiles integration vector and made it compatible with iGenPART standards for everyone to use.
+
+20
+00:02:19,910 --> 00:02:31,660
+We then tested engineered strains on steel and seawater microcosms and identified gene expression differences through controlled paired RNA analysis. Something we found was rare in publicly available data sets.
+
+21
+00:02:32,710 --> 00:02:37,460
+Post-Wiki freeze, we studied our strains' corrosion inhibition efficiency for an extended period of time.
+
+22
+00:02:38,850 --> 00:02:53,360
+We then assessed two algal bloom remediation strategies. However, after conducting 250 assays searching for novel microcystis phage and from input from IHP, we found that phage did not offer feasible treatment strategies perhaps.
+
+23
+00:02:53,930 --> 00:03:11,180
+We therefore assessed A. balei's bloomer mediation potential through well-controlled microcosm experiments using metagenomic and metatranscriptomic analyses. Since wikiFREES, we've continued to analyze RNA-seq data and identified over 250 DE genes and associated pathways that affect chassis behavior in realistic environments.
+
+24
+00:03:12,100 --> 00:03:18,060
+We also developed a phage cocktail to maximize mycobacterial lysis and prevent biofilm maturation in household pipes.
+
+25
+00:03:18,570 --> 00:03:22,930
+We tested it both under lab conditions and a microcosm simulating PVC pipes.
+
+26
+00:03:23,910 --> 00:03:30,670
+Using different forms of measurement and RNA-seq data, we generated design principles for FAGE treatments better suited for dynamic environments.
+
+27
+00:03:31,170 --> 00:03:37,170
+Post-Wiki-Freeze, we analyzed RNA-seq data further in order to identify almost 500 differential expressed genes.
+
+28
+00:03:38,050 --> 00:03:47,920
+our CART project incorporated measurements across multiple stages. This approach not only provided a comprehensive evaluation of experimental outcomes, but also promoted accessibility.
+
+29
+00:03:48,930 --> 00:04:01,200
+Perhaps most importantly, we include a type of measurement not typical for iGEM. We mined the wealth of publicly available RNA-seq data and performed a meta-analysis of genes differentially expressed between lab in more dynamic conditions.
+
+30
+00:04:02,150 --> 00:04:06,960
+We identified paired studies in literature and performed pathway analysis for each study ourselves.
+
+31
+00:04:07,590 --> 00:04:15,540
+Given the substantial amount of data, thousands of samples, we then turn to using AI tools to complement this analysis, which we verified using the previous approach.
+
+32
+00:04:17,320 --> 00:04:29,200
+Through a meta-analysis of existing data sets, mathematical modeling, and wet lab experimentation in aquatic environments, our project generated foundational advances into how synthetic constructs actually behave in aquatic environments.
+
+33
+00:04:30,090 --> 00:04:38,350
+From there, we generated design principles that offer guidelines for how to select, enhance, and engineer constructs that would function more reliably in the real world.
+
+34
+00:04:38,980 --> 00:04:45,420
+For resources on reliable implementation, we offer a guidebook and a quick start guide for synthetic biologists and policy makers.
+
+35
+00:04:45,930 --> 00:04:58,770
+Circling back to where we started, we hope that these foundational insights will help enhance safety understanding and lead to more effective policy, as suggested by our RHP, to one day channel sent bio from the lab into aquatic environments.
+
+36
+00:04:59,460 --> 00:05:02,220
+Thank you, we'd love to answer any questions.
+
+37
+00:05:02,660 --> 00:05:08,050
+It's exactly five minutes. So we'll move on to the 20 minute Q and a session.
+
+38
+00:05:08,580 --> 00:05:17,550
+So I would first invite the online judges. If you have any questions, you may speak up or type in the chat. I'll have you read it out.
+
+39
+00:05:20,100 --> 00:05:24,940
+Can you also open the chat here? Oh, I'm so sorry. You guys can just read the options.
+
+40
+00:05:28,420 --> 00:05:29,580
+So uh...
+
+41
+00:05:30,180 --> 00:05:30,700
+Yes.
+
+42
+00:05:31,590 --> 00:05:49,010
+So from Kennedy, in my professional experience, it's often the case that the barrier of implementation of sin-bio solutions is not the concern that the solution will survive, but in fact, the concern that the sin-bio solution will be too successful and imbalance the ecosystem.
+
+43
+00:05:49,410 --> 00:05:52,780
+How could your models be further developed to address these concerns?
+
+44
+00:05:54,120 --> 00:05:57,870
+This stresses the importance of testing things in realistic environments.
+
+45
+00:05:58,600 --> 00:06:11,540
+Our models may not suggest how this is going to overpower because our models do not incorporate specifically engineered solutions. We focused more on using available data from the real world and that data does not usually incorporate.
+
+46
+00:06:12,040 --> 00:06:12,750
+Engineered.
+
+47
+00:06:13,130 --> 00:06:15,760
+solutions because they've never been implemented in the real world.
+
+48
+00:06:16,390 --> 00:06:40,240
+However, this is the importance of testing in simulated real-world environments. For all of our case studies, we constructed microcosms and tested that and got RNA-seq data, as well as 16S data, which would be an indicator of species competition. So through 16S data and metagenomic data, you'd be able to see competition, and you'd be able to see how it would outcompute other species.
+
+49
+00:06:44,840 --> 00:06:48,180
+Okay. Thank you for your presentation. Can you hear me?
+
+50
+00:06:48,770 --> 00:07:04,850
+Yes. Yes. Okay. Thank you. I'm Wilson and I'm the online judge. So I'm very curious about your, um, module in part, like how modular and transferable is your project. Could other IGM teams like easily adapt?
+
+51
+00:07:05,350 --> 00:07:10,990
+your equations or your your modeling to their own applications.
+
+52
+00:07:12,930 --> 00:07:16,210
+Am I muted?
+
+53
+00:07:16,930 --> 00:07:19,500
+We tried to make it as accessible for...
+
+54
+00:07:19,970 --> 00:07:30,030
+future synthetic biologists to use our modeling framework as possible. So in the case of pipe transport, we reduce the system so that...
+
+55
+00:07:30,730 --> 00:07:31,730
+although it's
+
+56
+00:07:32,360 --> 00:07:39,310
+modeling how phage is being transported. It could be any tran, any species being transported in that pipe framework.
+
+57
+00:07:39,750 --> 00:07:42,700
+or for modeling stuff in lakes.
+
+58
+00:07:43,110 --> 00:07:55,950
+We made some various assumptions, but overall it's simulating how that bacteria or how that chassis is being transported along in that lake and how it's reacting with the environments around it.
+
+59
+00:07:58,150 --> 00:07:59,310
+All right, thank you.
+
+60
+00:08:03,970 --> 00:08:04,620
+So
+
+61
+00:08:05,830 --> 00:08:06,930
+One more question from-- [
+
+62
+00:08:07,460 --> 00:08:17,070
+So based on the data generated from studying the microcosms, do you have any safety recommendations for future synbaro products targeting an aquatic system?
+
+63
+00:08:18,020 --> 00:08:20,660
+Yeah, so do you want to answer this one with your, okay.
+
+64
+00:08:21,130 --> 00:08:41,870
+So through our microcosm experiments, we did do differential gene expression analysis, and we found different pathways, some of which may be toxic on a larger scale. So this is something we need to take into account when we circle back to engineering again, based on this RNA-seq data, to try to suppress the genes that encode for toxins.
+
+65
+00:08:42,530 --> 00:08:45,580
+to prevent those from being expressed in a larger scale.
+
+66
+00:08:46,530 --> 00:09:13,340
+Besides, in the corrosion case study, we engineer a totally controllable, zealous, inducible controlling system that only when the inducer is present, it is going to express the engineered circuits. So this is also for a safety concern. Also, we chose zealous as the inducer. It's not like IPTG or other inducers that there are some inducers that are toxic to the ocean environments.
+
+67
+00:09:13,410 --> 00:09:17,620
+'Cause we are aware that we are spreading those inducers. (static)
+
+68
+00:09:18,050 --> 00:09:23,090
+for the corrosion example on the ship's surfaces. So we are aware of this.
+
+69
+00:09:23,590 --> 00:09:25,970
+we're selecting zylos which is totally like biodegradable
+
+70
+00:09:30,180 --> 00:09:56,160
+- Thank you. So any questions from? - Okay. I think it's my turn to ask a question. Thank you for your presentation. Your project is saving three problem including the steel corrosion, micro bacteria, biofilm removal. I want to confirm why did you choose bacillus, sub-tillius?
+
+71
+00:09:56,420 --> 00:10:03,060
+as the charges, organization. Do you have any data or evidence to support your conclusion? - Okay.
+
+72
+00:10:03,720 --> 00:10:16,660
+First our project is not to create engineering solution for these three case studies, but use these three case studies as a proof of concept engineering for our software and our mathematical model to
+
+73
+00:10:17,190 --> 00:10:43,040
+like fulfill the gap in the foundational events of channeling these assets to the aquatic environment. Second, for my bacillus, I choose bacillus septulus because there were a Google SL 2017 paper, which is also like I believe in our reference list, that is proving that like using the bacillus septulus can form a microbial biofilm that uniformly coat.
+
+74
+00:10:43,140 --> 00:10:48,910
+on the steel surfaces that is going to protect the steel surfaces from corrosion. There's also a-- [AUDIO OUT]
+
+75
+00:10:50,050 --> 00:10:58,290
+Also, go at L 2021, I believe, review paper on this total, like, microbial induced corrosion inhibition method. Yeah.
+
+76
+00:10:59,750 --> 00:11:12,240
+I'd like to say that the ideal way of choosing a chassis would be to use the software that we developed to test if it's going to be compatible in the environment we want to put it in. However, we did not have the software when we're starting our case studies. This is something we developed throughout. [AUDIO OUT]
+
+77
+00:11:13,090 --> 00:11:20,660
+throughout our projects. By the time we had the software available, we had already chosen our chassis, but that would be the way that we would go about that now.
+
+78
+00:11:21,960 --> 00:11:35,280
+Okay, could you tell me what's your application scenario in the future? Do you consider the long term impact under efficiency application? - So, tell us about our overall project.
+
+79
+00:11:36,810 --> 00:11:55,860
+Yeah, over a trap. So we see the large long-term implementation of our project to be a synthetic biologist or people in the field using our design principles, the ones that we generated throughout our project, using our software and using our math models to predict whether chassis will survive and function reliably. Using the...
+
+80
+00:11:56,900 --> 00:12:00,560
+using our pathways that we found through differential gene analysis.
+
+81
+00:12:01,160 --> 00:12:08,910
+in order to enhance their chassis in order to function. So using our design principles, and I can bring them back up.
+
+82
+00:12:09,410 --> 00:12:09,940
+Um.
+
+83
+00:12:10,760 --> 00:12:17,940
+using our design principles on a larger scale in order to create some biosolutions that would be more applicable in the real world.
+
+84
+00:12:18,630 --> 00:12:20,720
+to be better working in the real world.
+
+85
+00:12:27,490 --> 00:12:36,820
+further about the deficiency. Did you consider the long term efficiency of your project to the environment?
+
+86
+00:12:38,050 --> 00:12:38,610
+and
+
+87
+00:12:40,260 --> 00:12:43,600
+of our design principles?
+
+88
+00:12:44,260 --> 00:12:44,750
+Yes.
+
+89
+00:12:45,570 --> 00:12:49,100
+Maybe I can improve my expression into the chat box.
+
+90
+00:12:53,480 --> 00:12:55,120
+Do you consider the long term?
+
+91
+00:12:55,880 --> 00:12:59,220
+impact on drip efficiency to
+
+92
+00:12:59,850 --> 00:13:01,460
+to the environment.
+
+93
+00:13:07,010 --> 00:13:08,210
+Yes, so.
+
+94
+00:13:08,710 --> 00:13:22,130
+Because our design principles include RNA-seq analysis, that is a really good indicator of toxin and gene expression that would affect the environment. This is a really important part before-- [AUDIO OUT]
+
+95
+00:13:23,170 --> 00:13:26,930
+before applying anything you want to see if it's going to be one harmful.
+
+96
+00:13:27,810 --> 00:13:28,270
+first.
+
+97
+00:13:28,770 --> 00:13:30,420
+Safety is the most important.
+
+98
+00:13:30,890 --> 00:13:37,840
+So you want an RNA-seq analysis would be able to tell you that because the chassis sometimes can express toxin.
+
+99
+00:13:38,310 --> 00:13:38,800
+jeans.
+
+100
+00:13:39,210 --> 00:13:39,730
+um
+
+101
+00:13:40,870 --> 00:13:42,350
+And it's really important to--
+
+102
+00:13:42,890 --> 00:13:50,800
+make sure that your circuit does not, your chassis does not. And that is the importance of this sort of testing in realistic conditions.
+
+103
+00:13:51,400 --> 00:13:54,130
+So the efficiency of our project would be.
+
+104
+00:13:54,600 --> 00:14:00,980
+We do see long-term efficiency in our long-term implementation of our project because it
+
+105
+00:14:01,640 --> 00:14:03,020
+It has so many rigorous
+
+106
+00:14:03,560 --> 00:14:10,320
+steps to verify that this is one safe and two would function properly without damaging the surrounding ecosystem.
+
+107
+00:14:10,920 --> 00:14:12,500
+Okay, thank you, I have no more
+
+108
+00:14:15,690 --> 00:14:21,230
+OK, so I have a quick question about the transcriptomic analysis. So-- [AUDIO OUT]
+
+109
+00:14:21,610 --> 00:14:37,360
+I didn't quite understand how the samples were prepared because you guys have different three types of transcriptomic datas. And in the Wiki page, I didn't see any of the raw datas or any-- [AUDIO OUT]
+
+110
+00:14:38,210 --> 00:14:40,080
+analytical data with
+
+111
+00:14:40,450 --> 00:14:43,500
+the gene names or and the p-values.
+
+112
+00:14:43,970 --> 00:14:45,230
+and the expression changes.
+
+113
+00:14:45,610 --> 00:14:52,020
+So can you explain how do you guys design this transcriptomic data analysis?
+
+114
+00:14:52,650 --> 00:15:16,340
+How do you guys analyze this? - With our case studies. - Right. - Yes. So within our case studies, each one has such different sample types that each one had different ways of preparing the sample. For example, with the time points from the microcosms, those were all flash frozen, centrifuge and then flash frozen, and then RNA was extracted from that versus with the biofilms, those were scraped off of pipes. (static)
+
+115
+00:15:16,710 --> 00:15:21,360
+centrifuged and we used the NEB RNA extraction kit.
+
+116
+00:15:21,830 --> 00:15:27,820
+as well as trizol in order to extract RNA and prepare those samples. We had-- [AUDIO OUT]
+
+117
+00:15:28,390 --> 00:15:33,740
+hundreds of jeans, which would have been great to put on the wiki. I do think we have some up there.
+
+118
+00:15:34,340 --> 00:15:50,640
+in the results section as well. So how many samples do you guys have in numbers? Like for example, like for the control samples, you guys need like the replicates. So how many replicates were there? Yes. So this varied by experiment. So for the harmful algal blooms case study,
+
+119
+00:15:51,010 --> 00:16:16,760
+We used triplicates, three control cultures and three microcosms. And we exposed them to the same overall conditions, except for the fact that the microcosms have different species present because we used real lake water from a local lake for the microcosms. And we also added an element of water flow by adding small water pumps to the microcosms. And then the control cultures are static. So what you would see-- [AUDIO OUT]
+
+120
+00:16:17,350 --> 00:16:25,140
+typical lab setting when this kind of solution is being tested. So we did have triplicates for that experiment.
+
+121
+00:16:27,850 --> 00:16:28,210
+[static
+
+122
+00:16:30,050 --> 00:16:30,450
+We.
+
+123
+00:16:31,170 --> 00:16:33,260
+we extract RNA from both
+
+124
+00:16:35,690 --> 00:16:52,300
+for one natural string and two engineered lab strings which showed good potential in corrosion inhibition in the previous SEM analysis. - And for the mycobacteria in pipes, we had two controls and two. (static)
+
+125
+00:16:52,680 --> 00:16:58,960
+samples of mycobacteria forming biofilms in dynamic environments on PVC pipes.
+
+126
+00:16:59,400 --> 00:17:05,740
+because it was difficult to extract RNA so we could not get a high end on that because the biofilm was 90%.
+
+127
+00:17:06,180 --> 00:17:09,070
+other things that's not bacteria, so it was difficult.
+
+128
+00:17:09,770 --> 00:17:23,600
+So just for the last questions, I think there will be a lot of like DEGs that you guys have found. Maybe some of the genes were up-regulated and some of them are down-regulated. So compared to the previous studies, do you guys have found some-- [AUDIO OUT]
+
+129
+00:17:24,290 --> 00:17:27,150
+that are not actually reported.
+
+130
+00:17:28,810 --> 00:17:29,710
+or do you guys have
+
+131
+00:17:30,920 --> 00:17:33,390
+when you guys analyze the gene expression patterns.
+
+132
+00:17:33,800 --> 00:17:37,520
+Did it show like the similar pattern as the previous studies?
+
+133
+00:17:38,020 --> 00:17:39,380
+and the gene list.
+
+134
+00:17:39,880 --> 00:18:00,780
+- Yeah, so I would say that across all of our case studies, we found some similarities in the genes that were differentially expressed. And this was also validated by our meta-analysis. So we found similar pathways that were differentially expressed across all of them. Of course, there were some differences and that's why this is important to do on a species-specific level for your specific implementation that you're trying to develop.
+
+135
+00:18:01,160 --> 00:18:26,940
+Some examples of commonly differentially expressed pathways are those involved in oxidative stress response, osmoregulation, nutrient uptake. Those are all related to stress responses and we see downregulation in the microcosms of DNA replication and things that would be related to the bacteria's ability to replicate and survive. But again, it's important to do this on
+
+136
+00:18:27,170 --> 00:18:41,870
+case study level basis and understand the specific differences that are related to your chassis of interest. Safety comes into that as well because that is going to vary heavily across different species. Not everything is going to produce the same toxins.
+
+137
+00:18:42,340 --> 00:19:00,820
+And also we did see a lot of genes or pathways that we did not expect. I mean, some of them are obvious. We're going to see that they have trouble metabolizing because they don't have enough nutrients. But we did see things like metal metabolism and things that we did not expect to see because they're not commonly known in literature in our pathways.
+
+138
+00:19:02,730 --> 00:19:03,470
+So
+
+139
+00:19:04,070 --> 00:19:05,040
+So my question is--
+
+140
+00:19:05,640 --> 00:19:11,060
+So during your presentation, you mentioned that this entire system would help-- [AUDIO OUT]
+
+141
+00:19:11,460 --> 00:19:18,380
+of aquatic biologists to perfect their selection of chassis and design better experiments.
+
+142
+00:19:18,790 --> 00:19:31,730
+So let me just throw you a hypothetical. So let's say if you were doing this project again, but it's already there, how would you use your system to perfect your experiments?
+
+143
+00:19:32,330 --> 00:19:35,790
+- Yes, so we would begin with using the chassis selection software.
+
+144
+00:19:36,450 --> 00:19:45,100
+in order to select a chassis because we obviously have ideas of what we would want. We want for corrosion, we would want a bacteria that is able to form biofilms.
+
+145
+00:19:45,510 --> 00:19:46,060
+and for
+
+146
+00:19:48,130 --> 00:20:07,630
+on the steel and in the ocean, but is it going to be compatible in this ocean environment with this type of salinity and this type of pH? We want to use that software to verify that. We would then turn to the mathematical modeling framework. So instead of starting from scratch like we did this time, we would have a framework in order to more accurately model before we even start wet lab to save ourselves the--
+
+147
+00:20:08,390 --> 00:20:11,060
+tedious work that our model could predict instead.
+
+148
+00:20:11,560 --> 00:20:13,710
+before even beginning to waste resources.
+
+149
+00:20:15,140 --> 00:20:17,360
+Then we would begin with...
+
+150
+00:20:18,280 --> 00:20:23,630
+with creating a construct, testing it in the lab, and then testing it microcosm simultaneously.
+
+151
+00:20:24,170 --> 00:20:34,700
+These microcosms we did do, we made ourselves, but now we don't have to make them from scratch. We don't have to think of how am I going to make a pipe microcosm. I have the three, we have the available.
+
+152
+00:20:35,530 --> 00:20:38,930
+way of making it. We have a PVC pipe. This took a lot of
+
+153
+00:20:39,370 --> 00:20:44,240
+brainstorming and trying to figure out a way to sample from a biofilm growing inside of a pipe.
+
+154
+00:20:44,650 --> 00:20:50,380
+Now we have a way to do that. And this is all available to any researcher who wants to take on these projects themselves.
+
+155
+00:20:50,790 --> 00:20:51,180
+um
+
+156
+00:20:53,190 --> 00:20:58,290
+And we know the importance of RNA testing. So that is the next thing we would always do.
+
+157
+00:20:59,970 --> 00:21:00,620
+so
+
+158
+00:21:01,000 --> 00:21:03,570
+My follow-up question would be...
+
+159
+00:21:04,230 --> 00:21:05,900
+What do you expect?
+
+160
+00:21:06,340 --> 00:21:08,560
+Let's say you do the experiment using your system.
+
+161
+00:21:09,220 --> 00:21:21,040
+What do you expect the discrepancies from the program and your actual results be from? So what are some limitations of your program that might manifest in your actual experiments?
+
+162
+00:21:21,700 --> 00:21:44,660
+What your limitation of a program is that it does not consider specifically engineered domesticated species. Like lab strain? Lab strain. Because we have environmental data and these are not considered in our environmental data. There's a way to remediate that. We take the domesticated strain, we put it in a microcosm, we observe how it functions relative to the other species there.
+
+163
+00:21:45,320 --> 00:21:48,110
+However, we have not done this yet, therefore-- [AUDIO OUT]
+
+164
+00:21:49,130 --> 00:21:54,990
+Therefore, that is the main discrepancy we would see of differences of how it would differentiate between our software.
+
+165
+00:21:56,490 --> 00:22:21,660
+what we also kept in mind with our software with the database, we're able to add more going forward so we can easily add new submissions, even for other synthetic biologists as they work with this framework to improve the database overall. So as we already started setting up the system in place where you can click a tab and you allow it to submit like a CSV file with your environmental metadata along with your metagenomic sample.
+
+166
+00:22:21,730 --> 00:22:42,700
+and the abundance scissors, because we also have a metagenomic pipeline publicly available on our GitLab as well. So we kept this in mind because we always want to keep it growing and to also see the trends and changes, because one location could have changed, especially with climate change. And we want to be able to address that and be able to rerun our predictive models on these new variables.
+
+167
+00:22:44,930 --> 00:22:45,550
+So
+
+168
+00:22:48,580 --> 00:22:50,580
+30 seconds left maybe we can do one more
+
+169
+00:22:51,330 --> 00:22:56,340
+There's a question in the group.
+
+170
+00:22:56,810 --> 00:23:01,810
+Can you imagine a scenario where the definition of survival might not be what is desired?
+
+171
+00:23:03,210 --> 00:23:25,490
+Yes, we understand that our definition of survival is limited to what was available. So right now our survival score is like a proxy score for survival. We're able to get metagenomic data which showed species presence. Pause there. When you say it's a proxy for survival, how do you define survival itself? Is it that the organisms released are alive?
+
+172
+00:23:25,890 --> 00:23:34,260
+Is it that the organisms released are replicating? Is it that they're able to replicate at a certain growth rate? What exactly does survival mean? That's what I'm trying to ask.
+
+173
+00:23:36,010 --> 00:24:05,980
+Survival stands for presence in this case because from the metagenomic sequence and what we could achieve from what is publicly available reliably across multiple samples was just presence abundance values. So basically we used cracking and breaking to process all these metagenomic samples and we were able to get basically species abundance matrix that said the species present and also the abundance values. So we understand that it may be limited in the fact that it's metagenomics. It's going to show traces of whatever
+
+174
+00:24:06,280 --> 00:24:16,690
+been there or passed through there, which is why we really want to focus on trying to implement meta transcriptomic data as well to see expression of the genes as well, not just the.
+
+175
+00:24:17,130 --> 00:24:43,320
+possible presence or previous presence out there. Right now, the working definition we are working with is the presence value. So we use a higher presence or abundance value to relate to a higher survival score. So we basically worked under the assumption that with this higher score, then it's likely that the species is able to survive reliably there, especially if we see patterns of similar environments has typically higher abundance scores.
+
+176
+00:24:43,430 --> 00:24:45,360
+So that's what we're working it right now.
+
+177
+00:24:47,270 --> 00:24:50,000
+So we have like 20 seconds left. So
+
+178
+00:24:50,440 --> 00:24:50,900
+uh
+
+179
+00:24:55,590 --> 00:25:07,660
+maybe we will stop the session here. So thank you very much. - Thank you very much. - So you can like, yes, thank you very much. And you can backdrop and we'll be ready for the next team. And thank you judges as well.
+
+180
+00:25:09,480 --> 00:25:12,270
+Thank you so much to all the virtual judges as well.
+
+181
+00:25:28,170 --> 00:25:30,380
+Am I still in the Zoom? I am so sorry.
+
+182
+00:25:31,270 --> 00:25:34,540
+I thought I could the zoom -
+
+183
+00:25:36,710 --> 00:25:39,060
+Thank you so much once again. - Thank you.
+
+184
+00:25:41,960 --> 00:25:43,010
+Yes. Thank you.
+

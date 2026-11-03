@@ -1,0 +1,226 @@
+Should I take out the audio while I'm writing the audio?
+Yes.
+We'll be able to hear everyone. All right, speakers. - Yes
+And if you want to share, you can share your screen if needed. Otherwise, it's absolutely fine.
+Yes, I had a slideshow to get up and running for you.
+I will show you the two minutes left and then time that. Okay. Perfect.
+Is the mic on already?
+Yes.
+Are we all visual?
+No, only the person from the computer can be visual.
+best print
+Is that all right? Would you? Yeah. Okay. We'll start in two minutes. Okay.
+Misfits
+I think it's
+skivvts sounds like
+right.
+[BLANK
+- Yeah, he shows a sign. - Yeah, that's correct.
+Dennis
+The soft working just right over here.
+ratios
+Right.
+Hello judges, we're Ida McGill and we present CoHira, a new foundation for engineered multicellularity.
+At the cellular level, Cohere provides an entirely genetically encoded toolkit for fine-tuned cell-cell adhesion.
+At the molecular level, our model coherotune ensures that our system is functional in a diversity of environments.
+by improving the stability of the involved adhesion proteins.
+Beyond the lab, we investigated how our foundational project could bring about positive change in the real world through our extensive integrated human practices work.
+In the wet lab, we had two core objectives. First, the formation of resilient bonds across domains of life.
+And second, the reversal of those bonds on command.
+Since wiki freeze, we have applied statistical methods to analyze our microscopy results.
+We demonstrated that E. coli aggregate size could be modulated by titrating the concentration of the inducer molecule IPTG.
+We performed a t-test on aggregate areas and showed that samples induced with both 0.1 millimolar and 1 millimolar had significantly larger aggregates than the uninduced control.
+Similar results were obtained with S. cerevisiae and supported with statistical analysis of cell counts in randomly sampled frames.
+Following this, we successfully achieved interspecies adhesion.
+And again, similar results were obtained. Significantly larger aggregates are seen in the induced samples compared to the uninduced samples.
+Finally, we demonstrated that coheura provides control over the adhesion state of our cells.
+And this allows our tool to be used repeatedly as cellular assemblies are shown to be able to reform post the solution.
+These results characterize Kokiras' part collection.
+basis for programmable interspecies adhesion.
+For a proof of concept, we developed a complete set of modules for two of the most central hosts to SUSAMBIO, E. coli and S. cerevisiae.
+Our collection was designed to be easily expandable to a multitude of other hosts and protein elements.
+provided a standard template for the addition of new parts as well as validation parts for rapid iteration on design.
+At Dry Lab, we developed Coheratune, a model that enhances the stability of adhesion proteins to expand Cohera's applicability.
+The heart of this model is our Bayesian optimization algorithm, which we developed with the principle of modularity as our focus.
+We apply our algorithm to optimize fitness and stability in Spytag and Spycatcher, and our user manual details how it can be applied to optimize different properties in any given protein.
+With our algorithm, we address a current knowledge gap in computational protein, redesigned by characterizing insertion and deletion mutations.
+Additionally, our molecular dynamics simulations incorporate both quantitative and qualitative data from the literature.
+in particular measurements of bond length and
+protein folding.
+are molecular dynamic simulations. Since wiki freeze, we're excited to share that.
+Compared to the original Spycatcher and Spytag, our mutated complexes show improved performance in a variety of stability metrics.
+With Coheretoon, we furthered our understanding of Spycatcher and Spytag, our adhesion proteins, both in isolation from and in harmony with its environment.
+Expert consultations have guided the development of our project at every step. Speaking with Dr. Cassandra Joyner and Dr. Mark Howarth have helped us to choose our protein adhesion platform, and attending the Miele molecular machine learning conference helped us focus our model on protein stability rather than binding affinity.
+We've also developed three key use cases to fully evaluate the potential of cohere in the downstream world.
+with over 75 application stakeholders and 34 application specific consultations we've conducted.
+On an iGEM timeline with the constraints we have, HP is the main validation that we have for our potential applications in foundational advance. But we've also developed a bunch of other resources for other teams to use that are documented on our wiki and easy to add and build on.
+To wrap up our HP journey, we hosted a live stage talk yesterday, where we spoke about the lessons we learned in foundational advance, to hope to inspire other teams in foundational advance to conduct thorough human practices and go beyond.
+Inside and outside the lab, Cohere lays the groundwork for synthetic biologists to explore the new realm of multicellularity by engineering unexpected connections.
+Thank you
+Thank you very much, very nice presentation.
+uh
+should have 30 seconds
+in your presentation time
+without any transition, we will go to the question session with the remote judge first.
+Guys, feel free to come over if there's a question that
+So I go fast. Thank you so much for your presentation.
+And I'd like to congratulate your effort and in short time to provide the proper concept of this.
+spike capture system to bring together different microorganisms.
+which is quite intriguing. So my question is quite technical. So I like to ask about
+how you prepare the sample for both
+microscope and
+I say and also is this page.
+How did you grow?
+the sample or culture at the same time and subject to
+to different experiment or did you do it?
+in the different batch. Could you elaborate a little bit about how you prepared and set up this experiment?
+Yes, of course. Thank you for the question.
+So for our microscopy assays and also for some of our SDS page results that come from cultures, each...
+batch of experiments. I suppose the cultures were grown at the same time. Obviously, we can't grow cultures for several days. And so we try to keep things consistent.
+from day to day when we're running different sets of microscopy, but all the images that you see are from the same day when they're side by side.
+And so for E. coli, for instance, we grow them to a set O.D., O.D. 0.5. And then we induce with the inducer molecule, the first one IPTG to form the aggregation. We let it grow for one hour.
+And then we mix the samples expressing Spytag and Spycatcher together.
+Um.
+And then if the experiment of the day involved inducing the protease, then we would add the second inducer in hydrotetracycline.
+to induce the expression of the second molecule, again, the second protein, again, let it grow for an hour, and then the sort of same process repeats.
+um
+Yeah, and we try to keep things consistent between.
+For the end for the yeast?
+We first grow the culture in glucose to again let it reach a certain optical density and then we grow it in a raffinose pre-induction culture.
+overnight and then in
+We then
+induce with galactose, or we supplement culture with galactose and then let it grow some more. But then before we mix it with E. coli or with other yeast cultures, we take the optical density and then we make sure to dilute it to a set optical density to make sure that our results are consistent.
+One more question.
+See you!
+describes
+this binding, this two kind of conjugation is very strong because it's coverant, but...
+Have you done any experiment, kind of evidence to prove that
+your
+the binding is stronger than the other.
+type of adhesion system.
+So we didn't perform any direct comparisons because we didn't implement any other adhesion systems. However, what we can say is two things. First of all, one of the methods that other authors used using non covalent adhesion system to disrupt their adhesion was simply mechanical agitation. That was one factor we could test simply by vortexing our samples before doing microscopy.
+That is what we did before, non-induced and induced samples. And you could see that aggregates remained in the induced samples and not in the uninduced samples. That's one thing we can say.
+Another thing we can say is that other people have measured the strength until rupture or separation of the proteins using
+optical tweezers.
+Obviously this is not something we performed, but they found...
+I believe it was three orders of magnitude higher than other non-covillain interactions in the strength of the bond.
+that answers your question.
+Thank you so much, and that's all from me
+Thank you.
+Okay, five.
+First of all, I want to see that your project website is very fantastic. I always like it.
+My question is about the ideas makes it seems very cool. Could you please?
+Tell me more details about the signal and the switch you use to tear the seals to separate.
+Thank you
+Thank you for your question. So to separate the cellular assemblies, we use our novel membrane bound protease. So it's a tobacco-etched virus to have protease displayed on the surface of the cell. And we place the expression of this protein under a promoter inducible by anhydro-tetrous like these, so like a tet R.
+induction system. And so for our proof of concept, we simply supplement the culture with a set amount of anhydro-tetracycline and that is shown to be able to
+to separate the cells. And so that's the signal that we have done for our proof of concept. Does that answer your question?
+Okay, thank you.
+Thank you
+Next question from our in-person judges maybe.
+That's okay. All right. Yes, it was great. We can say we're declared. I have a question about the cell population. Of course you check it with equal I and then survey Z. But have you considered if there is a mixed cell system.
+how would the addition specificity work in that particular case? And do you think that it can target a particular cell population in a mixture of different kinds of cells?
+Do you mind elaborating please on what you mean by specificity and or like the mixture of cells? Yeah. So let's say you all your experimentation is based on of course.
+service and then E. coli.
+But let's suppose if we have a mixed cell culture and I want a particular scaffold out of a particular cell population.
+then would this particular addition system work in a mixture of different kinds of cells? Or would that specificity be compromised in any way if there are different kinds of cell populations present in a mixture?
+Definitely a relevant question for several of our applications, especially the colorectal cancer or like gastrointestinal therapy where there's a lot of cells in the microbiome, of course.
+That's one of the reasons we selected this Bi-Tech Spy-Catch repair is because of how highly specific it is and how orthogonal it is to other proteins in just
+a normal intracellular/exceller environment.
+So again, non-experiments performed by us, but I believe they had like very high completion rates of the reactions in an interfellow environment just because the nature of the reaction is covalent. So it's not reversible. And of course there might be unspecific interactions with other proteins, but those are minimal compared to the actual specific interaction with the specific partner.
+And so it's one of the reasons we selected this protein is for that specificity, which we believe would make us let there is no.
+major on specific binding with other
+cells and in the population.
+So to add on to what Nicholas said, in the lab, when we are mixing samples of E. coli and S. cerevisiae to form the mixed species aggregates, we can also selectively just only express one of the pair, like spy tag in the yeast, for instance, and the spy catcher in the bacteria or the other way around. In that way-- [AUDIO OUT]
+If it was only one of the species, they would only have one of the protein and so it wouldn't be able to form aggregates. And so if we see aggregates, we know that it's the different cell populations binding together.
+Thank you
+[b
+Yeah, just like follow up question on the same topic first.
+Congratulations on this work. It's really impressive. It's for all of you.
+And just a follow up question is like, how can you able to control your population in co-cultural rangers like to see if to prevent overgrowth of any of the one strains that you have?
+- Yeah, that was a really big question for us at the beginning of the year. 'Cause the first person we reached out to in Co-Culture was out in California and he told us off rip, he was like, this is not gonna work. And he said, your Co-Culture is going to be quite difficult. You have to figure out how exactly to do this. It's Hector Garcia Martin. And so we didn't love that answer. So we reached out to a couple other people in and around Co-Culture and we eventually found Dr. Yanran Li out of University of California, San Diego, who is incredibly helpful.
+She recently published a paper in the co-culture production in both bacteria and yeast of streevalactones, which is another plant-produced compound, which is kind of a good allegory to our rubber application. And so in consultation with her, we found out that the basis for a lot of stable co-culture is the type of carbon source that you use. So yeast, for example, can metabolize xylose.
+And Xylose has a byproduct of metabolization of acetate, which can be-- [AUD
+Metabolized by bacteria and they don't necessarily metabolize each one the other direction. So for example bacteria can't metabolize xylose
+And in this way, if your only carbon source in your mediums is xylose, you can control the ratio between these organisms because the bacteria must have the yeast to be able to have a carbon source to survive.
+So just by control of simple carbon sources in the medium, you can create this ratio between bacteria and yeast in your...
+I have a question about, for instance, if you do...
+the
+the adhesion between a bacteria and a yeast.
+There is a difference in size.
+So the difference in the surface is so available. So you will have--
+like many bacteria able to...
+link to one yeast.
+So what can be the consequences of this difference and the risk, for example, in bio manufacturing where you have different metabolism for two different species?
+Perfect.
+Yeah, so I'm bringing up a little visual that we have here that is highly simplified of a microbial factory. But we've thought about this as well because protein expression can sometimes depend on the surface area of the membrane that it has to express.
+And for biomanufacturing, we actually have a benefit to having more bacteria linked to one individual yeast. The reason being is the bacteria are kind of our monomer producer where they produce the IPP that we need to use to produce rubber. And yeast kind of act as the final transformational, bringing the small monomers into a long polymer chain. So we end up actually needing, yes, less yeast to produce our molecules.
+And in other applications, this could potentially run into some consequences, but most of the applications we've developed today are perfectly fine with a higher concentration of bacteria compared to yeast.
+Just a quick note to add onto that. Um, hopefully in the future, this would be a parameter to tune of our system rather than something that just kind of happens and we don't have any control over it. I think it's something that would be a clear next step for us. If we were to pursue characterization in the lab, it would be further characterization of all the parameters involved. So the promoters that are driving the expression of these proteins and many other factors like that, which through which I believe we could control the number of cells expressed on each.
+cell, number of proteins expressed on each cell, and therefore control the ratio of bacteria to yeast and the size of the aggregates and so on. And so I believe with further characterization, this could be a parameter to be tuned rather than just...
+a consequence that we can't control. And that way we could tune for any specific application you might have in mind.
+It's very nice that you talk about it.
+And thank you for the answer.
+I have another question about...
+like EHA transporter, you use...
+to fuse the spire.
+Spytag or spycatcher protein.
+uh... where
+Where is the localization of this transporter because Isherich alkali has two membrane?
+Was it in the inner or the outer membrane? And if it's the inner...
+How can it be linked to the partner?
+Yeah, so EJ is an outer membrane transporter. It's outer membrane transporter.
+um
+Do you have any other questions about? No, I thought it was in the inner, but maybe I'm wrong. But okay. So if it's in the outer problem, there is no problem. Yes. Thank you. Good.
+And yes, just a question about-- so the question was asked about the activation of the aggregation or of the cleavage. [AUDIO OUT]
+So
+If I understood correctly, you activate, so you induce the cleavage or the aggregation by inducing the projection of the...
+of the proteins.
+So...
+the cells must be in a...
+growing fees that can
+like accept the overexpression.
+how practically how
+How do you do if you want, for example, to activate the aggregation, then cleave and then reactivate the aggregation?
+Nah.
+It has to be in the growing...
+like an exponential growing phase of...
+of the cell culture, so how can the--
+Can it be done practically?
+So thank you for the question. This is also something that we were very careful to consider, the growth phases of our cultures, not only making sure that it's consistent, but making sure that it is viable for our project.
+So if we certainly, like what Nicholas said, a next step would be to characterizing all these parameters, including the growth time and the incubation time with the inducer molecules.
+In general, we try to, for the sake of our microscopy results, keep things just consistent of inducing with the first molecule at...
+The optical density of 0.5 made a log phase.
+and then waiting an hour before adding the next molecule and then so on. But we have also tried to vary the time. It's-- [AUDIO OUT]
+possible that a shorter incubation time with the molecule would still allow us to see aggregate formation or aggregate breakage. But we were not-- [AUDIO OUT]
+fully able to characterize this. However, we have-- [AUDIO OUT]
+being able to see that even though we're waiting a longer time past, like maybe the culture is not exactly a mid-log face, the aggregate formation and the protease cleavage is still able to work fully functional, as you've seen in our microscopy results.
+Yeah, sorry. Again, what is the linkage between your spytag and spycatcher, like biochemically or chemically speaking?
+So...
+I suppose it's, is it chemically or biochemically? I'm not sure, but it's the spy tag and the spy catcher form two amino acid residues or one on each. They're able to form an isopeptide bond. So the amino group of one forms a bond with the carboxyl group of another.
+Thank you. It's a pept
+isopraptide, yes.
+Um
+I would like to choose
+go on future steps that you could take.
+If you had more time or more funding whatsoever, what kind of improvements you could do for your career at your own Mojo concept?
+So we actually think about this. We wish we had much more time. There are many more things we wanted to do.
+Our main goal being further characterization of the core system as a foundational advanced project. We think that's where we stand to bring the most value.
+As you guys saw, we fleshed out three applications relatively in depth. We really wanted to go in depth and make sure that there was a real application somewhere, but we had many other ideas for other applications. And we spoke into many other iGEM teams that have actually been looking forward to using our system in their own work. And so there's many potential avenues we could go down. Given that, we think the best thing for us to do would be to validate the core system, the parameters we spoke about earlier, expand the core system, validate in algae, validate in other species.
+expand to other adhesion proteins, like we've mentioned, just do it ourselves and then make that as accessible and public as possible so that many teams and researchers and entrepreneurs ideally can make use of our system in their own work. We think that's where we'd stand to have the most value.
+With regards to our specific applications, we do have an implementation report where we kind of lay out the next steps we would take for each of those applications, which we can discuss if you're interested.
+And then for the model, coherotune. So we have validated our mutated complexes using molecular dynamics, but we recognize that while lab validation would...
+at the end of the day be crucial. So this extends to what Nicholas talked about about expanding our toolkit. If we could have different versions of the Spycatcher SpyTek proteins of our adhesion proteins that would be more suitable towards certain applications that would really expand the applicability of our system.
+Also, also, I
+your
+example of applications are always between different species. So why this choice? Why didn't you choose like bacteria, bacteria or decolide examples?
+So I think I can take this kind of from a point of passion. We looked at a lot of really cool projects last year that are done in single cells and using single sets of organisms. And there are even some teams out here today that are using multiple different strains of the same organisms.
+Something that we found really, really cool in iGEM is that there are so many different organisms out there, even beyond just the model organisms that we use, that each have their own ecological niche and advantages that bring them kind of above other organisms in different areas.
+And so the reason that we're using different organisms is mainly because we think the biggest value that we can have in foundational events is collecting, sorry, connecting those ecological niches from different organisms, taking advantage of each organism strengths to kind of come together and create a cohesive application that is more than the sum of its parts.
+Thank you
+Yeah, I think the time now is up.
+Thank you very much. It's an impressive work. Very nice, Wiki. Very nice presentation.
+Do you, we're just handing out our our biome book, which is this project that we did, this art design project that we did for.
+for teams, so unfortunately we can't pass one on to you. So we do apologize for this, but I do believe all the art is on our wiki if you're interested to take a look.
+assure you this will not affect the judging ballot at all. If the online judges didn't receive and in-person judges, you have no access. It's just a token of appreciation. Yeah, a slight exercise.
+Thank you so much.
