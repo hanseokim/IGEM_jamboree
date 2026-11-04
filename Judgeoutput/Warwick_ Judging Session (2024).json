@@ -1,0 +1,1202 @@
+[
+  {
+    "start": 1.25,
+    "end": 21.9,
+    "text": "electronic devices make up an indispensable part of their everyday lives. But do you know what happens to them after they've surpassed their intended use? With e-waste levels rising five times faster than recycling levels, this is becoming an increasing problem. We are particularly focusing on lanthanides, which are hard to find, hard to extract, and hard to recycle. And currently less than 10% of them are being recycled."
+  },
+  {
+    "start": 22.66,
+    "end": 33.87,
+    "text": "Current methods involve using harmful hydro-metallurgical and pyrometallurgical methods, which involve using harsh chemicals, which are energy intensive, causing harm to both human lives and natural ecosystems."
+  },
+  {
+    "start": 34.34,
+    "end": 37.26,
+    "text": "Our method accumulates lanthanides in the smaller area."
+  },
+  {
+    "start": 37.89,
+    "end": 43.15,
+    "text": "smaller volume with less other elements in it, reducing the need for pyrometallurgical methods in order to separate everything."
+  },
+  {
+    "start": 46.34,
+    "end": 49.84,
+    "text": "Right, so the design of our project comprises three major components."
+  },
+  {
+    "start": 50.21,
+    "end": 57.3,
+    "text": "So the first component is a bioaccumulation strategy. So we want to make sure that there's as many lanthanides in the cells as possible."
+  },
+  {
+    "start": 58.18,
+    "end": 68.02,
+    "text": "Secondly, and this links in, is we want the sequesterosanthanides. So we use a protein called lanmodulin, which has picomolar affinity for lanthanides. So any lanthanides that get inside get mobbed up."
+  },
+  {
+    "start": 68.87,
+    "end": 76.11,
+    "text": "Now that has a couple of interesting effects because it effectively blinds the cell to the amount of lanthanides it has intracellularly because they're all stuck in the lanmodulin."
+  },
+  {
+    "start": 76.49,
+    "end": 83.38,
+    "text": "So one effect is that the cell thinks, oh, I've got no lanthinides, I'll keep taking up more lanthinides, hence aiding the bio-accumulation strategy."
+  },
+  {
+    "start": 83.88,
+    "end": 90.42,
+    "text": "The other effect is that we have a hemataxis protein, which causes taxes towards our aspartate plug."
+  },
+  {
+    "start": 90.82,
+    "end": 101.01,
+    "text": "and that's under neodymium upregulation. So until all of this land mausolein is saturated, nothing happens. But once it's saturated, the bacteria move towards the plug with the lanktonites within them."
+  },
+  {
+    "start": 103.05,
+    "end": 121.71,
+    "text": "To prove this bioaccumulation increase, we did ICPMS measurements, which show, which we then standardized to relative cell density and a known concentration of copper to give us our relative values for neodymium concentration. From this we found that we had a 1.46 higher neodymium concentration in our engineered strain compared to our wild type strain."
+  },
+  {
+    "start": 125.48,
+    "end": 131.63,
+    "text": "So yes, these are the genetic circuitry and components of our system, the major components. So we have the LUN module and..."
+  },
+  {
+    "start": 132.17,
+    "end": 134.03,
+    "text": "which is produced and which"
+  },
+  {
+    "start": 134.44,
+    "end": 142.58,
+    "text": "binds the neodymium, therefore inhibiting our upregulation until again all the land modulin is saturated at which point we get our chemotactic behaviour."
+  },
+  {
+    "start": 143.4,
+    "end": 144.37,
+    "text": "Well we have to prove"
+  },
+  {
+    "start": 144.77,
+    "end": 146.42,
+    "text": "So we have our proof concept experiment."
+  },
+  {
+    "start": 146.98,
+    "end": 157.14,
+    "text": "Our proof of concept experiment comprises an agar plate that's comprised of soft agar. So it's about 0.2% agar, which means it's sufficiently porous for the bacteria to swim through."
+  },
+  {
+    "start": 158.34,
+    "end": 161.65,
+    "text": "And then initially in that plate we have homogenous neodymium."
+  },
+  {
+    "start": 162.12,
+    "end": 165.07,
+    "text": "And after incubation, we examine."
+  },
+  {
+    "start": 165.67,
+    "end": 176.34,
+    "text": "how we've disrupted the neodymium homogeneity. So we can see in our engineer's train, we increase that description of the homogeneity. We increase the neodymium near the plug and we reduce further."
+  },
+  {
+    "start": 176.77,
+    "end": 178.38,
+    "text": "Oh sorry, and we reduce it further away"
+  },
+  {
+    "start": 181.54,
+    "end": 182.45,
+    "text": "So we make use of"
+  },
+  {
+    "start": 183.11,
+    "end": 197.14,
+    "text": "We made use of mathematical modeling all along our project to support the design. First, we decided to model the overall population and we use a partial differential equation model which is based on the well-known Keller-Sagal model for chemotaxis. As you can see in the result,"
+  },
+  {
+    "start": 197.61,
+    "end": 202.67,
+    "text": "from here and in the simulation, what you have is that the active cells which are..."
+  },
+  {
+    "start": 203.75,
+    "end": 219.79,
+    "text": "take new denium and then swims toward the sensor where the chemotaxis plug is, and this shows chemotaxis. On the other hand, we have a second model, which is an agent-based model to evaluate relative strength of each genetic component. Using this and -- [audio cuts out]"
+  },
+  {
+    "start": 220.33,
+    "end": 238.13,
+    "text": "with our ODE model inside each agent, we were able to establish optimal expression level. And as you can see from our results, these are supported from a faster chemotaxis when compared to the original strain. And obviously, any deviation from these levels caused the overall system to not"
+  },
+  {
+    "start": 239.01,
+    "end": 241.81,
+    "text": "be exhibited on chemitaxi behavior anymore."
+  },
+  {
+    "start": 244.33,
+    "end": 250.86,
+    "text": "So yes, in the future we would like to scale up our project to use an industry and how we're going to do this is by having this tank."
+  },
+  {
+    "start": 251.27,
+    "end": 273.1,
+    "text": "And we want to engineer different strains of bacteria that can accumulate different metals and then send to different locations for extraction. So as you can see here in the diagram, here we have four different lanthanides and four different strains taking up those lanthanides and moving to different chemotaxis points. It makes sense to different chemo tractants through chemotaxis."
+  },
+  {
+    "start": 273.51,
+    "end": 299.23,
+    "text": "And yeah, we would also like to use affinity-based protein purification in the future because at the moment we're only accumulating lanthanides, but we want to separate them into their distinct elements. And through protein-based purification we can do that. But at the moment we would have to use pyrometallurgy, which is a little bit more energy intensive than protein-based affinity-based purification. However, that's what we plan to do to make our project as eco-friendly as possible."
+  },
+  {
+    "start": 302.18,
+    "end": 302.67,
+    "text": "Thank you"
+  },
+  {
+    "start": 303.4,
+    "end": 304.69,
+    "text": "very impressive presentation."
+  },
+  {
+    "start": 305.29,
+    "end": 306.19,
+    "text": "Umm..."
+  },
+  {
+    "start": 306.79,
+    "end": 310.54,
+    "text": "I would like to ask our fellow judges on Zoom to-- [AUDIO OUT]"
+  },
+  {
+    "start": 310.98,
+    "end": 312.46,
+    "text": "if you have any question to start with"
+  },
+  {
+    "start": 315.33,
+    "end": 315.79,
+    "text": "But yes"
+  },
+  {
+    "start": 316.23,
+    "end": 318.51,
+    "text": "Thank you, this was a very nice presentation."
+  },
+  {
+    "start": 318.92,
+    "end": 324.46,
+    "text": "Oh yeah, and I have some question about the model. What is the source of your parameter for the..."
+  },
+  {
+    "start": 324.87,
+    "end": 326.45,
+    "text": "Gene Ragonetry Network Model"
+  },
+  {
+    "start": 330.63,
+    "end": 331.28,
+    "text": "Yeah, you"
+  },
+  {
+    "start": 332.65,
+    "end": 360.65,
+    "text": "Yeah, our parameters are both estimated from the literature and from experimental measure in the lab. For most of them, we were lucky. And for example, all diffusion coefficients and that kind of parameter that can be well-find in the literature, we did some research. We scaled it down more appropriately, and we used them in our model. But for some of them, and especially for the IP parameters of the model, we had to conduct some experiments. And in order to be able to let the model fit as best as possible our experimental data, they--"
+  },
+  {
+    "start": 360.65,
+    "end": 365.28,
+    "text": "data. And obviously after we fitted this experimental data, we were able to..."
+  },
+  {
+    "start": 365.35,
+    "end": 372.27,
+    "text": "push the boundaries of the parameters and to see what the expected behavior would be in cases where experimental data are not covered."
+  },
+  {
+    "start": 374.34,
+    "end": 387.54,
+    "text": "Okay, and I saw that on your Wiki you said that maybe some parameter is derived indirectly from your experimental result from some close reading or something, right? Yeah, that's not the question. I think I..."
+  },
+  {
+    "start": 387.94,
+    "end": 391.79,
+    "text": "I want to give you a suggestion is that you I think you'd better document how you"
+  },
+  {
+    "start": 392.42,
+    "end": 394.61,
+    "text": "derive this parameter from your..."
+  },
+  {
+    "start": 395.05,
+    "end": 413.42,
+    "text": "experimental data because if any team in the future wants this parameter, because every team system may be different, they need to know how you guide this parameter and is that a good, and can they just adopt it or need to make some modifications. So I think, yeah, it's a suggestion you get a better document."
+  },
+  {
+    "start": 414.12,
+    "end": 416.27,
+    "text": "So how you derive that."
+  },
+  {
+    "start": 417.77,
+    "end": 430.54,
+    "text": "Yeah, thank you. Thank you. Yeah, you're right that some of the parameters should be better documented, but also some of the IP parameters were very hard to document. And also it counts more for observation, indirect observation."
+  },
+  {
+    "start": 432.74,
+    "end": 433.84,
+    "text": "That's what thank you."
+  },
+  {
+    "start": 436.58,
+    "end": 437.07,
+    "text": "n-"
+  },
+  {
+    "start": 437.99,
+    "end": 442.13,
+    "text": "Thank you team, so wonderful presentation and impressive project."
+  },
+  {
+    "start": 442.76,
+    "end": 444.53,
+    "text": "So I have a couple of ready."
+  },
+  {
+    "start": 445.41,
+    "end": 452.98,
+    "text": "So you started with electronics materials. So how much percentage of the electronic materials represent lengthonites and"
+  },
+  {
+    "start": 453.93,
+    "end": 454.48,
+    "text": "in what?"
+  },
+  {
+    "start": 454.85,
+    "end": 457.74,
+    "text": "formed these lanthanides are present in the electronic."
+  },
+  {
+    "start": 458.73,
+    "end": 459.22,
+    "text": "material ."
+  },
+  {
+    "start": 463.27,
+    "end": 491.27,
+    "text": "So, orchodontonides only make up around less than 1% of your electronic device. This obviously this fluctuates per electronic device, but this is kind of a general statistic we got from literature. They are very vital components because they help them usually in the electronic circuits of your device and in the motherboard. And so these are also very hard to reach locations and very hard to purify both manually or"
+  },
+  {
+    "start": 491.56,
+    "end": 503.63,
+    "text": "via just what current recycling techniques and hydro metallurgy and pyrometallurgy. And so the idea and the brace of our project was to be able to access these hard to access."
+  },
+  {
+    "start": 504.01,
+    "end": 509.84,
+    "text": "metals, lanthanides in these hard to access parts of your electronic devices. So even though it is a small"
+  },
+  {
+    "start": 510.79,
+    "end": 514.29,
+    "text": "So what form they exist in the..."
+  },
+  {
+    "start": 515.56,
+    "end": 518.16,
+    "text": "electronic material means what compound form"
+  },
+  {
+    "start": 519.27,
+    "end": 523.34,
+    "text": "So the major form, especially for neodymium..."
+  },
+  {
+    "start": 523.75,
+    "end": 529.04,
+    "text": "which is one we're working with is it comes in magnets which are used in various different parts of the computers"
+  },
+  {
+    "start": 529.41,
+    "end": 532.46,
+    "text": "in fact existing recycling efforts which are limited."
+  },
+  {
+    "start": 532.9,
+    "end": 546.06,
+    "text": "tend to try and take out the parts that are particularly comprised of magnets. So I think hard there's work that's going to... In your experiments, did you try the same compound form or...?"
+  },
+  {
+    "start": 546.44,
+    "end": 549.81,
+    "text": "is the free form of lanthanides that you have used."
+  },
+  {
+    "start": 550.66,
+    "end": 551.15,
+    "text": "test"
+  },
+  {
+    "start": 553.13,
+    "end": 578.04,
+    "text": "So we did try to extract neodymium from the magnets itself because you can get them from industry and we collaborated with someone who gave us these magnets. However, due to the very concentrated nitric acid needed to dissolve them initially and to basically break them down as you would easily in industry, we were not able to obtain the health and safety assessments to do this and so we weren't able to take it further unfortunately."
+  },
+  {
+    "start": 578.95,
+    "end": 580.78,
+    "text": "So does it mean that"
+  },
+  {
+    "start": 581.89,
+    "end": 582.35,
+    "text": "you are"
+  },
+  {
+    "start": 582.73,
+    "end": 589.58,
+    "text": "model to work so it will require some pre-processing of the electronic material or even the internet."
+  },
+  {
+    "start": 590.41,
+    "end": 602.96,
+    "text": "compound form which is present here. Yes, so documented in our Wikian implementation strategy, the first few steps are very much how do we get those Londonites from tech waste into a usable state?"
+  },
+  {
+    "start": 603.59,
+    "end": 612.82,
+    "text": "And that does require acidic conditions. It does require a few resources. It's not as resource intensive as the 800 degree centigrade pyrometallurgy that we're trying to reduce."
+  },
+  {
+    "start": 613.35,
+    "end": 631.02,
+    "text": "And in the future, some of the next steps that we would use would be to try and get the bacteria to grow directly on the tech waste by metabolizing the plastics, which would also reduce the amount of energy we have to interpret in the forms of media supplementation. So from your initial experiment, do you have some estimate like--"
+  },
+  {
+    "start": 631.4,
+    "end": 635.44,
+    "text": "how much title of the bacteria is required to clean up."
+  },
+  {
+    "start": 636.71,
+    "end": 637.78,
+    "text": "how much."
+  },
+  {
+    "start": 638.25,
+    "end": 639.86,
+    "text": "amount of lintanides."
+  },
+  {
+    "start": 640.84,
+    "end": 642.99,
+    "text": "So some maybe not festing it."
+  },
+  {
+    "start": 646.57,
+    "end": 667.7,
+    "text": "So from our wiki and our measurements, you can kind of see that our engineered strain can take up more lanthanides up to around 100 ppm without dying or being affected by it, such as you can see in the wild type strain. This is in our results section on our wiki. However-- [AUDIO OUT]"
+  },
+  {
+    "start": 668.17,
+    "end": 668.75,
+    "text": "uh"
+  },
+  {
+    "start": 669.38,
+    "end": 669.78,
+    "text": "Sorry."
+  },
+  {
+    "start": 670.66,
+    "end": 671.66,
+    "text": "I've lost the question."
+  },
+  {
+    "start": 672.1,
+    "end": 697.92,
+    "text": "Yeah, so what the type of bacteria is required. So you mentioned about quantity of lentilite. It would obviously depend on the sample and we weren't able to do measurements that kind of test the maximum boundaries of the uptake. But bacteria, we were able to prove that it can have and hold up to 100 ppm and still be fine. Obviously, this is not a maximum quantity."
+  },
+  {
+    "start": 698.12,
+    "end": 707.6,
+    "text": "However, if you take that into account, this could be then modeled potentially and scaled up in an industrial setting, if that makes sense."
+  },
+  {
+    "start": 708.55,
+    "end": 711.28,
+    "text": "Thank you. So just another point means."
+  },
+  {
+    "start": 711.69,
+    "end": 718.38,
+    "text": "although it's there and you are Wiki, but human practices were somehow missing in the presentation. Maybe you can just briefly."
+  },
+  {
+    "start": 719.05,
+    "end": 720.4,
+    "text": "tell what"
+  },
+  {
+    "start": 721.0,
+    "end": 727.18,
+    "text": "what all you have done and other is how do you address the biosafety aspects related to the project."
+  },
+  {
+    "start": 739.49,
+    "end": 755.92,
+    "text": "Did you get my question? Could you repeat it please? Sorry. So I'm just saying, so I could not see that your human practice is aspect in your presentation. It is there in the Wiki, but maybe you can just tell us briefly that what all you have done under human practices."
+  },
+  {
+    "start": 756.29,
+    "end": 760.72,
+    "text": "And other thing is how do you address the biosafety aspect of your project?"
+  },
+  {
+    "start": 762.44,
+    "end": 772.27,
+    "text": "So yes, so in terms of human practices reached out to industry. So we had the purpose of visiting Sherbourne recycling, which is a local curbside recycling center close to where we live."
+  },
+  {
+    "start": 772.68,
+    "end": 773.17,
+    "text": "and"
+  },
+  {
+    "start": 773.64,
+    "end": 798.91,
+    "text": "We basically had the, we visited their site and walked through and we saw how we can make like a swimming pool or a tank where the electronic waste can fall in. And then we can basically recycle the like lanthanides from e-waste in that, like in their industry. And we've also learned that it's important to reflect on our project as well. And like you raised some questions about the waste will be creating. So the chemical waste will be creating."
+  },
+  {
+    "start": 799.05,
+    "end": 804.82,
+    "text": "And we reflect on that and like adapted our strategy as well and adapted our implementation strategy in terms of that."
+  },
+  {
+    "start": 805.19,
+    "end": 820.94,
+    "text": "And yeah, also we also reflected on like we need to be a makeup project more environmentally friendly and economically viable and to make sure that the last night stay within the UK to benefit the UK economy. So that's a main thing we've learned from the practices from visiting them. We also talked to bi-ethists and"
+  },
+  {
+    "start": 821.41,
+    "end": 837.9,
+    "text": "Also learned that we should always be clear about the pros and cons and that we're actually working with a genetic engineer and organisms. So we reflect on that throughout our project. And we also met with someone, an expert in global sustainable development. She's a PhD student. I'm special in saying that we reflected on how we can make our project more and more sustainable."
+  },
+  {
+    "start": 838.28,
+    "end": 841.23,
+    "text": "and about the bioethics, Andre can tell you a little bit more about that"
+  },
+  {
+    "start": 843.72,
+    "end": 870.88,
+    "text": "Yeah, so we do actually have a biotics report on our wiki and it basically went through our aims, our lab work to date and future implementations. And based on that, oh yeah, so we compared it to current declarations. So we used it as a framework to analyze our project. And based on that, our aims and lab work seem to be kind of in line to current principles that we have to follow as"
+  },
+  {
+    "start": 871.08,
+    "end": 897.47,
+    "text": "people that work with biologically engineered organisms. However, for implementations, we do have a few areas that we can work on. One of which was to prevent our organism to be released in the environment and have unforeseen effects on the ecosystems. So that would be implemented by making our organism an oxo trough or introducing a kill switch gene."
+  },
+  {
+    "start": 897.83,
+    "end": 924.38,
+    "text": "However, another aspect we thought of is the fact that our project could be financially profitable and that might kind of take away from its environmental impact. So it might produce a cobra effect in which companies that implement our project might be interested in like promoting e-waste so that they get more lanthanized that can be eventually sold. So based on that, we looked into"
+  },
+  {
+    "start": 924.61,
+    "end": 947.09,
+    "text": "either licensing our project with like material transfer agreements that would include not using this organism in any way that would harm the environment or like not using this organism to compete with other recycling methods that might appear in the future and that might be more sustainable. So sustainability would come first always."
+  },
+  {
+    "start": 947.59,
+    "end": 950.42,
+    "text": "Thank you, thank you, nice one, thank you once."
+  },
+  {
+    "start": 953.57,
+    "end": 957.2,
+    "text": "- Yeah, I know I have any photo question, let's move on to the outside chart. Thank"
+  },
+  {
+    "start": 960.84,
+    "end": 961.81,
+    "text": "Hey there."
+  },
+  {
+    "start": 962.21,
+    "end": 964.66,
+    "text": "Yes, I have a question about your..."
+  },
+  {
+    "start": 965.19,
+    "end": 967.66,
+    "text": "emo taxes experiments"
+  },
+  {
+    "start": 968.52,
+    "end": 969.17,
+    "text": "Um..."
+  },
+  {
+    "start": 971.24,
+    "end": 979.18,
+    "text": "Hey, I don't understand why you used E. coli, your chemo-tactic experiments. And also there was a statement in your Wiki that says..."
+  },
+  {
+    "start": 979.72,
+    "end": 1006.97,
+    "text": "something like you were trying to find chemo attractants that e.coli were not attracted to. So can you actually explain that? I got very confused. Yes. Sorry. I think you've slightly missed this. We were looking at using methylobactyomic stock once, which is our organism we're working with. And we were inserting chemotax, chemotactic proteins into that. Yeah. The chemotactic proteins that we used, we were looking at a series of them from e.coli because they're well characterized. So they're the parts that we're taking."
+  },
+  {
+    "start": 1007.27,
+    "end": 1011.66,
+    "text": "The reason that we were looking at several of them is because we wanted to identify a chemo."
+  },
+  {
+    "start": 1012.13,
+    "end": 1016.02,
+    "text": "Texas protein that we'd endow our methylobacteria on max."
+  },
+  {
+    "start": 1016.39,
+    "end": 1023.22,
+    "text": "with chemotaxis towards attracting that it's not naturally attracted towards so that we could have robust control."
+  },
+  {
+    "start": 1023.72,
+    "end": 1026.13,
+    "text": "We had some issues with it because the bacteria."
+  },
+  {
+    "start": 1026.6,
+    "end": 1053.34,
+    "text": "Initially it was difficult to get the experiments set up so they would show motility. Yeah, so I just yeah. So what's the bit about finding chemo attractants that E. Curlow were not attracted to? So again, it's not about, maybe there's a typo in the wiki, but it's about well attractants. I'll try and find it in a minute. That methylobacterium extorquents is not attracted to. So it's about making sure our system is tightly controlled by our parts and it's not got competing parts indogenously."
+  },
+  {
+    "start": 1053.41,
+    "end": 1060.66,
+    "text": "So Mxstalkens uses lanthanode as a co-factor, isn't it? It uses lanthanode as a factor of tabularness."
+  },
+  {
+    "start": 1061.54,
+    "end": 1062.9,
+    "text": "cool. Yeah. Very clever."
+  },
+  {
+    "start": 1063.27,
+    "end": 1073.04,
+    "text": "Yeah, we even tried to do an enzymatic assay, but unfortunately. It's not actually going to poison the bacteria because it actually uses it already."
+  },
+  {
+    "start": 1073.73,
+    "end": 1074.58,
+    "text": "Yes. Yeah, okay"
+  },
+  {
+    "start": 1075.14,
+    "end": 1101.98,
+    "text": "And in fact, lanthanides aren't generally particularly toxic, but at the concentrations we begin to get to, we did have a concern that it might cause metal ion mismatching with enzymes. But we addressed that with partially with our lan-modulin. Can they use any lan-tonide? Is it a demi-ion? The specificity of MEX is for the first four lan-tonides, but there's literature work trying to change the selectivities, especially of lan-modulin."
+  },
+  {
+    "start": 1102.09,
+    "end": 1115.7,
+    "text": "which is something we want to integrate into our system. It's amazing that something like that's evolved actually. Yes, because most proteins combine calcium and randomise, but it has a million fold better selectivity. It's brilliant. We love that. Yeah. Okay. Cool."
+  },
+  {
+    "start": 1117.61,
+    "end": 1122.19,
+    "text": "Can you tell us more about the land modeling itself? Could it be engineered?"
+  },
+  {
+    "start": 1122.6,
+    "end": 1128.27,
+    "text": "improved for affinity, but pretty high affinity already you said it, but maybe selectivity or"
+  },
+  {
+    "start": 1128.77,
+    "end": 1142.64,
+    "text": "of our expression. Currently manipulating the land modeling was difficult, right? So this is exactly what we want to integrate into our system. So there's lots of literature work at the moment. There's a land modeling found in a, I don't remember the entire name, but its short name is Hands."
+  },
+  {
+    "start": 1143.17,
+    "end": 1154.45,
+    "text": "And that has a LAN module and that has selective differ heavier LAN thanides. And if we can get that protein engineering done in the future, then we can change that affinity, which is part of what this."
+  },
+  {
+    "start": 1155.05,
+    "end": 1156.91,
+    "text": "this system here in front of me as"
+  },
+  {
+    "start": 1157.61,
+    "end": 1158.54,
+    "text": "in terms of"
+  },
+  {
+    "start": 1159.01,
+    "end": 1160.46,
+    "text": "Sorry, I've, what was the"
+  },
+  {
+    "start": 1160.93,
+    "end": 1162.26,
+    "text": "I'm not feeling it."
+  },
+  {
+    "start": 1164.23,
+    "end": 1164.72,
+    "text": "um"
+  },
+  {
+    "start": 1167.24,
+    "end": 1169.36,
+    "text": "Oh sorry, yes, you've some overexpression."
+  },
+  {
+    "start": 1169.83,
+    "end": 1181.39,
+    "text": "Yes, so we used an IPT-induced promoter precisely for the purpose that we have the ability to try titrateably induce it to match the optimal expression parameters found in our model."
+  },
+  {
+    "start": 1183.3,
+    "end": 1207.18,
+    "text": "Does it work as expected in MEX, the promoters and anything optimized for E. coli? Does it respond well in MEX? So we worked with two German labs that work on methylabacterium and they've generated tools for those inducible promoters in MEX. So they provided us with the promoters that they've characterized in MEX."
+  },
+  {
+    "start": 1207.72,
+    "end": 1210.9,
+    "text": "as for the neodymium upregulation in"
+  },
+  {
+    "start": 1211.97,
+    "end": 1222.77,
+    "text": "with our chemotaxis protein that again we've found a sequence in methylobacterium that is characterized in the literature as being very robustly up-regulated and again that's on our parts section on our wiki."
+  },
+  {
+    "start": 1227.56,
+    "end": 1230.86,
+    "text": "I would like to comment on the data that you present here."
+  },
+  {
+    "start": 1231.4,
+    "end": 1236.43,
+    "text": "quite often in the wiki also. Show results without error bars? Is it--"
+  },
+  {
+    "start": 1236.87,
+    "end": 1240.4,
+    "text": "because you did without the statistics like error bars and..."
+  },
+  {
+    "start": 1241.93,
+    "end": 1256.02,
+    "text": "Robust quantification, I would say. And is that because the experiment was difficult itself? And that's good because you're ambushed and you want to do difficult things? Or is it just because... Most of our experiments that don't show error bars are because we had to use a technique called ICP-MS."
+  },
+  {
+    "start": 1256.49,
+    "end": 1259.31,
+    "text": "and that technique costs about 50 pounds to run a sample."
+  },
+  {
+    "start": 1259.69,
+    "end": 1262.42,
+    "text": "So we have tried to prioritize."
+  },
+  {
+    "start": 1262.89,
+    "end": 1267.82,
+    "text": "We've had to reduce the amount of experiments we'd like to do."
+  },
+  {
+    "start": 1268.33,
+    "end": 1274.45,
+    "text": "Like I said earlier, we were trying to get an enzymatic assay for neodymium quantification that's about a 50th as expensive."
+  },
+  {
+    "start": 1274.89,
+    "end": 1277.68,
+    "text": "but we had issues in the protein purification strategy, unfortunately."
+  },
+  {
+    "start": 1278.09,
+    "end": 1281.97,
+    "text": "that would be future. It's also relatively difficult to get up."
+  },
+  {
+    "start": 1282.5,
+    "end": 1294.1,
+    "text": "like quantify the proteins by this technique just because of sensitivity issues and getting the stock solutions and calibration standards. So it was quite labor intensive and because we only kind of, it was quite hard to work with."
+  },
+  {
+    "start": 1294.6,
+    "end": 1300.78,
+    "text": "Lanham and Lamodulin, we got those results kind of near the end. So when we were finally at the stage to do ICPMS, it was."
+  },
+  {
+    "start": 1301.25,
+    "end": 1306.93,
+    "text": "annoying, but if we had unlimited resources and time, obviously we'd be able to get those error bars on there and more results."
+  },
+  {
+    "start": 1308.61,
+    "end": 1309.87,
+    "text": "and maybe a"
+  },
+  {
+    "start": 1310.37,
+    "end": 1312.85,
+    "text": "related question is about the chemotaxis assay"
+  },
+  {
+    "start": 1314.12,
+    "end": 1321.84,
+    "text": "ideal is it's what the setup was to be tested but would you imagine something to solve like the difficulties in measuring those distances"
+  },
+  {
+    "start": 1325.35,
+    "end": 1326.42,
+    "text": "So we..."
+  },
+  {
+    "start": 1326.79,
+    "end": 1338.99,
+    "text": "had a lot of time spent on trying to optimize our assays. Initially, we started with a qualitative assay that used small plates, and it was supposed to demonstrate a ring. It didn't, even for our positive control."
+  },
+  {
+    "start": 1339.43,
+    "end": 1346.58,
+    "text": "By the time we had our assay working, the agar unfortunately did still split because we had to get the agar concentration so low."
+  },
+  {
+    "start": 1347.27,
+    "end": 1351.76,
+    "text": "We think that in our proof concept, where we inoculate homogeneously..."
+  },
+  {
+    "start": 1352.17,
+    "end": 1357.46,
+    "text": "we are likely to see less noisy results. But yes, when we have a single inoculation point, it's difficult."
+  },
+  {
+    "start": 1358.34,
+    "end": 1362.64,
+    "text": "Also the methylobacterium is well characterized as being motile."
+  },
+  {
+    "start": 1363.24,
+    "end": 1367.6,
+    "text": "but the bacteria we received initially from the German groups that we worked with."
+  },
+  {
+    "start": 1368.01,
+    "end": 1369.49,
+    "text": "seem to be domesticated a bit."
+  },
+  {
+    "start": 1369.93,
+    "end": 1374.45,
+    "text": "So we had to perform a series of direct devolution experiments to try and..."
+  },
+  {
+    "start": 1374.85,
+    "end": 1376.85,
+    "text": "get the very motile bacteria."
+  },
+  {
+    "start": 1377.25,
+    "end": 1380.59,
+    "text": "and it seemed to reduce the efficacy of our system."
+  },
+  {
+    "start": 1381.13,
+    "end": 1387.57,
+    "text": "So we again, we're trying to work on getting those bacteria as motile as possible. How did you restore motility actually?"
+  },
+  {
+    "start": 1387.94,
+    "end": 1392.85,
+    "text": "How do you restore motility in them? So what we did, and this is again characterized in Let's Chum."
+  },
+  {
+    "start": 1393.32,
+    "end": 1396.59,
+    "text": "is you grow up these soft egg up plates."
+  },
+  {
+    "start": 1397.09,
+    "end": 1409.55,
+    "text": "and you let the bacteria grow out naturally and it will metabolize all of the growth substrate, so in this case, methanol, where it is. And then it will move outwards to find more because it's soft agar so it can move through."
+  },
+  {
+    "start": 1410.15,
+    "end": 1413.42,
+    "text": "So what we did is we inoculated it in the center, correct."
+  },
+  {
+    "start": 1413.93,
+    "end": 1421.62,
+    "text": "And then those bacteria, which were farthest away from the inoculation point, you take those, so that you re inoculate. And over time the."
+  },
+  {
+    "start": 1422.05,
+    "end": 1425.36,
+    "text": "radius that they move should increase."
+  },
+  {
+    "start": 1425.99,
+    "end": 1427.22,
+    "text": "the use of the gel."
+  },
+  {
+    "start": 1427.88,
+    "end": 1435.38,
+    "text": "to move. Did they use flagella to move? Yes, these are single flagella bacteria. We made sure that we were working with..."
+  },
+  {
+    "start": 1435.75,
+    "end": 1437.62,
+    "text": "run and tumble mechanics that seemed simplest."
+  },
+  {
+    "start": 1439.21,
+    "end": 1442.29,
+    "text": "Yeah, I'm not being unfair. I wouldn't put you down. There's a"
+  },
+  {
+    "start": 1443.14,
+    "end": 1453.55,
+    "text": "Experimental description is hand drawn and I found it quite hard to I love my whiteboards. What can I say? I love to write. It's a bit hard to write. You know, I'm not snuck in your for it. You almost didn't have enough time to"
+  },
+  {
+    "start": 1453.93,
+    "end": 1456.53,
+    "text": "use BioRendor or something like that."
+  },
+  {
+    "start": 1457.19,
+    "end": 1457.87,
+    "text": "More real estate."
+  },
+  {
+    "start": 1458.25,
+    "end": 1464.37,
+    "text": "more realistic, yeah. Very artistic, yeah. It was you that did it, it was you that did it, was it? Yeah."
+  },
+  {
+    "start": 1465.03,
+    "end": 1467.73,
+    "text": "Oh, you know, I'm still on that."
+  },
+  {
+    "start": 1471.75,
+    "end": 1483.31,
+    "text": "time, but thank you very much on a very impressive project presentation. Your answers are fabulous. So thank you very much. Enjoy the rest of the Ramburi."
+  },
+  {
+    "start": 1483.72,
+    "end": 1484.11,
+    "text": "front"
+  },
+  {
+    "start": 1487.01,
+    "end": 1488.85,
+    "text": "and they stop."
+  },
+  {
+    "start": 1492.07,
+    "end": 1492.75,
+    "text": "the end."
+  },
+  {
+    "start": 1494.21,
+    "end": 1497.26,
+    "text": "until next week."
+  },
+  {
+    "start": 1497.89,
+    "end": 1498.29,
+    "text": "Yeah."
+  },
+  {
+    "start": 1498.73,
+    "end": 1499.15,
+    "text": "Thank you"
+  },
+  {
+    "start": 1499.65,
+    "end": 1500.21,
+    "text": "Thank you."
+  },
+  {
+    "start": 1503.78,
+    "end": 1504.24,
+    "text": "Ooh"
+  },
+  {
+    "start": 1505.64,
+    "end": 1507.12,
+    "text": "No, we're stuck."
+  },
+  {
+    "start": 1516.71,
+    "end": 1520.24,
+    "text": "the amazing the earth was bacterium she uses land in nature"
+  },
+  {
+    "start": 1524.04,
+    "end": 1526.9,
+    "text": "Yes, well, why do people need those? I don't know why. They"
+  },
+  {
+    "start": 1528.17,
+    "end": 1529.1,
+    "text": "I heard what's left"
+  },
+  {
+    "start": 1529.8,
+    "end": 1531.89,
+    "text": "I had about naturally a few days"
+  },
+  {
+    "start": 1533.67,
+    "end": 1534.54,
+    "text": "Thank you judges."
+  },
+  {
+    "start": 1535.33,
+    "end": 1536.82,
+    "text": "Thank you."
+  },
+  {
+    "start": 1538.41,
+    "end": 1540.62,
+    "text": "- Thanks. Nice to have met you."
+  },
+  {
+    "start": 1541.96,
+    "end": 1545.17,
+    "text": "Even though you probably can't see where the cameras from. Thank you, bye bye."
+  },
+  {
+    "start": 1547.97,
+    "end": 1548.43,
+    "text": "Oh."
+  },
+  {
+    "start": 1549.89,
+    "end": 1557.3,
+    "text": "So bacteria and human radium do they most honestly? There is a, well, not only radium, but some very heavy elements and..."
+  },
+  {
+    "start": 1558.05,
+    "end": 1560.37,
+    "text": "Bakkaria seemed to be attracted to them for"
+  },
+  {
+    "start": 1560.84,
+    "end": 1562.26,
+    "text": "- Right, Kim's not allowed."
+  },
+  {
+    "start": 1562.63,
+    "end": 1578.03,
+    "text": "Yeah, maybe accidental actually, maybe it must be because of big advantage, but they happen to accumulate radium. It's like, what would you do? That's a bad idea. That's the first question given mind. How did you do that? Doesn't just the alpha waves, the strong little."
+  },
+  {
+    "start": 1578.89,
+    "end": 1586.1,
+    "text": "- It's obviously not. - It's damaging DNA, but maybe reverse."
+  },
+  {
+    "start": 1586.79,
+    "end": 1600.69,
+    "text": "quick and maybe just bad edges that you can divide fast enough to avoid this. Some bacteria that live in sign nuclear reactors, is that true? Or linococus. Is that just science fiction? No, no, it's true. Linococus for the endurance. It was formed in a..."
+  },
+  {
+    "start": 1601.09,
+    "end": 1601.81,
+    "text": "Well, not him"
+  },
+  {
+    "start": 1602.57,
+    "end": 1604.5,
+    "text": "the core of the plants that in the world"
+  },
+  {
+    "start": 1605.13,
+    "end": 1613.04,
+    "text": "The pools swimming pools, but it's not the name. You definitely do not swim. The pools where they store the waste and so it's."
+  },
+  {
+    "start": 1614.53,
+    "end": 1618.54,
+    "text": "incredibly radioactive, but you do find bacteria in there."
+  },
+  {
+    "start": 1619.37,
+    "end": 1622.42,
+    "text": "Is it used as an energy source? No, it can't do."
+  },
+  {
+    "start": 1622.82,
+    "end": 1631.22,
+    "text": "Also, I'm surprised. One thing is, one rational, the biological rational is that they don't have competitors."
+  },
+  {
+    "start": 1631.85,
+    "end": 1638.96,
+    "text": "No, they like to be there because there is nothing on the situation. That's all. It's like an acidic bomb. It's not very advantageous."
+  },
+  {
+    "start": 1639.33,
+    "end": 1641.68,
+    "text": "Probably, but you have no competitions. Wow."
+  },
+  {
+    "start": 1642.6,
+    "end": 1643.15,
+    "text": "Interesting."
+  },
+  {
+    "start": 1643.56,
+    "end": 1652.94,
+    "text": "He wanted to be me. So that's fine. Like all of us. Yeah. All right. That was it. Right. I'm going to get one."
+  },
+  {
+    "start": 1653.45,
+    "end": 1654.86,
+    "text": "move as fast as I can"
+  },
+  {
+    "start": 1655.56,
+    "end": 1659.86,
+    "text": "Thank you."
+  },
+  {
+    "start": 1661.61,
+    "end": 1670.03,
+    "text": "Thank you, I enjoyed it. It was impressive. Yeah."
+  },
+  {
+    "start": 1670.95,
+    "end": 1671.92,
+    "text": "green projects."
+  },
+  {
+    "start": 1672.33,
+    "end": 1675.7,
+    "text": "So it's very, very hard to cut shows."
+  },
+  {
+    "start": 1676.33,
+    "end": 1683.18,
+    "text": "We're going to meet afterwards. We're going to meet now afterwards for a post-mortem and auto-op C."
+  },
+  {
+    "start": 1684.01,
+    "end": 1687.15,
+    "text": "Oh, it's one, two, one, three."
+  },
+  {
+    "start": 1687.59,
+    "end": 1690.51,
+    "text": "No, two. One minute plus two. Okay, that's done."
+  },
+  {
+    "start": 1691.11,
+    "end": 1692.85,
+    "text": "It should leave at four."
+  },
+  {
+    "start": 1694.15,
+    "end": 1705.94,
+    "text": "- I'm more judging my students. - It's just a fun hour at the work after. - A lot of judging."
+  },
+  {
+    "start": 1707.65,
+    "end": 1712.34,
+    "text": "Very creative."
+  },
+  {
+    "start": 1712.93,
+    "end": 1716.5,
+    "text": "Yeah"
+  },
+  {
+    "start": 1717.09,
+    "end": 1720.18,
+    "text": "I have my team now."
+  },
+  {
+    "start": 1721.06,
+    "end": 1727.06,
+    "text": "the meeting."
+  },
+  {
+    "start": 1727.46,
+    "end": 1730.96,
+    "text": "(buzzer)"
+  },
+  {
+    "start": 1731.46,
+    "end": 1735.06,
+    "text": "Okay."
+  },
+  {
+    "start": 1735.65,
+    "end": 1737.3,
+    "text": "So it's not it's"
+  },
+  {
+    "start": 1739.24,
+    "end": 1744.75,
+    "text": "[inaudible]"
+  },
+  {
+    "start": 1745.83,
+    "end": 1749.81,
+    "text": "What?"
+  },
+  {
+    "start": 1751.88,
+    "end": 1753.17,
+    "text": "Very, very"
+  },
+  {
+    "start": 1754.41,
+    "end": 1755.34,
+    "text": "Thanks for that."
+  },
+  {
+    "start": 1756.9,
+    "end": 1761.68,
+    "text": "[inaudible]"
+  },
+  {
+    "start": 1763.78,
+    "end": 1767.79,
+    "text": "(mumbles)"
+  },
+  {
+    "start": 1768.2,
+    "end": 1769.81,
+    "text": "I was very surprised"
+  },
+  {
+    "start": 1773.67,
+    "end": 1774.32,
+    "text": "Hey!"
+  },
+  {
+    "start": 1775.17,
+    "end": 1776.99,
+    "text": "Good luck."
+  }
+]

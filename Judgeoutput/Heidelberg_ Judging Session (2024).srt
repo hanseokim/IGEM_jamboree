@@ -1,0 +1,900 @@
+1
+00:00:04,230 --> 00:00:10,130
+The 3D organization of the genome is key in regulating gene expression and cell function.
+
+2
+00:00:11,170 --> 00:00:19,020
+Genome architecture is shaped by proteins that mediate spatial proximity between genetic elements that may lie thousands of bases apart.
+
+3
+00:00:20,290 --> 00:00:24,720
+Genome confirmation capture sequencing lets us spy into the genomes architecture.
+
+4
+00:00:25,090 --> 00:00:27,500
+and reveals how it determines cell behavior
+
+5
+00:00:27,940 --> 00:00:32,210
+decides between health and disease and how it directs cell differentiation.
+
+6
+00:00:33,380 --> 00:00:40,050
+Despite its obvious importance, we cannot easily engineer the 3D genome organization up until now.
+
+7
+00:00:40,810 --> 00:00:44,300
+We, the IGM team Heidelberg, introduce Picasso.
+
+8
+00:00:44,870 --> 00:00:50,830
+Plasmid Integrated, cast stapled origami, the first toolbox to rationally engineer the 3D genome.
+
+9
+00:00:52,200 --> 00:00:55,310
+The core component of our part collection is the car staple.
+
+10
+00:00:56,230 --> 00:00:59,220
+The cast staple is composed of deadcast 12a
+
+11
+00:00:59,780 --> 00:01:02,290
+that Cas9 and our most impressive part.
+
+12
+00:01:02,730 --> 00:01:03,760
+fusion guide RNA.
+
+13
+00:01:04,420 --> 00:01:11,980
+Very importantly, we can program our Fusion Guide RNA to target any two DNA loci of interest simultaneously.
+
+14
+00:01:12,390 --> 00:01:12,980
+Hence
+
+15
+00:01:13,410 --> 00:01:14,990
+precisely defining a connection.
+
+16
+00:01:16,290 --> 00:01:16,910
+Therefore,
+
+17
+00:01:17,350 --> 00:01:24,500
+TAR staples can be easily multiplexed for complex genome rearrangement tasks simply by using multiple fusion guides.
+
+18
+00:01:26,310 --> 00:01:30,320
+to efficiently test our car staples. We created DaVinci.
+
+19
+00:01:30,730 --> 00:01:31,950
+Picasso's Digital Twin.
+
+20
+00:01:32,490 --> 00:01:39,120
+computational platform to optimize our engineered car staples on the atomic and later on the macroscopic level.
+
+21
+00:01:40,420 --> 00:01:45,900
+Using DaVinci, we modeled cast- staple complexes with various fusion guide RNA linkers.
+
+22
+00:01:47,080 --> 00:01:55,180
+Our model predicted that 40 nucleotides is the minimal required length for efficient stapling while maintaining enough flexibility.
+
+23
+00:01:56,360 --> 00:02:01,140
+Beyond that, we also investigated effects of car staple multiplexing in insured.
+
+24
+00:02:01,670 --> 00:02:07,150
+that our stapling approach does not lead to unintended side effects such as DNA double strand breaks.
+
+25
+00:02:08,040 --> 00:02:11,980
+Next, we put our optimized car staples to the hard test.
+
+26
+00:02:12,360 --> 00:02:13,490
+and Hanser high checking.
+
+27
+00:02:13,990 --> 00:02:20,500
+Enhancer hijacking describes the repurposing of an enhancer for oncogene activation in cancer.
+
+28
+00:02:21,410 --> 00:02:25,140
+CASO can now address these effects at their root cause.
+
+29
+00:02:25,610 --> 00:02:38,260
+As a proof of concept, we used a Lutziferase reporter in hex cells, which we activated by stapling it to an artificial enhancer element located on an entirely different strand of DNA.
+
+30
+00:02:39,080 --> 00:02:44,720
+This resulted in strong reporter expression and thereby showing successful DNA stapling.
+
+31
+00:02:45,510 --> 00:02:52,660
+As predicted, Baidavinci, a 14 nucleotide fusion guide linker, was the minimal length required for efficient stapling.
+
+32
+00:02:53,450 --> 00:03:00,240
+After the wiki freeze, we could show that fusion guide linkers up until 18 nucleotides can actually be used.
+
+33
+00:03:01,610 --> 00:03:06,670
+did not stop here. We already transferred our system to genomic locus.
+
+34
+00:03:07,110 --> 00:03:16,140
+We stapled a genomic enhancer to the OCT4 promoter and detected significant changes in gene expression by RT-QPCR.
+
+35
+00:03:17,130 --> 00:03:27,410
+From our knowledge, this is the first demonstration of using a fusion guide RNA-based cast staple to engineer the 3D genome in mammalian cells.
+
+36
+00:03:28,870 --> 00:03:31,570
+Enhancer hair-jacking is only the tip of the iceberg.
+
+37
+00:03:31,970 --> 00:03:43,920
+We imagine to use Picasso to investigate disease-driving mechanisms such as TET boundary collapses or EC, DNA hubs and oncogenesis and thereby revealing new drug targets.
+
+38
+00:03:44,680 --> 00:03:51,280
+towards those applications we talked to various experts and expanded our part collection.
+
+39
+00:03:51,810 --> 00:04:01,010
+In consequence, we engineered additional staple types, we functionalized our staples, and we engineered an in vivo readout system.
+
+40
+00:04:01,890 --> 00:04:10,770
+In total, our part collection enables eye-dreamers and others to build up on our foundation and harness Picasso's full potential for society.
+
+41
+00:04:11,530 --> 00:04:20,270
+Towards this process, we conducted a nationwide survey with over 800 participants from which we built up a public education program.
+
+42
+00:04:20,680 --> 00:04:23,860
+focus on synthetic biology and our project.
+
+43
+00:04:24,650 --> 00:04:27,380
+for our six comprehensive approaches.
+
+44
+00:04:28,010 --> 00:04:40,590
+including our summer school, our career fair, as well as school workshops, along with public discussions such as our Friday lectures and inclusive science first days, we make science more accessible.
+
+45
+00:04:41,190 --> 00:04:50,930
+After the Wurke Frese, we even held our dream organism competition, where we directly interacted with school kids and sparked curiosity for science.
+
+46
+00:04:53,700 --> 00:04:54,510
+all about all about
+
+47
+00:04:55,530 --> 00:05:00,750
+collaborating with experts, iJurists and society, as well as connecting DNA elements.
+
+48
+00:05:01,220 --> 00:05:04,880
+Let's start together into the new era of 3D genome engineering.
+
+49
+00:05:05,380 --> 00:05:08,210
+Thank you for your attention. We're happy to answer any questions.
+
+50
+00:05:19,080 --> 00:05:22,350
+I can start just when you answer questions you need to be talking to the mic.
+
+51
+00:05:23,050 --> 00:05:26,540
+First of all, congratulations. I think you made a...
+
+52
+00:05:27,050 --> 00:05:32,270
+It was amazing and also to read about all these.
+
+53
+00:05:33,610 --> 00:05:36,240
+I have a few comments on your
+
+54
+00:05:37,000 --> 00:05:43,440
+Education and stuff for you. It's one point somewhere somewhere. I read I don't know where it was on your wiki
+
+55
+00:05:44,520 --> 00:05:51,410
+you hope to inspire or you think you have an impact on the change of understanding in the education and stuff like this.
+
+56
+00:05:53,160 --> 00:06:00,020
+I think you're overestimating your own impact in this area, to be honest. Changing education systems takes...
+
+57
+00:06:02,150 --> 00:06:02,670
+ages.
+
+58
+00:06:03,140 --> 00:06:11,790
+So I think in that sense, maybe down-toning your impact would have been good for your project, just as a critical remark.
+
+59
+00:06:12,650 --> 00:06:14,480
+and i would like you to to
+
+60
+00:06:15,750 --> 00:06:22,900
+Tell me outside, you mentioned diagnostics here and for what it could be used for.
+
+61
+00:06:24,200 --> 00:06:25,940
+3D modeling idea.
+
+62
+00:06:26,570 --> 00:06:29,230
+Do you have any other ideas of what your...
+
+63
+00:06:29,800 --> 00:06:32,400
+I mean, how can it be used outside diseases? It's just like
+
+64
+00:06:33,220 --> 00:06:36,820
+Can it be used in biotech? Can it be used in farming?
+
+65
+00:06:37,290 --> 00:06:38,060
+your technology.
+
+66
+00:06:43,560 --> 00:06:45,140
+Thank you, that's a really nice question
+
+67
+00:06:45,510 --> 00:06:59,500
+So yeah, we think our swanstrut is mainly in the foundational research and basic research area. We can identify new enhancer and promote interactions. But we think when further developing our system, this could also be used, for example, to create entirely synthetic cells.
+
+68
+00:06:59,910 --> 00:07:16,180
+and further go into this direction and maybe also further into bio-immediation or other aspects, we can use our synthetic cells to have novel diagnostic or novel switches which then can further be used for example detecting stuff in the environment or other aspects of this.
+
+69
+00:07:24,710 --> 00:07:27,920
+Thanks so much for that presentation, really enjoyed it.
+
+70
+00:07:28,550 --> 00:07:38,380
+really good job of completing this project. I think when I was reading the Wiki, which again was really well made, so congrats to whoever engineered that website.
+
+71
+00:07:39,080 --> 00:07:56,620
+Yeah, exactly. So I think I saw something on that that was really interesting where you talk about the repurposed vector conjugation machinery. Is that something that you recall? Yes. And I think that's really interesting approach. So I'm really curious to learn more about that, specifically
+
+72
+00:07:57,000 --> 00:08:01,780
+the strategy that you use to overcome the size limitations.
+
+73
+00:08:02,180 --> 00:08:10,380
+of the genetic payloads in delivering the larger constructs. And I think that's a very innovative approach.
+
+74
+00:08:11,270 --> 00:08:12,180
+Please tell us more about
+
+75
+00:08:13,190 --> 00:08:17,490
+Thanks for your interest in our bacterial conjugation idea.
+
+76
+00:08:17,890 --> 00:08:30,160
+So this was a project that we were co-developing along with the main cast stapling approach, especially to deliver the large DNA constructs that are part of our--
+
+77
+00:08:30,850 --> 00:08:31,380
+project.
+
+78
+00:08:31,910 --> 00:08:32,430
+So.
+
+79
+00:08:32,870 --> 00:08:46,960
+Naturally it has been known that the Bekkil Congregation can deliver payloads up to or even more than 100 kilobases, which was one of our first inspirations to repurpose the Bekkil Congregation machinery.
+
+80
+00:08:47,590 --> 00:08:53,100
+And that's essentially it.
+
+81
+00:08:54,150 --> 00:09:01,010
+It circumvents the problem of limited coding capacity of AVs, which are limited to five kilobases.
+
+82
+00:09:01,540 --> 00:09:05,360
+And we thought it would be interesting to--
+
+83
+00:09:06,020 --> 00:09:08,020
+to the existing DNA delivery methods.
+
+84
+00:09:09,380 --> 00:09:14,540
+and add a layer of targeting using our synthetic adhesion approach.
+
+85
+00:09:15,780 --> 00:09:27,380
+Yeah, thanks so much. And I think this project, especially with regard to its sheer complexity, has a set of challenges. And I can definitely see that your team putting all the thoughts in overcoming that.
+
+86
+00:09:27,810 --> 00:09:30,800
+Specifically, I think I noticed there's some...
+
+87
+00:09:31,330 --> 00:09:35,120
+where you actually faced that these hard
+
+88
+00:09:35,560 --> 00:09:45,200
+difficult questions like when you have like discrepancy with the literature like when you have like a value that's like 10 times higher than like what the literature value is right like some of you nodding so I hope I'm not like
+
+89
+00:09:45,730 --> 00:10:01,580
+Remembering that correctly incorrectly and also we're talk about where when you were calculating the Delta G like the differences right like that also had some challenges so when you were faced with those how did you approach that like what was the
+
+90
+00:10:02,050 --> 00:10:09,740
+What was your thoughts when you spent so much energy into something and then you started to say, "Oh, wait a minute, this converts to literature 10 times like a difference"?
+
+91
+00:10:10,120 --> 00:10:27,500
+What was your thought when you were facing situations like that? Yes, thank you for your question. When we sought out to actually calculate the binding affinity of the mini-staple to DNA in order to validate the whole approach we have taken with our model.
+
+92
+00:10:27,880 --> 00:10:29,140
+and
+
+93
+00:10:30,150 --> 00:10:49,970
+We measured it in the wet lab using MSAR screens in order to actually estimate the binding affinity. And then in the dry lab, we wanted to pull the DNA from the Leutzeinzipper, which is the mini staple, and therefore have a weight function that gives us a path of...
+
+94
+00:10:50,340 --> 00:11:16,280
+transition states, which allows us to estimate the energy required for that. And that was the main goal to actually see if our approach is actually valid. And when we saw that it's so different, we started investigating what is actually the problem. So what did we actually do? And we started looking at it very precisely. And while doing that, we saw that, well, we were pulling apart not only the whole complex, but also the DNA in itself.
+
+95
+00:11:16,610 --> 00:11:21,580
+and a little bit of the protein and that's a big limitation because we didn't calculate the right thing at first.
+
+96
+00:11:21,960 --> 00:11:28,980
+And that's why we sought out to find new technologies or even new ideas, what we have to do in order to actually calculate the right thing.
+
+97
+00:11:29,410 --> 00:11:32,140
+because we weren't comparing the two things that are equal.
+
+98
+00:11:32,610 --> 00:11:34,260
+And that was...
+
+99
+00:11:34,790 --> 00:11:48,460
+very interesting for us and it just sparked curiosity and we wanted to do even more and more but unfortunately we had a little time constraints so we just had first few ideas where we had the specific geometry and we changed those geometries up.
+
+100
+00:11:48,970 --> 00:11:56,240
+And we have even more ideas what to do next if you want to hear about them. But I hope that answers your question to a little degree.
+
+101
+00:11:58,410 --> 00:12:04,110
+Yes, I think we can circle back to that. Yeah, I definitely would love to learn about it, but I think my colleagues would have more questions.
+
+102
+00:12:06,090 --> 00:12:07,660
+Okay, something from your presentation.
+
+103
+00:12:08,200 --> 00:12:13,550
+I like your project very much. The weekend design is also great.
+
+104
+00:12:14,250 --> 00:12:16,180
+I have a question about the yaw.
+
+105
+00:12:16,610 --> 00:12:19,920
+Well done. If you bring your product to the market.
+
+106
+00:12:20,650 --> 00:12:24,080
+What are the difficulties? Do you think you will face...
+
+107
+00:12:32,130 --> 00:12:56,020
+We haven't thought that much about entrepreneurship and actually selling our product and more about providing it to scientists and thought about doing a publication afterwards with all of our data to kind of... Yeah, we want to enable the studying of this so we think it is more easy for every scientist to use if we just provide it to everyone, show how you can do it and show how can you use our product in an easy way because it's very easy to use.
+
+108
+00:12:56,580 --> 00:12:59,280
+And this is like kind of idea to enable scientists.
+
+109
+00:13:02,120 --> 00:13:03,790
+So what journal will your publicist in?
+
+110
+00:13:04,520 --> 00:13:05,740
+We don't know yet, yeah
+
+111
+00:13:10,370 --> 00:13:11,950
+You will do a penance plan.
+
+112
+00:13:12,330 --> 00:13:14,900
+What am I still doing? You think...
+
+113
+00:13:15,780 --> 00:13:19,890
+What is the mouse doing? It will give you two opinions plan.
+
+114
+00:13:21,060 --> 00:13:26,350
+Sorry, could you give us a timeline about your product? You do a business plan.
+
+115
+00:13:27,080 --> 00:13:31,540
+Okay, yeah, we we haven't thought about entrepreneurship that much so
+
+116
+00:13:32,420 --> 00:13:35,280
+I would need to come up with something on the spot.
+
+117
+00:13:35,750 --> 00:13:37,300
+So, um...
+
+118
+00:13:38,370 --> 00:13:38,990
+Em...
+
+119
+00:13:39,620 --> 00:14:05,950
+First would be proving that actually everything works and I guess for that it would be nice to have a preliminary pattern for that so we can have the one year time frame to actually show that our product is unique and does what it's supposed to do. So we would have one year time frame to show more and more data that it works for a lot of different targets and I think that's possible in that time frame.
+
+120
+00:14:06,660 --> 00:14:24,660
+And the more we would have that pattern, we could build upon that to kind of talk to stakeholders. We already had a PhD student from our university who asked us if she could use our system for her thesis. So yeah, the interest is definitely there.
+
+121
+00:14:26,210 --> 00:14:26,740
+Thank you.
+
+122
+00:14:27,430 --> 00:14:28,210
+Thank you very much
+
+123
+00:14:30,950 --> 00:14:37,490
+I think I would actually just kill your entrepreneurship there and really encourage you to publish this because I think the...
+
+124
+00:14:37,930 --> 00:14:38,480
+the
+
+125
+00:14:39,400 --> 00:14:43,820
+The outlook of the understanding is way bigger than the actual product itself.
+
+126
+00:14:44,420 --> 00:14:55,820
+So I think that I would really encourage you to publish this and also in a pretty high impact journal so that it gets out there and I use to study other things because...
+
+127
+00:14:57,000 --> 00:14:59,220
+as you clearly see out yourself.
+
+128
+00:15:00,840 --> 00:15:03,090
+We're not really sure where's the biggest impact.
+
+129
+00:15:03,780 --> 00:15:06,220
+So I think that probably would be my advice.
+
+130
+00:15:08,130 --> 00:15:11,820
+Thank you for your presentation, a very impressive project.
+
+131
+00:15:12,420 --> 00:15:17,390
+My question is very technical, how many repetitions did you do in the wet lab for your results?
+
+132
+00:15:18,760 --> 00:15:19,150
+(b
+
+133
+00:15:22,050 --> 00:15:37,330
+So for the data that you saw on the Vicky, we did biological replicates, but due to time constraints for the data that we presented post-Vicky freeze, it's technical replicates. But if we had more time, we would have done biological replicates. And what model did you use for the conjugation?
+
+134
+00:15:38,310 --> 00:15:38,740
+[static
+
+135
+00:15:40,100 --> 00:15:42,640
+One person for you.
+
+136
+00:15:43,330 --> 00:16:08,320
+In which sense you mean the model, the system that we use? The model, the bacteria model. So the configuration machinery was RP4 system and we adapted it with E. coli strains. So we basically took two different strains, one donor and one recipient cells, but this was just for the first step where we validated our constructs and then moved forward to the mammalian cells. Okay, thank you.
+
+137
+00:16:11,140 --> 00:16:26,740
+So thank you very much for your presentation and yeah, as all the judges said, it's a really, really cool project. So I want to ask the annoying judge with the annoying question. I just wanted to ask, why did you choose GROOMAX for MD software?
+
+138
+00:16:27,270 --> 00:16:29,620
+compared to others just a small question
+
+139
+00:16:33,610 --> 00:16:34,800
+So essentially...
+
+140
+00:16:35,490 --> 00:16:47,700
+We first started with the idea of using ox DNA because we want to model two plasmids of 10 kilobases each. So we use a coarse-grained model, but ox DNA cannot natively support proteins.
+
+141
+00:16:48,100 --> 00:17:08,660
+So we needed to find a way to kind of calculate the forces that we want to use so that we can plug them into OxyN8 to model the protein. And we choose GROMACS. Essentially, it went through different kinds of stages where we talked about different force fields. And we chose AMBER in the end and GROMACS since it's pretty easy to use and since it ran on our cluster that we used.
+
+142
+00:17:09,030 --> 00:17:11,250
+Yeah, so for ease of use.
+
+143
+00:17:12,260 --> 00:17:13,100
+Thank you very much.
+
+144
+00:17:19,940 --> 00:17:27,730
+Yeah, I think I'll ask one that's really interesting to me is that you mentioned your application in studying cancer.
+
+145
+00:17:28,230 --> 00:17:34,860
+because I think that is definitely one of the applications that I feel speaks to a lot of people.
+
+146
+00:17:35,240 --> 00:17:38,800
+Just to learn more about that, I would love to know.
+
+147
+00:17:39,240 --> 00:17:42,930
+the specific steps that he took to ensure that
+
+148
+00:17:43,750 --> 00:17:49,810
+The system, because of the rebuild, is manipulating the DNA hubs in control and the...
+
+149
+00:17:50,310 --> 00:17:51,280
+reproducible manner.
+
+150
+00:17:51,750 --> 00:17:52,780
+and uh...
+
+151
+00:17:53,930 --> 00:18:00,880
+I think this is something also you mentioned in the Wiki, but assuming that given more time, how would you plan to measure...
+
+152
+00:18:01,320 --> 00:18:04,880
+the downstream effects of the gene regulation and the...
+
+153
+00:18:05,320 --> 00:18:07,630
+and monitor the tumor progression in that.
+
+154
+00:18:12,970 --> 00:18:16,850
+Yeah, thank you. That's a really interesting question, and which you actually discussed quite a lot on our team
+
+155
+00:18:17,250 --> 00:18:22,670
+So I'd rethink, but an easy way to monitor what you already did with our genomic and hands-on hijacking is to measure the MRI levels.
+
+156
+00:18:23,080 --> 00:18:24,300
+[INAUDIBLE]
+
+157
+00:18:24,740 --> 00:18:29,010
+But also this can further be extended for example with single cell sequencing if you have multiple...
+
+158
+00:18:29,450 --> 00:18:42,960
+cell groups and you can also then do 3C chromosome capture technology to have not just look at the levels of a change in mRNA levels but just look at the proximate which does not always have to regulate the mRNA in a detectable manner.
+
+159
+00:18:43,460 --> 00:18:50,800
+And furthermore, we think that using microscopy to further assess organoids or other more cancer-like cell types.
+
+160
+00:18:51,210 --> 00:19:06,260
+We could then further assess the phenotype and how this changes and also really integrate it with already existing technologies both in imaging and also in confirmation capture technology to kind of involve our project with the existing technologies and expand the capabilities of the field.
+
+161
+00:19:09,060 --> 00:19:09,550
+days for
+
+162
+00:19:11,170 --> 00:19:13,580
+Okay, I have another question about your...
+
+163
+00:19:14,150 --> 00:19:15,060
+experiments
+
+164
+00:19:15,690 --> 00:19:20,500
+We all know CCTBG can express toxin protein.
+
+165
+00:19:21,220 --> 00:19:22,060
+which
+
+166
+00:19:22,470 --> 00:19:24,240
+affects the growth of E. coli.
+
+167
+00:19:24,770 --> 00:19:25,140
+Hey
+
+168
+00:19:25,700 --> 00:19:32,050
+When you design your experiments, how did you consider it cytotoxicity?
+
+169
+00:19:33,190 --> 00:19:34,670
+do explain to us.
+
+170
+00:19:40,290 --> 00:19:40,940
+uh
+
+171
+00:19:41,450 --> 00:19:42,670
+We all know CCDB
+
+172
+00:19:43,080 --> 00:19:44,560
+6ATB gene, yeah.
+
+173
+00:19:46,920 --> 00:19:48,210
+Yeah, so, um-- [
+
+174
+00:19:48,900 --> 00:19:49,740
+We basically--
+
+175
+00:19:53,130 --> 00:19:53,550
+Sorry.
+
+176
+00:19:54,630 --> 00:19:55,570
+I want to go here
+
+177
+00:19:57,380 --> 00:19:59,950
+Basically, this is our entry vector that you are talking about, right?
+
+178
+00:20:00,550 --> 00:20:12,270
+So the CCDB basically ensures if we have the oligo in here that we need to bring in the two spacers targeting each loci that we want to target and the link between the two spacers. We basically...
+
+179
+00:20:12,650 --> 00:20:15,410
+cut it out with a Golden Gate, and then the Zep 1.
+
+180
+00:20:16,010 --> 00:20:19,570
+and if the anneal goes into the sides.
+
+181
+00:20:20,070 --> 00:20:21,620
+We then have clones.
+
+182
+00:20:22,020 --> 00:20:29,550
+But if it doesn't work, then the CCDB stays in and the cells cannot grow. So basically this ensures efficient cloning.
+
+183
+00:20:34,920 --> 00:20:37,170
+Okay, thank you.
+
+184
+00:20:38,050 --> 00:20:43,180
+about your casp protein, about your casp Fusion casp protein.
+
+185
+00:20:43,780 --> 00:20:49,680
+The construction of fusion test proteins improves a burden on cells.
+
+186
+00:20:50,600 --> 00:20:51,220
+Uhh
+
+187
+00:20:52,520 --> 00:20:52,910
+is
+
+188
+00:20:53,350 --> 00:20:55,570
+affect the editing effectivity.
+
+189
+00:21:03,780 --> 00:21:04,300
+Okay.
+
+190
+00:21:04,840 --> 00:21:05,460
+and
+
+191
+00:21:08,010 --> 00:21:10,060
+do you repeat as this constant data.
+
+192
+00:21:12,420 --> 00:21:19,180
+other question. Do you want me to?
+
+193
+00:21:20,710 --> 00:21:27,500
+Does the construction of the fusion cast protein impose a burden on cells and does this affect the aiding efficiency?
+
+194
+00:21:33,410 --> 00:21:35,630
+No, it doesn't.
+
+195
+00:21:36,100 --> 00:22:01,080
+We have this data here. So basically this is a dual is a phrase at a essay which we engineered the vanilla reporter to include a target site for the spike as nine and we basically this is the fusion cars and As you can see we first targeted just one locus so the MB cus of a targets the Firefly and the cus 9 targets the vanilla and as you can see if we only target one
+
+196
+00:22:01,640 --> 00:22:02,160
+and
+
+197
+00:22:03,140 --> 00:22:13,300
+It works and every target, let both proteins target each cell at the same time. It doesn't affect the editing efficiency. As you can see, even here, it goes a little lower. So yeah, it works.
+
+198
+00:22:13,670 --> 00:22:14,480
+quite well actually
+
+199
+00:22:16,260 --> 00:22:17,940
+Hope this answers your question.
+
+200
+00:22:18,630 --> 00:22:23,950
+have an ask question about the delivery system. So you were talking about how
+
+201
+00:22:24,390 --> 00:22:26,510
+It could help on...
+
+202
+00:22:27,240 --> 00:22:28,620
+cancer your system right
+
+203
+00:22:29,250 --> 00:22:30,030
+How would you?
+
+204
+00:22:30,820 --> 00:22:32,430
+I won't say inject, but how would
+
+205
+00:22:33,610 --> 00:22:34,290
+patient
+
+206
+00:22:34,820 --> 00:22:35,630
+your system
+
+207
+00:22:36,040 --> 00:22:38,740
+How would you use, how would you do to the delivery?
+
+208
+00:22:40,770 --> 00:22:42,610
+(laughing)
+
+209
+00:22:45,190 --> 00:22:59,500
+Thanks. So I guess your question is concerned with the safety of our system when used in an in vivo setting. In consultation with experts, we realize that there are several systems to
+
+210
+00:22:59,880 --> 00:23:23,820
+wipe out the bacteria once they do their job. We were initially considering using oxo-trophic strains, which are using inducible, putting the conjugation machinery under an inducible system, which would eventually run out. So one idea could be using liposomes and--
+
+211
+00:23:24,490 --> 00:23:38,930
+and loading a predetermined concentration of arabinose, which is not natively found in the human body, and having the system only active for a certain period of time. And in combination with oxotrophy, the bacteria would eventually die.
+
+212
+00:23:46,250 --> 00:23:46,670
+It goes
+
+213
+00:23:47,590 --> 00:23:50,610
+I think I would comment on this with the targeting.
+
+214
+00:23:51,460 --> 00:23:58,160
+I think there are way many things now in targeting to cancer cells that you have not even touched upon.
+
+215
+00:23:58,790 --> 00:24:02,800
+I think there will be lots of possibilities to do this, but again...
+
+216
+00:24:04,580 --> 00:24:07,630
+in 20 years, right? I mean, not tomorrow
+
+217
+00:24:09,030 --> 00:24:09,580
+but we put
+
+218
+00:24:11,620 --> 00:24:16,340
+Well, just a small question. I was curious in the video you said that this technology would give...
+
+219
+00:24:16,810 --> 00:24:21,330
+perspectives in genome evolution. So it was--
+
+220
+00:24:21,770 --> 00:24:24,660
+just wanted to hear your thoughts about it. Like, why did you say that?
+
+221
+00:24:30,730 --> 00:24:57,210
+So if I understood your question correctly, it's regarding that shaping the genome in a certain way has a huge impact on what the organism looks like at the end. And one example would be that part of the difference between, for example, the great apes and humans can be explained by also the way that certain genes are arranged to each other, even though there's a pretty huge similarity between the two genomes.
+
+222
+00:24:57,320 --> 00:24:59,180
+They are also shaped in a different way.
+
+223
+00:24:59,750 --> 00:25:23,570
+which impacts at the end the way the organism looks like and studying this is also a possibility. Or thinking about just different cells in the body. Can I finish the sentence? You know how they all have the same genome but at the end they have different functions and look different but they're essentially on the sequence level the same but the shape is different and all of this is now possible to study.
+
+224
+00:25:24,360 --> 00:25:26,000
+Very, very interesting. Thank you very much
+
+225
+00:25:34,340 --> 00:25:35,010
+Thank you.
+

@@ -1,0 +1,888 @@
+1
+00:00:00,610 --> 00:00:24,210
+So to start, we wanted to give a brief context. Antibiotic resistance is a very, very big issue that threatens to kill millions of people. Phage therapy is a very promising solution, but it's limited by slow phage mass sample. This causes single digit fulfillment rates for phage therapy cases and also months long wait time for patients to get their phage cocktails. Oftentimes critical care patients might only have days. This is very, very slow.
+
+2
+00:00:24,970 --> 00:00:38,610
+So to address this, we are developing Misophage and we have two goals. One is to reduce the phage matching time from months to hours. And two is to deliver our AI modified phages to critical target sites and go item distance, such as the gut resistance.
+
+3
+00:00:38,980 --> 00:00:41,740
+Now I'll pass it on to our drive team to explain how our model works
+
+4
+00:00:42,600 --> 00:00:44,340
+Cool, thank you, Jaden. So--
+
+5
+00:00:46,150 --> 00:00:51,500
+Yeah, we are in a new era of protein design. In which generative models can design novel proteins from scratch and-- [AUDIO OUT]
+
+6
+00:00:52,580 --> 00:01:04,400
+Three main challenges still remain. One, there's an incredibly, incredible diversity of receptors, including flexible glycans that are challenging targets for these engineered models to regenerate the R-B2 receptor binding proteins for.
+
+7
+00:01:04,770 --> 00:01:13,740
+And finally, there's limited RBP receptor structure data. So in the PDP, there's limited data, which, you know, it hampers models from training on these vast resources.
+
+8
+00:01:14,250 --> 00:01:15,920
+So we introduce order.
+
+9
+00:01:16,390 --> 00:01:16,940
+Howard.
+
+10
+00:01:17,350 --> 00:01:25,100
+We introduced forager, our new generative pipeline that can take in bacterial sequences and generate RDPs for them.
+
+11
+00:01:26,020 --> 00:01:37,970
+Our proteins generate these receptor binding proteins and our model generates this receptor binding domain, which we're showing here is an example of one of our generated receptor binding domain regions.
+
+12
+00:01:39,620 --> 00:01:46,130
+This now moving into our batch one, which is our prototype model, which actually generated both glycan and protein targets.
+
+13
+00:01:46,570 --> 00:01:52,080
+This year what we're showing is some of our batch one protein we showed up, which we sent up to the wet lab to test.
+
+14
+00:01:52,740 --> 00:02:01,460
+Moving on, we also tried out our new improved pipeline, which added MCMC sampling, just as a new and well-known statistical sampling procedure.
+
+15
+00:02:01,830 --> 00:02:04,400
+And this allows to converge on better and better binders.
+
+16
+00:02:04,900 --> 00:02:11,180
+Finally, this allowed us to create our top nine high confidence receptor binding proteins, which we sent out to the West Lab to test.
+
+17
+00:02:11,850 --> 00:02:20,590
+We also added an n-dock or orthogonal validation metric, which has had a three docking to really test out and to ensure that our proteins are matching what we think they are.
+
+18
+00:02:23,940 --> 00:02:31,220
+To test dry lab-generated RBDs, we assembled plasmids containing a generated RBD and an SGRNA targeting the wild-fic RBD.
+
+19
+00:02:31,880 --> 00:02:36,270
+We used these plasmids to perform RBG swapping, then rebooted and spotted pages.
+
+20
+00:02:37,800 --> 00:02:43,540
+Lambda, Mu49, and Mu52 SGRNAs were confirmed to target their wild-type RVDs.
+
+21
+00:02:43,970 --> 00:02:52,850
+And since the presentation video, we have confirmed successful swapping of generated batch 2, mu 49 and mu 52 are details.
+
+22
+00:02:54,470 --> 00:02:59,120
+Wild type RBDs from you and P2 normally target K12 and not BL20.
+
+23
+00:02:59,910 --> 00:03:03,790
+If our generated RBDs are functional, we should see this targeting pattern swap.
+
+24
+00:03:05,350 --> 00:03:10,640
+Since the presentation video, we have spotted generated batch 2 RVDs from you.
+
+25
+00:03:11,300 --> 00:03:17,740
+We found that there was no spotting efficiency against BL21 and that there was reduced spotting efficiency against K12.
+
+26
+00:03:18,630 --> 00:03:23,120
+While these are negative results, this completes our first feedback cycle in 4G.
+
+27
+00:03:25,480 --> 00:03:26,220
+about right
+
+28
+00:03:27,590 --> 00:03:31,570
+So select the pressure of antibiotics on human and animal GI tracts.
+
+29
+00:03:32,010 --> 00:03:33,900
+creates what we call the gut resistome.
+
+30
+00:03:34,310 --> 00:03:37,520
+which is a reservoir of resisted genes.
+
+31
+00:03:38,530 --> 00:03:41,870
+And so to target this area, we created
+
+32
+00:03:42,690 --> 00:03:43,280
+evade
+
+33
+00:03:43,940 --> 00:03:51,760
+which is the first ingestible electronic bacteria sensing capsule for site specific drug delivery.
+
+34
+00:03:53,480 --> 00:03:55,250
+Our device remains completely sealed.
+
+35
+00:03:55,650 --> 00:03:59,340
+from the GI tract until detecting resistant bacteria.
+
+36
+00:03:59,780 --> 00:04:07,180
+At which point an electromagnet causes the release of our AI-Vage therapy directly at the site of infection inside the GI tract.
+
+37
+00:04:09,800 --> 00:04:11,820
+We have created
+
+38
+00:04:12,290 --> 00:04:17,100
+The prototype user tested many iterations of the capsule, each improving upon the last.
+
+39
+00:04:17,700 --> 00:04:20,560
+in testing in our GI simulation models ongoing.
+
+40
+00:04:21,130 --> 00:04:25,900
+but we acquired some preliminary results, namely we conferred the ability of our advice to...
+
+41
+00:04:26,410 --> 00:04:29,170
+measure of hypo-chitin inside of a simulated environment.
+
+42
+00:04:29,610 --> 00:04:33,070
+and to retain and release our therapy on demand.
+
+43
+00:04:35,080 --> 00:04:42,190
+All of our work in eBay is fully documented in our GitLab and Wiki to ensure reproducibility for future teams.
+
+44
+00:04:45,640 --> 00:05:11,740
+To ensure that our project is human centered, our human practices team reached out to a wide array of stakeholders including bioethicists, economics, patients, doctors, face lab researchers, and even started co-founders. Using the stakeholder feedback, we also did a lot of written initiatives like our success, our regulatory framework, a sustainability report, a social economic report, and a newsletter to educate the public as well.
+
+45
+00:05:12,100 --> 00:05:21,100
+Further, to educate university students, we also had a pop-up group and we also had a mentorship program to connect them with future synthetic biology opportunities.
+
+46
+00:05:21,890 --> 00:05:26,130
+Over the summer, we took our ideas through the University of Toronto incubator program.
+
+47
+00:05:26,500 --> 00:05:43,470
+where we built our business plan grounded in real customer needs, clinician insights, and clear milestones. We're now in the go-to-market stage where we're having further customer interviews and validation to refine our solution. By December, we'll be talking to investors to take our scientific adventure to the next stage.
+
+48
+00:05:45,380 --> 00:05:54,640
+So we just wanted to say thank you to everyone for listening and also to thank everyone who had helped us along this journey, including all the faculty, mentors, institutions, and incubators that got us to this point.
+
+49
+00:05:55,110 --> 00:06:04,400
+We also want to give a special thank you to all of our sponsors to enable us to get this far without your help. We couldn't have made it to this point. So thank you everyone for listening and we're happy to answer your questions.
+
+50
+00:06:06,250 --> 00:06:07,310
+you guys
+
+51
+00:06:08,260 --> 00:06:10,220
+Is that the questions?
+
+52
+00:06:12,970 --> 00:06:13,460
+and
+
+53
+00:06:14,150 --> 00:06:24,270
+So thanks for the presentation and interesting project. My question is on your hardware part. So in your direct experiment, when you have the graphs, maybe you can go to the slide.
+
+54
+00:06:24,840 --> 00:06:34,830
+First question is, how did you do the experiment? Did you do it in replicates or not? Because there are no error bars on the graph. And the second question is, when you have almost 60% of-- [AUDIO OUT]
+
+55
+00:06:35,330 --> 00:06:46,540
+die release even before the release part. And what do you think is the reason for this? Is it the leakiness of the capsule itself or other hydrogen presence is triggering it to release it anyway?
+
+56
+00:06:47,140 --> 00:06:57,230
+Yeah, so I'll talk a little bit about both experiments. I'll start just preface this by saying that this is very preliminary qualitative more experiments that we just wanted to-- [AUDIO OUT]
+
+57
+00:06:57,640 --> 00:07:05,330
+kind of confirm our first proof of concept in the core functionality of the device before kind of refining it and getting it to work really, really well.
+
+58
+00:07:06,020 --> 00:07:15,600
+So the hydrogen experiment was really just kind of like a qualitative metric of can our device sense hydrogen in the quantities that are biologically relevant.
+
+59
+00:07:16,130 --> 00:07:18,700
+and send that information to our...
+
+60
+00:07:19,140 --> 00:07:21,390
+custom PCB and control that we've designed.
+
+61
+00:07:22,630 --> 00:07:23,890
+potentially release a drug.
+
+62
+00:07:24,390 --> 00:07:30,320
+And so the setup was very simple. We just generated our hydrogen inside of a little sealed environment.
+
+63
+00:07:31,050 --> 00:07:36,430
+measured that with our device and sent that to a computer and just see if we could see.
+
+64
+00:07:36,870 --> 00:07:38,260
+those levels show up and
+
+65
+00:07:38,630 --> 00:07:43,150
+biologically relevant quantities, which we're able to see there and get a
+
+66
+00:07:43,560 --> 00:07:46,350
+amplified voltage reading that is detectable.
+
+67
+00:07:47,270 --> 00:07:47,790
+Um
+
+68
+00:07:49,000 --> 00:07:50,060
+And so, uh...
+
+69
+00:07:50,630 --> 00:07:55,150
+We did this test a few times. This is just showing kind of one trial that we conducted.
+
+70
+00:07:55,750 --> 00:07:58,960
+And yeah, for the the die release experiment
+
+71
+00:07:59,370 --> 00:08:03,980
+There were a few, I guess, technical limitations of our device. Again, this is kind of like a...
+
+72
+00:08:04,710 --> 00:08:07,280
+first proof of concept.
+
+73
+00:08:07,690 --> 00:08:12,500
+all the parts were 3D printed and sealed together with the materials that we had available.
+
+74
+00:08:13,030 --> 00:08:17,490
+So it's not perfect. We're considering to improve on it, but kind of just our first trial.
+
+75
+00:08:17,890 --> 00:08:18,260
+(static
+
+76
+00:08:18,690 --> 00:08:23,500
+I guess the seal of the cap and the electromagnet didn't fit perfectly on the device.
+
+77
+00:08:24,230 --> 00:08:30,380
+I guess the thing to note is that in these two graphs of the four release and both static and dynamic.
+
+78
+00:08:30,760 --> 00:08:34,830
+We didn't see any noticeable detachment.
+
+79
+00:08:35,330 --> 00:08:43,730
+from the electromagnet, like it was still mostly together. It's just kind of like ambient leakage that we believe could just be resolved with like some tolerance fixes.
+
+80
+00:08:44,330 --> 00:08:50,480
+And then after the release we saw like a complete separation from the lid and the main capsule.
+
+81
+00:08:51,330 --> 00:08:53,650
+Yeah. So with a little bit more refinement, we think that
+
+82
+00:08:54,020 --> 00:08:56,910
+You know, we could get these two bars really low.
+
+83
+00:08:58,340 --> 00:08:59,860
+- Okay, perfect, thanks. - Thank
+
+84
+00:09:03,300 --> 00:09:12,270
+follow up for the device. I saw that you've been testing it on different pH levels. But
+
+85
+00:09:12,680 --> 00:09:19,860
+what I saw are that those pH levels are like 5, 6, something like this, like pretty high and if you're
+
+86
+00:09:21,000 --> 00:09:21,550
+Oh.
+
+87
+00:09:21,930 --> 00:09:22,610
+Of course
+
+88
+00:09:23,110 --> 00:09:23,820
+has to be.
+
+89
+00:09:24,330 --> 00:09:25,420
+ingested like
+
+90
+00:09:26,310 --> 00:09:32,370
+It will go through the stomach first where the CT is much lower. Have you considered if it will?
+
+91
+00:09:32,900 --> 00:09:41,840
+work and like more extreme conditions? Yes, certainly. So the solution to this is we plan to encapsulate this kind of, we have our
+
+92
+00:09:42,370 --> 00:09:47,090
+inner capsule here, we plan to encapsulate this inside an enteric polymer coating.
+
+93
+00:09:47,780 --> 00:09:48,300
+um
+
+94
+00:09:48,810 --> 00:09:54,770
+And so these interior coatings are already validated technologies that are used on the market to bypass.
+
+95
+00:09:55,140 --> 00:09:57,650
+the kind of low pH conditions in the stomach.
+
+96
+00:09:58,090 --> 00:10:07,060
+So it's essentially just like a proprietary polymer coating that, you know, companies make that remain intact in low pH environments and dissolve.
+
+97
+00:10:07,490 --> 00:10:09,740
+in higher pH environments such as the...
+
+98
+00:10:10,310 --> 00:10:14,670
+small intestine into the colon when it goes up to five, six, seven.
+
+99
+00:10:15,970 --> 00:10:20,140
+And so we plan to just encapsulate our device in this already validated.
+
+100
+00:10:21,730 --> 00:10:31,020
+in terra-coating. So that should deliver this inner capsule directly to our small intestine, which is our set of interest, without any damage to the capsule itself.
+
+101
+00:10:33,220 --> 00:10:35,090
+And have you considered that?
+
+102
+00:10:35,720 --> 00:10:42,420
+I mean, there are so many parts like battery, magnets, everything.
+
+103
+00:10:42,890 --> 00:10:45,580
+Some of these parts can be rejected by the body.
+
+104
+00:10:45,990 --> 00:10:46,420
+Yeah.
+
+105
+00:10:46,820 --> 00:10:49,780
+So are you addressing this safety concern?
+
+106
+00:10:50,370 --> 00:10:54,290
+Yeah, it's a great question. And I can understand, you know.
+
+107
+00:10:54,790 --> 00:10:58,000
+public uncertainty to accept such technology.
+
+108
+00:10:58,370 --> 00:11:02,700
+There's definitely hesitation involved in ingestible electronics.
+
+109
+00:11:03,370 --> 00:11:10,290
+I think this field is a growing field. It's kind of just originated in the last five, 10 years. It's becoming larger and larger.
+
+110
+00:11:10,890 --> 00:11:11,660
+and
+
+111
+00:11:12,490 --> 00:11:14,610
+Past research has shown that with
+
+112
+00:11:15,050 --> 00:11:18,060
+proper testing. People are
+
+113
+00:11:19,270 --> 00:11:20,210
+Okay with
+
+114
+00:11:21,030 --> 00:11:37,010
+having this kind of batteries, medicine, their body as long as it's been properly validated. Of course, you know, when this is to go to market, it's properly sealed. All of the interior electronics are completely sealed from the GI environment. There should be no leakage inside.
+
+115
+00:11:37,450 --> 00:11:37,970
+Um
+
+116
+00:11:39,050 --> 00:11:42,610
+And past ingestible electronics have proved this is possible.
+
+117
+00:11:43,080 --> 00:11:46,290
+And people are willing to try this.
+
+118
+00:11:46,790 --> 00:11:47,700
+technology
+
+119
+00:11:48,230 --> 00:11:53,010
+Specifically in regard to the magnet, this was a big concern in our
+
+120
+00:11:53,990 --> 00:12:03,440
+design here. The concern of course is if we actually get the electromagnet and send a current through to repel the magnet, what's to stop it from then traveling a little further and then.
+
+121
+00:12:03,810 --> 00:12:11,250
+kind of reattaching and potentially causing some tissue damage if it connects over some mucosal lining of the small intestine.
+
+122
+00:12:12,450 --> 00:12:17,780
+Our solution to this, can't really see this design here, but we created kind of like a lip.
+
+123
+00:12:18,340 --> 00:12:22,000
+So once the electromagnet pushes the cap off...
+
+124
+00:12:22,500 --> 00:12:33,580
+The two pieces of pill can never fit together again. It was a barrier to prevent the electromagnet and the permanent magnet in the cap from ever getting close enough to each other to reattach.
+
+125
+00:12:33,960 --> 00:12:35,310
+So there's no risk of
+
+126
+00:12:35,720 --> 00:12:40,820
+kind of a magnetic reactivation that may cause antitition damage.
+
+127
+00:12:41,290 --> 00:12:48,850
+And then like I said before, all the other electronics are completely sealed via like a waterproof coating side of the interior compartments.
+
+128
+00:12:49,510 --> 00:12:50,930
+So what about the issue of...
+
+129
+00:12:51,650 --> 00:12:54,960
+what happens to it when it's flushed down the toilet, it's e-waste.
+
+130
+00:12:55,530 --> 00:12:58,480
+Yeah. And so this is kind of the.
+
+131
+00:12:59,530 --> 00:13:00,180
+I-I
+
+132
+00:13:00,580 --> 00:13:07,280
+Big problem in the adjustable electronic space, like every group in the world who designs the adjustable electronic space is this issue.
+
+133
+00:13:07,850 --> 00:13:10,350
+And to be honest with you, it's not really solved yet.
+
+134
+00:13:11,690 --> 00:13:19,600
+Most groups in the world don't really have a good solution to this. You don't really want to collect that out of your remains. So it's kind of like not-- [AUDIO OUT]
+
+135
+00:13:20,260 --> 00:13:21,520
+know, the greatest.
+
+136
+00:13:23,170 --> 00:13:26,290
+So there's not really a great solution to that yet.
+
+137
+00:13:28,550 --> 00:13:33,390
+So I have a great answer to your question then. - That's a good answer if it's the honest answer. - Yeah.
+
+138
+00:13:34,690 --> 00:13:39,340
+I had another question unrelated. You said some people would have hours to live.
+
+139
+00:13:39,720 --> 00:13:44,530
+How would you make a phage based on all of these modeling and everything?
+
+140
+00:13:45,000 --> 00:13:45,620
+Um
+
+141
+00:13:46,600 --> 00:13:47,180
+in
+
+142
+00:13:47,690 --> 00:13:49,460
+a timely manner to treat the patient.
+
+143
+00:13:50,280 --> 00:14:16,350
+So are you referring to like the dry lab side or like how we'd like physically assemble with age? - All of it, I mean you have to do all of it, right? - Yeah, okay. So I can speak a bit about the overall part and then I can pass it on to Perif for like more specific stuff. But when it comes to us making the phage really fast, one thing to note is that this model currently runs in about just under two days to do the full computation to actually generate our new proteins. If we had better compute and like more server space.
+
+144
+00:14:16,420 --> 00:14:24,620
+GPUs or just like more processing power actually. We could just do this much much faster. It can easily be scaled up to be done under hours.
+
+145
+00:14:25,060 --> 00:14:36,690
+for sure. And that's something that we intend to do as we go towards commercialization. We'd have better compute and we'd be able to do this much faster. When it comes to actual assembly in the wet lab, that is definitely the biggest time sink.
+
+146
+00:14:37,060 --> 00:14:48,240
+You know, for us to be able to test our AI generated pages, it took us the entire project cycle. And only recently did we get our first batch of results to actually validate. And we need to be able to do this within the same hour timeframe.
+
+147
+00:14:48,610 --> 00:14:53,230
+to be able to ensure that they are safe for the patient. So we have a couple ideas to...
+
+148
+00:14:53,770 --> 00:14:55,280
+speed up the process on the website.
+
+149
+00:14:55,650 --> 00:14:57,870
+One thing that we do, so let's go back to that
+
+150
+00:14:58,690 --> 00:15:24,350
+So basically to get these spotting results or get some sort of screening results much faster, we pivot away from our homology directed repair or cast assisted repair that we've been currently using. It's which are yeast recombination. So this has been shown to be super, super fast yeast recombination powerhouses. And we can develop a system to be able to do this recombination much, much faster. It might be really hard to get it down to hours, but in the short term, we can definitely scale down the process of just days where we can...
+
+151
+00:15:24,520 --> 00:15:28,820
+take our RBPs, we can bind them, validate the recombination, and then do this test.
+
+152
+00:15:29,190 --> 00:15:58,010
+So in a critical care timeframe, that will suffice for sure. A lot of critical care patients who request ph therapy, they might only have days or maybe a little longer. So working within that timeframe in the short term is okay. And then we develop higher throughput methods to do screening much faster. A lot of companies in the ph space have developed these very high throughput methods. There was a couple of labs in Canada that have been developing these 384 well plates where you can just
+
+153
+00:15:58,180 --> 00:16:23,900
+view bacterial OD when you deliver a phage to it. And literally within hours you would actually get a reading. So those are the ideas. - Wouldn't the bottleneck be synthesizing the genes, the tests? - Oh yeah. So that we probably have to have our own in-house synthesis. Thankfully these genes are not too big. RBPs can be about a couple hundred amino acids if we're going for the full RBP or the RBD itself could be under a hundred, maybe 50 amino acids to 110.
+
+154
+00:16:24,230 --> 00:16:30,160
+So those we can synthesize pretty fast. We have in-house synthesis. So these are the things that we do as we scale up.
+
+155
+00:16:30,730 --> 00:16:32,590
+and we'd have everything like integrated.
+
+156
+00:16:33,320 --> 00:16:33,710
+That is
+
+157
+00:16:36,230 --> 00:16:43,470
+And then I guess perfect. Want to talk about the dry lab side of it. Yeah. I mean, Jayden covered a lot of it, but yeah, just going over the dry lab side a bit more
+
+158
+00:16:43,940 --> 00:16:44,560
+um
+
+159
+00:16:48,100 --> 00:17:02,800
+This year was done with three independent NCMC, so Monte Carlo Markov chain sampling seizures. And yeah, this ran with the production of my PI, got it to run on our GPU server, and this ran about 40 hours.
+
+160
+00:17:03,270 --> 00:17:10,800
+And yeah, exactly as Jayden was saying, with more compute, more GPUs, I think we can definitely do more sampling, more independent trials.
+
+161
+00:17:11,170 --> 00:17:15,090
+And this year, I was only just 500 trials. I can obviously increase the number of trials and...
+
+162
+00:17:15,650 --> 00:17:17,580
+And also, we have a-- [AUDIO OUT
+
+163
+00:17:18,410 --> 00:17:26,320
+We have a document procedure, which we do for our document validation. That is also another key metric which we use to actually validate if our pages will then, you know,
+
+164
+00:17:26,730 --> 00:17:31,410
+have high success rate in the web lab. And that also requires high computation.
+
+165
+00:17:31,850 --> 00:17:39,630
+and high CPU usage specifically. So, you know, essentially scaling everything up, getting more, you can allow us to do more sampling, more testing and just.
+
+166
+00:17:40,230 --> 00:17:44,240
+go more on the dry lab site to actually have all the wet lab then.
+
+167
+00:17:47,620 --> 00:17:51,630
+I will focus more on the follow up question on the modeling side.
+
+168
+00:17:52,330 --> 00:17:56,910
+overall design was impressive. But my question would be on the, for example,
+
+169
+00:17:57,350 --> 00:18:04,340
+There are large assumptions behind how to utilize this ESN, for example. For example, there are a lot of shutter bathing.
+
+170
+00:18:04,740 --> 00:18:05,900
+First question was, did you
+
+171
+00:18:06,630 --> 00:18:14,260
+consider any other more structure related or more structure based boosted. And all those Minecraft those kind of are behind it.
+
+172
+00:18:14,630 --> 00:18:27,180
+So that's the first question. Second will be quite related because you do have those assumptions like the glycanine, length of glycanines, like size of glycanines, also including your modeling design, like the molecular docking design.
+
+173
+00:18:27,690 --> 00:18:28,590
+given your
+
+174
+00:18:29,090 --> 00:18:31,440
+current settings or current design.
+
+175
+00:18:31,850 --> 00:18:37,100
+How is the successful rate of each stage?
+
+176
+00:18:37,480 --> 00:18:58,640
+was successfully expressed or successfully go on to the next stage. Do you have any idea on that? - Of course, yeah. Thanks for the question. So yeah, in our initial cycle, we test actually a bunch of different models and of course, you know, our diffusion, Minecraft, and protean VNN. But luckily for us, it's not even a full paper yet. I still have a review. It's actually a pre-print right now.
+
+177
+00:18:59,080 --> 00:19:04,240
+MIT and Reversion came out with this new model that not only is it better to have a whole degree but also
+
+178
+00:19:06,090 --> 00:19:10,320
+Here are your items. The main update session begins in 10 minutes.
+
+179
+00:19:10,690 --> 00:19:11,220
+Open.
+
+180
+00:19:12,610 --> 00:19:14,000
+Sir, underneath them. Sir, underneath
+
+181
+00:19:14,440 --> 00:19:19,220
+Welcome to the event for the 10th party time. We will see you next time.
+
+182
+00:19:20,710 --> 00:19:25,550
+(speaking in foreign language)
+
+183
+00:19:26,250 --> 00:19:29,230
+(speaking in foreign language)
+
+184
+00:19:32,490 --> 00:19:34,160
+Yeah, it's time to start here with the
+
+185
+00:19:35,080 --> 00:20:00,480
+Yeah, Bolst 2 is a new preprint that came out. And the cool thing about Bolst 2, which is why we're using it, is that not only can it, it has a show in its paper that has a full three level structural, structural, eventually you can make structures like after all three, it also has an affinity module. And that is the key part of our iPhone that you've been using. And we've shown, we even spoke, we even got the chance to speak with the Bolst authors and Bolst 2, the affinity module, it has
+
+186
+00:20:00,840 --> 00:20:10,640
+a decent correlation with glycans as well. And we tested that out rigorously in our dry lab pipeline and you know, alpha-3, protean vin because of the fact that these are glycan targets.
+
+187
+00:20:11,050 --> 00:20:37,850
+And because on a bacterial surface that has both glycans and proteins, it's just not possible to use protein and BNN by mind wrapped. And which is why we had to go with Boles2. And honestly, we're very lucky that it came out in the timeframe. And that is what kind of dictated our entire procedure. We used VSM3 to generate new proteins and we essentially tested those in a 500 year recyclables with Boles2. We got these three floors, biomethymid-v10 and sequence alignment known RVDs.
+
+188
+00:20:38,150 --> 00:20:39,920
+And that's what kind of went into integration.
+
+189
+00:20:41,030 --> 00:20:51,380
+And sorry, I think your last question was how it all affected, right? - How well it translated. - Okay, yes. And yeah, so in the graphite itself, we, I'm thinking about.
+
+190
+00:20:51,810 --> 00:20:58,030
+So we had a Markov chain procedure going and I'm only about 30 to spend of the
+
+191
+00:20:58,570 --> 00:21:16,750
+of the generated DSM proteins are actually incorporating the Markov chain. And that's just like, that is actually a good thing because that just shows that our model is actually exploring a high diversity of sequences and only the good sequences that it generates are incorporated into our chain, which then lead to us figuring out how efficient and how good those proteins are.
+
+192
+00:21:17,320 --> 00:21:28,110
+And regarding the what-lamp, I'd actually like to pass it on to Perdisha for talking about how our proteins that we send off were in the NIKINO Express, all of those different metrics and a few.
+
+193
+00:21:29,800 --> 00:21:31,380
+So yeah.
+
+194
+00:21:32,550 --> 00:21:36,080
+Actually, yeah, from the drylots I like, we sent off, let's say in the
+
+195
+00:21:36,520 --> 00:21:37,490
+Yes. And.
+
+196
+00:21:38,120 --> 00:22:04,730
+Yeah, if you could just like elaborate on like the ones that we tested or even Jayden actually I can elaborate Yeah, I guess on the note of well I'm testing that's where we faced our very tough bottleneck I guess that's common with all I can projects What ended up happening is that we had close to nine proteins protein binding RBPs from batch one I think maybe around seven to eight protein binding RBP or glycan binding RBPs from batch one as well And then we had nine proteins
+
+197
+00:22:04,840 --> 00:22:33,820
+glycan binding proteins from batch two. We were only able to test three proteins from batch two. And this is because we were trying many different ways of recombination. So when it came to all the proteins that were generated, we only got maybe three out of 20 to be that were able to be tested. We're on track to test all of them. Now in the wet lab, what we had to do is we had to switch to a new plasmid called the lambda red plasmid. And we had two different versions of this plasmid and only one of them had worked. But now that we know the exact plasmid that works, we have extra recombination machinery to facilitate
+
+198
+00:22:34,180 --> 00:22:39,340
+the recombination and RBD swapping. We'll be able to test all of them pretty soon. So.
+
+199
+00:22:39,780 --> 00:22:45,810
+Current success rate is probably like under 10% of things moving from DrowLab to WetLab, but we should be able to get that up to 100.
+
+200
+00:22:46,310 --> 00:22:59,060
+in the coming weeks. - Yes, and also, sorry, just last thing to add on, in our DryLabs side itself, we also have currently in the works and active learning framework in which we take in the web lab results, whether it be negative or positive, and that itself feeds back into our DryLabs. (static)
+
+201
+00:22:59,720 --> 00:23:06,610
+cycle. So no matter the results that actually helps us in the dry lab, then that can dictate how the model--
+
+202
+00:23:07,170 --> 00:23:14,670
+Generously frozen. And, you know, biology is all about heterocyclism. And we know that we do like a couple more cycles, we will get there.
+
+203
+00:23:18,440 --> 00:23:23,310
+I may have, I missed this, but I don't see the connection between the hydrogen and.
+
+204
+00:23:23,750 --> 00:23:25,620
+antibiotic resistant bacteria.
+
+205
+00:23:26,470 --> 00:23:29,100
+I can answer this. Yeah, so.
+
+206
+00:23:29,480 --> 00:23:35,340
+This was a very exploratory idea that we had.
+
+207
+00:23:36,390 --> 00:23:41,200
+ERI JONES, the leading stage session begins in five minutes. Join us.
+
+208
+00:23:42,730 --> 00:23:49,040
+(speaking in foreign language)
+
+209
+00:23:50,660 --> 00:23:51,660
+I'm a guy killer.
+
+210
+00:23:52,200 --> 00:23:55,280
+(speaking in foreign language)
+
+211
+00:23:56,130 --> 00:23:58,670
+(static)
+
+212
+00:24:00,680 --> 00:24:01,200
+So.
+
+213
+00:24:01,570 --> 00:24:29,690
+The main idea behind hardware, so if you look at the Dry Lab/Wet Lab cycle, what we're doing is that we're generating RBPs that can be used as a treatment for resistant infections from bacteria. We wanted to go a step further and explore the idea of stopping this crisis as a whole. And one thing that we know is that it has its roots heavily in agriculture, where antibiotics are given in very high doses, they're given often as prophylactic or sanitation agents, and often not in the most regulated fashions in comparison to pharmacy.
+
+214
+00:24:29,930 --> 00:24:57,950
+So the idea here was that, there's actually a lot of literature to support this, selective pressure of antibiotics will generate reservoir of resistance genes in the guts or GI tracts of animals, which can spread to human pathogens as Noah was mentioning. So the idea here then is that if we can deliver our AM modified phages to specific target sites in the GI tract and have a way to conditionally release these phages right at the site of infection,
+
+215
+00:24:58,210 --> 00:25:11,220
+inside any GI tract. So a generalizable device that can traverse any GI tract, whether it be humans or animals, and then be able to reduce the enrichment of these resistance genes, that would be a very powerful way to solve the spread of...
+
+216
+00:25:11,620 --> 00:25:39,320
+antibiotic resistance at its source. So H2 is our proof of concept biomarker for that conditional release. And we talked to a lot of stakeholders who have told us that H2 is not the best biomarker to use. Unfortunately, given our resources, it's very hard to be able to test other types of biomarkers, especially in a BSL1 or even 2 setting in a timeframe. So we just decided that H2 was the simplest way to test the idea that a conditional release could work in the first place. But we can definitely adapt this idea to other types of biosensors that can--
+
+217
+00:25:39,590 --> 00:25:48,270
+maybe measure other types of biomarkers. One thing about H2 is that it is released by specifically certain equalized strains and that it is in a higher level. So.
+
+218
+00:25:51,140 --> 00:25:53,940
+Thank you very much guys. Good luck.
+
+219
+00:25:54,890 --> 00:25:55,470
+Thank you.
+
+220
+00:25:56,010 --> 00:25:58,990
+And that's the end of our judging season.
+
+221
+00:25:59,880 --> 00:26:00,300
+7
+
+222
+00:26:00,970 --> 00:26:03,010
+Thank you so much. Thank you.
+

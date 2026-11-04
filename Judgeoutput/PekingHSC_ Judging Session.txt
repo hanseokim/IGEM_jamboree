@@ -1,0 +1,221 @@
+Hello everyone, we are team KickingHRC. Our project focuses on liver cirrhosis. Cirrhosis poses a fear health burden. In China, there are 400 million patients living with it. It has many complications and can even lead to hep Cylar carcinoma.
+So the deficiency of S-Dinosoma signing, SIN, can lead to the development of cirrhosis.
+Conversely, the excessively high level of SAM can lead to the hyper-methylation and trigger some fatty fats. So maintaining the SAM level within the physiological range is the key. So here we design an RNA therapy, like use them E to regulate intracellular SAM level. It can achieve negative feedback regulation of intracellular SAM concentration by an mRNA element. It is composed of a sensor, a controller, and a factor.
+The sensor is a same actamer. It can undergo precise structural change and combine into steps.
+The controller is a subclinear ribosome. We replace the stem loop of the ribosome with the aptamer to build a sound-responsive aptamer. And the factor is a match-1 encoding sequence. It can encode match-1 enzyme. This is responsible for the production of sound. And we insert the actusome into the 3-prime electrocontrastate region of the mRNA. So in serotic exercise with low-scent concentration,
+The upper xamines is inactive. So the structure of the MRI is intact. It can translate out the might one enzyme and then raise the some concentration.
+So in healthy cells with normal stem concentration, the upper stem can bind with our stem and then self-quieve. So the armory...
+become unstable because of the loss of the 3-prem poly-tau and no protection, so it just goes with degradation so that we can prevent over-accumulation of SANS.
+We first tried sensors and controllers and chose the best ones for the next step validation.
+And during HP, Professor John Young-Otto told us that
+The linker between the ribozon and the aptamer is crucial for the after-zon function.
+So we start by systematically optimizing the Linker space care number.
+And then we tried a variety of face sequences and used two track models to help with our backflap screening.
+And then we chose three optimal response candidates for the next step validation.
+So here, a following by the selection using eGFP as a reporter will make the final choice. And when tested with MITE-1A as a factor, it can successfully alleviate the intracellular SAM level without causing overaccumulation of SAM.
+So as part of our model section, we comprehensively employed powerful tools such as ordinary differential equations, molecular dynamics, and deep learning to establish a series of models for addressing six screening, RNA target integration prediction, and de novo RNA design, and pharmaceutical analysis.
+So during the project, we integrated both dry lab and wire requirements, leveraging research outcomes from our teams, open source communities, and the collaborative partners to develop all the thresholds.
+highly reusable and multifunctional RNA analysis platform, RNA Factory. This platform can deliver end-to-end services, spanning from structural prediction to de-novel design.
+So after the BK3s, we tried to analyze SAM concentration eight hours later than the delivery. And the SAM went back to the normal level. And for next step, we want to try utilize cellular circular RNA or a D-Nose associated virus to expand the invariable half-life of the erogotomy. And for RNA Factory, we will also continue to enhance its user-friendliness.
+and expanding its functionality.
+So during the cycle, we communicated with many experts in different fields and getting improved with their feedbacks.
+part of our human practice work, we focus on supporting vulnerable groups. On a theoretical level, we summarize inclusive approaches in science communication and develop inclusivity guidelines. On practical level, we created NaviWave, a product that can help visually impaired individuals to overcome barriers in their daily mobility.
+and our
+Our human practice plan focuses on
+Expanding our real world feedback or real world impact.
+We will advance our scenario wave and get some internal improvement with the feedback.
+And we also want to collaborate with other communities and to incorporate our inclusive guidelines to students activity programs. We also want to expand the...
+impact of our inclusive guidelines, but it's a promotion in online ways. So.
+Thank you for your attention and we are waiting for your questions.
+Thank you so much.
+That was a wonderful presentation. We will move on to questions now and the remote judges will start with their questions first.
+Okay, so I have two questions.
+The first one is, as I understand your project, focus on the liver disease therapy.
+Could you please clarify why your human practice work engaged with the visual impact community too?
+to the collaboration instead of like
+the societies related to liver disease.
+Because this will make that feels like a side project instead of you.
+as a part of your main project.
+So I would like to clarify, is there a rationale behind choosing the visually impaired society?
+like please
+[BL
+Thank you for your question. Firstly, the requirement of the inclusivity is not only include the people of all projects, but also connect to the-- [AUDIO OUT]
+Disable groups or STM
+group and so on so as you know in O'Ricky we set our
+initial idea from our project like hepatitis patients is not only suffering the disease pain but also suffering the mental pain. So we find this point, we create our project from the people like disabled and also suffering the
+uh
+mental pain like emotional problems.
+So when we--
+- Will we, will we want to? -
+is rough but like yeah I understand that part in the inclusivity
+page, but I was just checking for the human practice page because the human practice should be your project interact with
+These stakeholders, standard stakeholders give you feedback and make you improve your own project.
+So like why?
+Why is there the visual impact part inside your human practice page? That was
+my question. Yeah.
+I think our Wiki has showed that what our IHP has helped our wet labs work or dry labs work. For example, Professor John Long has helped us. He has provided the advice that we should focus on the lens of the linker and what's more.
+Drylabs IFP. - For example, John Long give us the idea that we can optimize the number of base pairs between a steam loop and the barge.
+And Professor John Chiangfeng has gave us some ideas of optimizing the bunny affinity using some deep learning neural network. And you can find this on the page of IHP. And we have all linked to the deep learning page and also the WellApp page.
+Yes, I can find those information and I think your IHP actually is very pretty good. Can see the impact on your project.
+just a little bit confused with the visual impact part.
+But I guess I think I can move on to the second question first.
+So maybe I have missed it
+all on your wiki but could you please
+Tell me like where is your register parts listed?
+If they are not shown on your wiki, would you like uh
+Would you mind sharing at least one example of your registered part?
+here.
+Okay, well find the registrar and I'm weakly for you.
+the name
+Okay, here's our.
+Arts Register Parts.
+I see it's only under the registration. It's not a separate page. I see. Thank you.
+Thank you
+Yeah, that's all from me.
+Hi, first of all, thank you for your presentation.
+My general concern is, did you detect any off-target cleavage or off-target effects of the host RAs?
+And did you run any tests, for example, are a sequencing to check for unintended effects?
+and
+Of course we do that. And according to our experiments...
+Low-Semitism countries did not cause self-courage.
+and high SAM concentrations.
+and high SAM concentration upsides. So I think this would answer your question about the off-target.
+So what is the intended, like what is the optimal concentration for SAM?
+on a bottle.
+in our lever. 60 micromole in the lever.
+Okay, got it. Thank
+Okay, I have a few questions about your modeling.
+I saw you use molecular dynamics in your RNA structure.
+and I'd like to note which force field you select and why.
+Actually, we selected M-bird double nine SP and yeah because
+When we started this project, we wanted to build a pipeline and...
+At that time, we just chose this build in force field for convenience. But later we realized that actually there is a better force field like OL3 for RNN. But we did some literature review comparing the two different force fields. And we found that-- [AUDIO OUT]
+Actually, M-1 double-nigh sp is already in the four-hour calculation. And for the-- [AUDIO OUT]
+energy calculation so eventually we did not border to change our force field
+Hey.
+and I thought you build such great software
+And I'd like to know whether you consider about someone will use your software to build some biochemistry weapons and how to prevent it.
+I think that that would be not easy for those
+those people with bad
+and this is to use our software to create weapons because you see that our software contains only some basic neural networks to...
+help with the...
+basic RNA analysis. So if someone wants to use them to create something like a super virus or some biologic weapons, then this person could not only depend on this simple neural networks. It must need some greater-- [AUDIO OUT]
+like a better artificial intelligence, not only these tools.
+That's not enough for them too. Okay. I have the last question.
+How to ensure your parameter is correct in all of your model?
+You mean the ODE model? All of the model.
+So first I will talk about the ODE part and before constructing the whole model with this any literature reviews
+Yeah, and--
+as you may have seen on our wiki, our ODA part consists of three different steps. The first one, the PPPK simulation. And this one, in this part, we can find all the parameters in the literature.
+And before the second part, the sound model.
+That's a little bit hard. So we make some guesses and kind of like approximation to these parameters.
+Yeah, so basically test the...
+about the deep learning model. I think the biggest advantage of deep learning model is that it can find its best parameters by itself. So we just choose the right data.
+and it just find its own parameter by itself.
+through the learning progress.
+Okay, it's on my question
+I mean
+Hi.
+Great work.
+I was wondering about-- [AUDIO OUT
+your measurements where you measured the negative feedback loop where you shown that
+your concert can keep a stable concentration of sound.
+Have you thought about
+showing this under different circumstances, such as a longer time or after recovery or disturbance.
+of the concentrations
+That is actually our next step design, because with MRA drugs, we can only extend to a normal level or physiological level in a certain time space. And this is relatively short. And due to our data, it's waving with the time. And it's decreasing pretty fast. And if you want to achieve a longer time for recurring-- [AUDIO OUT]
+For example, cure the heightened cirrhosis, like for a life, maybe we have to inject some MRI drug and without ribozymes and only with ribose switch and it has to be less for long or it can ritual transcript to the whole genome or something like that. And our deep learning model can be easily trans...
+transfer to that task because we have considered this problem. And our next step design is to build a rival design-free rival switches which can regulate the...
+concentration of the protein only sensing a sap.
+OK, thank you
+um
+Also I was wondering, you used hepti2 cells.
+Have you also planned on considering other models such as
+have a R.G. or co-cultures
+Actually we do not, but we plan to expand our models like, you know,
+animal models or other cells or some
+a lever.
+cancer, no liver cancer.
+liver tissue and another thing is to test our elements and to see if it could control the same concentration.
+Okay, uh...
+First, I just want to give you guys some time to, can you just explain what exactly you did after the wiki freeze? I want just the update.
+So we can see that in the result part, the concentration-- [AUDIO OUT]
+of the cell to not catch up as the same as the normal cell.
+We wondered if that we get the sample too early or we have the analysis too early so that it can happen, go back to the level. So we tried to give analysis of the sample level. So for a longer time after the delivery of our regular exam, and we found that it can successfully go back to the normal level as the first one, the purple one.
+So we found that it can actually make sense and you're back to the normal.
+Okay, thank you. My next question is...
+What do you think the dosage and administration of your drug would be?
+You mentioned that the current methods rely on daily supplementation. So what do you expect your...
+administration to be. Do you also have to take these injections daily?
+So we haven't tried it yet, but we want to inject our MRI using LMP to envelope it. And we haven't tested experiments, but we use ODE on our things to...
+to know how
+much training you need to use it
+and
+we plan to try another type of RNA like sarcoan-A or self-replicate RNA to langer our therapy time. And we also think about a substance release formulations or a way to...
+lever over MRA.
+Okay.
+We have five more minutes for questions if anyone has.
+Go first.
+(static
+Yeah, you said a lot of modeling. It's great.
+I realized in this go-up item, it's hard to actually.
+tests validate these experimentally, but did you look into how you could validate...
+your simulations for example for the drug delivery predictions.
+actually to validate the
+our simulation, I think the best way is to use animal models. Yeah, you know, in IJN competition, we have no answers to animals, so.
+What about so maybe after the actual competition we can.
+kind of like test our jogs in Animosaur.
+possibly eventually in humans, I don't know.
+And did you also look into like organs on a chip?
+organ furniture, organ
+into that you're not
+Or, "organize."
+Thank you.
+(static)
+Okay, I'd like to move.
+any experimental feedback to your modeling
+I remember Viva
+sorry
+So actually, I'm--
+When we do our ND simulations, we finish that in two different parts. The first one is to screen the different types of ribo-switches and the linker length.
+Yeah, so after simulations, we-- [AUDIO OUT]
+CanLife gave the results to our well app and they screen like
+the best of them.
+T-R
+It's kind of like I read the next step.
+optimization. And for the second part, we optimized the different kind of line.
+different
+Base pair, base pair. Base pair combination. Yeah, different base pair combination of the same length. Yes. So in this stage, we also screen line more than 30 rygo switches. And we also gave the results to our web lab. And so that they can screen the best of them.
+to predict the answer and we use our Well app.
+results to make sure that the smart net is a state of the art on our task. As you know, there are lots of, a lot of which can predict the value of infinity between the R A and small molecules.
+But we've tried them and we...
+Found all that's at this moment is
+pretty good for our tasks so we use it as a kinds of a
+Okay, and the last question
+I'd like to know how to do the RNA protein in the example Dix cell.
+and count to ensure it is correct.
+We used two embeddings existing open source models. One is ESM2, one is REBert.
+And after that, we found out only use MLP, the multilayer perceptron.
+the normal
+deep learning neural network is not enough. So we added cross attention layer between us to the between embedding and.
+deep learning neural network to make sure that each embedding could capture the token level interaction between these two features. And after that, we draw the heat map, make sure that the heat map is evolving from the noise heat map to a...
+filterize the heat map and that means our model is learning the true rules of the interaction and then after that we
+invalidated our
+predictions in a well lab and the confidence the trends of the confidence is a pretty
+while validating our well-lapse so
+It's true. And besides that, if you want to use different tools. Our time is unfortunately up, but thank you so much for your presentation.
+Thank you.
+Good luck for the jamboree. I hope you have a good time
+Thank you. See you.
+So, yeah.
+[static]
+Would you guys like to discuss anything? Maybe we can make a different Zoom link.
+If you feel like we need to discuss something or we can just use the slack channel.
+Whatever you prefer.
+Which one is okay?
+It's... I need a break though.
+Yeah, so I guess just if any questions we can just post in the Slack channel. There we go.
+this guy. Okay
+OK, cool.
+Thank you guys.
+Thank you guys, bye!

@@ -1,0 +1,1136 @@
+1
+00:00:01,450 --> 00:00:08,820
+Okay, then first of all good morning. Thank you for having us with the representatives of iGMT Munster. My name is Nico.
+
+2
+00:00:09,480 --> 00:00:14,670
+And my name is Annika and we are very proud to present to you our project we worked this year on.
+
+3
+00:00:15,210 --> 00:00:16,530
+We are Noskito.
+
+4
+00:00:17,000 --> 00:00:18,640
+And now we will jump right into it.
+
+5
+00:00:19,690 --> 00:00:30,510
+Mosquitoes are the deadliest animals to humans. Around 700,000 people die every year due to mosquito-borne diseases such as malaria, Zika virus, dengue and yellow fever.
+
+6
+00:00:31,210 --> 00:00:40,340
+Due to climate change and the associated global warming, mosquitoes are opening up more and more habitats and will spread drastically over the coming years, along with the diseases they transmit.
+
+7
+00:00:41,250 --> 00:00:51,310
+To hinder the spread of these diseases, several prevention strategies have been developed, such as insecticides as a vector control or mosquito repellents for dermatological use.
+
+8
+00:00:51,910 --> 00:00:59,500
+in order to enhance mosquito bite prevention, we believe the most promising approach is to enable the...
+
+9
+00:01:00,010 --> 00:01:03,180
+biothenesthetic production of mosquito repellents.
+
+10
+00:01:04,580 --> 00:01:07,440
+Heron repellents are based on the substance DEET.
+
+11
+00:01:08,100 --> 00:01:17,710
+Unfortunately, its production is based on crude oil and produces a lot of toxic byproducts, which makes the process environmentally harmful and unsustainable.
+
+12
+00:01:18,340 --> 00:01:19,980
+But here we present an alternative.
+
+13
+00:01:20,420 --> 00:01:32,500
+The structurally similar molecule, NBP, is a promising mosquito repellent and can be produced in microorganisms. So we decided to work with coronobacterium glutamicum as it's ultimately based on a minor acid.
+
+14
+00:01:36,680 --> 00:01:49,200
+To build the body of our project, we first had to lay the foundation for a fomentative production. And as MVP is currently not synthesized in any organism, we had to develop an artificial pathway using enzymes from several different organisms.
+
+15
+00:01:49,730 --> 00:01:57,010
+This pathway is based on the two common amino acids, lysine and phenylalanine, which are then refined to form piperidine and benzoate, respectively.
+
+16
+00:01:57,670 --> 00:02:01,260
+These two molecules are then combined to form our bio repellent NBP.
+
+17
+00:02:03,590 --> 00:02:14,130
+For this pathway, we generated several constructs for the expression in corona bacteria and glutamicome, contributing to the implementation of this non-standard organism in the iGen community.
+
+18
+00:02:14,730 --> 00:02:18,510
+and just neither piperidine nor bensoid is natively present in Corinobacteria.
+
+19
+00:02:19,010 --> 00:02:24,560
+We performed tolerance essays to calculate the optimal concentrations of these precursors.
+
+20
+00:02:25,960 --> 00:02:33,970
+To make our project functional and viable, we had to engineer the last protein of our enzyme cascade, as it has a fairly low starting activity for NBP formation.
+
+21
+00:02:34,690 --> 00:02:46,610
+For this, we first predicted its structure and then its exercise by protein ligand docking using a tool developed by Nobel Prize winner David Baker, which he also spoke about on our international meetup.
+
+22
+00:02:48,230 --> 00:02:51,150
+Using these insights, we generated a mutant library.
+
+23
+00:02:51,690 --> 00:02:54,540
+using both rational design and AI-based methods.
+
+24
+00:02:54,920 --> 00:02:58,130
+These enzyme variants were then tested in the wet lab for their activity.
+
+25
+00:02:58,850 --> 00:03:05,970
+To obtain even better variants, we introduced the results of this activity essay to a low-end model, which is also part of a self-treature.
+
+26
+00:03:08,610 --> 00:03:14,000
+This model then proposed us with new and improved variants, some of which were also tested in a wetland.
+
+27
+00:03:14,690 --> 00:03:15,470
+Additionally,
+
+28
+00:03:16,070 --> 00:03:16,530
+Howie
+
+29
+00:03:16,970 --> 00:03:21,040
+software tool incorporates a method for restriction enzyme-mediated DNA shuffling.
+
+30
+00:03:22,310 --> 00:03:35,380
+All of these approaches together led us to an enzyme variant performing 550% of the catalytic activity compared to the Y-type, rendering our fermentative production a viable alternative to chemical synthesis.
+
+31
+00:03:37,090 --> 00:03:37,810
+Pimentation
+
+32
+00:03:39,050 --> 00:03:50,380
+Fermentation processes are highly tied to biotechnologically advanced regions because they need a lot of technical equipment and knowledge to also enable decentralized and easy to access.
+
+33
+00:03:51,010 --> 00:03:58,670
+We thought of plants as an excellent production chassis because they need no technical equipment and less maintenance.
+
+34
+00:03:59,910 --> 00:04:03,310
+with the ultimate goal of implementing black pepper for...
+
+35
+00:04:03,750 --> 00:04:06,860
+Mosquito repellent production we pursued three different approaches.
+
+36
+00:04:07,490 --> 00:04:14,770
+First, we tested the enzyme activity of the most important enzyme and its localization in the model plant, Nicotiana bentamiana.
+
+37
+00:04:15,300 --> 00:04:24,910
+Furthermore, we succeeded in transiently transforming black pepper leaves, which has never been reported before. Here you can see a fluorescing thus transformed pepper stomatal cells.
+
+38
+00:04:25,670 --> 00:04:28,020
+Second, we developed a new...
+
+39
+00:04:28,580 --> 00:04:36,400
+Unstereostable transformation protocol for black pepper to make genetic transformation more accessible and efficient in general.
+
+40
+00:04:37,220 --> 00:04:50,900
+Lastly, we optimized the accessibility of plant cultivation by designing a low-budget grow chamber that future Agim teams can use to conduct plant synthetic biology even if they don't have access to a specialized biosafety greenhouse.
+
+41
+00:04:55,970 --> 00:05:06,670
+Our combined approaches enable a cheap, sustainable and decentralized method to produce NBP, which is a highly effective insect repellent, revolutionizing the way we combat mosquito-borne diseases.
+
+42
+00:05:07,210 --> 00:05:09,620
+We are Noskeeto, the ultimate bug fix.
+
+43
+00:05:19,270 --> 00:05:23,890
+Well done. It's a very impressive project in quite a few ways.
+
+44
+00:05:26,150 --> 00:05:27,820
+leave it to anyone if
+
+45
+00:05:28,610 --> 00:05:30,860
+if anyone has any questions you want to start with
+
+46
+00:05:35,240 --> 00:05:36,140
+I think it's a
+
+47
+00:05:36,710 --> 00:05:45,230
+huge team and it's an impressive project. I have a question because I see you.
+
+48
+00:05:45,670 --> 00:05:53,870
+You do project a project and renewing for you and them but as I see you select
+
+49
+00:05:54,250 --> 00:05:55,220
+R35
+
+50
+00:05:55,690 --> 00:06:06,350
+But when you do cloning, you only select 27. I think about the reason for it.
+
+51
+00:06:11,140 --> 00:06:17,260
+Thank you for your question. So the question was why we only initially selected 24 variants.
+
+52
+00:06:17,730 --> 00:06:25,810
+So our AI method was based on a paper and they showed that only a low selection of a variance is also sufficient.
+
+53
+00:06:26,250 --> 00:06:27,090
+for this model.
+
+54
+00:06:27,720 --> 00:06:33,580
+because we only train a small linear regression model that only takes a little number of
+
+55
+00:06:34,120 --> 00:06:37,940
+test samples that is actually sufficient. That was shown.
+
+56
+00:06:40,450 --> 00:06:45,680
+And we also showed it our benchmarks that it's also sufficient and performs actually good.
+
+57
+00:06:51,210 --> 00:06:53,620
+So for your modeling, you guys.
+
+58
+00:06:54,180 --> 00:06:59,760
+suggested your two mutations to increase your enzymatic activity by a bunch. Where exactly--
+
+59
+00:07:00,450 --> 00:07:04,180
+Are there mutations and how does it affect the protein? Like how does it make the change?
+
+60
+00:07:08,260 --> 00:07:11,380
+So as you can see in the next slide post,
+
+61
+00:07:11,780 --> 00:07:12,530
+over here.
+
+62
+00:07:13,290 --> 00:07:24,400
+You can see the comparison of the two substrates. Green is our substrate that we wanted to use for the production of MVP. And in pink you can see the native substrate that is usually used by the enzyme for the production of piperine.
+
+63
+00:07:25,030 --> 00:07:30,640
+And as you can see, our substrate is a little bit smaller or shorter, but a little bit wider in this place because this is-- [AUDIO OUT]
+
+64
+00:07:31,300 --> 00:07:31,980
+Just a...
+
+65
+00:07:32,770 --> 00:07:34,060
+one chain and here we have
+
+66
+00:07:34,440 --> 00:07:35,060
+final group
+
+67
+00:07:35,460 --> 00:07:37,840
+So we tried mainly to-- [AUDIO OUT]
+
+68
+00:07:38,630 --> 00:07:45,900
+on this pocket a little bit so the ligand can't slide in too far because we need this group to be right here because this is our active center.
+
+69
+00:07:46,890 --> 00:07:47,380
+and
+
+70
+00:07:47,940 --> 00:07:52,210
+Looking at the best performing variant, you can see that we did two mutations right here.
+
+71
+00:07:52,610 --> 00:07:53,780
+where we closed off the pocket
+
+72
+00:07:54,150 --> 00:07:56,050
+So you can see that the Fener group is really
+
+73
+00:07:56,810 --> 00:07:58,800
+tight in the space and it fits perfectly in there.
+
+74
+00:08:00,230 --> 00:08:01,870
+We didn't know this beforehand. This was
+
+75
+00:08:02,570 --> 00:08:07,820
+a combination of rational design and Likert MPNN another tool by David Baker
+
+76
+00:08:08,260 --> 00:08:08,780
+um
+
+77
+00:08:09,350 --> 00:08:15,820
+which produced these two single mutations and then we combined them and then we predicted the structure by alpha-pro-3 again.
+
+78
+00:08:16,290 --> 00:08:18,030
+And then we saw that this is really perfect.
+
+79
+00:08:18,690 --> 00:08:22,100
+and you can really see why the enzyme performs better than the right type.
+
+80
+00:08:23,170 --> 00:08:23,790
+Gotcha,
+
+81
+00:08:28,580 --> 00:08:41,390
+Okay, so I'm intrigued by the work that did on plants in terribology. I understand it was quite a challenge and black pepper is like a...
+
+82
+00:08:41,830 --> 00:08:44,750
+interesting choice of a chassis organism.
+
+83
+00:08:45,130 --> 00:08:54,060
+And I'm just curious as to what limitations you find so you identified in this process and how you plan to exactly use.
+
+84
+00:08:54,570 --> 00:08:57,330
+This is how you plan to extract the product.
+
+85
+00:08:57,770 --> 00:08:58,130
+from
+
+86
+00:08:58,690 --> 00:08:59,860
+plant in the end.
+
+87
+00:09:30,600 --> 00:09:49,300
+The product itself will be produced within the pepper seeds. The enzyme pass will normally produce in the plant the piperine which is responsible for the spice of the black pepper. So exchanging the functionality of the pass not produce piperine anymore to our product
+
+88
+00:09:49,700 --> 00:09:55,500
+will lead to an accumulation in the seeds and will probably make it possible to just...
+
+89
+00:09:55,940 --> 00:09:59,500
+You crunch them like you normally crunch pepper and instead of...
+
+90
+00:10:00,360 --> 00:10:05,780
+having a sharp spice you will have insect repellent which you can maybe put in your pocket.
+
+91
+00:10:06,310 --> 00:10:10,380
+For example, for DEED it was shown that you can dissolve it in...
+
+92
+00:10:11,050 --> 00:10:11,760
+Um...
+
+93
+00:10:12,290 --> 00:10:15,760
+polymers of plastic and having this in a
+
+94
+00:10:16,260 --> 00:10:17,330
+and it's still
+
+95
+00:10:17,830 --> 00:10:19,700
+works as insect repellent and...
+
+96
+00:10:20,550 --> 00:10:21,230
+So we're--
+
+97
+00:10:22,090 --> 00:10:26,990
+We are hoping that this will work for our product and pepper seeds as well.
+
+98
+00:10:28,680 --> 00:10:30,700
+Okay, so you
+
+99
+00:10:31,140 --> 00:10:33,620
+You're mentioning you could dissolve it in...
+
+100
+00:10:34,090 --> 00:10:42,930
+In a plastic polymer? Yeah, for DEET it was shown. So, for DEET it was shown that it works in a plastic polymer and...
+
+101
+00:10:43,690 --> 00:10:45,780
+still function as
+
+102
+00:10:46,180 --> 00:10:48,240
+as a working insect repellent.
+
+103
+00:10:49,320 --> 00:10:52,910
+So just thinking about it as that final product.
+
+104
+00:10:53,410 --> 00:10:57,970
+like where do you intend for it to be applied?
+
+105
+00:10:59,880 --> 00:11:00,340
+where it
+
+106
+00:11:00,930 --> 00:11:02,510
+like as a repellent.
+
+107
+00:11:02,950 --> 00:11:29,560
+just the replacement for regular repellent sprays? - Well, we hope is that you can just put it on cloth, not even put it on your skin anymore, or just have a bunch of it in your pocket. That would be most suitable, but of course it need to be tested before because it was never tested in a plant especially. So it's a theoretical exploration. - And have you made any predictions as to the yield that you could produce?
+
+108
+00:11:30,730 --> 00:11:34,610
+Well, piperine actually accumulates up to 7 to 10%.
+
+109
+00:11:35,080 --> 00:11:38,930
+Regarding on the variety you're choosing. So we're hoping to get at least
+
+110
+00:11:39,530 --> 00:11:46,380
+7% of dry mass of the pepper seeds from our product. So it's not tested but it's like you.
+
+111
+00:11:46,980 --> 00:11:56,780
+which part of the Wiki can I find more detail on this? On a plant synthetic biology? So, I take it the...
+
+112
+00:11:57,670 --> 00:11:59,380
+second part.
+
+113
+00:12:00,200 --> 00:12:00,690
+Wet lab
+
+114
+00:12:04,260 --> 00:12:09,420
+I haven't found it. I mean, I can dig up a bit more, but if you can just like I mean the right direction.
+
+115
+00:12:18,660 --> 00:12:25,360
+Yeah, I found that one. So all the details about the final stages of the project would be in there.
+
+116
+00:12:28,360 --> 00:12:28,750
+Okay.
+
+117
+00:12:33,090 --> 00:12:37,710
+Great, well done on your project. So I just have one question on safety.
+
+118
+00:12:38,340 --> 00:12:42,960
+So how do you plan to assess and mitigate potential environmental?
+
+119
+00:12:43,460 --> 00:12:55,470
+We're associated with the widespread conservation of GMO, like black pepper plants in affected regions. You're going to use that, right? You plan into assessing mitigates there.
+
+120
+00:12:56,420 --> 00:13:22,360
+Can you hear me? So I just had a question concerning safety since you're dealing with plants, right? So how do you plan to assess and mitigate potential environmental risk associated with the widespread cultivation of the genetically modified black pepper plants in these affected regions? I don't know if you want to speak a bit on the safety aspect. Have you considered that in any?
+
+121
+00:13:22,950 --> 00:13:26,030
+potential risk that could, you know.
+
+122
+00:13:26,630 --> 00:13:28,240
+Have you considered anything?
+
+123
+00:13:34,370 --> 00:13:54,930
+Yes, we've thought about that. I mean, in this project, we were just kind of evaluating the possibilities there are. But we thought about different methods that could be applied if our product came to a stage where it could be applied actually. And we thought about pollen sterility that can be introduced into the pepper plant.
+
+124
+00:13:55,300 --> 00:13:56,880
+which would prevent
+
+125
+00:13:57,610 --> 00:14:02,740
+the genes to spread among populations and also the pepper.
+
+126
+00:14:03,110 --> 00:14:05,100
+that contains the NBP.
+
+127
+00:14:05,480 --> 00:14:12,590
+does not contain the quantities of piperine, so it can be distinguished quite clearly from the wild pepper plants.
+
+128
+00:14:20,680 --> 00:14:21,620
+Any other questions?
+
+129
+00:14:24,070 --> 00:14:24,430
+Yep.
+
+130
+00:14:25,610 --> 00:14:32,270
+Would somebody mind talking just maybe a little bit about the chemical safety of MVP and how it compares like efficacy wise to deep?
+
+131
+00:14:54,920 --> 00:14:57,680
+Yes, thank you for the question.
+
+132
+00:15:06,210 --> 00:15:07,060
+One second, I'm
+
+133
+00:15:12,520 --> 00:15:13,490
+So, um...
+
+134
+00:15:14,280 --> 00:15:19,500
+The main advantage of NBP compared to DEED is the sustainability.
+
+135
+00:15:20,200 --> 00:15:23,570
+And that breaks down to these...
+
+136
+00:15:23,940 --> 00:15:25,300
+categories that you see.
+
+137
+00:15:25,730 --> 00:15:26,420
+on screen.
+
+138
+00:15:27,010 --> 00:15:29,390
+which were used during our sustainability report.
+
+139
+00:15:30,050 --> 00:15:30,960
+And so.
+
+140
+00:15:31,810 --> 00:15:32,820
+It's--
+
+141
+00:15:33,540 --> 00:15:36,560
+Basically the conclusion is that MVP is more sustainable.
+
+142
+00:15:37,060 --> 00:15:38,610
+because the waste
+
+143
+00:15:39,170 --> 00:15:41,580
+is much lower and
+
+144
+00:15:42,020 --> 00:15:55,540
+Indeed, there is chlorinated intermediates. You have to use dichloromethane as a solvent. And those, of course, are very bad for the environment. They have to be recycled, but that also cannot be done indefinitely.
+
+145
+00:15:56,230 --> 00:16:01,650
+So, and for MVP, you don't need any solvents, you don't need toxic chemicals.
+
+146
+00:16:02,020 --> 00:16:07,060
+The only toxic chemical that could be used is in black pepper. You would need fertilizer.
+
+147
+00:16:07,720 --> 00:16:10,480
+That is the case for almost every agricultural plant.
+
+148
+00:16:11,720 --> 00:16:17,460
+Then if you go to save chemicals, it's basically just what I said.
+
+149
+00:16:18,090 --> 00:16:22,580
+The energy efficiency is for black pepper very good
+
+150
+00:16:23,110 --> 00:16:27,700
+You of course, there's always the fertilizer, but other than that, you can just.
+
+151
+00:16:28,230 --> 00:16:32,400
+Basically, in tropical regions, set it on a field and it should grow.
+
+152
+00:16:33,160 --> 00:16:36,270
+for the fermentation with Coronavirus bacteria.
+
+153
+00:16:36,680 --> 00:16:40,590
+You would have energy required to keep the fermenter running.
+
+154
+00:16:41,000 --> 00:16:44,750
+But that could be, for example, coupled to biogas plants.
+
+155
+00:16:45,160 --> 00:16:47,090
+So it would also be quite efficient.
+
+156
+00:16:47,810 --> 00:16:54,670
+But you also have to say that DEEDS due to being a petrochemical process is very optimized.
+
+157
+00:16:56,100 --> 00:16:58,100
+It creates a lot of waste.
+
+158
+00:16:58,760 --> 00:17:02,350
+Then another very important point is that it uses renewable feedstock.
+
+159
+00:17:02,790 --> 00:17:08,750
+So DEET is based on crude oil, which obviously is finite and will eventually run out.
+
+160
+00:17:09,480 --> 00:17:10,610
+and
+
+161
+00:17:11,430 --> 00:17:14,640
+the NBP production would be based on glucose.
+
+162
+00:17:15,210 --> 00:17:24,050
+And that obviously then comes from sugar beet, for example, which is just the carbon resource, which is a...
+
+163
+00:17:24,490 --> 00:17:25,170
+Sustainable.
+
+164
+00:17:26,340 --> 00:17:29,710
+that also contributes to the fact that...
+
+165
+00:17:30,310 --> 00:17:30,990
+The.
+
+166
+00:17:31,750 --> 00:17:35,700
+fermentation, the production of NBP.
+
+167
+00:17:36,200 --> 00:17:41,520
+is sustainable while D does not. So the switch is inevitable at some point.
+
+168
+00:17:42,500 --> 00:17:46,000
+Then if we go to catalysis, we obviously have our pass.
+
+169
+00:17:46,530 --> 00:17:48,500
+as a catalytic, as an enzyme.
+
+170
+00:17:49,220 --> 00:17:54,480
+And that's yeah, as we have shown with the 550% increase in.
+
+171
+00:17:54,950 --> 00:17:57,230
+An activity that has a huge potential
+
+172
+00:17:57,960 --> 00:18:02,960
+and the catalysts used in deep production are, for example, titanium based.
+
+173
+00:18:03,330 --> 00:18:06,900
+and then those produce titanium dioxide as a waste product.
+
+174
+00:18:07,300 --> 00:18:09,620
+And that is also carcinogenic and...
+
+175
+00:18:10,600 --> 00:18:11,950
+very toxic to humans
+
+176
+00:18:13,000 --> 00:18:15,020
+Then the biodegradability.
+
+177
+00:18:15,430 --> 00:18:16,210
+Both?
+
+178
+00:18:16,650 --> 00:18:18,480
+Deets is shown to be a...
+
+179
+00:18:19,210 --> 00:18:23,310
+readily biodegradable, which means it's like 60% of deed can be...
+
+180
+00:18:23,810 --> 00:18:27,470
+are degraded by microorganisms in a certain amount of time.
+
+181
+00:18:28,290 --> 00:18:36,690
+And with NVP, there's very scarce research on it, but it's shown that piperidine is very biodegradable. So it can be.
+
+182
+00:18:37,410 --> 00:18:41,330
+perhaps speculated that NBP as well can be biodegraded.
+
+183
+00:18:42,180 --> 00:18:47,280
+And also they are structurally very similar. So it's probably biodegradable as well.
+
+184
+00:18:48,100 --> 00:18:48,620
+Um...
+
+185
+00:18:49,450 --> 00:18:52,400
+towards the accident prevention if there's no...
+
+186
+00:18:53,030 --> 00:19:03,440
+high pressures for example, no high temperatures required for the synthesis, then you can say that the chance of an accident is very low.
+
+187
+00:19:04,130 --> 00:19:08,270
+And for deep, there are steps where you need to like.
+
+188
+00:19:08,650 --> 00:19:09,200
+heat it up
+
+189
+00:19:09,640 --> 00:19:12,850
+And you also obviously have the chemicals which are very dangerous.
+
+190
+00:19:13,380 --> 00:19:15,890
+So accidents would be much more.
+
+191
+00:19:17,090 --> 00:19:19,280
+much more dangerous to people.
+
+192
+00:19:19,940 --> 00:19:20,910
+around the plant.
+
+193
+00:19:23,720 --> 00:19:24,080
+That's
+
+194
+00:19:25,190 --> 00:19:25,940
+God's very
+
+195
+00:19:27,400 --> 00:19:29,040
+OK, that's fine.
+
+196
+00:19:30,370 --> 00:19:30,740
+Thank you
+
+197
+00:19:34,120 --> 00:19:35,660
+- Hi, apologies for being late ahead of
+
+198
+00:19:37,450 --> 00:19:40,370
+pop-up window blockers. So. (static)
+
+199
+00:19:41,350 --> 00:19:41,870
+uh
+
+200
+00:19:42,570 --> 00:19:46,220
+Thanks for a great project. I really super enjoyed reading it. I have two.
+
+201
+00:19:46,790 --> 00:19:48,780
+parenthetical questions. One is connected.
+
+202
+00:19:49,290 --> 00:19:50,990
+what you were just talking about, which is
+
+203
+00:19:51,850 --> 00:19:55,760
+the pepper plants, which I was really impressed you were able to to
+
+204
+00:19:56,390 --> 00:20:02,190
+apply the leaf production process over from tobacco so quickly.
+
+205
+00:20:02,690 --> 00:20:03,180
+Um.
+
+206
+00:20:04,290 --> 00:20:08,720
+But just now in talking about sustainability, you kind of glossed over.
+
+207
+00:20:09,190 --> 00:20:16,140
+know, the need for nitrogen and so on, which is a pretty big need. So I wonder whether by any chance that you
+
+208
+00:20:16,770 --> 00:20:18,060
+considered a
+
+209
+00:20:18,440 --> 00:20:22,960
+Also creating a pepper plant that was sustainable. In other words,
+
+210
+00:20:25,000 --> 00:20:27,440
+supply its own nitrogen source.
+
+211
+00:20:35,880 --> 00:20:36,620
+I mean it's
+
+212
+00:20:37,250 --> 00:20:42,350
+It's not directly related to MVP and so on, but I wondered if it just occurred to you that.
+
+213
+00:20:42,820 --> 00:20:49,870
+that you could actually clone in the nitrogen producing bacteria into the roots and so on. Should be pretty cool. Sorry, the genes from the nitrogen. (static)
+
+214
+00:20:50,760 --> 00:20:51,760
+producing bacteria.
+
+215
+00:20:52,550 --> 00:20:58,130
+Yeah, within this project we have not considered that. I mean, we just tried to...
+
+216
+00:20:58,500 --> 00:21:01,520
+First of all, get the pathway in place to produce our...
+
+217
+00:21:01,930 --> 00:21:07,890
+our active compound, once there is an active compound in the plant, and that's all working then.
+
+218
+00:21:08,290 --> 00:21:13,970
+making the process more efficient could be considered, but we try to first get the process in place.
+
+219
+00:21:14,340 --> 00:21:17,140
+Of course, I just was wondering if you'd considered it and was thinking...
+
+220
+00:21:18,050 --> 00:21:19,540
+to have a sort of stand-alone
+
+221
+00:21:20,360 --> 00:21:23,020
+completely stand alone plant there would be great
+
+222
+00:21:23,400 --> 00:21:24,590
+I really loved the...
+
+223
+00:21:25,160 --> 00:21:26,320
+pepper and nigram work.
+
+224
+00:21:27,110 --> 00:21:28,050
+Um, my
+
+225
+00:21:28,740 --> 00:21:32,850
+Second question is also kind of off the-- [AUDIO OUT]
+
+226
+00:21:33,730 --> 00:21:34,480
+on the side.
+
+227
+00:21:34,890 --> 00:21:37,740
+adjacent to the project and that's whether you
+
+228
+00:21:38,660 --> 00:21:41,330
+considered some of the
+
+229
+00:21:41,700 --> 00:21:46,160
+properties of NBP for its use in brain function.
+
+230
+00:21:47,780 --> 00:21:52,820
+depression treatment and so on. Did you run into any of that literature and were you concerned about that at all?
+
+231
+00:22:01,160 --> 00:22:05,650
+So you mean because of the structural similarity to some of the...
+
+232
+00:22:06,020 --> 00:22:06,800
+[AUDIO OUT
+
+233
+00:22:07,530 --> 00:22:07,890
+What?
+
+234
+00:22:09,610 --> 00:22:10,740
+So...
+
+235
+00:22:11,780 --> 00:22:14,320
+don't know about any literature with NBP itself.
+
+236
+00:22:14,760 --> 00:22:15,150
+this
+
+237
+00:22:16,330 --> 00:22:17,810
+in this context.
+
+238
+00:22:19,300 --> 00:22:24,020
+like is did you find something with nvp or just similar compounds
+
+239
+00:22:24,840 --> 00:22:31,760
+- Yeah, I did find something with the key just because I was looking for some of the synthetic pathways, alternate synthetic pathways.
+
+240
+00:22:32,360 --> 00:22:35,090
+I can forward it to you.
+
+241
+00:22:36,520 --> 00:22:39,180
+So, you know, I don't think it's a...
+
+242
+00:22:39,750 --> 00:22:40,210
+you know
+
+243
+00:22:40,930 --> 00:22:44,820
+deal thinker at all, but just something that I think you might want to.
+
+244
+00:22:45,350 --> 00:22:52,820
+So I mean, it's structurally similar and in some insects it can probably dock in some neuronal systems.
+
+245
+00:22:53,250 --> 00:22:56,210
+But to my knowledge, that's not a problem in humans.
+
+246
+00:22:56,650 --> 00:22:57,100
+I could
+
+247
+00:22:57,770 --> 00:22:58,420
+Okay.
+
+248
+00:22:59,370 --> 00:23:01,300
+It was also tested on skin.
+
+249
+00:23:02,530 --> 00:23:03,570
+There were no reports.
+
+250
+00:23:04,770 --> 00:23:06,160
+was harmful.
+
+251
+00:23:08,390 --> 00:23:12,880
+Either way, positive additional effects to look into.
+
+252
+00:23:14,090 --> 00:23:26,190
+Okay, so just for the end, we have about two minutes left. If you want to address maybe how you plan to take this project further, what would your next plans be if you were to continue working on it?
+
+253
+00:23:33,000 --> 00:23:40,500
+So first of all, as you saw, we introduced two mutations and already got an enzyme that's 550% of the enzyme.
+
+254
+00:23:41,190 --> 00:23:46,540
+and the mid activity. And that was just two rounds. So we tested our.
+
+255
+00:23:47,080 --> 00:23:51,020
+way of protein engineering and we proved that it's very viable.
+
+256
+00:23:51,490 --> 00:23:57,680
+and we are pretty certain that we could increase the endemic activity even further with just a little bit more lab work.
+
+257
+00:23:58,120 --> 00:23:59,410
+So we're definitely going to work
+
+258
+00:24:00,450 --> 00:24:01,100
+and
+
+259
+00:24:01,640 --> 00:24:05,840
+So you can see we had two different approaches, one in the bacteria and one in the plant.
+
+260
+00:24:06,310 --> 00:24:12,020
+and we're definitely trying to do both at the same time. It's not like the plant is the ultimate goal and the bacteria is just a step.
+
+261
+00:24:12,420 --> 00:24:13,170
+We're going to
+
+262
+00:24:13,540 --> 00:24:14,800
+and
+
+263
+00:24:15,460 --> 00:24:20,940
+We definitely want to do more fermentation tests to see how big the yield in the fermentation could be.
+
+264
+00:24:27,430 --> 00:24:28,240
+Yeah.
+
+265
+00:24:28,610 --> 00:24:40,430
+And just additionally also for the plant project, we already also considered maybe not only doing an unsterile transformation of pepper, but also sterile transformation. So we...
+
+266
+00:24:41,540 --> 00:24:58,190
+started to develop also sterilization protocol for pepper seeds. But due to pepper not being a model organism and needs like 90 days until the seed starts growing something. Yeah.
+
+267
+00:24:58,730 --> 00:25:06,000
+to lack of time we're not quite able to test all of that but also yeah, steroid cultivation could also be.
+
+268
+00:25:07,170 --> 00:25:07,980
+a next step.
+
+269
+00:25:08,390 --> 00:25:10,260
+Thank you. - Perfect, thank you.
+
+270
+00:25:11,300 --> 00:25:12,210
+[AUDIO OUT]
+
+271
+00:25:14,410 --> 00:25:23,020
+That's time. Right, well, very impressive project. Thank you so much for coming as a whole team. It's a really huge team.
+
+272
+00:25:23,650 --> 00:25:24,850
+And yeah.
+
+273
+00:25:26,690 --> 00:25:27,180
+Good luck
+
+274
+00:25:40,100 --> 00:25:40,720
+Also.
+
+275
+00:25:41,320 --> 00:25:43,760
+Bye to the zoom people. She's handling.
+
+276
+00:25:45,090 --> 00:25:45,490
+What do
+
+277
+00:25:45,890 --> 00:25:46,960
+link of the
+
+278
+00:25:50,210 --> 00:25:50,930
+really, I don
+
+279
+00:26:01,770 --> 00:26:03,150
+Okay.
+
+280
+00:26:07,010 --> 00:26:07,630
+[static]
+
+281
+00:26:08,260 --> 00:26:09,200
+Sun's ventrically
+
+282
+00:26:10,050 --> 00:26:11,860
+such as "Who's Who" and "Star
+
+283
+00:26:17,250 --> 00:26:19,600
+Thank you.
+
+284
+00:26:20,130 --> 00:26:20,990
+See ya.
+

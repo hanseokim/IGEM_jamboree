@@ -1,0 +1,284 @@
+Okay, then first of all good morning. Thank you for having us with the representatives of iGMT Munster. My name is Nico.
+And my name is Annika and we are very proud to present to you our project we worked this year on.
+We are Noskito.
+And now we will jump right into it.
+Mosquitoes are the deadliest animals to humans. Around 700,000 people die every year due to mosquito-borne diseases such as malaria, Zika virus, dengue and yellow fever.
+Due to climate change and the associated global warming, mosquitoes are opening up more and more habitats and will spread drastically over the coming years, along with the diseases they transmit.
+To hinder the spread of these diseases, several prevention strategies have been developed, such as insecticides as a vector control or mosquito repellents for dermatological use.
+in order to enhance mosquito bite prevention, we believe the most promising approach is to enable the...
+biothenesthetic production of mosquito repellents.
+Heron repellents are based on the substance DEET.
+Unfortunately, its production is based on crude oil and produces a lot of toxic byproducts, which makes the process environmentally harmful and unsustainable.
+But here we present an alternative.
+The structurally similar molecule, NBP, is a promising mosquito repellent and can be produced in microorganisms. So we decided to work with coronobacterium glutamicum as it's ultimately based on a minor acid.
+To build the body of our project, we first had to lay the foundation for a fomentative production. And as MVP is currently not synthesized in any organism, we had to develop an artificial pathway using enzymes from several different organisms.
+This pathway is based on the two common amino acids, lysine and phenylalanine, which are then refined to form piperidine and benzoate, respectively.
+These two molecules are then combined to form our bio repellent NBP.
+For this pathway, we generated several constructs for the expression in corona bacteria and glutamicome, contributing to the implementation of this non-standard organism in the iGen community.
+and just neither piperidine nor bensoid is natively present in Corinobacteria.
+We performed tolerance essays to calculate the optimal concentrations of these precursors.
+To make our project functional and viable, we had to engineer the last protein of our enzyme cascade, as it has a fairly low starting activity for NBP formation.
+For this, we first predicted its structure and then its exercise by protein ligand docking using a tool developed by Nobel Prize winner David Baker, which he also spoke about on our international meetup.
+Using these insights, we generated a mutant library.
+using both rational design and AI-based methods.
+These enzyme variants were then tested in the wet lab for their activity.
+To obtain even better variants, we introduced the results of this activity essay to a low-end model, which is also part of a self-treature.
+This model then proposed us with new and improved variants, some of which were also tested in a wetland.
+Additionally,
+Howie
+software tool incorporates a method for restriction enzyme-mediated DNA shuffling.
+All of these approaches together led us to an enzyme variant performing 550% of the catalytic activity compared to the Y-type, rendering our fermentative production a viable alternative to chemical synthesis.
+Pimentation
+Fermentation processes are highly tied to biotechnologically advanced regions because they need a lot of technical equipment and knowledge to also enable decentralized and easy to access.
+We thought of plants as an excellent production chassis because they need no technical equipment and less maintenance.
+with the ultimate goal of implementing black pepper for...
+Mosquito repellent production we pursued three different approaches.
+First, we tested the enzyme activity of the most important enzyme and its localization in the model plant, Nicotiana bentamiana.
+Furthermore, we succeeded in transiently transforming black pepper leaves, which has never been reported before. Here you can see a fluorescing thus transformed pepper stomatal cells.
+Second, we developed a new...
+Unstereostable transformation protocol for black pepper to make genetic transformation more accessible and efficient in general.
+Lastly, we optimized the accessibility of plant cultivation by designing a low-budget grow chamber that future Agim teams can use to conduct plant synthetic biology even if they don't have access to a specialized biosafety greenhouse.
+Our combined approaches enable a cheap, sustainable and decentralized method to produce NBP, which is a highly effective insect repellent, revolutionizing the way we combat mosquito-borne diseases.
+We are Noskeeto, the ultimate bug fix.
+Well done. It's a very impressive project in quite a few ways.
+leave it to anyone if
+if anyone has any questions you want to start with
+I think it's a
+huge team and it's an impressive project. I have a question because I see you.
+You do project a project and renewing for you and them but as I see you select
+R35
+But when you do cloning, you only select 27. I think about the reason for it.
+Thank you for your question. So the question was why we only initially selected 24 variants.
+So our AI method was based on a paper and they showed that only a low selection of a variance is also sufficient.
+for this model.
+because we only train a small linear regression model that only takes a little number of
+test samples that is actually sufficient. That was shown.
+And we also showed it our benchmarks that it's also sufficient and performs actually good.
+So for your modeling, you guys.
+suggested your two mutations to increase your enzymatic activity by a bunch. Where exactly--
+Are there mutations and how does it affect the protein? Like how does it make the change?
+So as you can see in the next slide post,
+over here.
+You can see the comparison of the two substrates. Green is our substrate that we wanted to use for the production of MVP. And in pink you can see the native substrate that is usually used by the enzyme for the production of piperine.
+And as you can see, our substrate is a little bit smaller or shorter, but a little bit wider in this place because this is-- [AUDIO OUT]
+Just a...
+one chain and here we have
+final group
+So we tried mainly to-- [AUDIO OUT]
+on this pocket a little bit so the ligand can't slide in too far because we need this group to be right here because this is our active center.
+and
+Looking at the best performing variant, you can see that we did two mutations right here.
+where we closed off the pocket
+So you can see that the Fener group is really
+tight in the space and it fits perfectly in there.
+We didn't know this beforehand. This was
+a combination of rational design and Likert MPNN another tool by David Baker
+um
+which produced these two single mutations and then we combined them and then we predicted the structure by alpha-pro-3 again.
+And then we saw that this is really perfect.
+and you can really see why the enzyme performs better than the right type.
+Gotcha,
+Okay, so I'm intrigued by the work that did on plants in terribology. I understand it was quite a challenge and black pepper is like a...
+interesting choice of a chassis organism.
+And I'm just curious as to what limitations you find so you identified in this process and how you plan to exactly use.
+This is how you plan to extract the product.
+from
+plant in the end.
+The product itself will be produced within the pepper seeds. The enzyme pass will normally produce in the plant the piperine which is responsible for the spice of the black pepper. So exchanging the functionality of the pass not produce piperine anymore to our product
+will lead to an accumulation in the seeds and will probably make it possible to just...
+You crunch them like you normally crunch pepper and instead of...
+having a sharp spice you will have insect repellent which you can maybe put in your pocket.
+For example, for DEED it was shown that you can dissolve it in...
+Um...
+polymers of plastic and having this in a
+and it's still
+works as insect repellent and...
+So we're--
+We are hoping that this will work for our product and pepper seeds as well.
+Okay, so you
+You're mentioning you could dissolve it in...
+In a plastic polymer? Yeah, for DEET it was shown. So, for DEET it was shown that it works in a plastic polymer and...
+still function as
+as a working insect repellent.
+So just thinking about it as that final product.
+like where do you intend for it to be applied?
+where it
+like as a repellent.
+just the replacement for regular repellent sprays? - Well, we hope is that you can just put it on cloth, not even put it on your skin anymore, or just have a bunch of it in your pocket. That would be most suitable, but of course it need to be tested before because it was never tested in a plant especially. So it's a theoretical exploration. - And have you made any predictions as to the yield that you could produce?
+Well, piperine actually accumulates up to 7 to 10%.
+Regarding on the variety you're choosing. So we're hoping to get at least
+7% of dry mass of the pepper seeds from our product. So it's not tested but it's like you.
+which part of the Wiki can I find more detail on this? On a plant synthetic biology? So, I take it the...
+second part.
+Wet lab
+I haven't found it. I mean, I can dig up a bit more, but if you can just like I mean the right direction.
+Yeah, I found that one. So all the details about the final stages of the project would be in there.
+Okay.
+Great, well done on your project. So I just have one question on safety.
+So how do you plan to assess and mitigate potential environmental?
+We're associated with the widespread conservation of GMO, like black pepper plants in affected regions. You're going to use that, right? You plan into assessing mitigates there.
+Can you hear me? So I just had a question concerning safety since you're dealing with plants, right? So how do you plan to assess and mitigate potential environmental risk associated with the widespread cultivation of the genetically modified black pepper plants in these affected regions? I don't know if you want to speak a bit on the safety aspect. Have you considered that in any?
+potential risk that could, you know.
+Have you considered anything?
+Yes, we've thought about that. I mean, in this project, we were just kind of evaluating the possibilities there are. But we thought about different methods that could be applied if our product came to a stage where it could be applied actually. And we thought about pollen sterility that can be introduced into the pepper plant.
+which would prevent
+the genes to spread among populations and also the pepper.
+that contains the NBP.
+does not contain the quantities of piperine, so it can be distinguished quite clearly from the wild pepper plants.
+Any other questions?
+Yep.
+Would somebody mind talking just maybe a little bit about the chemical safety of MVP and how it compares like efficacy wise to deep?
+Yes, thank you for the question.
+One second, I'm
+So, um...
+The main advantage of NBP compared to DEED is the sustainability.
+And that breaks down to these...
+categories that you see.
+on screen.
+which were used during our sustainability report.
+And so.
+It's--
+Basically the conclusion is that MVP is more sustainable.
+because the waste
+is much lower and
+Indeed, there is chlorinated intermediates. You have to use dichloromethane as a solvent. And those, of course, are very bad for the environment. They have to be recycled, but that also cannot be done indefinitely.
+So, and for MVP, you don't need any solvents, you don't need toxic chemicals.
+The only toxic chemical that could be used is in black pepper. You would need fertilizer.
+That is the case for almost every agricultural plant.
+Then if you go to save chemicals, it's basically just what I said.
+The energy efficiency is for black pepper very good
+You of course, there's always the fertilizer, but other than that, you can just.
+Basically, in tropical regions, set it on a field and it should grow.
+for the fermentation with Coronavirus bacteria.
+You would have energy required to keep the fermenter running.
+But that could be, for example, coupled to biogas plants.
+So it would also be quite efficient.
+But you also have to say that DEEDS due to being a petrochemical process is very optimized.
+It creates a lot of waste.
+Then another very important point is that it uses renewable feedstock.
+So DEET is based on crude oil, which obviously is finite and will eventually run out.
+and
+the NBP production would be based on glucose.
+And that obviously then comes from sugar beet, for example, which is just the carbon resource, which is a...
+Sustainable.
+that also contributes to the fact that...
+The.
+fermentation, the production of NBP.
+is sustainable while D does not. So the switch is inevitable at some point.
+Then if we go to catalysis, we obviously have our pass.
+as a catalytic, as an enzyme.
+And that's yeah, as we have shown with the 550% increase in.
+An activity that has a huge potential
+and the catalysts used in deep production are, for example, titanium based.
+and then those produce titanium dioxide as a waste product.
+And that is also carcinogenic and...
+very toxic to humans
+Then the biodegradability.
+Both?
+Deets is shown to be a...
+readily biodegradable, which means it's like 60% of deed can be...
+are degraded by microorganisms in a certain amount of time.
+And with NVP, there's very scarce research on it, but it's shown that piperidine is very biodegradable. So it can be.
+perhaps speculated that NBP as well can be biodegraded.
+And also they are structurally very similar. So it's probably biodegradable as well.
+Um...
+towards the accident prevention if there's no...
+high pressures for example, no high temperatures required for the synthesis, then you can say that the chance of an accident is very low.
+And for deep, there are steps where you need to like.
+heat it up
+And you also obviously have the chemicals which are very dangerous.
+So accidents would be much more.
+much more dangerous to people.
+around the plant.
+That's
+God's very
+OK, that's fine.
+Thank you
+- Hi, apologies for being late ahead of
+pop-up window blockers. So. (static)
+uh
+Thanks for a great project. I really super enjoyed reading it. I have two.
+parenthetical questions. One is connected.
+what you were just talking about, which is
+the pepper plants, which I was really impressed you were able to to
+apply the leaf production process over from tobacco so quickly.
+Um.
+But just now in talking about sustainability, you kind of glossed over.
+know, the need for nitrogen and so on, which is a pretty big need. So I wonder whether by any chance that you
+considered a
+Also creating a pepper plant that was sustainable. In other words,
+supply its own nitrogen source.
+I mean it's
+It's not directly related to MVP and so on, but I wondered if it just occurred to you that.
+that you could actually clone in the nitrogen producing bacteria into the roots and so on. Should be pretty cool. Sorry, the genes from the nitrogen. (static)
+producing bacteria.
+Yeah, within this project we have not considered that. I mean, we just tried to...
+First of all, get the pathway in place to produce our...
+our active compound, once there is an active compound in the plant, and that's all working then.
+making the process more efficient could be considered, but we try to first get the process in place.
+Of course, I just was wondering if you'd considered it and was thinking...
+to have a sort of stand-alone
+completely stand alone plant there would be great
+I really loved the...
+pepper and nigram work.
+Um, my
+Second question is also kind of off the-- [AUDIO OUT]
+on the side.
+adjacent to the project and that's whether you
+considered some of the
+properties of NBP for its use in brain function.
+depression treatment and so on. Did you run into any of that literature and were you concerned about that at all?
+So you mean because of the structural similarity to some of the...
+[AUDIO OUT
+What?
+So...
+don't know about any literature with NBP itself.
+this
+in this context.
+like is did you find something with nvp or just similar compounds
+- Yeah, I did find something with the key just because I was looking for some of the synthetic pathways, alternate synthetic pathways.
+I can forward it to you.
+So, you know, I don't think it's a...
+you know
+deal thinker at all, but just something that I think you might want to.
+So I mean, it's structurally similar and in some insects it can probably dock in some neuronal systems.
+But to my knowledge, that's not a problem in humans.
+I could
+Okay.
+It was also tested on skin.
+There were no reports.
+was harmful.
+Either way, positive additional effects to look into.
+Okay, so just for the end, we have about two minutes left. If you want to address maybe how you plan to take this project further, what would your next plans be if you were to continue working on it?
+So first of all, as you saw, we introduced two mutations and already got an enzyme that's 550% of the enzyme.
+and the mid activity. And that was just two rounds. So we tested our.
+way of protein engineering and we proved that it's very viable.
+and we are pretty certain that we could increase the endemic activity even further with just a little bit more lab work.
+So we're definitely going to work
+and
+So you can see we had two different approaches, one in the bacteria and one in the plant.
+and we're definitely trying to do both at the same time. It's not like the plant is the ultimate goal and the bacteria is just a step.
+We're going to
+and
+We definitely want to do more fermentation tests to see how big the yield in the fermentation could be.
+Yeah.
+And just additionally also for the plant project, we already also considered maybe not only doing an unsterile transformation of pepper, but also sterile transformation. So we...
+started to develop also sterilization protocol for pepper seeds. But due to pepper not being a model organism and needs like 90 days until the seed starts growing something. Yeah.
+to lack of time we're not quite able to test all of that but also yeah, steroid cultivation could also be.
+a next step.
+Thank you. - Perfect, thank you.
+[AUDIO OUT]
+That's time. Right, well, very impressive project. Thank you so much for coming as a whole team. It's a really huge team.
+And yeah.
+Good luck
+Also.
+Bye to the zoom people. She's handling.
+What do
+link of the
+really, I don
+Okay.
+[static]
+Sun's ventrically
+such as "Who's Who" and "Star
+Thank you.
+See ya.

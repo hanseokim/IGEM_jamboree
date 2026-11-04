@@ -1,0 +1,240 @@
+electronic devices make up an indispensable part of their everyday lives. But do you know what happens to them after they've surpassed their intended use? With e-waste levels rising five times faster than recycling levels, this is becoming an increasing problem. We are particularly focusing on lanthanides, which are hard to find, hard to extract, and hard to recycle. And currently less than 10% of them are being recycled.
+Current methods involve using harmful hydro-metallurgical and pyrometallurgical methods, which involve using harsh chemicals, which are energy intensive, causing harm to both human lives and natural ecosystems.
+Our method accumulates lanthanides in the smaller area.
+smaller volume with less other elements in it, reducing the need for pyrometallurgical methods in order to separate everything.
+Right, so the design of our project comprises three major components.
+So the first component is a bioaccumulation strategy. So we want to make sure that there's as many lanthanides in the cells as possible.
+Secondly, and this links in, is we want the sequesterosanthanides. So we use a protein called lanmodulin, which has picomolar affinity for lanthanides. So any lanthanides that get inside get mobbed up.
+Now that has a couple of interesting effects because it effectively blinds the cell to the amount of lanthanides it has intracellularly because they're all stuck in the lanmodulin.
+So one effect is that the cell thinks, oh, I've got no lanthinides, I'll keep taking up more lanthinides, hence aiding the bio-accumulation strategy.
+The other effect is that we have a hemataxis protein, which causes taxes towards our aspartate plug.
+and that's under neodymium upregulation. So until all of this land mausolein is saturated, nothing happens. But once it's saturated, the bacteria move towards the plug with the lanktonites within them.
+To prove this bioaccumulation increase, we did ICPMS measurements, which show, which we then standardized to relative cell density and a known concentration of copper to give us our relative values for neodymium concentration. From this we found that we had a 1.46 higher neodymium concentration in our engineered strain compared to our wild type strain.
+So yes, these are the genetic circuitry and components of our system, the major components. So we have the LUN module and...
+which is produced and which
+binds the neodymium, therefore inhibiting our upregulation until again all the land modulin is saturated at which point we get our chemotactic behaviour.
+Well we have to prove
+So we have our proof concept experiment.
+Our proof of concept experiment comprises an agar plate that's comprised of soft agar. So it's about 0.2% agar, which means it's sufficiently porous for the bacteria to swim through.
+And then initially in that plate we have homogenous neodymium.
+And after incubation, we examine.
+how we've disrupted the neodymium homogeneity. So we can see in our engineer's train, we increase that description of the homogeneity. We increase the neodymium near the plug and we reduce further.
+Oh sorry, and we reduce it further away
+So we make use of
+We made use of mathematical modeling all along our project to support the design. First, we decided to model the overall population and we use a partial differential equation model which is based on the well-known Keller-Sagal model for chemotaxis. As you can see in the result,
+from here and in the simulation, what you have is that the active cells which are...
+take new denium and then swims toward the sensor where the chemotaxis plug is, and this shows chemotaxis. On the other hand, we have a second model, which is an agent-based model to evaluate relative strength of each genetic component. Using this and -- [audio cuts out]
+with our ODE model inside each agent, we were able to establish optimal expression level. And as you can see from our results, these are supported from a faster chemotaxis when compared to the original strain. And obviously, any deviation from these levels caused the overall system to not
+be exhibited on chemitaxi behavior anymore.
+So yes, in the future we would like to scale up our project to use an industry and how we're going to do this is by having this tank.
+And we want to engineer different strains of bacteria that can accumulate different metals and then send to different locations for extraction. So as you can see here in the diagram, here we have four different lanthanides and four different strains taking up those lanthanides and moving to different chemotaxis points. It makes sense to different chemo tractants through chemotaxis.
+And yeah, we would also like to use affinity-based protein purification in the future because at the moment we're only accumulating lanthanides, but we want to separate them into their distinct elements. And through protein-based purification we can do that. But at the moment we would have to use pyrometallurgy, which is a little bit more energy intensive than protein-based affinity-based purification. However, that's what we plan to do to make our project as eco-friendly as possible.
+Thank you
+very impressive presentation.
+Umm...
+I would like to ask our fellow judges on Zoom to-- [AUDIO OUT]
+if you have any question to start with
+But yes
+Thank you, this was a very nice presentation.
+Oh yeah, and I have some question about the model. What is the source of your parameter for the...
+Gene Ragonetry Network Model
+Yeah, you
+Yeah, our parameters are both estimated from the literature and from experimental measure in the lab. For most of them, we were lucky. And for example, all diffusion coefficients and that kind of parameter that can be well-find in the literature, we did some research. We scaled it down more appropriately, and we used them in our model. But for some of them, and especially for the IP parameters of the model, we had to conduct some experiments. And in order to be able to let the model fit as best as possible our experimental data, they--
+data. And obviously after we fitted this experimental data, we were able to...
+push the boundaries of the parameters and to see what the expected behavior would be in cases where experimental data are not covered.
+Okay, and I saw that on your Wiki you said that maybe some parameter is derived indirectly from your experimental result from some close reading or something, right? Yeah, that's not the question. I think I...
+I want to give you a suggestion is that you I think you'd better document how you
+derive this parameter from your...
+experimental data because if any team in the future wants this parameter, because every team system may be different, they need to know how you guide this parameter and is that a good, and can they just adopt it or need to make some modifications. So I think, yeah, it's a suggestion you get a better document.
+So how you derive that.
+Yeah, thank you. Thank you. Yeah, you're right that some of the parameters should be better documented, but also some of the IP parameters were very hard to document. And also it counts more for observation, indirect observation.
+That's what thank you.
+n-
+Thank you team, so wonderful presentation and impressive project.
+So I have a couple of ready.
+So you started with electronics materials. So how much percentage of the electronic materials represent lengthonites and
+in what?
+formed these lanthanides are present in the electronic.
+material .
+So, orchodontonides only make up around less than 1% of your electronic device. This obviously this fluctuates per electronic device, but this is kind of a general statistic we got from literature. They are very vital components because they help them usually in the electronic circuits of your device and in the motherboard. And so these are also very hard to reach locations and very hard to purify both manually or
+via just what current recycling techniques and hydro metallurgy and pyrometallurgy. And so the idea and the brace of our project was to be able to access these hard to access.
+metals, lanthanides in these hard to access parts of your electronic devices. So even though it is a small
+So what form they exist in the...
+electronic material means what compound form
+So the major form, especially for neodymium...
+which is one we're working with is it comes in magnets which are used in various different parts of the computers
+in fact existing recycling efforts which are limited.
+tend to try and take out the parts that are particularly comprised of magnets. So I think hard there's work that's going to... In your experiments, did you try the same compound form or...?
+is the free form of lanthanides that you have used.
+test
+So we did try to extract neodymium from the magnets itself because you can get them from industry and we collaborated with someone who gave us these magnets. However, due to the very concentrated nitric acid needed to dissolve them initially and to basically break them down as you would easily in industry, we were not able to obtain the health and safety assessments to do this and so we weren't able to take it further unfortunately.
+So does it mean that
+you are
+model to work so it will require some pre-processing of the electronic material or even the internet.
+compound form which is present here. Yes, so documented in our Wikian implementation strategy, the first few steps are very much how do we get those Londonites from tech waste into a usable state?
+And that does require acidic conditions. It does require a few resources. It's not as resource intensive as the 800 degree centigrade pyrometallurgy that we're trying to reduce.
+And in the future, some of the next steps that we would use would be to try and get the bacteria to grow directly on the tech waste by metabolizing the plastics, which would also reduce the amount of energy we have to interpret in the forms of media supplementation. So from your initial experiment, do you have some estimate like--
+how much title of the bacteria is required to clean up.
+how much.
+amount of lintanides.
+So some maybe not festing it.
+So from our wiki and our measurements, you can kind of see that our engineered strain can take up more lanthanides up to around 100 ppm without dying or being affected by it, such as you can see in the wild type strain. This is in our results section on our wiki. However-- [AUDIO OUT]
+uh
+Sorry.
+I've lost the question.
+Yeah, so what the type of bacteria is required. So you mentioned about quantity of lentilite. It would obviously depend on the sample and we weren't able to do measurements that kind of test the maximum boundaries of the uptake. But bacteria, we were able to prove that it can have and hold up to 100 ppm and still be fine. Obviously, this is not a maximum quantity.
+However, if you take that into account, this could be then modeled potentially and scaled up in an industrial setting, if that makes sense.
+Thank you. So just another point means.
+although it's there and you are Wiki, but human practices were somehow missing in the presentation. Maybe you can just briefly.
+tell what
+what all you have done and other is how do you address the biosafety aspects related to the project.
+Did you get my question? Could you repeat it please? Sorry. So I'm just saying, so I could not see that your human practice is aspect in your presentation. It is there in the Wiki, but maybe you can just tell us briefly that what all you have done under human practices.
+And other thing is how do you address the biosafety aspect of your project?
+So yes, so in terms of human practices reached out to industry. So we had the purpose of visiting Sherbourne recycling, which is a local curbside recycling center close to where we live.
+and
+We basically had the, we visited their site and walked through and we saw how we can make like a swimming pool or a tank where the electronic waste can fall in. And then we can basically recycle the like lanthanides from e-waste in that, like in their industry. And we've also learned that it's important to reflect on our project as well. And like you raised some questions about the waste will be creating. So the chemical waste will be creating.
+And we reflect on that and like adapted our strategy as well and adapted our implementation strategy in terms of that.
+And yeah, also we also reflected on like we need to be a makeup project more environmentally friendly and economically viable and to make sure that the last night stay within the UK to benefit the UK economy. So that's a main thing we've learned from the practices from visiting them. We also talked to bi-ethists and
+Also learned that we should always be clear about the pros and cons and that we're actually working with a genetic engineer and organisms. So we reflect on that throughout our project. And we also met with someone, an expert in global sustainable development. She's a PhD student. I'm special in saying that we reflected on how we can make our project more and more sustainable.
+and about the bioethics, Andre can tell you a little bit more about that
+Yeah, so we do actually have a biotics report on our wiki and it basically went through our aims, our lab work to date and future implementations. And based on that, oh yeah, so we compared it to current declarations. So we used it as a framework to analyze our project. And based on that, our aims and lab work seem to be kind of in line to current principles that we have to follow as
+people that work with biologically engineered organisms. However, for implementations, we do have a few areas that we can work on. One of which was to prevent our organism to be released in the environment and have unforeseen effects on the ecosystems. So that would be implemented by making our organism an oxo trough or introducing a kill switch gene.
+However, another aspect we thought of is the fact that our project could be financially profitable and that might kind of take away from its environmental impact. So it might produce a cobra effect in which companies that implement our project might be interested in like promoting e-waste so that they get more lanthanized that can be eventually sold. So based on that, we looked into
+either licensing our project with like material transfer agreements that would include not using this organism in any way that would harm the environment or like not using this organism to compete with other recycling methods that might appear in the future and that might be more sustainable. So sustainability would come first always.
+Thank you, thank you, nice one, thank you once.
+- Yeah, I know I have any photo question, let's move on to the outside chart. Thank
+Hey there.
+Yes, I have a question about your...
+emo taxes experiments
+Um...
+Hey, I don't understand why you used E. coli, your chemo-tactic experiments. And also there was a statement in your Wiki that says...
+something like you were trying to find chemo attractants that e.coli were not attracted to. So can you actually explain that? I got very confused. Yes. Sorry. I think you've slightly missed this. We were looking at using methylobactyomic stock once, which is our organism we're working with. And we were inserting chemotax, chemotactic proteins into that. Yeah. The chemotactic proteins that we used, we were looking at a series of them from e.coli because they're well characterized. So they're the parts that we're taking.
+The reason that we were looking at several of them is because we wanted to identify a chemo.
+Texas protein that we'd endow our methylobacteria on max.
+with chemotaxis towards attracting that it's not naturally attracted towards so that we could have robust control.
+We had some issues with it because the bacteria.
+Initially it was difficult to get the experiments set up so they would show motility. Yeah, so I just yeah. So what's the bit about finding chemo attractants that E. Curlow were not attracted to? So again, it's not about, maybe there's a typo in the wiki, but it's about well attractants. I'll try and find it in a minute. That methylobacterium extorquents is not attracted to. So it's about making sure our system is tightly controlled by our parts and it's not got competing parts indogenously.
+So Mxstalkens uses lanthanode as a co-factor, isn't it? It uses lanthanode as a factor of tabularness.
+cool. Yeah. Very clever.
+Yeah, we even tried to do an enzymatic assay, but unfortunately. It's not actually going to poison the bacteria because it actually uses it already.
+Yes. Yeah, okay
+And in fact, lanthanides aren't generally particularly toxic, but at the concentrations we begin to get to, we did have a concern that it might cause metal ion mismatching with enzymes. But we addressed that with partially with our lan-modulin. Can they use any lan-tonide? Is it a demi-ion? The specificity of MEX is for the first four lan-tonides, but there's literature work trying to change the selectivities, especially of lan-modulin.
+which is something we want to integrate into our system. It's amazing that something like that's evolved actually. Yes, because most proteins combine calcium and randomise, but it has a million fold better selectivity. It's brilliant. We love that. Yeah. Okay. Cool.
+Can you tell us more about the land modeling itself? Could it be engineered?
+improved for affinity, but pretty high affinity already you said it, but maybe selectivity or
+of our expression. Currently manipulating the land modeling was difficult, right? So this is exactly what we want to integrate into our system. So there's lots of literature work at the moment. There's a land modeling found in a, I don't remember the entire name, but its short name is Hands.
+And that has a LAN module and that has selective differ heavier LAN thanides. And if we can get that protein engineering done in the future, then we can change that affinity, which is part of what this.
+this system here in front of me as
+in terms of
+Sorry, I've, what was the
+I'm not feeling it.
+um
+Oh sorry, yes, you've some overexpression.
+Yes, so we used an IPT-induced promoter precisely for the purpose that we have the ability to try titrateably induce it to match the optimal expression parameters found in our model.
+Does it work as expected in MEX, the promoters and anything optimized for E. coli? Does it respond well in MEX? So we worked with two German labs that work on methylabacterium and they've generated tools for those inducible promoters in MEX. So they provided us with the promoters that they've characterized in MEX.
+as for the neodymium upregulation in
+with our chemotaxis protein that again we've found a sequence in methylobacterium that is characterized in the literature as being very robustly up-regulated and again that's on our parts section on our wiki.
+I would like to comment on the data that you present here.
+quite often in the wiki also. Show results without error bars? Is it--
+because you did without the statistics like error bars and...
+Robust quantification, I would say. And is that because the experiment was difficult itself? And that's good because you're ambushed and you want to do difficult things? Or is it just because... Most of our experiments that don't show error bars are because we had to use a technique called ICP-MS.
+and that technique costs about 50 pounds to run a sample.
+So we have tried to prioritize.
+We've had to reduce the amount of experiments we'd like to do.
+Like I said earlier, we were trying to get an enzymatic assay for neodymium quantification that's about a 50th as expensive.
+but we had issues in the protein purification strategy, unfortunately.
+that would be future. It's also relatively difficult to get up.
+like quantify the proteins by this technique just because of sensitivity issues and getting the stock solutions and calibration standards. So it was quite labor intensive and because we only kind of, it was quite hard to work with.
+Lanham and Lamodulin, we got those results kind of near the end. So when we were finally at the stage to do ICPMS, it was.
+annoying, but if we had unlimited resources and time, obviously we'd be able to get those error bars on there and more results.
+and maybe a
+related question is about the chemotaxis assay
+ideal is it's what the setup was to be tested but would you imagine something to solve like the difficulties in measuring those distances
+So we...
+had a lot of time spent on trying to optimize our assays. Initially, we started with a qualitative assay that used small plates, and it was supposed to demonstrate a ring. It didn't, even for our positive control.
+By the time we had our assay working, the agar unfortunately did still split because we had to get the agar concentration so low.
+We think that in our proof concept, where we inoculate homogeneously...
+we are likely to see less noisy results. But yes, when we have a single inoculation point, it's difficult.
+Also the methylobacterium is well characterized as being motile.
+but the bacteria we received initially from the German groups that we worked with.
+seem to be domesticated a bit.
+So we had to perform a series of direct devolution experiments to try and...
+get the very motile bacteria.
+and it seemed to reduce the efficacy of our system.
+So we again, we're trying to work on getting those bacteria as motile as possible. How did you restore motility actually?
+How do you restore motility in them? So what we did, and this is again characterized in Let's Chum.
+is you grow up these soft egg up plates.
+and you let the bacteria grow out naturally and it will metabolize all of the growth substrate, so in this case, methanol, where it is. And then it will move outwards to find more because it's soft agar so it can move through.
+So what we did is we inoculated it in the center, correct.
+And then those bacteria, which were farthest away from the inoculation point, you take those, so that you re inoculate. And over time the.
+radius that they move should increase.
+the use of the gel.
+to move. Did they use flagella to move? Yes, these are single flagella bacteria. We made sure that we were working with...
+run and tumble mechanics that seemed simplest.
+Yeah, I'm not being unfair. I wouldn't put you down. There's a
+Experimental description is hand drawn and I found it quite hard to I love my whiteboards. What can I say? I love to write. It's a bit hard to write. You know, I'm not snuck in your for it. You almost didn't have enough time to
+use BioRendor or something like that.
+More real estate.
+more realistic, yeah. Very artistic, yeah. It was you that did it, it was you that did it, was it? Yeah.
+Oh, you know, I'm still on that.
+time, but thank you very much on a very impressive project presentation. Your answers are fabulous. So thank you very much. Enjoy the rest of the Ramburi.
+front
+and they stop.
+the end.
+until next week.
+Yeah.
+Thank you
+Thank you.
+Ooh
+No, we're stuck.
+the amazing the earth was bacterium she uses land in nature
+Yes, well, why do people need those? I don't know why. They
+I heard what's left
+I had about naturally a few days
+Thank you judges.
+Thank you.
+- Thanks. Nice to have met you.
+Even though you probably can't see where the cameras from. Thank you, bye bye.
+Oh.
+So bacteria and human radium do they most honestly? There is a, well, not only radium, but some very heavy elements and...
+Bakkaria seemed to be attracted to them for
+- Right, Kim's not allowed.
+Yeah, maybe accidental actually, maybe it must be because of big advantage, but they happen to accumulate radium. It's like, what would you do? That's a bad idea. That's the first question given mind. How did you do that? Doesn't just the alpha waves, the strong little.
+- It's obviously not. - It's damaging DNA, but maybe reverse.
+quick and maybe just bad edges that you can divide fast enough to avoid this. Some bacteria that live in sign nuclear reactors, is that true? Or linococus. Is that just science fiction? No, no, it's true. Linococus for the endurance. It was formed in a...
+Well, not him
+the core of the plants that in the world
+The pools swimming pools, but it's not the name. You definitely do not swim. The pools where they store the waste and so it's.
+incredibly radioactive, but you do find bacteria in there.
+Is it used as an energy source? No, it can't do.
+Also, I'm surprised. One thing is, one rational, the biological rational is that they don't have competitors.
+No, they like to be there because there is nothing on the situation. That's all. It's like an acidic bomb. It's not very advantageous.
+Probably, but you have no competitions. Wow.
+Interesting.
+He wanted to be me. So that's fine. Like all of us. Yeah. All right. That was it. Right. I'm going to get one.
+move as fast as I can
+Thank you.
+Thank you, I enjoyed it. It was impressive. Yeah.
+green projects.
+So it's very, very hard to cut shows.
+We're going to meet afterwards. We're going to meet now afterwards for a post-mortem and auto-op C.
+Oh, it's one, two, one, three.
+No, two. One minute plus two. Okay, that's done.
+It should leave at four.
+- I'm more judging my students. - It's just a fun hour at the work after. - A lot of judging.
+Very creative.
+Yeah
+I have my team now.
+the meeting.
+(buzzer)
+Okay.
+So it's not it's
+[inaudible]
+What?
+Very, very
+Thanks for that.
+[inaudible]
+(mumbles)
+I was very surprised
+Hey!
+Good luck.

@@ -1,0 +1,1107 @@
+[
+  {
+    "start": 1.09,
+    "end": 15.54,
+    "text": "Hello everyone, we are team KickingHRC. Our project focuses on liver cirrhosis. Cirrhosis poses a fear health burden. In China, there are 400 million patients living with it. It has many complications and can even lead to hep Cylar carcinoma."
+  },
+  {
+    "start": 15.97,
+    "end": 21.97,
+    "text": "So the deficiency of S-Dinosoma signing, SIN, can lead to the development of cirrhosis."
+  },
+  {
+    "start": 22.66,
+    "end": 48.92,
+    "text": "Conversely, the excessively high level of SAM can lead to the hyper-methylation and trigger some fatty fats. So maintaining the SAM level within the physiological range is the key. So here we design an RNA therapy, like use them E to regulate intracellular SAM level. It can achieve negative feedback regulation of intracellular SAM concentration by an mRNA element. It is composed of a sensor, a controller, and a factor."
+  },
+  {
+    "start": 49.25,
+    "end": 53.81,
+    "text": "The sensor is a same actamer. It can undergo precise structural change and combine into steps."
+  },
+  {
+    "start": 54.28,
+    "end": 79.2,
+    "text": "The controller is a subclinear ribosome. We replace the stem loop of the ribosome with the aptamer to build a sound-responsive aptamer. And the factor is a match-1 encoding sequence. It can encode match-1 enzyme. This is responsible for the production of sound. And we insert the actusome into the 3-prime electrocontrastate region of the mRNA. So in serotic exercise with low-scent concentration,"
+  },
+  {
+    "start": 79.37,
+    "end": 90.67,
+    "text": "The upper xamines is inactive. So the structure of the MRI is intact. It can translate out the might one enzyme and then raise the some concentration."
+  },
+  {
+    "start": 91.05,
+    "end": 99.15,
+    "text": "So in healthy cells with normal stem concentration, the upper stem can bind with our stem and then self-quieve. So the armory..."
+  },
+  {
+    "start": 99.81,
+    "end": 110.93,
+    "text": "become unstable because of the loss of the 3-prem poly-tau and no protection, so it just goes with degradation so that we can prevent over-accumulation of SANS."
+  },
+  {
+    "start": 111.78,
+    "end": 117.07,
+    "text": "We first tried sensors and controllers and chose the best ones for the next step validation."
+  },
+  {
+    "start": 117.99,
+    "end": 120.78,
+    "text": "And during HP, Professor John Young-Otto told us that"
+  },
+  {
+    "start": 121.16,
+    "end": 125.97,
+    "text": "The linker between the ribozon and the aptamer is crucial for the after-zon function."
+  },
+  {
+    "start": 126.34,
+    "end": 131.7,
+    "text": "So we start by systematically optimizing the Linker space care number."
+  },
+  {
+    "start": 132.2,
+    "end": 139.09,
+    "text": "And then we tried a variety of face sequences and used two track models to help with our backflap screening."
+  },
+  {
+    "start": 139.53,
+    "end": 145.1,
+    "text": "And then we chose three optimal response candidates for the next step validation."
+  },
+  {
+    "start": 146.15,
+    "end": 160.88,
+    "text": "So here, a following by the selection using eGFP as a reporter will make the final choice. And when tested with MITE-1A as a factor, it can successfully alleviate the intracellular SAM level without causing overaccumulation of SAM."
+  },
+  {
+    "start": 161.77,
+    "end": 183.18,
+    "text": "So as part of our model section, we comprehensively employed powerful tools such as ordinary differential equations, molecular dynamics, and deep learning to establish a series of models for addressing six screening, RNA target integration prediction, and de novo RNA design, and pharmaceutical analysis."
+  },
+  {
+    "start": 184.2,
+    "end": 196.82,
+    "text": "So during the project, we integrated both dry lab and wire requirements, leveraging research outcomes from our teams, open source communities, and the collaborative partners to develop all the thresholds."
+  },
+  {
+    "start": 197.19,
+    "end": 208.82,
+    "text": "highly reusable and multifunctional RNA analysis platform, RNA Factory. This platform can deliver end-to-end services, spanning from structural prediction to de-novel design."
+  },
+  {
+    "start": 209.96,
+    "end": 237.47,
+    "text": "So after the BK3s, we tried to analyze SAM concentration eight hours later than the delivery. And the SAM went back to the normal level. And for next step, we want to try utilize cellular circular RNA or a D-Nose associated virus to expand the invariable half-life of the erogotomy. And for RNA Factory, we will also continue to enhance its user-friendliness."
+  },
+  {
+    "start": 237.7,
+    "end": 239.31,
+    "text": "and expanding its functionality."
+  },
+  {
+    "start": 240.17,
+    "end": 246.86,
+    "text": "So during the cycle, we communicated with many experts in different fields and getting improved with their feedbacks."
+  },
+  {
+    "start": 248.07,
+    "end": 267.89,
+    "text": "part of our human practice work, we focus on supporting vulnerable groups. On a theoretical level, we summarize inclusive approaches in science communication and develop inclusivity guidelines. On practical level, we created NaviWave, a product that can help visually impaired individuals to overcome barriers in their daily mobility."
+  },
+  {
+    "start": 268.42,
+    "end": 269.33,
+    "text": "and our"
+  },
+  {
+    "start": 269.89,
+    "end": 272.62,
+    "text": "Our human practice plan focuses on"
+  },
+  {
+    "start": 273.19,
+    "end": 276.72,
+    "text": "Expanding our real world feedback or real world impact."
+  },
+  {
+    "start": 277.09,
+    "end": 282.29,
+    "text": "We will advance our scenario wave and get some internal improvement with the feedback."
+  },
+  {
+    "start": 282.69,
+    "end": 294.54,
+    "text": "And we also want to collaborate with other communities and to incorporate our inclusive guidelines to students activity programs. We also want to expand the..."
+  },
+  {
+    "start": 295.01,
+    "end": 302.96,
+    "text": "impact of our inclusive guidelines, but it's a promotion in online ways. So."
+  },
+  {
+    "start": 303.78,
+    "end": 307.12,
+    "text": "Thank you for your attention and we are waiting for your questions."
+  },
+  {
+    "start": 308.61,
+    "end": 309.62,
+    "text": "Thank you so much."
+  },
+  {
+    "start": 312.17,
+    "end": 319.79,
+    "text": "That was a wonderful presentation. We will move on to questions now and the remote judges will start with their questions first."
+  },
+  {
+    "start": 321.13,
+    "end": 324.08,
+    "text": "Okay, so I have two questions."
+  },
+  {
+    "start": 324.55,
+    "end": 332.27,
+    "text": "The first one is, as I understand your project, focus on the liver disease therapy."
+  },
+  {
+    "start": 332.77,
+    "end": 340.37,
+    "text": "Could you please clarify why your human practice work engaged with the visual impact community too?"
+  },
+  {
+    "start": 341.35,
+    "end": 345.04,
+    "text": "to the collaboration instead of like"
+  },
+  {
+    "start": 345.64,
+    "end": 348.37,
+    "text": "the societies related to liver disease."
+  },
+  {
+    "start": 349.0,
+    "end": 356.18,
+    "text": "Because this will make that feels like a side project instead of you."
+  },
+  {
+    "start": 357.06,
+    "end": 359.54,
+    "text": "as a part of your main project."
+  },
+  {
+    "start": 360.07,
+    "end": 368.11,
+    "text": "So I would like to clarify, is there a rationale behind choosing the visually impaired society?"
+  },
+  {
+    "start": 371.01,
+    "end": 371.82,
+    "text": "like please"
+  },
+  {
+    "start": 372.2,
+    "end": 372.69,
+    "text": "[BL"
+  },
+  {
+    "start": 374.37,
+    "end": 389.65,
+    "text": "Thank you for your question. Firstly, the requirement of the inclusivity is not only include the people of all projects, but also connect to the-- [AUDIO OUT]"
+  },
+  {
+    "start": 391.3,
+    "end": 393.84,
+    "text": "Disable groups or STM"
+  },
+  {
+    "start": 394.28,
+    "end": 401.36,
+    "text": "group and so on so as you know in O'Ricky we set our"
+  },
+  {
+    "start": 401.8,
+    "end": 428.67,
+    "text": "initial idea from our project like hepatitis patients is not only suffering the disease pain but also suffering the mental pain. So we find this point, we create our project from the people like disabled and also suffering the"
+  },
+  {
+    "start": 428.9,
+    "end": 429.39,
+    "text": "uh"
+  },
+  {
+    "start": 430.31,
+    "end": 433.97,
+    "text": "mental pain like emotional problems."
+  },
+  {
+    "start": 434.34,
+    "end": 436.94,
+    "text": "So when we--"
+  },
+  {
+    "start": 437.35,
+    "end": 439.06,
+    "text": "- Will we, will we want to? -"
+  },
+  {
+    "start": 439.59,
+    "end": 445.84,
+    "text": "is rough but like yeah I understand that part in the inclusivity"
+  },
+  {
+    "start": 446.31,
+    "end": 455.82,
+    "text": "page, but I was just checking for the human practice page because the human practice should be your project interact with"
+  },
+  {
+    "start": 456.2,
+    "end": 462.35,
+    "text": "These stakeholders, standard stakeholders give you feedback and make you improve your own project."
+  },
+  {
+    "start": 462.73,
+    "end": 463.86,
+    "text": "So like why?"
+  },
+  {
+    "start": 464.36,
+    "end": 471.82,
+    "text": "Why is there the visual impact part inside your human practice page? That was"
+  },
+  {
+    "start": 472.39,
+    "end": 473.87,
+    "text": "my question. Yeah."
+  },
+  {
+    "start": 485.67,
+    "end": 507.86,
+    "text": "I think our Wiki has showed that what our IHP has helped our wet labs work or dry labs work. For example, Professor John Long has helped us. He has provided the advice that we should focus on the lens of the linker and what's more."
+  },
+  {
+    "start": 508.49,
+    "end": 521.46,
+    "text": "Drylabs IFP. - For example, John Long give us the idea that we can optimize the number of base pairs between a steam loop and the barge."
+  },
+  {
+    "start": 521.83,
+    "end": 538.1,
+    "text": "And Professor John Chiangfeng has gave us some ideas of optimizing the bunny affinity using some deep learning neural network. And you can find this on the page of IHP. And we have all linked to the deep learning page and also the WellApp page."
+  },
+  {
+    "start": 540.29,
+    "end": 550.99,
+    "text": "Yes, I can find those information and I think your IHP actually is very pretty good. Can see the impact on your project."
+  },
+  {
+    "start": 551.65,
+    "end": 555.98,
+    "text": "just a little bit confused with the visual impact part."
+  },
+  {
+    "start": 556.45,
+    "end": 561.2,
+    "text": "But I guess I think I can move on to the second question first."
+  },
+  {
+    "start": 561.86,
+    "end": 564.62,
+    "text": "So maybe I have missed it"
+  },
+  {
+    "start": 565.03,
+    "end": 568.3,
+    "text": "all on your wiki but could you please"
+  },
+  {
+    "start": 569.0,
+    "end": 574.67,
+    "text": "Tell me like where is your register parts listed?"
+  },
+  {
+    "start": 575.43,
+    "end": 580.5,
+    "text": "If they are not shown on your wiki, would you like uh"
+  },
+  {
+    "start": 581.54,
+    "end": 585.33,
+    "text": "Would you mind sharing at least one example of your registered part?"
+  },
+  {
+    "start": 586.18,
+    "end": 586.58,
+    "text": "here."
+  },
+  {
+    "start": 587.24,
+    "end": 590.1,
+    "text": "Okay, well find the registrar and I'm weakly for you."
+  },
+  {
+    "start": 590.79,
+    "end": 591.25,
+    "text": "the name"
+  },
+  {
+    "start": 616.87,
+    "end": 618.03,
+    "text": "Okay, here's our."
+  },
+  {
+    "start": 618.47,
+    "end": 620.5,
+    "text": "Arts Register Parts."
+  },
+  {
+    "start": 622.15,
+    "end": 628.37,
+    "text": "I see it's only under the registration. It's not a separate page. I see. Thank you."
+  },
+  {
+    "start": 629.29,
+    "end": 629.78,
+    "text": "Thank you"
+  },
+  {
+    "start": 630.25,
+    "end": 631.73,
+    "text": "Yeah, that's all from me."
+  },
+  {
+    "start": 638.6,
+    "end": 643.22,
+    "text": "Hi, first of all, thank you for your presentation."
+  },
+  {
+    "start": 644.07,
+    "end": 653.42,
+    "text": "My general concern is, did you detect any off-target cleavage or off-target effects of the host RAs?"
+  },
+  {
+    "start": 653.93,
+    "end": 660.14,
+    "text": "And did you run any tests, for example, are a sequencing to check for unintended effects?"
+  },
+  {
+    "start": 667.14,
+    "end": 667.73,
+    "text": "and"
+  },
+  {
+    "start": 668.26,
+    "end": 675.54,
+    "text": "Of course we do that. And according to our experiments..."
+  },
+  {
+    "start": 675.97,
+    "end": 679.28,
+    "text": "Low-Semitism countries did not cause self-courage."
+  },
+  {
+    "start": 682.31,
+    "end": 685.01,
+    "text": "and high SAM concentrations."
+  },
+  {
+    "start": 693.06,
+    "end": 700.78,
+    "text": "and high SAM concentration upsides. So I think this would answer your question about the off-target."
+  },
+  {
+    "start": 706.37,
+    "end": 713.33,
+    "text": "So what is the intended, like what is the optimal concentration for SAM?"
+  },
+  {
+    "start": 717.32,
+    "end": 718.29,
+    "text": "on a bottle."
+  },
+  {
+    "start": 720.01,
+    "end": 722.8,
+    "text": "in our lever. 60 micromole in the lever."
+  },
+  {
+    "start": 724.49,
+    "end": 725.65,
+    "text": "Okay, got it. Thank"
+  },
+  {
+    "start": 729.48,
+    "end": 732.56,
+    "text": "Okay, I have a few questions about your modeling."
+  },
+  {
+    "start": 733.35,
+    "end": 739.44,
+    "text": "I saw you use molecular dynamics in your RNA structure."
+  },
+  {
+    "start": 739.85,
+    "end": 744.27,
+    "text": "and I'd like to note which force field you select and why."
+  },
+  {
+    "start": 745.0,
+    "end": 749.55,
+    "text": "Actually, we selected M-bird double nine SP and yeah because"
+  },
+  {
+    "start": 749.93,
+    "end": 754.7,
+    "text": "When we started this project, we wanted to build a pipeline and..."
+  },
+  {
+    "start": 755.14,
+    "end": 773.33,
+    "text": "At that time, we just chose this build in force field for convenience. But later we realized that actually there is a better force field like OL3 for RNN. But we did some literature review comparing the two different force fields. And we found that-- [AUDIO OUT]"
+  },
+  {
+    "start": 773.96,
+    "end": 781.87,
+    "text": "Actually, M-1 double-nigh sp is already in the four-hour calculation. And for the-- [AUDIO OUT]"
+  },
+  {
+    "start": 782.37,
+    "end": 787.5,
+    "text": "energy calculation so eventually we did not border to change our force field"
+  },
+  {
+    "start": 788.29,
+    "end": 788.88,
+    "text": "Hey."
+  },
+  {
+    "start": 790.21,
+    "end": 793.65,
+    "text": "and I thought you build such great software"
+  },
+  {
+    "start": 794.31,
+    "end": 803.66,
+    "text": "And I'd like to know whether you consider about someone will use your software to build some biochemistry weapons and how to prevent it."
+  },
+  {
+    "start": 804.29,
+    "end": 809.62,
+    "text": "I think that that would be not easy for those"
+  },
+  {
+    "start": 810.18,
+    "end": 812.11,
+    "text": "those people with bad"
+  },
+  {
+    "start": 812.81,
+    "end": 825.58,
+    "text": "and this is to use our software to create weapons because you see that our software contains only some basic neural networks to..."
+  },
+  {
+    "start": 826.18,
+    "end": 827.02,
+    "text": "help with the..."
+  },
+  {
+    "start": 827.69,
+    "end": 852.89,
+    "text": "basic RNA analysis. So if someone wants to use them to create something like a super virus or some biologic weapons, then this person could not only depend on this simple neural networks. It must need some greater-- [AUDIO OUT]"
+  },
+  {
+    "start": 853.7,
+    "end": 860.75,
+    "text": "like a better artificial intelligence, not only these tools."
+  },
+  {
+    "start": 861.13,
+    "end": 865.3,
+    "text": "That's not enough for them too. Okay. I have the last question."
+  },
+  {
+    "start": 865.8,
+    "end": 870.32,
+    "text": "How to ensure your parameter is correct in all of your model?"
+  },
+  {
+    "start": 872.23,
+    "end": 875.73,
+    "text": "You mean the ODE model? All of the model."
+  },
+  {
+    "start": 876.29,
+    "end": 885.55,
+    "text": "So first I will talk about the ODE part and before constructing the whole model with this any literature reviews"
+  },
+  {
+    "start": 885.93,
+    "end": 886.64,
+    "text": "Yeah, and--"
+  },
+  {
+    "start": 887.11,
+    "end": 902.0,
+    "text": "as you may have seen on our wiki, our ODA part consists of three different steps. The first one, the PPPK simulation. And this one, in this part, we can find all the parameters in the literature."
+  },
+  {
+    "start": 903.05,
+    "end": 906.77,
+    "text": "And before the second part, the sound model."
+  },
+  {
+    "start": 907.46,
+    "end": 914.32,
+    "text": "That's a little bit hard. So we make some guesses and kind of like approximation to these parameters."
+  },
+  {
+    "start": 914.73,
+    "end": 916.66,
+    "text": "Yeah, so basically test the..."
+  },
+  {
+    "start": 917.29,
+    "end": 931.54,
+    "text": "about the deep learning model. I think the biggest advantage of deep learning model is that it can find its best parameters by itself. So we just choose the right data."
+  },
+  {
+    "start": 931.91,
+    "end": 936.78,
+    "text": "and it just find its own parameter by itself."
+  },
+  {
+    "start": 937.83,
+    "end": 939.66,
+    "text": "through the learning progress."
+  },
+  {
+    "start": 940.33,
+    "end": 941.55,
+    "text": "Okay, it's on my question"
+  },
+  {
+    "start": 943.21,
+    "end": 943.57,
+    "text": "I mean"
+  },
+  {
+    "start": 944.23,
+    "end": 944.91,
+    "text": "Hi."
+  },
+  {
+    "start": 945.73,
+    "end": 946.8,
+    "text": "Great work."
+  },
+  {
+    "start": 947.37,
+    "end": 948.88,
+    "text": "I was wondering about-- [AUDIO OUT"
+  },
+  {
+    "start": 949.32,
+    "end": 953.81,
+    "text": "your measurements where you measured the negative feedback loop where you shown that"
+  },
+  {
+    "start": 954.21,
+    "end": 957.36,
+    "text": "your concert can keep a stable concentration of sound."
+  },
+  {
+    "start": 958.09,
+    "end": 960.53,
+    "text": "Have you thought about"
+  },
+  {
+    "start": 961.25,
+    "end": 967.28,
+    "text": "showing this under different circumstances, such as a longer time or after recovery or disturbance."
+  },
+  {
+    "start": 967.72,
+    "end": 968.78,
+    "text": "of the concentrations"
+  },
+  {
+    "start": 977.35,
+    "end": 1003.23,
+    "text": "That is actually our next step design, because with MRA drugs, we can only extend to a normal level or physiological level in a certain time space. And this is relatively short. And due to our data, it's waving with the time. And it's decreasing pretty fast. And if you want to achieve a longer time for recurring-- [AUDIO OUT]"
+  },
+  {
+    "start": 1003.53,
+    "end": 1026.7,
+    "text": "For example, cure the heightened cirrhosis, like for a life, maybe we have to inject some MRI drug and without ribozymes and only with ribose switch and it has to be less for long or it can ritual transcript to the whole genome or something like that. And our deep learning model can be easily trans..."
+  },
+  {
+    "start": 1027.21,
+    "end": 1037.9,
+    "text": "transfer to that task because we have considered this problem. And our next step design is to build a rival design-free rival switches which can regulate the..."
+  },
+  {
+    "start": 1038.63,
+    "end": 1041.14,
+    "text": "concentration of the protein only sensing a sap."
+  },
+  {
+    "start": 1042.28,
+    "end": 1042.96,
+    "text": "OK, thank you"
+  },
+  {
+    "start": 1043.46,
+    "end": 1043.89,
+    "text": "um"
+  },
+  {
+    "start": 1044.71,
+    "end": 1047.47,
+    "text": "Also I was wondering, you used hepti2 cells."
+  },
+  {
+    "start": 1048.1,
+    "end": 1052.46,
+    "text": "Have you also planned on considering other models such as"
+  },
+  {
+    "start": 1052.87,
+    "end": 1054.8,
+    "text": "have a R.G. or co-cultures"
+  },
+  {
+    "start": 1057.86,
+    "end": 1068.05,
+    "text": "Actually we do not, but we plan to expand our models like, you know,"
+  },
+  {
+    "start": 1068.45,
+    "end": 1073.14,
+    "text": "animal models or other cells or some"
+  },
+  {
+    "start": 1073.77,
+    "end": 1075.34,
+    "text": "a lever."
+  },
+  {
+    "start": 1077.03,
+    "end": 1079.63,
+    "text": "cancer, no liver cancer."
+  },
+  {
+    "start": 1082.98,
+    "end": 1091.57,
+    "text": "liver tissue and another thing is to test our elements and to see if it could control the same concentration."
+  },
+  {
+    "start": 1095.94,
+    "end": 1096.91,
+    "text": "Okay, uh..."
+  },
+  {
+    "start": 1097.29,
+    "end": 1107.6,
+    "text": "First, I just want to give you guys some time to, can you just explain what exactly you did after the wiki freeze? I want just the update."
+  },
+  {
+    "start": 1109.19,
+    "end": 1113.81,
+    "text": "So we can see that in the result part, the concentration-- [AUDIO OUT]"
+  },
+  {
+    "start": 1115.49,
+    "end": 1120.88,
+    "text": "of the cell to not catch up as the same as the normal cell."
+  },
+  {
+    "start": 1121.32,
+    "end": 1145.23,
+    "text": "We wondered if that we get the sample too early or we have the analysis too early so that it can happen, go back to the level. So we tried to give analysis of the sample level. So for a longer time after the delivery of our regular exam, and we found that it can successfully go back to the normal level as the first one, the purple one."
+  },
+  {
+    "start": 1145.73,
+    "end": 1150.51,
+    "text": "So we found that it can actually make sense and you're back to the normal."
+  },
+  {
+    "start": 1152.65,
+    "end": 1156.24,
+    "text": "Okay, thank you. My next question is..."
+  },
+  {
+    "start": 1156.65,
+    "end": 1162.64,
+    "text": "What do you think the dosage and administration of your drug would be?"
+  },
+  {
+    "start": 1163.46,
+    "end": 1170.48,
+    "text": "You mentioned that the current methods rely on daily supplementation. So what do you expect your..."
+  },
+  {
+    "start": 1171.05,
+    "end": 1175.18,
+    "text": "administration to be. Do you also have to take these injections daily?"
+  },
+  {
+    "start": 1184.07,
+    "end": 1197.81,
+    "text": "So we haven't tried it yet, but we want to inject our MRI using LMP to envelope it. And we haven't tested experiments, but we use ODE on our things to..."
+  },
+  {
+    "start": 1199.78,
+    "end": 1202.83,
+    "text": "to know how"
+  },
+  {
+    "start": 1203.24,
+    "end": 1204.5,
+    "text": "much training you need to use it"
+  },
+  {
+    "start": 1205.09,
+    "end": 1206.0,
+    "text": "and"
+  },
+  {
+    "start": 1206.53,
+    "end": 1226.06,
+    "text": "we plan to try another type of RNA like sarcoan-A or self-replicate RNA to langer our therapy time. And we also think about a substance release formulations or a way to..."
+  },
+  {
+    "start": 1226.5,
+    "end": 1228.69,
+    "text": "lever over MRA."
+  },
+  {
+    "start": 1231.3,
+    "end": 1231.76,
+    "text": "Okay."
+  },
+  {
+    "start": 1232.33,
+    "end": 1235.25,
+    "text": "We have five more minutes for questions if anyone has."
+  },
+  {
+    "start": 1236.65,
+    "end": 1237.65,
+    "text": "Go first."
+  },
+  {
+    "start": 1238.12,
+    "end": 1238.51,
+    "text": "(static"
+  },
+  {
+    "start": 1239.69,
+    "end": 1242.22,
+    "text": "Yeah, you said a lot of modeling. It's great."
+  },
+  {
+    "start": 1242.79,
+    "end": 1246.06,
+    "text": "I realized in this go-up item, it's hard to actually."
+  },
+  {
+    "start": 1246.73,
+    "end": 1252.56,
+    "text": "tests validate these experimentally, but did you look into how you could validate..."
+  },
+  {
+    "start": 1253.03,
+    "end": 1256.05,
+    "text": "your simulations for example for the drug delivery predictions."
+  },
+  {
+    "start": 1263.11,
+    "end": 1265.17,
+    "text": "actually to validate the"
+  },
+  {
+    "start": 1265.93,
+    "end": 1274.93,
+    "text": "our simulation, I think the best way is to use animal models. Yeah, you know, in IJN competition, we have no answers to animals, so."
+  },
+  {
+    "start": 1277.8,
+    "end": 1281.68,
+    "text": "What about so maybe after the actual competition we can."
+  },
+  {
+    "start": 1282.31,
+    "end": 1284.88,
+    "text": "kind of like test our jogs in Animosaur."
+  },
+  {
+    "start": 1285.8,
+    "end": 1289.07,
+    "text": "possibly eventually in humans, I don't know."
+  },
+  {
+    "start": 1289.77,
+    "end": 1292.46,
+    "text": "And did you also look into like organs on a chip?"
+  },
+  {
+    "start": 1293.77,
+    "end": 1294.54,
+    "text": "organ furniture, organ"
+  },
+  {
+    "start": 1295.08,
+    "end": 1296.21,
+    "text": "into that you're not"
+  },
+  {
+    "start": 1296.61,
+    "end": 1298.7,
+    "text": "Or, \"organize.\""
+  },
+  {
+    "start": 1301.03,
+    "end": 1301.68,
+    "text": "Thank you."
+  },
+  {
+    "start": 1303.43,
+    "end": 1304.53,
+    "text": "(static)"
+  },
+  {
+    "start": 1306.53,
+    "end": 1308.75,
+    "text": "Okay, I'd like to move."
+  },
+  {
+    "start": 1310.34,
+    "end": 1313.94,
+    "text": "any experimental feedback to your modeling"
+  },
+  {
+    "start": 1315.43,
+    "end": 1316.3,
+    "text": "I remember Viva"
+  },
+  {
+    "start": 1322.25,
+    "end": 1322.64,
+    "text": "sorry"
+  },
+  {
+    "start": 1328.58,
+    "end": 1329.94,
+    "text": "So actually, I'm--"
+  },
+  {
+    "start": 1330.44,
+    "end": 1342.19,
+    "text": "When we do our ND simulations, we finish that in two different parts. The first one is to screen the different types of ribo-switches and the linker length."
+  },
+  {
+    "start": 1342.85,
+    "end": 1345.9,
+    "text": "Yeah, so after simulations, we-- [AUDIO OUT]"
+  },
+  {
+    "start": 1346.37,
+    "end": 1352.59,
+    "text": "CanLife gave the results to our well app and they screen like"
+  },
+  {
+    "start": 1353.09,
+    "end": 1354.29,
+    "text": "the best of them."
+  },
+  {
+    "start": 1354.73,
+    "end": 1355.28,
+    "text": "T-R"
+  },
+  {
+    "start": 1355.72,
+    "end": 1358.06,
+    "text": "It's kind of like I read the next step."
+  },
+  {
+    "start": 1358.92,
+    "end": 1363.98,
+    "text": "optimization. And for the second part, we optimized the different kind of line."
+  },
+  {
+    "start": 1365.0,
+    "end": 1366.7,
+    "text": "different"
+  },
+  {
+    "start": 1367.72,
+    "end": 1386.67,
+    "text": "Base pair, base pair. Base pair combination. Yeah, different base pair combination of the same length. Yes. So in this stage, we also screen line more than 30 rygo switches. And we also gave the results to our web lab. And so that they can screen the best of them."
+  },
+  {
+    "start": 1394.73,
+    "end": 1398.16,
+    "text": "to predict the answer and we use our Well app."
+  },
+  {
+    "start": 1398.57,
+    "end": 1410.96,
+    "text": "results to make sure that the smart net is a state of the art on our task. As you know, there are lots of, a lot of which can predict the value of infinity between the R A and small molecules."
+  },
+  {
+    "start": 1411.33,
+    "end": 1413.74,
+    "text": "But we've tried them and we..."
+  },
+  {
+    "start": 1414.53,
+    "end": 1417.42,
+    "text": "Found all that's at this moment is"
+  },
+  {
+    "start": 1418.09,
+    "end": 1421.33,
+    "text": "pretty good for our tasks so we use it as a kinds of a"
+  },
+  {
+    "start": 1421.73,
+    "end": 1424.11,
+    "text": "Okay, and the last question"
+  },
+  {
+    "start": 1424.71,
+    "end": 1430.03,
+    "text": "I'd like to know how to do the RNA protein in the example Dix cell."
+  },
+  {
+    "start": 1430.47,
+    "end": 1433.1,
+    "text": "and count to ensure it is correct."
+  },
+  {
+    "start": 1435.05,
+    "end": 1443.6,
+    "text": "We used two embeddings existing open source models. One is ESM2, one is REBert."
+  },
+  {
+    "start": 1444.1,
+    "end": 1449.68,
+    "text": "And after that, we found out only use MLP, the multilayer perceptron."
+  },
+  {
+    "start": 1450.05,
+    "end": 1451.63,
+    "text": "the normal"
+  },
+  {
+    "start": 1452.04,
+    "end": 1460.78,
+    "text": "deep learning neural network is not enough. So we added cross attention layer between us to the between embedding and."
+  },
+  {
+    "start": 1461.25,
+    "end": 1477.17,
+    "text": "deep learning neural network to make sure that each embedding could capture the token level interaction between these two features. And after that, we draw the heat map, make sure that the heat map is evolving from the noise heat map to a..."
+  },
+  {
+    "start": 1477.64,
+    "end": 1486.26,
+    "text": "filterize the heat map and that means our model is learning the true rules of the interaction and then after that we"
+  },
+  {
+    "start": 1486.79,
+    "end": 1488.78,
+    "text": "invalidated our"
+  },
+  {
+    "start": 1489.64,
+    "end": 1495.66,
+    "text": "predictions in a well lab and the confidence the trends of the confidence is a pretty"
+  },
+  {
+    "start": 1496.84,
+    "end": 1498.8,
+    "text": "while validating our well-lapse so"
+  },
+  {
+    "start": 1499.97,
+    "end": 1508.56,
+    "text": "It's true. And besides that, if you want to use different tools. Our time is unfortunately up, but thank you so much for your presentation."
+  },
+  {
+    "start": 1510.25,
+    "end": 1510.83,
+    "text": "Thank you."
+  },
+  {
+    "start": 1511.62,
+    "end": 1514.32,
+    "text": "Good luck for the jamboree. I hope you have a good time"
+  },
+  {
+    "start": 1514.89,
+    "end": 1516.24,
+    "text": "Thank you. See you."
+  },
+  {
+    "start": 1520.61,
+    "end": 1521.62,
+    "text": "So, yeah."
+  },
+  {
+    "start": 1549.16,
+    "end": 1550.03,
+    "text": "[static]"
+  },
+  {
+    "start": 1552.36,
+    "end": 1559.79,
+    "text": "Would you guys like to discuss anything? Maybe we can make a different Zoom link."
+  },
+  {
+    "start": 1560.29,
+    "end": 1564.02,
+    "text": "If you feel like we need to discuss something or we can just use the slack channel."
+  },
+  {
+    "start": 1564.77,
+    "end": 1565.87,
+    "text": "Whatever you prefer."
+  },
+  {
+    "start": 1567.69,
+    "end": 1568.88,
+    "text": "Which one is okay?"
+  },
+  {
+    "start": 1570.02,
+    "end": 1572.94,
+    "text": "It's... I need a break though."
+  },
+  {
+    "start": 1573.73,
+    "end": 1579.86,
+    "text": "Yeah, so I guess just if any questions we can just post in the Slack channel. There we go."
+  },
+  {
+    "start": 1580.84,
+    "end": 1581.55,
+    "text": "this guy. Okay"
+  },
+  {
+    "start": 1581.96,
+    "end": 1582.67,
+    "text": "OK, cool."
+  },
+  {
+    "start": 1583.37,
+    "end": 1585.49,
+    "text": "Thank you guys."
+  },
+  {
+    "start": 1586.47,
+    "end": 1588.03,
+    "text": "Thank you guys, bye!"
+  }
+]

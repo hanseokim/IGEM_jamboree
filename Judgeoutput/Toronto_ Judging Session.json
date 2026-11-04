@@ -1,0 +1,1112 @@
+[
+  {
+    "start": 0.61,
+    "end": 24.21,
+    "text": "So to start, we wanted to give a brief context. Antibiotic resistance is a very, very big issue that threatens to kill millions of people. Phage therapy is a very promising solution, but it's limited by slow phage mass sample. This causes single digit fulfillment rates for phage therapy cases and also months long wait time for patients to get their phage cocktails. Oftentimes critical care patients might only have days. This is very, very slow."
+  },
+  {
+    "start": 24.97,
+    "end": 38.61,
+    "text": "So to address this, we are developing Misophage and we have two goals. One is to reduce the phage matching time from months to hours. And two is to deliver our AI modified phages to critical target sites and go item distance, such as the gut resistance."
+  },
+  {
+    "start": 38.98,
+    "end": 41.74,
+    "text": "Now I'll pass it on to our drive team to explain how our model works"
+  },
+  {
+    "start": 42.6,
+    "end": 44.34,
+    "text": "Cool, thank you, Jaden. So--"
+  },
+  {
+    "start": 46.15,
+    "end": 51.5,
+    "text": "Yeah, we are in a new era of protein design. In which generative models can design novel proteins from scratch and-- [AUDIO OUT]"
+  },
+  {
+    "start": 52.58,
+    "end": 64.4,
+    "text": "Three main challenges still remain. One, there's an incredibly, incredible diversity of receptors, including flexible glycans that are challenging targets for these engineered models to regenerate the R-B2 receptor binding proteins for."
+  },
+  {
+    "start": 64.77,
+    "end": 73.74,
+    "text": "And finally, there's limited RBP receptor structure data. So in the PDP, there's limited data, which, you know, it hampers models from training on these vast resources."
+  },
+  {
+    "start": 74.25,
+    "end": 75.92,
+    "text": "So we introduce order."
+  },
+  {
+    "start": 76.39,
+    "end": 76.94,
+    "text": "Howard."
+  },
+  {
+    "start": 77.35,
+    "end": 85.1,
+    "text": "We introduced forager, our new generative pipeline that can take in bacterial sequences and generate RDPs for them."
+  },
+  {
+    "start": 86.02,
+    "end": 97.97,
+    "text": "Our proteins generate these receptor binding proteins and our model generates this receptor binding domain, which we're showing here is an example of one of our generated receptor binding domain regions."
+  },
+  {
+    "start": 99.62,
+    "end": 106.13,
+    "text": "This now moving into our batch one, which is our prototype model, which actually generated both glycan and protein targets."
+  },
+  {
+    "start": 106.57,
+    "end": 112.08,
+    "text": "This year what we're showing is some of our batch one protein we showed up, which we sent up to the wet lab to test."
+  },
+  {
+    "start": 112.74,
+    "end": 121.46,
+    "text": "Moving on, we also tried out our new improved pipeline, which added MCMC sampling, just as a new and well-known statistical sampling procedure."
+  },
+  {
+    "start": 121.83,
+    "end": 124.4,
+    "text": "And this allows to converge on better and better binders."
+  },
+  {
+    "start": 124.9,
+    "end": 131.18,
+    "text": "Finally, this allowed us to create our top nine high confidence receptor binding proteins, which we sent out to the West Lab to test."
+  },
+  {
+    "start": 131.85,
+    "end": 140.59,
+    "text": "We also added an n-dock or orthogonal validation metric, which has had a three docking to really test out and to ensure that our proteins are matching what we think they are."
+  },
+  {
+    "start": 143.94,
+    "end": 151.22,
+    "text": "To test dry lab-generated RBDs, we assembled plasmids containing a generated RBD and an SGRNA targeting the wild-fic RBD."
+  },
+  {
+    "start": 151.88,
+    "end": 156.27,
+    "text": "We used these plasmids to perform RBG swapping, then rebooted and spotted pages."
+  },
+  {
+    "start": 157.8,
+    "end": 163.54,
+    "text": "Lambda, Mu49, and Mu52 SGRNAs were confirmed to target their wild-type RVDs."
+  },
+  {
+    "start": 163.97,
+    "end": 172.85,
+    "text": "And since the presentation video, we have confirmed successful swapping of generated batch 2, mu 49 and mu 52 are details."
+  },
+  {
+    "start": 174.47,
+    "end": 179.12,
+    "text": "Wild type RBDs from you and P2 normally target K12 and not BL20."
+  },
+  {
+    "start": 179.91,
+    "end": 183.79,
+    "text": "If our generated RBDs are functional, we should see this targeting pattern swap."
+  },
+  {
+    "start": 185.35,
+    "end": 190.64,
+    "text": "Since the presentation video, we have spotted generated batch 2 RVDs from you."
+  },
+  {
+    "start": 191.3,
+    "end": 197.74,
+    "text": "We found that there was no spotting efficiency against BL21 and that there was reduced spotting efficiency against K12."
+  },
+  {
+    "start": 198.63,
+    "end": 203.12,
+    "text": "While these are negative results, this completes our first feedback cycle in 4G."
+  },
+  {
+    "start": 205.48,
+    "end": 206.22,
+    "text": "about right"
+  },
+  {
+    "start": 207.59,
+    "end": 211.57,
+    "text": "So select the pressure of antibiotics on human and animal GI tracts."
+  },
+  {
+    "start": 212.01,
+    "end": 213.9,
+    "text": "creates what we call the gut resistome."
+  },
+  {
+    "start": 214.31,
+    "end": 217.52,
+    "text": "which is a reservoir of resisted genes."
+  },
+  {
+    "start": 218.53,
+    "end": 221.87,
+    "text": "And so to target this area, we created"
+  },
+  {
+    "start": 222.69,
+    "end": 223.28,
+    "text": "evade"
+  },
+  {
+    "start": 223.94,
+    "end": 231.76,
+    "text": "which is the first ingestible electronic bacteria sensing capsule for site specific drug delivery."
+  },
+  {
+    "start": 233.48,
+    "end": 235.25,
+    "text": "Our device remains completely sealed."
+  },
+  {
+    "start": 235.65,
+    "end": 239.34,
+    "text": "from the GI tract until detecting resistant bacteria."
+  },
+  {
+    "start": 239.78,
+    "end": 247.18,
+    "text": "At which point an electromagnet causes the release of our AI-Vage therapy directly at the site of infection inside the GI tract."
+  },
+  {
+    "start": 249.8,
+    "end": 251.82,
+    "text": "We have created"
+  },
+  {
+    "start": 252.29,
+    "end": 257.1,
+    "text": "The prototype user tested many iterations of the capsule, each improving upon the last."
+  },
+  {
+    "start": 257.7,
+    "end": 260.56,
+    "text": "in testing in our GI simulation models ongoing."
+  },
+  {
+    "start": 261.13,
+    "end": 265.9,
+    "text": "but we acquired some preliminary results, namely we conferred the ability of our advice to..."
+  },
+  {
+    "start": 266.41,
+    "end": 269.17,
+    "text": "measure of hypo-chitin inside of a simulated environment."
+  },
+  {
+    "start": 269.61,
+    "end": 273.07,
+    "text": "and to retain and release our therapy on demand."
+  },
+  {
+    "start": 275.08,
+    "end": 282.19,
+    "text": "All of our work in eBay is fully documented in our GitLab and Wiki to ensure reproducibility for future teams."
+  },
+  {
+    "start": 285.64,
+    "end": 311.74,
+    "text": "To ensure that our project is human centered, our human practices team reached out to a wide array of stakeholders including bioethicists, economics, patients, doctors, face lab researchers, and even started co-founders. Using the stakeholder feedback, we also did a lot of written initiatives like our success, our regulatory framework, a sustainability report, a social economic report, and a newsletter to educate the public as well."
+  },
+  {
+    "start": 312.1,
+    "end": 321.1,
+    "text": "Further, to educate university students, we also had a pop-up group and we also had a mentorship program to connect them with future synthetic biology opportunities."
+  },
+  {
+    "start": 321.89,
+    "end": 326.13,
+    "text": "Over the summer, we took our ideas through the University of Toronto incubator program."
+  },
+  {
+    "start": 326.5,
+    "end": 343.47,
+    "text": "where we built our business plan grounded in real customer needs, clinician insights, and clear milestones. We're now in the go-to-market stage where we're having further customer interviews and validation to refine our solution. By December, we'll be talking to investors to take our scientific adventure to the next stage."
+  },
+  {
+    "start": 345.38,
+    "end": 354.64,
+    "text": "So we just wanted to say thank you to everyone for listening and also to thank everyone who had helped us along this journey, including all the faculty, mentors, institutions, and incubators that got us to this point."
+  },
+  {
+    "start": 355.11,
+    "end": 364.4,
+    "text": "We also want to give a special thank you to all of our sponsors to enable us to get this far without your help. We couldn't have made it to this point. So thank you everyone for listening and we're happy to answer your questions."
+  },
+  {
+    "start": 366.25,
+    "end": 367.31,
+    "text": "you guys"
+  },
+  {
+    "start": 368.26,
+    "end": 370.22,
+    "text": "Is that the questions?"
+  },
+  {
+    "start": 372.97,
+    "end": 373.46,
+    "text": "and"
+  },
+  {
+    "start": 374.15,
+    "end": 384.27,
+    "text": "So thanks for the presentation and interesting project. My question is on your hardware part. So in your direct experiment, when you have the graphs, maybe you can go to the slide."
+  },
+  {
+    "start": 384.84,
+    "end": 394.83,
+    "text": "First question is, how did you do the experiment? Did you do it in replicates or not? Because there are no error bars on the graph. And the second question is, when you have almost 60% of-- [AUDIO OUT]"
+  },
+  {
+    "start": 395.33,
+    "end": 406.54,
+    "text": "die release even before the release part. And what do you think is the reason for this? Is it the leakiness of the capsule itself or other hydrogen presence is triggering it to release it anyway?"
+  },
+  {
+    "start": 407.14,
+    "end": 417.23,
+    "text": "Yeah, so I'll talk a little bit about both experiments. I'll start just preface this by saying that this is very preliminary qualitative more experiments that we just wanted to-- [AUDIO OUT]"
+  },
+  {
+    "start": 417.64,
+    "end": 425.33,
+    "text": "kind of confirm our first proof of concept in the core functionality of the device before kind of refining it and getting it to work really, really well."
+  },
+  {
+    "start": 426.02,
+    "end": 435.6,
+    "text": "So the hydrogen experiment was really just kind of like a qualitative metric of can our device sense hydrogen in the quantities that are biologically relevant."
+  },
+  {
+    "start": 436.13,
+    "end": 438.7,
+    "text": "and send that information to our..."
+  },
+  {
+    "start": 439.14,
+    "end": 441.39,
+    "text": "custom PCB and control that we've designed."
+  },
+  {
+    "start": 442.63,
+    "end": 443.89,
+    "text": "potentially release a drug."
+  },
+  {
+    "start": 444.39,
+    "end": 450.32,
+    "text": "And so the setup was very simple. We just generated our hydrogen inside of a little sealed environment."
+  },
+  {
+    "start": 451.05,
+    "end": 456.43,
+    "text": "measured that with our device and sent that to a computer and just see if we could see."
+  },
+  {
+    "start": 456.87,
+    "end": 458.26,
+    "text": "those levels show up and"
+  },
+  {
+    "start": 458.63,
+    "end": 463.15,
+    "text": "biologically relevant quantities, which we're able to see there and get a"
+  },
+  {
+    "start": 463.56,
+    "end": 466.35,
+    "text": "amplified voltage reading that is detectable."
+  },
+  {
+    "start": 467.27,
+    "end": 467.79,
+    "text": "Um"
+  },
+  {
+    "start": 469.0,
+    "end": 470.06,
+    "text": "And so, uh..."
+  },
+  {
+    "start": 470.63,
+    "end": 475.15,
+    "text": "We did this test a few times. This is just showing kind of one trial that we conducted."
+  },
+  {
+    "start": 475.75,
+    "end": 478.96,
+    "text": "And yeah, for the the die release experiment"
+  },
+  {
+    "start": 479.37,
+    "end": 483.98,
+    "text": "There were a few, I guess, technical limitations of our device. Again, this is kind of like a..."
+  },
+  {
+    "start": 484.71,
+    "end": 487.28,
+    "text": "first proof of concept."
+  },
+  {
+    "start": 487.69,
+    "end": 492.5,
+    "text": "all the parts were 3D printed and sealed together with the materials that we had available."
+  },
+  {
+    "start": 493.03,
+    "end": 497.49,
+    "text": "So it's not perfect. We're considering to improve on it, but kind of just our first trial."
+  },
+  {
+    "start": 497.89,
+    "end": 498.26,
+    "text": "(static"
+  },
+  {
+    "start": 498.69,
+    "end": 503.5,
+    "text": "I guess the seal of the cap and the electromagnet didn't fit perfectly on the device."
+  },
+  {
+    "start": 504.23,
+    "end": 510.38,
+    "text": "I guess the thing to note is that in these two graphs of the four release and both static and dynamic."
+  },
+  {
+    "start": 510.76,
+    "end": 514.83,
+    "text": "We didn't see any noticeable detachment."
+  },
+  {
+    "start": 515.33,
+    "end": 523.73,
+    "text": "from the electromagnet, like it was still mostly together. It's just kind of like ambient leakage that we believe could just be resolved with like some tolerance fixes."
+  },
+  {
+    "start": 524.33,
+    "end": 530.48,
+    "text": "And then after the release we saw like a complete separation from the lid and the main capsule."
+  },
+  {
+    "start": 531.33,
+    "end": 533.65,
+    "text": "Yeah. So with a little bit more refinement, we think that"
+  },
+  {
+    "start": 534.02,
+    "end": 536.91,
+    "text": "You know, we could get these two bars really low."
+  },
+  {
+    "start": 538.34,
+    "end": 539.86,
+    "text": "- Okay, perfect, thanks. - Thank"
+  },
+  {
+    "start": 543.3,
+    "end": 552.27,
+    "text": "follow up for the device. I saw that you've been testing it on different pH levels. But"
+  },
+  {
+    "start": 552.68,
+    "end": 559.86,
+    "text": "what I saw are that those pH levels are like 5, 6, something like this, like pretty high and if you're"
+  },
+  {
+    "start": 561.0,
+    "end": 561.55,
+    "text": "Oh."
+  },
+  {
+    "start": 561.93,
+    "end": 562.61,
+    "text": "Of course"
+  },
+  {
+    "start": 563.11,
+    "end": 563.82,
+    "text": "has to be."
+  },
+  {
+    "start": 564.33,
+    "end": 565.42,
+    "text": "ingested like"
+  },
+  {
+    "start": 566.31,
+    "end": 572.37,
+    "text": "It will go through the stomach first where the CT is much lower. Have you considered if it will?"
+  },
+  {
+    "start": 572.9,
+    "end": 581.84,
+    "text": "work and like more extreme conditions? Yes, certainly. So the solution to this is we plan to encapsulate this kind of, we have our"
+  },
+  {
+    "start": 582.37,
+    "end": 587.09,
+    "text": "inner capsule here, we plan to encapsulate this inside an enteric polymer coating."
+  },
+  {
+    "start": 587.78,
+    "end": 588.3,
+    "text": "um"
+  },
+  {
+    "start": 588.81,
+    "end": 594.77,
+    "text": "And so these interior coatings are already validated technologies that are used on the market to bypass."
+  },
+  {
+    "start": 595.14,
+    "end": 597.65,
+    "text": "the kind of low pH conditions in the stomach."
+  },
+  {
+    "start": 598.09,
+    "end": 607.06,
+    "text": "So it's essentially just like a proprietary polymer coating that, you know, companies make that remain intact in low pH environments and dissolve."
+  },
+  {
+    "start": 607.49,
+    "end": 609.74,
+    "text": "in higher pH environments such as the..."
+  },
+  {
+    "start": 610.31,
+    "end": 614.67,
+    "text": "small intestine into the colon when it goes up to five, six, seven."
+  },
+  {
+    "start": 615.97,
+    "end": 620.14,
+    "text": "And so we plan to just encapsulate our device in this already validated."
+  },
+  {
+    "start": 621.73,
+    "end": 631.02,
+    "text": "in terra-coating. So that should deliver this inner capsule directly to our small intestine, which is our set of interest, without any damage to the capsule itself."
+  },
+  {
+    "start": 633.22,
+    "end": 635.09,
+    "text": "And have you considered that?"
+  },
+  {
+    "start": 635.72,
+    "end": 642.42,
+    "text": "I mean, there are so many parts like battery, magnets, everything."
+  },
+  {
+    "start": 642.89,
+    "end": 645.58,
+    "text": "Some of these parts can be rejected by the body."
+  },
+  {
+    "start": 645.99,
+    "end": 646.42,
+    "text": "Yeah."
+  },
+  {
+    "start": 646.82,
+    "end": 649.78,
+    "text": "So are you addressing this safety concern?"
+  },
+  {
+    "start": 650.37,
+    "end": 654.29,
+    "text": "Yeah, it's a great question. And I can understand, you know."
+  },
+  {
+    "start": 654.79,
+    "end": 658.0,
+    "text": "public uncertainty to accept such technology."
+  },
+  {
+    "start": 658.37,
+    "end": 662.7,
+    "text": "There's definitely hesitation involved in ingestible electronics."
+  },
+  {
+    "start": 663.37,
+    "end": 670.29,
+    "text": "I think this field is a growing field. It's kind of just originated in the last five, 10 years. It's becoming larger and larger."
+  },
+  {
+    "start": 670.89,
+    "end": 671.66,
+    "text": "and"
+  },
+  {
+    "start": 672.49,
+    "end": 674.61,
+    "text": "Past research has shown that with"
+  },
+  {
+    "start": 675.05,
+    "end": 678.06,
+    "text": "proper testing. People are"
+  },
+  {
+    "start": 679.27,
+    "end": 680.21,
+    "text": "Okay with"
+  },
+  {
+    "start": 681.03,
+    "end": 697.01,
+    "text": "having this kind of batteries, medicine, their body as long as it's been properly validated. Of course, you know, when this is to go to market, it's properly sealed. All of the interior electronics are completely sealed from the GI environment. There should be no leakage inside."
+  },
+  {
+    "start": 697.45,
+    "end": 697.97,
+    "text": "Um"
+  },
+  {
+    "start": 699.05,
+    "end": 702.61,
+    "text": "And past ingestible electronics have proved this is possible."
+  },
+  {
+    "start": 703.08,
+    "end": 706.29,
+    "text": "And people are willing to try this."
+  },
+  {
+    "start": 706.79,
+    "end": 707.7,
+    "text": "technology"
+  },
+  {
+    "start": 708.23,
+    "end": 713.01,
+    "text": "Specifically in regard to the magnet, this was a big concern in our"
+  },
+  {
+    "start": 713.99,
+    "end": 723.44,
+    "text": "design here. The concern of course is if we actually get the electromagnet and send a current through to repel the magnet, what's to stop it from then traveling a little further and then."
+  },
+  {
+    "start": 723.81,
+    "end": 731.25,
+    "text": "kind of reattaching and potentially causing some tissue damage if it connects over some mucosal lining of the small intestine."
+  },
+  {
+    "start": 732.45,
+    "end": 737.78,
+    "text": "Our solution to this, can't really see this design here, but we created kind of like a lip."
+  },
+  {
+    "start": 738.34,
+    "end": 742.0,
+    "text": "So once the electromagnet pushes the cap off..."
+  },
+  {
+    "start": 742.5,
+    "end": 753.58,
+    "text": "The two pieces of pill can never fit together again. It was a barrier to prevent the electromagnet and the permanent magnet in the cap from ever getting close enough to each other to reattach."
+  },
+  {
+    "start": 753.96,
+    "end": 755.31,
+    "text": "So there's no risk of"
+  },
+  {
+    "start": 755.72,
+    "end": 760.82,
+    "text": "kind of a magnetic reactivation that may cause antitition damage."
+  },
+  {
+    "start": 761.29,
+    "end": 768.85,
+    "text": "And then like I said before, all the other electronics are completely sealed via like a waterproof coating side of the interior compartments."
+  },
+  {
+    "start": 769.51,
+    "end": 770.93,
+    "text": "So what about the issue of..."
+  },
+  {
+    "start": 771.65,
+    "end": 774.96,
+    "text": "what happens to it when it's flushed down the toilet, it's e-waste."
+  },
+  {
+    "start": 775.53,
+    "end": 778.48,
+    "text": "Yeah. And so this is kind of the."
+  },
+  {
+    "start": 779.53,
+    "end": 780.18,
+    "text": "I-I"
+  },
+  {
+    "start": 780.58,
+    "end": 787.28,
+    "text": "Big problem in the adjustable electronic space, like every group in the world who designs the adjustable electronic space is this issue."
+  },
+  {
+    "start": 787.85,
+    "end": 790.35,
+    "text": "And to be honest with you, it's not really solved yet."
+  },
+  {
+    "start": 791.69,
+    "end": 799.6,
+    "text": "Most groups in the world don't really have a good solution to this. You don't really want to collect that out of your remains. So it's kind of like not-- [AUDIO OUT]"
+  },
+  {
+    "start": 800.26,
+    "end": 801.52,
+    "text": "know, the greatest."
+  },
+  {
+    "start": 803.17,
+    "end": 806.29,
+    "text": "So there's not really a great solution to that yet."
+  },
+  {
+    "start": 808.55,
+    "end": 813.39,
+    "text": "So I have a great answer to your question then. - That's a good answer if it's the honest answer. - Yeah."
+  },
+  {
+    "start": 814.69,
+    "end": 819.34,
+    "text": "I had another question unrelated. You said some people would have hours to live."
+  },
+  {
+    "start": 819.72,
+    "end": 824.53,
+    "text": "How would you make a phage based on all of these modeling and everything?"
+  },
+  {
+    "start": 825.0,
+    "end": 825.62,
+    "text": "Um"
+  },
+  {
+    "start": 826.6,
+    "end": 827.18,
+    "text": "in"
+  },
+  {
+    "start": 827.69,
+    "end": 829.46,
+    "text": "a timely manner to treat the patient."
+  },
+  {
+    "start": 830.28,
+    "end": 856.35,
+    "text": "So are you referring to like the dry lab side or like how we'd like physically assemble with age? - All of it, I mean you have to do all of it, right? - Yeah, okay. So I can speak a bit about the overall part and then I can pass it on to Perif for like more specific stuff. But when it comes to us making the phage really fast, one thing to note is that this model currently runs in about just under two days to do the full computation to actually generate our new proteins. If we had better compute and like more server space."
+  },
+  {
+    "start": 856.42,
+    "end": 864.62,
+    "text": "GPUs or just like more processing power actually. We could just do this much much faster. It can easily be scaled up to be done under hours."
+  },
+  {
+    "start": 865.06,
+    "end": 876.69,
+    "text": "for sure. And that's something that we intend to do as we go towards commercialization. We'd have better compute and we'd be able to do this much faster. When it comes to actual assembly in the wet lab, that is definitely the biggest time sink."
+  },
+  {
+    "start": 877.06,
+    "end": 888.24,
+    "text": "You know, for us to be able to test our AI generated pages, it took us the entire project cycle. And only recently did we get our first batch of results to actually validate. And we need to be able to do this within the same hour timeframe."
+  },
+  {
+    "start": 888.61,
+    "end": 893.23,
+    "text": "to be able to ensure that they are safe for the patient. So we have a couple ideas to..."
+  },
+  {
+    "start": 893.77,
+    "end": 895.28,
+    "text": "speed up the process on the website."
+  },
+  {
+    "start": 895.65,
+    "end": 897.87,
+    "text": "One thing that we do, so let's go back to that"
+  },
+  {
+    "start": 898.69,
+    "end": 924.35,
+    "text": "So basically to get these spotting results or get some sort of screening results much faster, we pivot away from our homology directed repair or cast assisted repair that we've been currently using. It's which are yeast recombination. So this has been shown to be super, super fast yeast recombination powerhouses. And we can develop a system to be able to do this recombination much, much faster. It might be really hard to get it down to hours, but in the short term, we can definitely scale down the process of just days where we can..."
+  },
+  {
+    "start": 924.52,
+    "end": 928.82,
+    "text": "take our RBPs, we can bind them, validate the recombination, and then do this test."
+  },
+  {
+    "start": 929.19,
+    "end": 958.01,
+    "text": "So in a critical care timeframe, that will suffice for sure. A lot of critical care patients who request ph therapy, they might only have days or maybe a little longer. So working within that timeframe in the short term is okay. And then we develop higher throughput methods to do screening much faster. A lot of companies in the ph space have developed these very high throughput methods. There was a couple of labs in Canada that have been developing these 384 well plates where you can just"
+  },
+  {
+    "start": 958.18,
+    "end": 983.9,
+    "text": "view bacterial OD when you deliver a phage to it. And literally within hours you would actually get a reading. So those are the ideas. - Wouldn't the bottleneck be synthesizing the genes, the tests? - Oh yeah. So that we probably have to have our own in-house synthesis. Thankfully these genes are not too big. RBPs can be about a couple hundred amino acids if we're going for the full RBP or the RBD itself could be under a hundred, maybe 50 amino acids to 110."
+  },
+  {
+    "start": 984.23,
+    "end": 990.16,
+    "text": "So those we can synthesize pretty fast. We have in-house synthesis. So these are the things that we do as we scale up."
+  },
+  {
+    "start": 990.73,
+    "end": 992.59,
+    "text": "and we'd have everything like integrated."
+  },
+  {
+    "start": 993.32,
+    "end": 993.71,
+    "text": "That is"
+  },
+  {
+    "start": 996.23,
+    "end": 1003.47,
+    "text": "And then I guess perfect. Want to talk about the dry lab side of it. Yeah. I mean, Jayden covered a lot of it, but yeah, just going over the dry lab side a bit more"
+  },
+  {
+    "start": 1003.94,
+    "end": 1004.56,
+    "text": "um"
+  },
+  {
+    "start": 1008.1,
+    "end": 1022.8,
+    "text": "This year was done with three independent NCMC, so Monte Carlo Markov chain sampling seizures. And yeah, this ran with the production of my PI, got it to run on our GPU server, and this ran about 40 hours."
+  },
+  {
+    "start": 1023.27,
+    "end": 1030.8,
+    "text": "And yeah, exactly as Jayden was saying, with more compute, more GPUs, I think we can definitely do more sampling, more independent trials."
+  },
+  {
+    "start": 1031.17,
+    "end": 1035.09,
+    "text": "And this year, I was only just 500 trials. I can obviously increase the number of trials and..."
+  },
+  {
+    "start": 1035.65,
+    "end": 1037.58,
+    "text": "And also, we have a-- [AUDIO OUT"
+  },
+  {
+    "start": 1038.41,
+    "end": 1046.32,
+    "text": "We have a document procedure, which we do for our document validation. That is also another key metric which we use to actually validate if our pages will then, you know,"
+  },
+  {
+    "start": 1046.73,
+    "end": 1051.41,
+    "text": "have high success rate in the web lab. And that also requires high computation."
+  },
+  {
+    "start": 1051.85,
+    "end": 1059.63,
+    "text": "and high CPU usage specifically. So, you know, essentially scaling everything up, getting more, you can allow us to do more sampling, more testing and just."
+  },
+  {
+    "start": 1060.23,
+    "end": 1064.24,
+    "text": "go more on the dry lab site to actually have all the wet lab then."
+  },
+  {
+    "start": 1067.62,
+    "end": 1071.63,
+    "text": "I will focus more on the follow up question on the modeling side."
+  },
+  {
+    "start": 1072.33,
+    "end": 1076.91,
+    "text": "overall design was impressive. But my question would be on the, for example,"
+  },
+  {
+    "start": 1077.35,
+    "end": 1084.34,
+    "text": "There are large assumptions behind how to utilize this ESN, for example. For example, there are a lot of shutter bathing."
+  },
+  {
+    "start": 1084.74,
+    "end": 1085.9,
+    "text": "First question was, did you"
+  },
+  {
+    "start": 1086.63,
+    "end": 1094.26,
+    "text": "consider any other more structure related or more structure based boosted. And all those Minecraft those kind of are behind it."
+  },
+  {
+    "start": 1094.63,
+    "end": 1107.18,
+    "text": "So that's the first question. Second will be quite related because you do have those assumptions like the glycanine, length of glycanines, like size of glycanines, also including your modeling design, like the molecular docking design."
+  },
+  {
+    "start": 1107.69,
+    "end": 1108.59,
+    "text": "given your"
+  },
+  {
+    "start": 1109.09,
+    "end": 1111.44,
+    "text": "current settings or current design."
+  },
+  {
+    "start": 1111.85,
+    "end": 1117.1,
+    "text": "How is the successful rate of each stage?"
+  },
+  {
+    "start": 1117.48,
+    "end": 1138.64,
+    "text": "was successfully expressed or successfully go on to the next stage. Do you have any idea on that? - Of course, yeah. Thanks for the question. So yeah, in our initial cycle, we test actually a bunch of different models and of course, you know, our diffusion, Minecraft, and protean VNN. But luckily for us, it's not even a full paper yet. I still have a review. It's actually a pre-print right now."
+  },
+  {
+    "start": 1139.08,
+    "end": 1144.24,
+    "text": "MIT and Reversion came out with this new model that not only is it better to have a whole degree but also"
+  },
+  {
+    "start": 1146.09,
+    "end": 1150.32,
+    "text": "Here are your items. The main update session begins in 10 minutes."
+  },
+  {
+    "start": 1150.69,
+    "end": 1151.22,
+    "text": "Open."
+  },
+  {
+    "start": 1152.61,
+    "end": 1154.0,
+    "text": "Sir, underneath them. Sir, underneath"
+  },
+  {
+    "start": 1154.44,
+    "end": 1159.22,
+    "text": "Welcome to the event for the 10th party time. We will see you next time."
+  },
+  {
+    "start": 1160.71,
+    "end": 1165.55,
+    "text": "(speaking in foreign language)"
+  },
+  {
+    "start": 1166.25,
+    "end": 1169.23,
+    "text": "(speaking in foreign language)"
+  },
+  {
+    "start": 1172.49,
+    "end": 1174.16,
+    "text": "Yeah, it's time to start here with the"
+  },
+  {
+    "start": 1175.08,
+    "end": 1200.48,
+    "text": "Yeah, Bolst 2 is a new preprint that came out. And the cool thing about Bolst 2, which is why we're using it, is that not only can it, it has a show in its paper that has a full three level structural, structural, eventually you can make structures like after all three, it also has an affinity module. And that is the key part of our iPhone that you've been using. And we've shown, we even spoke, we even got the chance to speak with the Bolst authors and Bolst 2, the affinity module, it has"
+  },
+  {
+    "start": 1200.84,
+    "end": 1210.64,
+    "text": "a decent correlation with glycans as well. And we tested that out rigorously in our dry lab pipeline and you know, alpha-3, protean vin because of the fact that these are glycan targets."
+  },
+  {
+    "start": 1211.05,
+    "end": 1237.85,
+    "text": "And because on a bacterial surface that has both glycans and proteins, it's just not possible to use protein and BNN by mind wrapped. And which is why we had to go with Boles2. And honestly, we're very lucky that it came out in the timeframe. And that is what kind of dictated our entire procedure. We used VSM3 to generate new proteins and we essentially tested those in a 500 year recyclables with Boles2. We got these three floors, biomethymid-v10 and sequence alignment known RVDs."
+  },
+  {
+    "start": 1238.15,
+    "end": 1239.92,
+    "text": "And that's what kind of went into integration."
+  },
+  {
+    "start": 1241.03,
+    "end": 1251.38,
+    "text": "And sorry, I think your last question was how it all affected, right? - How well it translated. - Okay, yes. And yeah, so in the graphite itself, we, I'm thinking about."
+  },
+  {
+    "start": 1251.81,
+    "end": 1258.03,
+    "text": "So we had a Markov chain procedure going and I'm only about 30 to spend of the"
+  },
+  {
+    "start": 1258.57,
+    "end": 1276.75,
+    "text": "of the generated DSM proteins are actually incorporating the Markov chain. And that's just like, that is actually a good thing because that just shows that our model is actually exploring a high diversity of sequences and only the good sequences that it generates are incorporated into our chain, which then lead to us figuring out how efficient and how good those proteins are."
+  },
+  {
+    "start": 1277.32,
+    "end": 1288.11,
+    "text": "And regarding the what-lamp, I'd actually like to pass it on to Perdisha for talking about how our proteins that we send off were in the NIKINO Express, all of those different metrics and a few."
+  },
+  {
+    "start": 1289.8,
+    "end": 1291.38,
+    "text": "So yeah."
+  },
+  {
+    "start": 1292.55,
+    "end": 1296.08,
+    "text": "Actually, yeah, from the drylots I like, we sent off, let's say in the"
+  },
+  {
+    "start": 1296.52,
+    "end": 1297.49,
+    "text": "Yes. And."
+  },
+  {
+    "start": 1298.12,
+    "end": 1324.73,
+    "text": "Yeah, if you could just like elaborate on like the ones that we tested or even Jayden actually I can elaborate Yeah, I guess on the note of well I'm testing that's where we faced our very tough bottleneck I guess that's common with all I can projects What ended up happening is that we had close to nine proteins protein binding RBPs from batch one I think maybe around seven to eight protein binding RBP or glycan binding RBPs from batch one as well And then we had nine proteins"
+  },
+  {
+    "start": 1324.84,
+    "end": 1353.82,
+    "text": "glycan binding proteins from batch two. We were only able to test three proteins from batch two. And this is because we were trying many different ways of recombination. So when it came to all the proteins that were generated, we only got maybe three out of 20 to be that were able to be tested. We're on track to test all of them. Now in the wet lab, what we had to do is we had to switch to a new plasmid called the lambda red plasmid. And we had two different versions of this plasmid and only one of them had worked. But now that we know the exact plasmid that works, we have extra recombination machinery to facilitate"
+  },
+  {
+    "start": 1354.18,
+    "end": 1359.34,
+    "text": "the recombination and RBD swapping. We'll be able to test all of them pretty soon. So."
+  },
+  {
+    "start": 1359.78,
+    "end": 1365.81,
+    "text": "Current success rate is probably like under 10% of things moving from DrowLab to WetLab, but we should be able to get that up to 100."
+  },
+  {
+    "start": 1366.31,
+    "end": 1379.06,
+    "text": "in the coming weeks. - Yes, and also, sorry, just last thing to add on, in our DryLabs side itself, we also have currently in the works and active learning framework in which we take in the web lab results, whether it be negative or positive, and that itself feeds back into our DryLabs. (static)"
+  },
+  {
+    "start": 1379.72,
+    "end": 1386.61,
+    "text": "cycle. So no matter the results that actually helps us in the dry lab, then that can dictate how the model--"
+  },
+  {
+    "start": 1387.17,
+    "end": 1394.67,
+    "text": "Generously frozen. And, you know, biology is all about heterocyclism. And we know that we do like a couple more cycles, we will get there."
+  },
+  {
+    "start": 1398.44,
+    "end": 1403.31,
+    "text": "I may have, I missed this, but I don't see the connection between the hydrogen and."
+  },
+  {
+    "start": 1403.75,
+    "end": 1405.62,
+    "text": "antibiotic resistant bacteria."
+  },
+  {
+    "start": 1406.47,
+    "end": 1409.1,
+    "text": "I can answer this. Yeah, so."
+  },
+  {
+    "start": 1409.48,
+    "end": 1415.34,
+    "text": "This was a very exploratory idea that we had."
+  },
+  {
+    "start": 1416.39,
+    "end": 1421.2,
+    "text": "ERI JONES, the leading stage session begins in five minutes. Join us."
+  },
+  {
+    "start": 1422.73,
+    "end": 1429.04,
+    "text": "(speaking in foreign language)"
+  },
+  {
+    "start": 1430.66,
+    "end": 1431.66,
+    "text": "I'm a guy killer."
+  },
+  {
+    "start": 1432.2,
+    "end": 1435.28,
+    "text": "(speaking in foreign language)"
+  },
+  {
+    "start": 1436.13,
+    "end": 1438.67,
+    "text": "(static)"
+  },
+  {
+    "start": 1440.68,
+    "end": 1441.2,
+    "text": "So."
+  },
+  {
+    "start": 1441.57,
+    "end": 1469.69,
+    "text": "The main idea behind hardware, so if you look at the Dry Lab/Wet Lab cycle, what we're doing is that we're generating RBPs that can be used as a treatment for resistant infections from bacteria. We wanted to go a step further and explore the idea of stopping this crisis as a whole. And one thing that we know is that it has its roots heavily in agriculture, where antibiotics are given in very high doses, they're given often as prophylactic or sanitation agents, and often not in the most regulated fashions in comparison to pharmacy."
+  },
+  {
+    "start": 1469.93,
+    "end": 1497.95,
+    "text": "So the idea here was that, there's actually a lot of literature to support this, selective pressure of antibiotics will generate reservoir of resistance genes in the guts or GI tracts of animals, which can spread to human pathogens as Noah was mentioning. So the idea here then is that if we can deliver our AM modified phages to specific target sites in the GI tract and have a way to conditionally release these phages right at the site of infection,"
+  },
+  {
+    "start": 1498.21,
+    "end": 1511.22,
+    "text": "inside any GI tract. So a generalizable device that can traverse any GI tract, whether it be humans or animals, and then be able to reduce the enrichment of these resistance genes, that would be a very powerful way to solve the spread of..."
+  },
+  {
+    "start": 1511.62,
+    "end": 1539.32,
+    "text": "antibiotic resistance at its source. So H2 is our proof of concept biomarker for that conditional release. And we talked to a lot of stakeholders who have told us that H2 is not the best biomarker to use. Unfortunately, given our resources, it's very hard to be able to test other types of biomarkers, especially in a BSL1 or even 2 setting in a timeframe. So we just decided that H2 was the simplest way to test the idea that a conditional release could work in the first place. But we can definitely adapt this idea to other types of biosensors that can--"
+  },
+  {
+    "start": 1539.59,
+    "end": 1548.27,
+    "text": "maybe measure other types of biomarkers. One thing about H2 is that it is released by specifically certain equalized strains and that it is in a higher level. So."
+  },
+  {
+    "start": 1551.14,
+    "end": 1553.94,
+    "text": "Thank you very much guys. Good luck."
+  },
+  {
+    "start": 1554.89,
+    "end": 1555.47,
+    "text": "Thank you."
+  },
+  {
+    "start": 1556.01,
+    "end": 1558.99,
+    "text": "And that's the end of our judging season."
+  },
+  {
+    "start": 1559.88,
+    "end": 1560.3,
+    "text": "7"
+  },
+  {
+    "start": 1560.97,
+    "end": 1563.01,
+    "text": "Thank you so much. Thank you."
+  }
+]

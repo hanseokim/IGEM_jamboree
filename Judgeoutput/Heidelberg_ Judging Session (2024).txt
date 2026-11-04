@@ -1,0 +1,225 @@
+The 3D organization of the genome is key in regulating gene expression and cell function.
+Genome architecture is shaped by proteins that mediate spatial proximity between genetic elements that may lie thousands of bases apart.
+Genome confirmation capture sequencing lets us spy into the genomes architecture.
+and reveals how it determines cell behavior
+decides between health and disease and how it directs cell differentiation.
+Despite its obvious importance, we cannot easily engineer the 3D genome organization up until now.
+We, the IGM team Heidelberg, introduce Picasso.
+Plasmid Integrated, cast stapled origami, the first toolbox to rationally engineer the 3D genome.
+The core component of our part collection is the car staple.
+The cast staple is composed of deadcast 12a
+that Cas9 and our most impressive part.
+fusion guide RNA.
+Very importantly, we can program our Fusion Guide RNA to target any two DNA loci of interest simultaneously.
+Hence
+precisely defining a connection.
+Therefore,
+TAR staples can be easily multiplexed for complex genome rearrangement tasks simply by using multiple fusion guides.
+to efficiently test our car staples. We created DaVinci.
+Picasso's Digital Twin.
+computational platform to optimize our engineered car staples on the atomic and later on the macroscopic level.
+Using DaVinci, we modeled cast- staple complexes with various fusion guide RNA linkers.
+Our model predicted that 40 nucleotides is the minimal required length for efficient stapling while maintaining enough flexibility.
+Beyond that, we also investigated effects of car staple multiplexing in insured.
+that our stapling approach does not lead to unintended side effects such as DNA double strand breaks.
+Next, we put our optimized car staples to the hard test.
+and Hanser high checking.
+Enhancer hijacking describes the repurposing of an enhancer for oncogene activation in cancer.
+CASO can now address these effects at their root cause.
+As a proof of concept, we used a Lutziferase reporter in hex cells, which we activated by stapling it to an artificial enhancer element located on an entirely different strand of DNA.
+This resulted in strong reporter expression and thereby showing successful DNA stapling.
+As predicted, Baidavinci, a 14 nucleotide fusion guide linker, was the minimal length required for efficient stapling.
+After the wiki freeze, we could show that fusion guide linkers up until 18 nucleotides can actually be used.
+did not stop here. We already transferred our system to genomic locus.
+We stapled a genomic enhancer to the OCT4 promoter and detected significant changes in gene expression by RT-QPCR.
+From our knowledge, this is the first demonstration of using a fusion guide RNA-based cast staple to engineer the 3D genome in mammalian cells.
+Enhancer hair-jacking is only the tip of the iceberg.
+We imagine to use Picasso to investigate disease-driving mechanisms such as TET boundary collapses or EC, DNA hubs and oncogenesis and thereby revealing new drug targets.
+towards those applications we talked to various experts and expanded our part collection.
+In consequence, we engineered additional staple types, we functionalized our staples, and we engineered an in vivo readout system.
+In total, our part collection enables eye-dreamers and others to build up on our foundation and harness Picasso's full potential for society.
+Towards this process, we conducted a nationwide survey with over 800 participants from which we built up a public education program.
+focus on synthetic biology and our project.
+for our six comprehensive approaches.
+including our summer school, our career fair, as well as school workshops, along with public discussions such as our Friday lectures and inclusive science first days, we make science more accessible.
+After the Wurke Frese, we even held our dream organism competition, where we directly interacted with school kids and sparked curiosity for science.
+all about all about
+collaborating with experts, iJurists and society, as well as connecting DNA elements.
+Let's start together into the new era of 3D genome engineering.
+Thank you for your attention. We're happy to answer any questions.
+I can start just when you answer questions you need to be talking to the mic.
+First of all, congratulations. I think you made a...
+It was amazing and also to read about all these.
+I have a few comments on your
+Education and stuff for you. It's one point somewhere somewhere. I read I don't know where it was on your wiki
+you hope to inspire or you think you have an impact on the change of understanding in the education and stuff like this.
+I think you're overestimating your own impact in this area, to be honest. Changing education systems takes...
+ages.
+So I think in that sense, maybe down-toning your impact would have been good for your project, just as a critical remark.
+and i would like you to to
+Tell me outside, you mentioned diagnostics here and for what it could be used for.
+3D modeling idea.
+Do you have any other ideas of what your...
+I mean, how can it be used outside diseases? It's just like
+Can it be used in biotech? Can it be used in farming?
+your technology.
+Thank you, that's a really nice question
+So yeah, we think our swanstrut is mainly in the foundational research and basic research area. We can identify new enhancer and promote interactions. But we think when further developing our system, this could also be used, for example, to create entirely synthetic cells.
+and further go into this direction and maybe also further into bio-immediation or other aspects, we can use our synthetic cells to have novel diagnostic or novel switches which then can further be used for example detecting stuff in the environment or other aspects of this.
+Thanks so much for that presentation, really enjoyed it.
+really good job of completing this project. I think when I was reading the Wiki, which again was really well made, so congrats to whoever engineered that website.
+Yeah, exactly. So I think I saw something on that that was really interesting where you talk about the repurposed vector conjugation machinery. Is that something that you recall? Yes. And I think that's really interesting approach. So I'm really curious to learn more about that, specifically
+the strategy that you use to overcome the size limitations.
+of the genetic payloads in delivering the larger constructs. And I think that's a very innovative approach.
+Please tell us more about
+Thanks for your interest in our bacterial conjugation idea.
+So this was a project that we were co-developing along with the main cast stapling approach, especially to deliver the large DNA constructs that are part of our--
+project.
+So.
+Naturally it has been known that the Bekkil Congregation can deliver payloads up to or even more than 100 kilobases, which was one of our first inspirations to repurpose the Bekkil Congregation machinery.
+And that's essentially it.
+It circumvents the problem of limited coding capacity of AVs, which are limited to five kilobases.
+And we thought it would be interesting to--
+to the existing DNA delivery methods.
+and add a layer of targeting using our synthetic adhesion approach.
+Yeah, thanks so much. And I think this project, especially with regard to its sheer complexity, has a set of challenges. And I can definitely see that your team putting all the thoughts in overcoming that.
+Specifically, I think I noticed there's some...
+where you actually faced that these hard
+difficult questions like when you have like discrepancy with the literature like when you have like a value that's like 10 times higher than like what the literature value is right like some of you nodding so I hope I'm not like
+Remembering that correctly incorrectly and also we're talk about where when you were calculating the Delta G like the differences right like that also had some challenges so when you were faced with those how did you approach that like what was the
+What was your thoughts when you spent so much energy into something and then you started to say, "Oh, wait a minute, this converts to literature 10 times like a difference"?
+What was your thought when you were facing situations like that? Yes, thank you for your question. When we sought out to actually calculate the binding affinity of the mini-staple to DNA in order to validate the whole approach we have taken with our model.
+and
+We measured it in the wet lab using MSAR screens in order to actually estimate the binding affinity. And then in the dry lab, we wanted to pull the DNA from the Leutzeinzipper, which is the mini staple, and therefore have a weight function that gives us a path of...
+transition states, which allows us to estimate the energy required for that. And that was the main goal to actually see if our approach is actually valid. And when we saw that it's so different, we started investigating what is actually the problem. So what did we actually do? And we started looking at it very precisely. And while doing that, we saw that, well, we were pulling apart not only the whole complex, but also the DNA in itself.
+and a little bit of the protein and that's a big limitation because we didn't calculate the right thing at first.
+And that's why we sought out to find new technologies or even new ideas, what we have to do in order to actually calculate the right thing.
+because we weren't comparing the two things that are equal.
+And that was...
+very interesting for us and it just sparked curiosity and we wanted to do even more and more but unfortunately we had a little time constraints so we just had first few ideas where we had the specific geometry and we changed those geometries up.
+And we have even more ideas what to do next if you want to hear about them. But I hope that answers your question to a little degree.
+Yes, I think we can circle back to that. Yeah, I definitely would love to learn about it, but I think my colleagues would have more questions.
+Okay, something from your presentation.
+I like your project very much. The weekend design is also great.
+I have a question about the yaw.
+Well done. If you bring your product to the market.
+What are the difficulties? Do you think you will face...
+We haven't thought that much about entrepreneurship and actually selling our product and more about providing it to scientists and thought about doing a publication afterwards with all of our data to kind of... Yeah, we want to enable the studying of this so we think it is more easy for every scientist to use if we just provide it to everyone, show how you can do it and show how can you use our product in an easy way because it's very easy to use.
+And this is like kind of idea to enable scientists.
+So what journal will your publicist in?
+We don't know yet, yeah
+You will do a penance plan.
+What am I still doing? You think...
+What is the mouse doing? It will give you two opinions plan.
+Sorry, could you give us a timeline about your product? You do a business plan.
+Okay, yeah, we we haven't thought about entrepreneurship that much so
+I would need to come up with something on the spot.
+So, um...
+Em...
+First would be proving that actually everything works and I guess for that it would be nice to have a preliminary pattern for that so we can have the one year time frame to actually show that our product is unique and does what it's supposed to do. So we would have one year time frame to show more and more data that it works for a lot of different targets and I think that's possible in that time frame.
+And the more we would have that pattern, we could build upon that to kind of talk to stakeholders. We already had a PhD student from our university who asked us if she could use our system for her thesis. So yeah, the interest is definitely there.
+Thank you.
+Thank you very much
+I think I would actually just kill your entrepreneurship there and really encourage you to publish this because I think the...
+the
+The outlook of the understanding is way bigger than the actual product itself.
+So I think that I would really encourage you to publish this and also in a pretty high impact journal so that it gets out there and I use to study other things because...
+as you clearly see out yourself.
+We're not really sure where's the biggest impact.
+So I think that probably would be my advice.
+Thank you for your presentation, a very impressive project.
+My question is very technical, how many repetitions did you do in the wet lab for your results?
+(b
+So for the data that you saw on the Vicky, we did biological replicates, but due to time constraints for the data that we presented post-Vicky freeze, it's technical replicates. But if we had more time, we would have done biological replicates. And what model did you use for the conjugation?
+[static
+One person for you.
+In which sense you mean the model, the system that we use? The model, the bacteria model. So the configuration machinery was RP4 system and we adapted it with E. coli strains. So we basically took two different strains, one donor and one recipient cells, but this was just for the first step where we validated our constructs and then moved forward to the mammalian cells. Okay, thank you.
+So thank you very much for your presentation and yeah, as all the judges said, it's a really, really cool project. So I want to ask the annoying judge with the annoying question. I just wanted to ask, why did you choose GROOMAX for MD software?
+compared to others just a small question
+So essentially...
+We first started with the idea of using ox DNA because we want to model two plasmids of 10 kilobases each. So we use a coarse-grained model, but ox DNA cannot natively support proteins.
+So we needed to find a way to kind of calculate the forces that we want to use so that we can plug them into OxyN8 to model the protein. And we choose GROMACS. Essentially, it went through different kinds of stages where we talked about different force fields. And we chose AMBER in the end and GROMACS since it's pretty easy to use and since it ran on our cluster that we used.
+Yeah, so for ease of use.
+Thank you very much.
+Yeah, I think I'll ask one that's really interesting to me is that you mentioned your application in studying cancer.
+because I think that is definitely one of the applications that I feel speaks to a lot of people.
+Just to learn more about that, I would love to know.
+the specific steps that he took to ensure that
+The system, because of the rebuild, is manipulating the DNA hubs in control and the...
+reproducible manner.
+and uh...
+I think this is something also you mentioned in the Wiki, but assuming that given more time, how would you plan to measure...
+the downstream effects of the gene regulation and the...
+and monitor the tumor progression in that.
+Yeah, thank you. That's a really interesting question, and which you actually discussed quite a lot on our team
+So I'd rethink, but an easy way to monitor what you already did with our genomic and hands-on hijacking is to measure the MRI levels.
+[INAUDIBLE]
+But also this can further be extended for example with single cell sequencing if you have multiple...
+cell groups and you can also then do 3C chromosome capture technology to have not just look at the levels of a change in mRNA levels but just look at the proximate which does not always have to regulate the mRNA in a detectable manner.
+And furthermore, we think that using microscopy to further assess organoids or other more cancer-like cell types.
+We could then further assess the phenotype and how this changes and also really integrate it with already existing technologies both in imaging and also in confirmation capture technology to kind of involve our project with the existing technologies and expand the capabilities of the field.
+days for
+Okay, I have another question about your...
+experiments
+We all know CCTBG can express toxin protein.
+which
+affects the growth of E. coli.
+Hey
+When you design your experiments, how did you consider it cytotoxicity?
+do explain to us.
+uh
+We all know CCDB
+6ATB gene, yeah.
+Yeah, so, um-- [
+We basically--
+Sorry.
+I want to go here
+Basically, this is our entry vector that you are talking about, right?
+So the CCDB basically ensures if we have the oligo in here that we need to bring in the two spacers targeting each loci that we want to target and the link between the two spacers. We basically...
+cut it out with a Golden Gate, and then the Zep 1.
+and if the anneal goes into the sides.
+We then have clones.
+But if it doesn't work, then the CCDB stays in and the cells cannot grow. So basically this ensures efficient cloning.
+Okay, thank you.
+about your casp protein, about your casp Fusion casp protein.
+The construction of fusion test proteins improves a burden on cells.
+Uhh
+is
+affect the editing effectivity.
+Okay.
+and
+do you repeat as this constant data.
+other question. Do you want me to?
+Does the construction of the fusion cast protein impose a burden on cells and does this affect the aiding efficiency?
+No, it doesn't.
+We have this data here. So basically this is a dual is a phrase at a essay which we engineered the vanilla reporter to include a target site for the spike as nine and we basically this is the fusion cars and As you can see we first targeted just one locus so the MB cus of a targets the Firefly and the cus 9 targets the vanilla and as you can see if we only target one
+and
+It works and every target, let both proteins target each cell at the same time. It doesn't affect the editing efficiency. As you can see, even here, it goes a little lower. So yeah, it works.
+quite well actually
+Hope this answers your question.
+have an ask question about the delivery system. So you were talking about how
+It could help on...
+cancer your system right
+How would you?
+I won't say inject, but how would
+patient
+your system
+How would you use, how would you do to the delivery?
+(laughing)
+Thanks. So I guess your question is concerned with the safety of our system when used in an in vivo setting. In consultation with experts, we realize that there are several systems to
+wipe out the bacteria once they do their job. We were initially considering using oxo-trophic strains, which are using inducible, putting the conjugation machinery under an inducible system, which would eventually run out. So one idea could be using liposomes and--
+and loading a predetermined concentration of arabinose, which is not natively found in the human body, and having the system only active for a certain period of time. And in combination with oxotrophy, the bacteria would eventually die.
+It goes
+I think I would comment on this with the targeting.
+I think there are way many things now in targeting to cancer cells that you have not even touched upon.
+I think there will be lots of possibilities to do this, but again...
+in 20 years, right? I mean, not tomorrow
+but we put
+Well, just a small question. I was curious in the video you said that this technology would give...
+perspectives in genome evolution. So it was--
+just wanted to hear your thoughts about it. Like, why did you say that?
+So if I understood your question correctly, it's regarding that shaping the genome in a certain way has a huge impact on what the organism looks like at the end. And one example would be that part of the difference between, for example, the great apes and humans can be explained by also the way that certain genes are arranged to each other, even though there's a pretty huge similarity between the two genomes.
+They are also shaped in a different way.
+which impacts at the end the way the organism looks like and studying this is also a possibility. Or thinking about just different cells in the body. Can I finish the sentence? You know how they all have the same genome but at the end they have different functions and look different but they're essentially on the sequence level the same but the shape is different and all of this is now possible to study.
+Very, very interesting. Thank you very much
+Thank you.

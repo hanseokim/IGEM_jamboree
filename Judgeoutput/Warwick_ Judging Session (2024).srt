@@ -1,0 +1,960 @@
+1
+00:00:01,250 --> 00:00:21,900
+electronic devices make up an indispensable part of their everyday lives. But do you know what happens to them after they've surpassed their intended use? With e-waste levels rising five times faster than recycling levels, this is becoming an increasing problem. We are particularly focusing on lanthanides, which are hard to find, hard to extract, and hard to recycle. And currently less than 10% of them are being recycled.
+
+2
+00:00:22,660 --> 00:00:33,870
+Current methods involve using harmful hydro-metallurgical and pyrometallurgical methods, which involve using harsh chemicals, which are energy intensive, causing harm to both human lives and natural ecosystems.
+
+3
+00:00:34,340 --> 00:00:37,260
+Our method accumulates lanthanides in the smaller area.
+
+4
+00:00:37,890 --> 00:00:43,150
+smaller volume with less other elements in it, reducing the need for pyrometallurgical methods in order to separate everything.
+
+5
+00:00:46,340 --> 00:00:49,840
+Right, so the design of our project comprises three major components.
+
+6
+00:00:50,210 --> 00:00:57,300
+So the first component is a bioaccumulation strategy. So we want to make sure that there's as many lanthanides in the cells as possible.
+
+7
+00:00:58,180 --> 00:01:08,020
+Secondly, and this links in, is we want the sequesterosanthanides. So we use a protein called lanmodulin, which has picomolar affinity for lanthanides. So any lanthanides that get inside get mobbed up.
+
+8
+00:01:08,870 --> 00:01:16,110
+Now that has a couple of interesting effects because it effectively blinds the cell to the amount of lanthanides it has intracellularly because they're all stuck in the lanmodulin.
+
+9
+00:01:16,490 --> 00:01:23,380
+So one effect is that the cell thinks, oh, I've got no lanthinides, I'll keep taking up more lanthinides, hence aiding the bio-accumulation strategy.
+
+10
+00:01:23,880 --> 00:01:30,420
+The other effect is that we have a hemataxis protein, which causes taxes towards our aspartate plug.
+
+11
+00:01:30,820 --> 00:01:41,010
+and that's under neodymium upregulation. So until all of this land mausolein is saturated, nothing happens. But once it's saturated, the bacteria move towards the plug with the lanktonites within them.
+
+12
+00:01:43,050 --> 00:02:01,710
+To prove this bioaccumulation increase, we did ICPMS measurements, which show, which we then standardized to relative cell density and a known concentration of copper to give us our relative values for neodymium concentration. From this we found that we had a 1.46 higher neodymium concentration in our engineered strain compared to our wild type strain.
+
+13
+00:02:05,480 --> 00:02:11,630
+So yes, these are the genetic circuitry and components of our system, the major components. So we have the LUN module and...
+
+14
+00:02:12,170 --> 00:02:14,030
+which is produced and which
+
+15
+00:02:14,440 --> 00:02:22,580
+binds the neodymium, therefore inhibiting our upregulation until again all the land modulin is saturated at which point we get our chemotactic behaviour.
+
+16
+00:02:23,400 --> 00:02:24,370
+Well we have to prove
+
+17
+00:02:24,770 --> 00:02:26,420
+So we have our proof concept experiment.
+
+18
+00:02:26,980 --> 00:02:37,140
+Our proof of concept experiment comprises an agar plate that's comprised of soft agar. So it's about 0.2% agar, which means it's sufficiently porous for the bacteria to swim through.
+
+19
+00:02:38,340 --> 00:02:41,650
+And then initially in that plate we have homogenous neodymium.
+
+20
+00:02:42,120 --> 00:02:45,070
+And after incubation, we examine.
+
+21
+00:02:45,670 --> 00:02:56,340
+how we've disrupted the neodymium homogeneity. So we can see in our engineer's train, we increase that description of the homogeneity. We increase the neodymium near the plug and we reduce further.
+
+22
+00:02:56,770 --> 00:02:58,380
+Oh sorry, and we reduce it further away
+
+23
+00:03:01,540 --> 00:03:02,450
+So we make use of
+
+24
+00:03:03,110 --> 00:03:17,140
+We made use of mathematical modeling all along our project to support the design. First, we decided to model the overall population and we use a partial differential equation model which is based on the well-known Keller-Sagal model for chemotaxis. As you can see in the result,
+
+25
+00:03:17,610 --> 00:03:22,670
+from here and in the simulation, what you have is that the active cells which are...
+
+26
+00:03:23,750 --> 00:03:39,790
+take new denium and then swims toward the sensor where the chemotaxis plug is, and this shows chemotaxis. On the other hand, we have a second model, which is an agent-based model to evaluate relative strength of each genetic component. Using this and -- [audio cuts out]
+
+27
+00:03:40,330 --> 00:03:58,130
+with our ODE model inside each agent, we were able to establish optimal expression level. And as you can see from our results, these are supported from a faster chemotaxis when compared to the original strain. And obviously, any deviation from these levels caused the overall system to not
+
+28
+00:03:59,010 --> 00:04:01,810
+be exhibited on chemitaxi behavior anymore.
+
+29
+00:04:04,330 --> 00:04:10,860
+So yes, in the future we would like to scale up our project to use an industry and how we're going to do this is by having this tank.
+
+30
+00:04:11,270 --> 00:04:33,100
+And we want to engineer different strains of bacteria that can accumulate different metals and then send to different locations for extraction. So as you can see here in the diagram, here we have four different lanthanides and four different strains taking up those lanthanides and moving to different chemotaxis points. It makes sense to different chemo tractants through chemotaxis.
+
+31
+00:04:33,510 --> 00:04:59,230
+And yeah, we would also like to use affinity-based protein purification in the future because at the moment we're only accumulating lanthanides, but we want to separate them into their distinct elements. And through protein-based purification we can do that. But at the moment we would have to use pyrometallurgy, which is a little bit more energy intensive than protein-based affinity-based purification. However, that's what we plan to do to make our project as eco-friendly as possible.
+
+32
+00:05:02,180 --> 00:05:02,670
+Thank you
+
+33
+00:05:03,400 --> 00:05:04,690
+very impressive presentation.
+
+34
+00:05:05,290 --> 00:05:06,190
+Umm...
+
+35
+00:05:06,790 --> 00:05:10,540
+I would like to ask our fellow judges on Zoom to-- [AUDIO OUT]
+
+36
+00:05:10,980 --> 00:05:12,460
+if you have any question to start with
+
+37
+00:05:15,330 --> 00:05:15,790
+But yes
+
+38
+00:05:16,230 --> 00:05:18,510
+Thank you, this was a very nice presentation.
+
+39
+00:05:18,920 --> 00:05:24,460
+Oh yeah, and I have some question about the model. What is the source of your parameter for the...
+
+40
+00:05:24,870 --> 00:05:26,450
+Gene Ragonetry Network Model
+
+41
+00:05:30,630 --> 00:05:31,280
+Yeah, you
+
+42
+00:05:32,650 --> 00:06:00,650
+Yeah, our parameters are both estimated from the literature and from experimental measure in the lab. For most of them, we were lucky. And for example, all diffusion coefficients and that kind of parameter that can be well-find in the literature, we did some research. We scaled it down more appropriately, and we used them in our model. But for some of them, and especially for the IP parameters of the model, we had to conduct some experiments. And in order to be able to let the model fit as best as possible our experimental data, they--
+
+43
+00:06:00,650 --> 00:06:05,280
+data. And obviously after we fitted this experimental data, we were able to...
+
+44
+00:06:05,350 --> 00:06:12,270
+push the boundaries of the parameters and to see what the expected behavior would be in cases where experimental data are not covered.
+
+45
+00:06:14,340 --> 00:06:27,540
+Okay, and I saw that on your Wiki you said that maybe some parameter is derived indirectly from your experimental result from some close reading or something, right? Yeah, that's not the question. I think I...
+
+46
+00:06:27,940 --> 00:06:31,790
+I want to give you a suggestion is that you I think you'd better document how you
+
+47
+00:06:32,420 --> 00:06:34,610
+derive this parameter from your...
+
+48
+00:06:35,050 --> 00:06:53,420
+experimental data because if any team in the future wants this parameter, because every team system may be different, they need to know how you guide this parameter and is that a good, and can they just adopt it or need to make some modifications. So I think, yeah, it's a suggestion you get a better document.
+
+49
+00:06:54,120 --> 00:06:56,270
+So how you derive that.
+
+50
+00:06:57,770 --> 00:07:10,540
+Yeah, thank you. Thank you. Yeah, you're right that some of the parameters should be better documented, but also some of the IP parameters were very hard to document. And also it counts more for observation, indirect observation.
+
+51
+00:07:12,740 --> 00:07:13,840
+That's what thank you.
+
+52
+00:07:16,580 --> 00:07:17,070
+n-
+
+53
+00:07:17,990 --> 00:07:22,130
+Thank you team, so wonderful presentation and impressive project.
+
+54
+00:07:22,760 --> 00:07:24,530
+So I have a couple of ready.
+
+55
+00:07:25,410 --> 00:07:32,980
+So you started with electronics materials. So how much percentage of the electronic materials represent lengthonites and
+
+56
+00:07:33,930 --> 00:07:34,480
+in what?
+
+57
+00:07:34,850 --> 00:07:37,740
+formed these lanthanides are present in the electronic.
+
+58
+00:07:38,730 --> 00:07:39,220
+material .
+
+59
+00:07:43,270 --> 00:08:11,270
+So, orchodontonides only make up around less than 1% of your electronic device. This obviously this fluctuates per electronic device, but this is kind of a general statistic we got from literature. They are very vital components because they help them usually in the electronic circuits of your device and in the motherboard. And so these are also very hard to reach locations and very hard to purify both manually or
+
+60
+00:08:11,560 --> 00:08:23,630
+via just what current recycling techniques and hydro metallurgy and pyrometallurgy. And so the idea and the brace of our project was to be able to access these hard to access.
+
+61
+00:08:24,010 --> 00:08:29,840
+metals, lanthanides in these hard to access parts of your electronic devices. So even though it is a small
+
+62
+00:08:30,790 --> 00:08:34,290
+So what form they exist in the...
+
+63
+00:08:35,560 --> 00:08:38,160
+electronic material means what compound form
+
+64
+00:08:39,270 --> 00:08:43,340
+So the major form, especially for neodymium...
+
+65
+00:08:43,750 --> 00:08:49,040
+which is one we're working with is it comes in magnets which are used in various different parts of the computers
+
+66
+00:08:49,410 --> 00:08:52,460
+in fact existing recycling efforts which are limited.
+
+67
+00:08:52,900 --> 00:09:06,060
+tend to try and take out the parts that are particularly comprised of magnets. So I think hard there's work that's going to... In your experiments, did you try the same compound form or...?
+
+68
+00:09:06,440 --> 00:09:09,810
+is the free form of lanthanides that you have used.
+
+69
+00:09:10,660 --> 00:09:11,150
+test
+
+70
+00:09:13,130 --> 00:09:38,040
+So we did try to extract neodymium from the magnets itself because you can get them from industry and we collaborated with someone who gave us these magnets. However, due to the very concentrated nitric acid needed to dissolve them initially and to basically break them down as you would easily in industry, we were not able to obtain the health and safety assessments to do this and so we weren't able to take it further unfortunately.
+
+71
+00:09:38,950 --> 00:09:40,780
+So does it mean that
+
+72
+00:09:41,890 --> 00:09:42,350
+you are
+
+73
+00:09:42,730 --> 00:09:49,580
+model to work so it will require some pre-processing of the electronic material or even the internet.
+
+74
+00:09:50,410 --> 00:10:02,960
+compound form which is present here. Yes, so documented in our Wikian implementation strategy, the first few steps are very much how do we get those Londonites from tech waste into a usable state?
+
+75
+00:10:03,590 --> 00:10:12,820
+And that does require acidic conditions. It does require a few resources. It's not as resource intensive as the 800 degree centigrade pyrometallurgy that we're trying to reduce.
+
+76
+00:10:13,350 --> 00:10:31,020
+And in the future, some of the next steps that we would use would be to try and get the bacteria to grow directly on the tech waste by metabolizing the plastics, which would also reduce the amount of energy we have to interpret in the forms of media supplementation. So from your initial experiment, do you have some estimate like--
+
+77
+00:10:31,400 --> 00:10:35,440
+how much title of the bacteria is required to clean up.
+
+78
+00:10:36,710 --> 00:10:37,780
+how much.
+
+79
+00:10:38,250 --> 00:10:39,860
+amount of lintanides.
+
+80
+00:10:40,840 --> 00:10:42,990
+So some maybe not festing it.
+
+81
+00:10:46,570 --> 00:11:07,700
+So from our wiki and our measurements, you can kind of see that our engineered strain can take up more lanthanides up to around 100 ppm without dying or being affected by it, such as you can see in the wild type strain. This is in our results section on our wiki. However-- [AUDIO OUT]
+
+82
+00:11:08,170 --> 00:11:08,750
+uh
+
+83
+00:11:09,380 --> 00:11:09,780
+Sorry.
+
+84
+00:11:10,660 --> 00:11:11,660
+I've lost the question.
+
+85
+00:11:12,100 --> 00:11:37,920
+Yeah, so what the type of bacteria is required. So you mentioned about quantity of lentilite. It would obviously depend on the sample and we weren't able to do measurements that kind of test the maximum boundaries of the uptake. But bacteria, we were able to prove that it can have and hold up to 100 ppm and still be fine. Obviously, this is not a maximum quantity.
+
+86
+00:11:38,120 --> 00:11:47,600
+However, if you take that into account, this could be then modeled potentially and scaled up in an industrial setting, if that makes sense.
+
+87
+00:11:48,550 --> 00:11:51,280
+Thank you. So just another point means.
+
+88
+00:11:51,690 --> 00:11:58,380
+although it's there and you are Wiki, but human practices were somehow missing in the presentation. Maybe you can just briefly.
+
+89
+00:11:59,050 --> 00:12:00,400
+tell what
+
+90
+00:12:01,000 --> 00:12:07,180
+what all you have done and other is how do you address the biosafety aspects related to the project.
+
+91
+00:12:19,490 --> 00:12:35,920
+Did you get my question? Could you repeat it please? Sorry. So I'm just saying, so I could not see that your human practice is aspect in your presentation. It is there in the Wiki, but maybe you can just tell us briefly that what all you have done under human practices.
+
+92
+00:12:36,290 --> 00:12:40,720
+And other thing is how do you address the biosafety aspect of your project?
+
+93
+00:12:42,440 --> 00:12:52,270
+So yes, so in terms of human practices reached out to industry. So we had the purpose of visiting Sherbourne recycling, which is a local curbside recycling center close to where we live.
+
+94
+00:12:52,680 --> 00:12:53,170
+and
+
+95
+00:12:53,640 --> 00:13:18,910
+We basically had the, we visited their site and walked through and we saw how we can make like a swimming pool or a tank where the electronic waste can fall in. And then we can basically recycle the like lanthanides from e-waste in that, like in their industry. And we've also learned that it's important to reflect on our project as well. And like you raised some questions about the waste will be creating. So the chemical waste will be creating.
+
+96
+00:13:19,050 --> 00:13:24,820
+And we reflect on that and like adapted our strategy as well and adapted our implementation strategy in terms of that.
+
+97
+00:13:25,190 --> 00:13:40,940
+And yeah, also we also reflected on like we need to be a makeup project more environmentally friendly and economically viable and to make sure that the last night stay within the UK to benefit the UK economy. So that's a main thing we've learned from the practices from visiting them. We also talked to bi-ethists and
+
+98
+00:13:41,410 --> 00:13:57,900
+Also learned that we should always be clear about the pros and cons and that we're actually working with a genetic engineer and organisms. So we reflect on that throughout our project. And we also met with someone, an expert in global sustainable development. She's a PhD student. I'm special in saying that we reflected on how we can make our project more and more sustainable.
+
+99
+00:13:58,280 --> 00:14:01,230
+and about the bioethics, Andre can tell you a little bit more about that
+
+100
+00:14:03,720 --> 00:14:30,880
+Yeah, so we do actually have a biotics report on our wiki and it basically went through our aims, our lab work to date and future implementations. And based on that, oh yeah, so we compared it to current declarations. So we used it as a framework to analyze our project. And based on that, our aims and lab work seem to be kind of in line to current principles that we have to follow as
+
+101
+00:14:31,080 --> 00:14:57,470
+people that work with biologically engineered organisms. However, for implementations, we do have a few areas that we can work on. One of which was to prevent our organism to be released in the environment and have unforeseen effects on the ecosystems. So that would be implemented by making our organism an oxo trough or introducing a kill switch gene.
+
+102
+00:14:57,830 --> 00:15:24,380
+However, another aspect we thought of is the fact that our project could be financially profitable and that might kind of take away from its environmental impact. So it might produce a cobra effect in which companies that implement our project might be interested in like promoting e-waste so that they get more lanthanized that can be eventually sold. So based on that, we looked into
+
+103
+00:15:24,610 --> 00:15:47,090
+either licensing our project with like material transfer agreements that would include not using this organism in any way that would harm the environment or like not using this organism to compete with other recycling methods that might appear in the future and that might be more sustainable. So sustainability would come first always.
+
+104
+00:15:47,590 --> 00:15:50,420
+Thank you, thank you, nice one, thank you once.
+
+105
+00:15:53,570 --> 00:15:57,200
+- Yeah, I know I have any photo question, let's move on to the outside chart. Thank
+
+106
+00:16:00,840 --> 00:16:01,810
+Hey there.
+
+107
+00:16:02,210 --> 00:16:04,660
+Yes, I have a question about your...
+
+108
+00:16:05,190 --> 00:16:07,660
+emo taxes experiments
+
+109
+00:16:08,520 --> 00:16:09,170
+Um...
+
+110
+00:16:11,240 --> 00:16:19,180
+Hey, I don't understand why you used E. coli, your chemo-tactic experiments. And also there was a statement in your Wiki that says...
+
+111
+00:16:19,720 --> 00:16:46,970
+something like you were trying to find chemo attractants that e.coli were not attracted to. So can you actually explain that? I got very confused. Yes. Sorry. I think you've slightly missed this. We were looking at using methylobactyomic stock once, which is our organism we're working with. And we were inserting chemotax, chemotactic proteins into that. Yeah. The chemotactic proteins that we used, we were looking at a series of them from e.coli because they're well characterized. So they're the parts that we're taking.
+
+112
+00:16:47,270 --> 00:16:51,660
+The reason that we were looking at several of them is because we wanted to identify a chemo.
+
+113
+00:16:52,130 --> 00:16:56,020
+Texas protein that we'd endow our methylobacteria on max.
+
+114
+00:16:56,390 --> 00:17:03,220
+with chemotaxis towards attracting that it's not naturally attracted towards so that we could have robust control.
+
+115
+00:17:03,720 --> 00:17:06,130
+We had some issues with it because the bacteria.
+
+116
+00:17:06,600 --> 00:17:33,340
+Initially it was difficult to get the experiments set up so they would show motility. Yeah, so I just yeah. So what's the bit about finding chemo attractants that E. Curlow were not attracted to? So again, it's not about, maybe there's a typo in the wiki, but it's about well attractants. I'll try and find it in a minute. That methylobacterium extorquents is not attracted to. So it's about making sure our system is tightly controlled by our parts and it's not got competing parts indogenously.
+
+117
+00:17:33,410 --> 00:17:40,660
+So Mxstalkens uses lanthanode as a co-factor, isn't it? It uses lanthanode as a factor of tabularness.
+
+118
+00:17:41,540 --> 00:17:42,900
+cool. Yeah. Very clever.
+
+119
+00:17:43,270 --> 00:17:53,040
+Yeah, we even tried to do an enzymatic assay, but unfortunately. It's not actually going to poison the bacteria because it actually uses it already.
+
+120
+00:17:53,730 --> 00:17:54,580
+Yes. Yeah, okay
+
+121
+00:17:55,140 --> 00:18:21,980
+And in fact, lanthanides aren't generally particularly toxic, but at the concentrations we begin to get to, we did have a concern that it might cause metal ion mismatching with enzymes. But we addressed that with partially with our lan-modulin. Can they use any lan-tonide? Is it a demi-ion? The specificity of MEX is for the first four lan-tonides, but there's literature work trying to change the selectivities, especially of lan-modulin.
+
+122
+00:18:22,090 --> 00:18:35,700
+which is something we want to integrate into our system. It's amazing that something like that's evolved actually. Yes, because most proteins combine calcium and randomise, but it has a million fold better selectivity. It's brilliant. We love that. Yeah. Okay. Cool.
+
+123
+00:18:37,610 --> 00:18:42,190
+Can you tell us more about the land modeling itself? Could it be engineered?
+
+124
+00:18:42,600 --> 00:18:48,270
+improved for affinity, but pretty high affinity already you said it, but maybe selectivity or
+
+125
+00:18:48,770 --> 00:19:02,640
+of our expression. Currently manipulating the land modeling was difficult, right? So this is exactly what we want to integrate into our system. So there's lots of literature work at the moment. There's a land modeling found in a, I don't remember the entire name, but its short name is Hands.
+
+126
+00:19:03,170 --> 00:19:14,450
+And that has a LAN module and that has selective differ heavier LAN thanides. And if we can get that protein engineering done in the future, then we can change that affinity, which is part of what this.
+
+127
+00:19:15,050 --> 00:19:16,910
+this system here in front of me as
+
+128
+00:19:17,610 --> 00:19:18,540
+in terms of
+
+129
+00:19:19,010 --> 00:19:20,460
+Sorry, I've, what was the
+
+130
+00:19:20,930 --> 00:19:22,260
+I'm not feeling it.
+
+131
+00:19:24,230 --> 00:19:24,720
+um
+
+132
+00:19:27,240 --> 00:19:29,360
+Oh sorry, yes, you've some overexpression.
+
+133
+00:19:29,830 --> 00:19:41,390
+Yes, so we used an IPT-induced promoter precisely for the purpose that we have the ability to try titrateably induce it to match the optimal expression parameters found in our model.
+
+134
+00:19:43,300 --> 00:20:07,180
+Does it work as expected in MEX, the promoters and anything optimized for E. coli? Does it respond well in MEX? So we worked with two German labs that work on methylabacterium and they've generated tools for those inducible promoters in MEX. So they provided us with the promoters that they've characterized in MEX.
+
+135
+00:20:07,720 --> 00:20:10,900
+as for the neodymium upregulation in
+
+136
+00:20:11,970 --> 00:20:22,770
+with our chemotaxis protein that again we've found a sequence in methylobacterium that is characterized in the literature as being very robustly up-regulated and again that's on our parts section on our wiki.
+
+137
+00:20:27,560 --> 00:20:30,860
+I would like to comment on the data that you present here.
+
+138
+00:20:31,400 --> 00:20:36,430
+quite often in the wiki also. Show results without error bars? Is it--
+
+139
+00:20:36,870 --> 00:20:40,400
+because you did without the statistics like error bars and...
+
+140
+00:20:41,930 --> 00:20:56,020
+Robust quantification, I would say. And is that because the experiment was difficult itself? And that's good because you're ambushed and you want to do difficult things? Or is it just because... Most of our experiments that don't show error bars are because we had to use a technique called ICP-MS.
+
+141
+00:20:56,490 --> 00:20:59,310
+and that technique costs about 50 pounds to run a sample.
+
+142
+00:20:59,690 --> 00:21:02,420
+So we have tried to prioritize.
+
+143
+00:21:02,890 --> 00:21:07,820
+We've had to reduce the amount of experiments we'd like to do.
+
+144
+00:21:08,330 --> 00:21:14,450
+Like I said earlier, we were trying to get an enzymatic assay for neodymium quantification that's about a 50th as expensive.
+
+145
+00:21:14,890 --> 00:21:17,680
+but we had issues in the protein purification strategy, unfortunately.
+
+146
+00:21:18,090 --> 00:21:21,970
+that would be future. It's also relatively difficult to get up.
+
+147
+00:21:22,500 --> 00:21:34,100
+like quantify the proteins by this technique just because of sensitivity issues and getting the stock solutions and calibration standards. So it was quite labor intensive and because we only kind of, it was quite hard to work with.
+
+148
+00:21:34,600 --> 00:21:40,780
+Lanham and Lamodulin, we got those results kind of near the end. So when we were finally at the stage to do ICPMS, it was.
+
+149
+00:21:41,250 --> 00:21:46,930
+annoying, but if we had unlimited resources and time, obviously we'd be able to get those error bars on there and more results.
+
+150
+00:21:48,610 --> 00:21:49,870
+and maybe a
+
+151
+00:21:50,370 --> 00:21:52,850
+related question is about the chemotaxis assay
+
+152
+00:21:54,120 --> 00:22:01,840
+ideal is it's what the setup was to be tested but would you imagine something to solve like the difficulties in measuring those distances
+
+153
+00:22:05,350 --> 00:22:06,420
+So we...
+
+154
+00:22:06,790 --> 00:22:18,990
+had a lot of time spent on trying to optimize our assays. Initially, we started with a qualitative assay that used small plates, and it was supposed to demonstrate a ring. It didn't, even for our positive control.
+
+155
+00:22:19,430 --> 00:22:26,580
+By the time we had our assay working, the agar unfortunately did still split because we had to get the agar concentration so low.
+
+156
+00:22:27,270 --> 00:22:31,760
+We think that in our proof concept, where we inoculate homogeneously...
+
+157
+00:22:32,170 --> 00:22:37,460
+we are likely to see less noisy results. But yes, when we have a single inoculation point, it's difficult.
+
+158
+00:22:38,340 --> 00:22:42,640
+Also the methylobacterium is well characterized as being motile.
+
+159
+00:22:43,240 --> 00:22:47,600
+but the bacteria we received initially from the German groups that we worked with.
+
+160
+00:22:48,010 --> 00:22:49,490
+seem to be domesticated a bit.
+
+161
+00:22:49,930 --> 00:22:54,450
+So we had to perform a series of direct devolution experiments to try and...
+
+162
+00:22:54,850 --> 00:22:56,850
+get the very motile bacteria.
+
+163
+00:22:57,250 --> 00:23:00,590
+and it seemed to reduce the efficacy of our system.
+
+164
+00:23:01,130 --> 00:23:07,570
+So we again, we're trying to work on getting those bacteria as motile as possible. How did you restore motility actually?
+
+165
+00:23:07,940 --> 00:23:12,850
+How do you restore motility in them? So what we did, and this is again characterized in Let's Chum.
+
+166
+00:23:13,320 --> 00:23:16,590
+is you grow up these soft egg up plates.
+
+167
+00:23:17,090 --> 00:23:29,550
+and you let the bacteria grow out naturally and it will metabolize all of the growth substrate, so in this case, methanol, where it is. And then it will move outwards to find more because it's soft agar so it can move through.
+
+168
+00:23:30,150 --> 00:23:33,420
+So what we did is we inoculated it in the center, correct.
+
+169
+00:23:33,930 --> 00:23:41,620
+And then those bacteria, which were farthest away from the inoculation point, you take those, so that you re inoculate. And over time the.
+
+170
+00:23:42,050 --> 00:23:45,360
+radius that they move should increase.
+
+171
+00:23:45,990 --> 00:23:47,220
+the use of the gel.
+
+172
+00:23:47,880 --> 00:23:55,380
+to move. Did they use flagella to move? Yes, these are single flagella bacteria. We made sure that we were working with...
+
+173
+00:23:55,750 --> 00:23:57,620
+run and tumble mechanics that seemed simplest.
+
+174
+00:23:59,210 --> 00:24:02,290
+Yeah, I'm not being unfair. I wouldn't put you down. There's a
+
+175
+00:24:03,140 --> 00:24:13,550
+Experimental description is hand drawn and I found it quite hard to I love my whiteboards. What can I say? I love to write. It's a bit hard to write. You know, I'm not snuck in your for it. You almost didn't have enough time to
+
+176
+00:24:13,930 --> 00:24:16,530
+use BioRendor or something like that.
+
+177
+00:24:17,190 --> 00:24:17,870
+More real estate.
+
+178
+00:24:18,250 --> 00:24:24,370
+more realistic, yeah. Very artistic, yeah. It was you that did it, it was you that did it, was it? Yeah.
+
+179
+00:24:25,030 --> 00:24:27,730
+Oh, you know, I'm still on that.
+
+180
+00:24:31,750 --> 00:24:43,310
+time, but thank you very much on a very impressive project presentation. Your answers are fabulous. So thank you very much. Enjoy the rest of the Ramburi.
+
+181
+00:24:43,720 --> 00:24:44,110
+front
+
+182
+00:24:47,010 --> 00:24:48,850
+and they stop.
+
+183
+00:24:52,070 --> 00:24:52,750
+the end.
+
+184
+00:24:54,210 --> 00:24:57,260
+until next week.
+
+185
+00:24:57,890 --> 00:24:58,290
+Yeah.
+
+186
+00:24:58,730 --> 00:24:59,150
+Thank you
+
+187
+00:24:59,650 --> 00:25:00,210
+Thank you.
+
+188
+00:25:03,780 --> 00:25:04,240
+Ooh
+
+189
+00:25:05,640 --> 00:25:07,120
+No, we're stuck.
+
+190
+00:25:16,710 --> 00:25:20,240
+the amazing the earth was bacterium she uses land in nature
+
+191
+00:25:24,040 --> 00:25:26,900
+Yes, well, why do people need those? I don't know why. They
+
+192
+00:25:28,170 --> 00:25:29,100
+I heard what's left
+
+193
+00:25:29,800 --> 00:25:31,890
+I had about naturally a few days
+
+194
+00:25:33,670 --> 00:25:34,540
+Thank you judges.
+
+195
+00:25:35,330 --> 00:25:36,820
+Thank you.
+
+196
+00:25:38,410 --> 00:25:40,620
+- Thanks. Nice to have met you.
+
+197
+00:25:41,960 --> 00:25:45,170
+Even though you probably can't see where the cameras from. Thank you, bye bye.
+
+198
+00:25:47,970 --> 00:25:48,430
+Oh.
+
+199
+00:25:49,890 --> 00:25:57,300
+So bacteria and human radium do they most honestly? There is a, well, not only radium, but some very heavy elements and...
+
+200
+00:25:58,050 --> 00:26:00,370
+Bakkaria seemed to be attracted to them for
+
+201
+00:26:00,840 --> 00:26:02,260
+- Right, Kim's not allowed.
+
+202
+00:26:02,630 --> 00:26:18,030
+Yeah, maybe accidental actually, maybe it must be because of big advantage, but they happen to accumulate radium. It's like, what would you do? That's a bad idea. That's the first question given mind. How did you do that? Doesn't just the alpha waves, the strong little.
+
+203
+00:26:18,890 --> 00:26:26,100
+- It's obviously not. - It's damaging DNA, but maybe reverse.
+
+204
+00:26:26,790 --> 00:26:40,690
+quick and maybe just bad edges that you can divide fast enough to avoid this. Some bacteria that live in sign nuclear reactors, is that true? Or linococus. Is that just science fiction? No, no, it's true. Linococus for the endurance. It was formed in a...
+
+205
+00:26:41,090 --> 00:26:41,810
+Well, not him
+
+206
+00:26:42,570 --> 00:26:44,500
+the core of the plants that in the world
+
+207
+00:26:45,130 --> 00:26:53,040
+The pools swimming pools, but it's not the name. You definitely do not swim. The pools where they store the waste and so it's.
+
+208
+00:26:54,530 --> 00:26:58,540
+incredibly radioactive, but you do find bacteria in there.
+
+209
+00:26:59,370 --> 00:27:02,420
+Is it used as an energy source? No, it can't do.
+
+210
+00:27:02,820 --> 00:27:11,220
+Also, I'm surprised. One thing is, one rational, the biological rational is that they don't have competitors.
+
+211
+00:27:11,850 --> 00:27:18,960
+No, they like to be there because there is nothing on the situation. That's all. It's like an acidic bomb. It's not very advantageous.
+
+212
+00:27:19,330 --> 00:27:21,680
+Probably, but you have no competitions. Wow.
+
+213
+00:27:22,600 --> 00:27:23,150
+Interesting.
+
+214
+00:27:23,560 --> 00:27:32,940
+He wanted to be me. So that's fine. Like all of us. Yeah. All right. That was it. Right. I'm going to get one.
+
+215
+00:27:33,450 --> 00:27:34,860
+move as fast as I can
+
+216
+00:27:35,560 --> 00:27:39,860
+Thank you.
+
+217
+00:27:41,610 --> 00:27:50,030
+Thank you, I enjoyed it. It was impressive. Yeah.
+
+218
+00:27:50,950 --> 00:27:51,920
+green projects.
+
+219
+00:27:52,330 --> 00:27:55,700
+So it's very, very hard to cut shows.
+
+220
+00:27:56,330 --> 00:28:03,180
+We're going to meet afterwards. We're going to meet now afterwards for a post-mortem and auto-op C.
+
+221
+00:28:04,010 --> 00:28:07,150
+Oh, it's one, two, one, three.
+
+222
+00:28:07,590 --> 00:28:10,510
+No, two. One minute plus two. Okay, that's done.
+
+223
+00:28:11,110 --> 00:28:12,850
+It should leave at four.
+
+224
+00:28:14,150 --> 00:28:25,940
+- I'm more judging my students. - It's just a fun hour at the work after. - A lot of judging.
+
+225
+00:28:27,650 --> 00:28:32,340
+Very creative.
+
+226
+00:28:32,930 --> 00:28:36,500
+Yeah
+
+227
+00:28:37,090 --> 00:28:40,180
+I have my team now.
+
+228
+00:28:41,060 --> 00:28:47,060
+the meeting.
+
+229
+00:28:47,460 --> 00:28:50,960
+(buzzer)
+
+230
+00:28:51,460 --> 00:28:55,060
+Okay.
+
+231
+00:28:55,650 --> 00:28:57,300
+So it's not it's
+
+232
+00:28:59,240 --> 00:29:04,750
+[inaudible]
+
+233
+00:29:05,830 --> 00:29:09,810
+What?
+
+234
+00:29:11,880 --> 00:29:13,170
+Very, very
+
+235
+00:29:14,410 --> 00:29:15,340
+Thanks for that.
+
+236
+00:29:16,900 --> 00:29:21,680
+[inaudible]
+
+237
+00:29:23,780 --> 00:29:27,790
+(mumbles)
+
+238
+00:29:28,200 --> 00:29:29,810
+I was very surprised
+
+239
+00:29:33,670 --> 00:29:34,320
+Hey!
+
+240
+00:29:35,170 --> 00:29:36,990
+Good luck.
+

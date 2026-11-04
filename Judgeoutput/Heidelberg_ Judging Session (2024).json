@@ -1,0 +1,1127 @@
+[
+  {
+    "start": 4.23,
+    "end": 10.13,
+    "text": "The 3D organization of the genome is key in regulating gene expression and cell function."
+  },
+  {
+    "start": 11.17,
+    "end": 19.02,
+    "text": "Genome architecture is shaped by proteins that mediate spatial proximity between genetic elements that may lie thousands of bases apart."
+  },
+  {
+    "start": 20.29,
+    "end": 24.72,
+    "text": "Genome confirmation capture sequencing lets us spy into the genomes architecture."
+  },
+  {
+    "start": 25.09,
+    "end": 27.5,
+    "text": "and reveals how it determines cell behavior"
+  },
+  {
+    "start": 27.94,
+    "end": 32.21,
+    "text": "decides between health and disease and how it directs cell differentiation."
+  },
+  {
+    "start": 33.38,
+    "end": 40.05,
+    "text": "Despite its obvious importance, we cannot easily engineer the 3D genome organization up until now."
+  },
+  {
+    "start": 40.81,
+    "end": 44.3,
+    "text": "We, the IGM team Heidelberg, introduce Picasso."
+  },
+  {
+    "start": 44.87,
+    "end": 50.83,
+    "text": "Plasmid Integrated, cast stapled origami, the first toolbox to rationally engineer the 3D genome."
+  },
+  {
+    "start": 52.2,
+    "end": 55.31,
+    "text": "The core component of our part collection is the car staple."
+  },
+  {
+    "start": 56.23,
+    "end": 59.22,
+    "text": "The cast staple is composed of deadcast 12a"
+  },
+  {
+    "start": 59.78,
+    "end": 62.29,
+    "text": "that Cas9 and our most impressive part."
+  },
+  {
+    "start": 62.73,
+    "end": 63.76,
+    "text": "fusion guide RNA."
+  },
+  {
+    "start": 64.42,
+    "end": 71.98,
+    "text": "Very importantly, we can program our Fusion Guide RNA to target any two DNA loci of interest simultaneously."
+  },
+  {
+    "start": 72.39,
+    "end": 72.98,
+    "text": "Hence"
+  },
+  {
+    "start": 73.41,
+    "end": 74.99,
+    "text": "precisely defining a connection."
+  },
+  {
+    "start": 76.29,
+    "end": 76.91,
+    "text": "Therefore,"
+  },
+  {
+    "start": 77.35,
+    "end": 84.5,
+    "text": "TAR staples can be easily multiplexed for complex genome rearrangement tasks simply by using multiple fusion guides."
+  },
+  {
+    "start": 86.31,
+    "end": 90.32,
+    "text": "to efficiently test our car staples. We created DaVinci."
+  },
+  {
+    "start": 90.73,
+    "end": 91.95,
+    "text": "Picasso's Digital Twin."
+  },
+  {
+    "start": 92.49,
+    "end": 99.12,
+    "text": "computational platform to optimize our engineered car staples on the atomic and later on the macroscopic level."
+  },
+  {
+    "start": 100.42,
+    "end": 105.9,
+    "text": "Using DaVinci, we modeled cast- staple complexes with various fusion guide RNA linkers."
+  },
+  {
+    "start": 107.08,
+    "end": 115.18,
+    "text": "Our model predicted that 40 nucleotides is the minimal required length for efficient stapling while maintaining enough flexibility."
+  },
+  {
+    "start": 116.36,
+    "end": 121.14,
+    "text": "Beyond that, we also investigated effects of car staple multiplexing in insured."
+  },
+  {
+    "start": 121.67,
+    "end": 127.15,
+    "text": "that our stapling approach does not lead to unintended side effects such as DNA double strand breaks."
+  },
+  {
+    "start": 128.04,
+    "end": 131.98,
+    "text": "Next, we put our optimized car staples to the hard test."
+  },
+  {
+    "start": 132.36,
+    "end": 133.49,
+    "text": "and Hanser high checking."
+  },
+  {
+    "start": 133.99,
+    "end": 140.5,
+    "text": "Enhancer hijacking describes the repurposing of an enhancer for oncogene activation in cancer."
+  },
+  {
+    "start": 141.41,
+    "end": 145.14,
+    "text": "CASO can now address these effects at their root cause."
+  },
+  {
+    "start": 145.61,
+    "end": 158.26,
+    "text": "As a proof of concept, we used a Lutziferase reporter in hex cells, which we activated by stapling it to an artificial enhancer element located on an entirely different strand of DNA."
+  },
+  {
+    "start": 159.08,
+    "end": 164.72,
+    "text": "This resulted in strong reporter expression and thereby showing successful DNA stapling."
+  },
+  {
+    "start": 165.51,
+    "end": 172.66,
+    "text": "As predicted, Baidavinci, a 14 nucleotide fusion guide linker, was the minimal length required for efficient stapling."
+  },
+  {
+    "start": 173.45,
+    "end": 180.24,
+    "text": "After the wiki freeze, we could show that fusion guide linkers up until 18 nucleotides can actually be used."
+  },
+  {
+    "start": 181.61,
+    "end": 186.67,
+    "text": "did not stop here. We already transferred our system to genomic locus."
+  },
+  {
+    "start": 187.11,
+    "end": 196.14,
+    "text": "We stapled a genomic enhancer to the OCT4 promoter and detected significant changes in gene expression by RT-QPCR."
+  },
+  {
+    "start": 197.13,
+    "end": 207.41,
+    "text": "From our knowledge, this is the first demonstration of using a fusion guide RNA-based cast staple to engineer the 3D genome in mammalian cells."
+  },
+  {
+    "start": 208.87,
+    "end": 211.57,
+    "text": "Enhancer hair-jacking is only the tip of the iceberg."
+  },
+  {
+    "start": 211.97,
+    "end": 223.92,
+    "text": "We imagine to use Picasso to investigate disease-driving mechanisms such as TET boundary collapses or EC, DNA hubs and oncogenesis and thereby revealing new drug targets."
+  },
+  {
+    "start": 224.68,
+    "end": 231.28,
+    "text": "towards those applications we talked to various experts and expanded our part collection."
+  },
+  {
+    "start": 231.81,
+    "end": 241.01,
+    "text": "In consequence, we engineered additional staple types, we functionalized our staples, and we engineered an in vivo readout system."
+  },
+  {
+    "start": 241.89,
+    "end": 250.77,
+    "text": "In total, our part collection enables eye-dreamers and others to build up on our foundation and harness Picasso's full potential for society."
+  },
+  {
+    "start": 251.53,
+    "end": 260.27,
+    "text": "Towards this process, we conducted a nationwide survey with over 800 participants from which we built up a public education program."
+  },
+  {
+    "start": 260.68,
+    "end": 263.86,
+    "text": "focus on synthetic biology and our project."
+  },
+  {
+    "start": 264.65,
+    "end": 267.38,
+    "text": "for our six comprehensive approaches."
+  },
+  {
+    "start": 268.01,
+    "end": 280.59,
+    "text": "including our summer school, our career fair, as well as school workshops, along with public discussions such as our Friday lectures and inclusive science first days, we make science more accessible."
+  },
+  {
+    "start": 281.19,
+    "end": 290.93,
+    "text": "After the Wurke Frese, we even held our dream organism competition, where we directly interacted with school kids and sparked curiosity for science."
+  },
+  {
+    "start": 293.7,
+    "end": 294.51,
+    "text": "all about all about"
+  },
+  {
+    "start": 295.53,
+    "end": 300.75,
+    "text": "collaborating with experts, iJurists and society, as well as connecting DNA elements."
+  },
+  {
+    "start": 301.22,
+    "end": 304.88,
+    "text": "Let's start together into the new era of 3D genome engineering."
+  },
+  {
+    "start": 305.38,
+    "end": 308.21,
+    "text": "Thank you for your attention. We're happy to answer any questions."
+  },
+  {
+    "start": 319.08,
+    "end": 322.35,
+    "text": "I can start just when you answer questions you need to be talking to the mic."
+  },
+  {
+    "start": 323.05,
+    "end": 326.54,
+    "text": "First of all, congratulations. I think you made a..."
+  },
+  {
+    "start": 327.05,
+    "end": 332.27,
+    "text": "It was amazing and also to read about all these."
+  },
+  {
+    "start": 333.61,
+    "end": 336.24,
+    "text": "I have a few comments on your"
+  },
+  {
+    "start": 337.0,
+    "end": 343.44,
+    "text": "Education and stuff for you. It's one point somewhere somewhere. I read I don't know where it was on your wiki"
+  },
+  {
+    "start": 344.52,
+    "end": 351.41,
+    "text": "you hope to inspire or you think you have an impact on the change of understanding in the education and stuff like this."
+  },
+  {
+    "start": 353.16,
+    "end": 360.02,
+    "text": "I think you're overestimating your own impact in this area, to be honest. Changing education systems takes..."
+  },
+  {
+    "start": 362.15,
+    "end": 362.67,
+    "text": "ages."
+  },
+  {
+    "start": 363.14,
+    "end": 371.79,
+    "text": "So I think in that sense, maybe down-toning your impact would have been good for your project, just as a critical remark."
+  },
+  {
+    "start": 372.65,
+    "end": 374.48,
+    "text": "and i would like you to to"
+  },
+  {
+    "start": 375.75,
+    "end": 382.9,
+    "text": "Tell me outside, you mentioned diagnostics here and for what it could be used for."
+  },
+  {
+    "start": 384.2,
+    "end": 385.94,
+    "text": "3D modeling idea."
+  },
+  {
+    "start": 386.57,
+    "end": 389.23,
+    "text": "Do you have any other ideas of what your..."
+  },
+  {
+    "start": 389.8,
+    "end": 392.4,
+    "text": "I mean, how can it be used outside diseases? It's just like"
+  },
+  {
+    "start": 393.22,
+    "end": 396.82,
+    "text": "Can it be used in biotech? Can it be used in farming?"
+  },
+  {
+    "start": 397.29,
+    "end": 398.06,
+    "text": "your technology."
+  },
+  {
+    "start": 403.56,
+    "end": 405.14,
+    "text": "Thank you, that's a really nice question"
+  },
+  {
+    "start": 405.51,
+    "end": 419.5,
+    "text": "So yeah, we think our swanstrut is mainly in the foundational research and basic research area. We can identify new enhancer and promote interactions. But we think when further developing our system, this could also be used, for example, to create entirely synthetic cells."
+  },
+  {
+    "start": 419.91,
+    "end": 436.18,
+    "text": "and further go into this direction and maybe also further into bio-immediation or other aspects, we can use our synthetic cells to have novel diagnostic or novel switches which then can further be used for example detecting stuff in the environment or other aspects of this."
+  },
+  {
+    "start": 444.71,
+    "end": 447.92,
+    "text": "Thanks so much for that presentation, really enjoyed it."
+  },
+  {
+    "start": 448.55,
+    "end": 458.38,
+    "text": "really good job of completing this project. I think when I was reading the Wiki, which again was really well made, so congrats to whoever engineered that website."
+  },
+  {
+    "start": 459.08,
+    "end": 476.62,
+    "text": "Yeah, exactly. So I think I saw something on that that was really interesting where you talk about the repurposed vector conjugation machinery. Is that something that you recall? Yes. And I think that's really interesting approach. So I'm really curious to learn more about that, specifically"
+  },
+  {
+    "start": 477.0,
+    "end": 481.78,
+    "text": "the strategy that you use to overcome the size limitations."
+  },
+  {
+    "start": 482.18,
+    "end": 490.38,
+    "text": "of the genetic payloads in delivering the larger constructs. And I think that's a very innovative approach."
+  },
+  {
+    "start": 491.27,
+    "end": 492.18,
+    "text": "Please tell us more about"
+  },
+  {
+    "start": 493.19,
+    "end": 497.49,
+    "text": "Thanks for your interest in our bacterial conjugation idea."
+  },
+  {
+    "start": 497.89,
+    "end": 510.16,
+    "text": "So this was a project that we were co-developing along with the main cast stapling approach, especially to deliver the large DNA constructs that are part of our--"
+  },
+  {
+    "start": 510.85,
+    "end": 511.38,
+    "text": "project."
+  },
+  {
+    "start": 511.91,
+    "end": 512.43,
+    "text": "So."
+  },
+  {
+    "start": 512.87,
+    "end": 526.96,
+    "text": "Naturally it has been known that the Bekkil Congregation can deliver payloads up to or even more than 100 kilobases, which was one of our first inspirations to repurpose the Bekkil Congregation machinery."
+  },
+  {
+    "start": 527.59,
+    "end": 533.1,
+    "text": "And that's essentially it."
+  },
+  {
+    "start": 534.15,
+    "end": 541.01,
+    "text": "It circumvents the problem of limited coding capacity of AVs, which are limited to five kilobases."
+  },
+  {
+    "start": 541.54,
+    "end": 545.36,
+    "text": "And we thought it would be interesting to--"
+  },
+  {
+    "start": 546.02,
+    "end": 548.02,
+    "text": "to the existing DNA delivery methods."
+  },
+  {
+    "start": 549.38,
+    "end": 554.54,
+    "text": "and add a layer of targeting using our synthetic adhesion approach."
+  },
+  {
+    "start": 555.78,
+    "end": 567.38,
+    "text": "Yeah, thanks so much. And I think this project, especially with regard to its sheer complexity, has a set of challenges. And I can definitely see that your team putting all the thoughts in overcoming that."
+  },
+  {
+    "start": 567.81,
+    "end": 570.8,
+    "text": "Specifically, I think I noticed there's some..."
+  },
+  {
+    "start": 571.33,
+    "end": 575.12,
+    "text": "where you actually faced that these hard"
+  },
+  {
+    "start": 575.56,
+    "end": 585.2,
+    "text": "difficult questions like when you have like discrepancy with the literature like when you have like a value that's like 10 times higher than like what the literature value is right like some of you nodding so I hope I'm not like"
+  },
+  {
+    "start": 585.73,
+    "end": 601.58,
+    "text": "Remembering that correctly incorrectly and also we're talk about where when you were calculating the Delta G like the differences right like that also had some challenges so when you were faced with those how did you approach that like what was the"
+  },
+  {
+    "start": 602.05,
+    "end": 609.74,
+    "text": "What was your thoughts when you spent so much energy into something and then you started to say, \"Oh, wait a minute, this converts to literature 10 times like a difference\"?"
+  },
+  {
+    "start": 610.12,
+    "end": 627.5,
+    "text": "What was your thought when you were facing situations like that? Yes, thank you for your question. When we sought out to actually calculate the binding affinity of the mini-staple to DNA in order to validate the whole approach we have taken with our model."
+  },
+  {
+    "start": 627.88,
+    "end": 629.14,
+    "text": "and"
+  },
+  {
+    "start": 630.15,
+    "end": 649.97,
+    "text": "We measured it in the wet lab using MSAR screens in order to actually estimate the binding affinity. And then in the dry lab, we wanted to pull the DNA from the Leutzeinzipper, which is the mini staple, and therefore have a weight function that gives us a path of..."
+  },
+  {
+    "start": 650.34,
+    "end": 676.28,
+    "text": "transition states, which allows us to estimate the energy required for that. And that was the main goal to actually see if our approach is actually valid. And when we saw that it's so different, we started investigating what is actually the problem. So what did we actually do? And we started looking at it very precisely. And while doing that, we saw that, well, we were pulling apart not only the whole complex, but also the DNA in itself."
+  },
+  {
+    "start": 676.61,
+    "end": 681.58,
+    "text": "and a little bit of the protein and that's a big limitation because we didn't calculate the right thing at first."
+  },
+  {
+    "start": 681.96,
+    "end": 688.98,
+    "text": "And that's why we sought out to find new technologies or even new ideas, what we have to do in order to actually calculate the right thing."
+  },
+  {
+    "start": 689.41,
+    "end": 692.14,
+    "text": "because we weren't comparing the two things that are equal."
+  },
+  {
+    "start": 692.61,
+    "end": 694.26,
+    "text": "And that was..."
+  },
+  {
+    "start": 694.79,
+    "end": 708.46,
+    "text": "very interesting for us and it just sparked curiosity and we wanted to do even more and more but unfortunately we had a little time constraints so we just had first few ideas where we had the specific geometry and we changed those geometries up."
+  },
+  {
+    "start": 708.97,
+    "end": 716.24,
+    "text": "And we have even more ideas what to do next if you want to hear about them. But I hope that answers your question to a little degree."
+  },
+  {
+    "start": 718.41,
+    "end": 724.11,
+    "text": "Yes, I think we can circle back to that. Yeah, I definitely would love to learn about it, but I think my colleagues would have more questions."
+  },
+  {
+    "start": 726.09,
+    "end": 727.66,
+    "text": "Okay, something from your presentation."
+  },
+  {
+    "start": 728.2,
+    "end": 733.55,
+    "text": "I like your project very much. The weekend design is also great."
+  },
+  {
+    "start": 734.25,
+    "end": 736.18,
+    "text": "I have a question about the yaw."
+  },
+  {
+    "start": 736.61,
+    "end": 739.92,
+    "text": "Well done. If you bring your product to the market."
+  },
+  {
+    "start": 740.65,
+    "end": 744.08,
+    "text": "What are the difficulties? Do you think you will face..."
+  },
+  {
+    "start": 752.13,
+    "end": 776.02,
+    "text": "We haven't thought that much about entrepreneurship and actually selling our product and more about providing it to scientists and thought about doing a publication afterwards with all of our data to kind of... Yeah, we want to enable the studying of this so we think it is more easy for every scientist to use if we just provide it to everyone, show how you can do it and show how can you use our product in an easy way because it's very easy to use."
+  },
+  {
+    "start": 776.58,
+    "end": 779.28,
+    "text": "And this is like kind of idea to enable scientists."
+  },
+  {
+    "start": 782.12,
+    "end": 783.79,
+    "text": "So what journal will your publicist in?"
+  },
+  {
+    "start": 784.52,
+    "end": 785.74,
+    "text": "We don't know yet, yeah"
+  },
+  {
+    "start": 790.37,
+    "end": 791.95,
+    "text": "You will do a penance plan."
+  },
+  {
+    "start": 792.33,
+    "end": 794.9,
+    "text": "What am I still doing? You think..."
+  },
+  {
+    "start": 795.78,
+    "end": 799.89,
+    "text": "What is the mouse doing? It will give you two opinions plan."
+  },
+  {
+    "start": 801.06,
+    "end": 806.35,
+    "text": "Sorry, could you give us a timeline about your product? You do a business plan."
+  },
+  {
+    "start": 807.08,
+    "end": 811.54,
+    "text": "Okay, yeah, we we haven't thought about entrepreneurship that much so"
+  },
+  {
+    "start": 812.42,
+    "end": 815.28,
+    "text": "I would need to come up with something on the spot."
+  },
+  {
+    "start": 815.75,
+    "end": 817.3,
+    "text": "So, um..."
+  },
+  {
+    "start": 818.37,
+    "end": 818.99,
+    "text": "Em..."
+  },
+  {
+    "start": 819.62,
+    "end": 845.95,
+    "text": "First would be proving that actually everything works and I guess for that it would be nice to have a preliminary pattern for that so we can have the one year time frame to actually show that our product is unique and does what it's supposed to do. So we would have one year time frame to show more and more data that it works for a lot of different targets and I think that's possible in that time frame."
+  },
+  {
+    "start": 846.66,
+    "end": 864.66,
+    "text": "And the more we would have that pattern, we could build upon that to kind of talk to stakeholders. We already had a PhD student from our university who asked us if she could use our system for her thesis. So yeah, the interest is definitely there."
+  },
+  {
+    "start": 866.21,
+    "end": 866.74,
+    "text": "Thank you."
+  },
+  {
+    "start": 867.43,
+    "end": 868.21,
+    "text": "Thank you very much"
+  },
+  {
+    "start": 870.95,
+    "end": 877.49,
+    "text": "I think I would actually just kill your entrepreneurship there and really encourage you to publish this because I think the..."
+  },
+  {
+    "start": 877.93,
+    "end": 878.48,
+    "text": "the"
+  },
+  {
+    "start": 879.4,
+    "end": 883.82,
+    "text": "The outlook of the understanding is way bigger than the actual product itself."
+  },
+  {
+    "start": 884.42,
+    "end": 895.82,
+    "text": "So I think that I would really encourage you to publish this and also in a pretty high impact journal so that it gets out there and I use to study other things because..."
+  },
+  {
+    "start": 897.0,
+    "end": 899.22,
+    "text": "as you clearly see out yourself."
+  },
+  {
+    "start": 900.84,
+    "end": 903.09,
+    "text": "We're not really sure where's the biggest impact."
+  },
+  {
+    "start": 903.78,
+    "end": 906.22,
+    "text": "So I think that probably would be my advice."
+  },
+  {
+    "start": 908.13,
+    "end": 911.82,
+    "text": "Thank you for your presentation, a very impressive project."
+  },
+  {
+    "start": 912.42,
+    "end": 917.39,
+    "text": "My question is very technical, how many repetitions did you do in the wet lab for your results?"
+  },
+  {
+    "start": 918.76,
+    "end": 919.15,
+    "text": "(b"
+  },
+  {
+    "start": 922.05,
+    "end": 937.33,
+    "text": "So for the data that you saw on the Vicky, we did biological replicates, but due to time constraints for the data that we presented post-Vicky freeze, it's technical replicates. But if we had more time, we would have done biological replicates. And what model did you use for the conjugation?"
+  },
+  {
+    "start": 938.31,
+    "end": 938.74,
+    "text": "[static"
+  },
+  {
+    "start": 940.1,
+    "end": 942.64,
+    "text": "One person for you."
+  },
+  {
+    "start": 943.33,
+    "end": 968.32,
+    "text": "In which sense you mean the model, the system that we use? The model, the bacteria model. So the configuration machinery was RP4 system and we adapted it with E. coli strains. So we basically took two different strains, one donor and one recipient cells, but this was just for the first step where we validated our constructs and then moved forward to the mammalian cells. Okay, thank you."
+  },
+  {
+    "start": 971.14,
+    "end": 986.74,
+    "text": "So thank you very much for your presentation and yeah, as all the judges said, it's a really, really cool project. So I want to ask the annoying judge with the annoying question. I just wanted to ask, why did you choose GROOMAX for MD software?"
+  },
+  {
+    "start": 987.27,
+    "end": 989.62,
+    "text": "compared to others just a small question"
+  },
+  {
+    "start": 993.61,
+    "end": 994.8,
+    "text": "So essentially..."
+  },
+  {
+    "start": 995.49,
+    "end": 1007.7,
+    "text": "We first started with the idea of using ox DNA because we want to model two plasmids of 10 kilobases each. So we use a coarse-grained model, but ox DNA cannot natively support proteins."
+  },
+  {
+    "start": 1008.1,
+    "end": 1028.66,
+    "text": "So we needed to find a way to kind of calculate the forces that we want to use so that we can plug them into OxyN8 to model the protein. And we choose GROMACS. Essentially, it went through different kinds of stages where we talked about different force fields. And we chose AMBER in the end and GROMACS since it's pretty easy to use and since it ran on our cluster that we used."
+  },
+  {
+    "start": 1029.03,
+    "end": 1031.25,
+    "text": "Yeah, so for ease of use."
+  },
+  {
+    "start": 1032.26,
+    "end": 1033.1,
+    "text": "Thank you very much."
+  },
+  {
+    "start": 1039.94,
+    "end": 1047.73,
+    "text": "Yeah, I think I'll ask one that's really interesting to me is that you mentioned your application in studying cancer."
+  },
+  {
+    "start": 1048.23,
+    "end": 1054.86,
+    "text": "because I think that is definitely one of the applications that I feel speaks to a lot of people."
+  },
+  {
+    "start": 1055.24,
+    "end": 1058.8,
+    "text": "Just to learn more about that, I would love to know."
+  },
+  {
+    "start": 1059.24,
+    "end": 1062.93,
+    "text": "the specific steps that he took to ensure that"
+  },
+  {
+    "start": 1063.75,
+    "end": 1069.81,
+    "text": "The system, because of the rebuild, is manipulating the DNA hubs in control and the..."
+  },
+  {
+    "start": 1070.31,
+    "end": 1071.28,
+    "text": "reproducible manner."
+  },
+  {
+    "start": 1071.75,
+    "end": 1072.78,
+    "text": "and uh..."
+  },
+  {
+    "start": 1073.93,
+    "end": 1080.88,
+    "text": "I think this is something also you mentioned in the Wiki, but assuming that given more time, how would you plan to measure..."
+  },
+  {
+    "start": 1081.32,
+    "end": 1084.88,
+    "text": "the downstream effects of the gene regulation and the..."
+  },
+  {
+    "start": 1085.32,
+    "end": 1087.63,
+    "text": "and monitor the tumor progression in that."
+  },
+  {
+    "start": 1092.97,
+    "end": 1096.85,
+    "text": "Yeah, thank you. That's a really interesting question, and which you actually discussed quite a lot on our team"
+  },
+  {
+    "start": 1097.25,
+    "end": 1102.67,
+    "text": "So I'd rethink, but an easy way to monitor what you already did with our genomic and hands-on hijacking is to measure the MRI levels."
+  },
+  {
+    "start": 1103.08,
+    "end": 1104.3,
+    "text": "[INAUDIBLE]"
+  },
+  {
+    "start": 1104.74,
+    "end": 1109.01,
+    "text": "But also this can further be extended for example with single cell sequencing if you have multiple..."
+  },
+  {
+    "start": 1109.45,
+    "end": 1122.96,
+    "text": "cell groups and you can also then do 3C chromosome capture technology to have not just look at the levels of a change in mRNA levels but just look at the proximate which does not always have to regulate the mRNA in a detectable manner."
+  },
+  {
+    "start": 1123.46,
+    "end": 1130.8,
+    "text": "And furthermore, we think that using microscopy to further assess organoids or other more cancer-like cell types."
+  },
+  {
+    "start": 1131.21,
+    "end": 1146.26,
+    "text": "We could then further assess the phenotype and how this changes and also really integrate it with already existing technologies both in imaging and also in confirmation capture technology to kind of involve our project with the existing technologies and expand the capabilities of the field."
+  },
+  {
+    "start": 1149.06,
+    "end": 1149.55,
+    "text": "days for"
+  },
+  {
+    "start": 1151.17,
+    "end": 1153.58,
+    "text": "Okay, I have another question about your..."
+  },
+  {
+    "start": 1154.15,
+    "end": 1155.06,
+    "text": "experiments"
+  },
+  {
+    "start": 1155.69,
+    "end": 1160.5,
+    "text": "We all know CCTBG can express toxin protein."
+  },
+  {
+    "start": 1161.22,
+    "end": 1162.06,
+    "text": "which"
+  },
+  {
+    "start": 1162.47,
+    "end": 1164.24,
+    "text": "affects the growth of E. coli."
+  },
+  {
+    "start": 1164.77,
+    "end": 1165.14,
+    "text": "Hey"
+  },
+  {
+    "start": 1165.7,
+    "end": 1172.05,
+    "text": "When you design your experiments, how did you consider it cytotoxicity?"
+  },
+  {
+    "start": 1173.19,
+    "end": 1174.67,
+    "text": "do explain to us."
+  },
+  {
+    "start": 1180.29,
+    "end": 1180.94,
+    "text": "uh"
+  },
+  {
+    "start": 1181.45,
+    "end": 1182.67,
+    "text": "We all know CCDB"
+  },
+  {
+    "start": 1183.08,
+    "end": 1184.56,
+    "text": "6ATB gene, yeah."
+  },
+  {
+    "start": 1186.92,
+    "end": 1188.21,
+    "text": "Yeah, so, um-- ["
+  },
+  {
+    "start": 1188.9,
+    "end": 1189.74,
+    "text": "We basically--"
+  },
+  {
+    "start": 1193.13,
+    "end": 1193.55,
+    "text": "Sorry."
+  },
+  {
+    "start": 1194.63,
+    "end": 1195.57,
+    "text": "I want to go here"
+  },
+  {
+    "start": 1197.38,
+    "end": 1199.95,
+    "text": "Basically, this is our entry vector that you are talking about, right?"
+  },
+  {
+    "start": 1200.55,
+    "end": 1212.27,
+    "text": "So the CCDB basically ensures if we have the oligo in here that we need to bring in the two spacers targeting each loci that we want to target and the link between the two spacers. We basically..."
+  },
+  {
+    "start": 1212.65,
+    "end": 1215.41,
+    "text": "cut it out with a Golden Gate, and then the Zep 1."
+  },
+  {
+    "start": 1216.01,
+    "end": 1219.57,
+    "text": "and if the anneal goes into the sides."
+  },
+  {
+    "start": 1220.07,
+    "end": 1221.62,
+    "text": "We then have clones."
+  },
+  {
+    "start": 1222.02,
+    "end": 1229.55,
+    "text": "But if it doesn't work, then the CCDB stays in and the cells cannot grow. So basically this ensures efficient cloning."
+  },
+  {
+    "start": 1234.92,
+    "end": 1237.17,
+    "text": "Okay, thank you."
+  },
+  {
+    "start": 1238.05,
+    "end": 1243.18,
+    "text": "about your casp protein, about your casp Fusion casp protein."
+  },
+  {
+    "start": 1243.78,
+    "end": 1249.68,
+    "text": "The construction of fusion test proteins improves a burden on cells."
+  },
+  {
+    "start": 1250.6,
+    "end": 1251.22,
+    "text": "Uhh"
+  },
+  {
+    "start": 1252.52,
+    "end": 1252.91,
+    "text": "is"
+  },
+  {
+    "start": 1253.35,
+    "end": 1255.57,
+    "text": "affect the editing effectivity."
+  },
+  {
+    "start": 1263.78,
+    "end": 1264.3,
+    "text": "Okay."
+  },
+  {
+    "start": 1264.84,
+    "end": 1265.46,
+    "text": "and"
+  },
+  {
+    "start": 1268.01,
+    "end": 1270.06,
+    "text": "do you repeat as this constant data."
+  },
+  {
+    "start": 1272.42,
+    "end": 1279.18,
+    "text": "other question. Do you want me to?"
+  },
+  {
+    "start": 1280.71,
+    "end": 1287.5,
+    "text": "Does the construction of the fusion cast protein impose a burden on cells and does this affect the aiding efficiency?"
+  },
+  {
+    "start": 1293.41,
+    "end": 1295.63,
+    "text": "No, it doesn't."
+  },
+  {
+    "start": 1296.1,
+    "end": 1321.08,
+    "text": "We have this data here. So basically this is a dual is a phrase at a essay which we engineered the vanilla reporter to include a target site for the spike as nine and we basically this is the fusion cars and As you can see we first targeted just one locus so the MB cus of a targets the Firefly and the cus 9 targets the vanilla and as you can see if we only target one"
+  },
+  {
+    "start": 1321.64,
+    "end": 1322.16,
+    "text": "and"
+  },
+  {
+    "start": 1323.14,
+    "end": 1333.3,
+    "text": "It works and every target, let both proteins target each cell at the same time. It doesn't affect the editing efficiency. As you can see, even here, it goes a little lower. So yeah, it works."
+  },
+  {
+    "start": 1333.67,
+    "end": 1334.48,
+    "text": "quite well actually"
+  },
+  {
+    "start": 1336.26,
+    "end": 1337.94,
+    "text": "Hope this answers your question."
+  },
+  {
+    "start": 1338.63,
+    "end": 1343.95,
+    "text": "have an ask question about the delivery system. So you were talking about how"
+  },
+  {
+    "start": 1344.39,
+    "end": 1346.51,
+    "text": "It could help on..."
+  },
+  {
+    "start": 1347.24,
+    "end": 1348.62,
+    "text": "cancer your system right"
+  },
+  {
+    "start": 1349.25,
+    "end": 1350.03,
+    "text": "How would you?"
+  },
+  {
+    "start": 1350.82,
+    "end": 1352.43,
+    "text": "I won't say inject, but how would"
+  },
+  {
+    "start": 1353.61,
+    "end": 1354.29,
+    "text": "patient"
+  },
+  {
+    "start": 1354.82,
+    "end": 1355.63,
+    "text": "your system"
+  },
+  {
+    "start": 1356.04,
+    "end": 1358.74,
+    "text": "How would you use, how would you do to the delivery?"
+  },
+  {
+    "start": 1360.77,
+    "end": 1362.61,
+    "text": "(laughing)"
+  },
+  {
+    "start": 1365.19,
+    "end": 1379.5,
+    "text": "Thanks. So I guess your question is concerned with the safety of our system when used in an in vivo setting. In consultation with experts, we realize that there are several systems to"
+  },
+  {
+    "start": 1379.88,
+    "end": 1403.82,
+    "text": "wipe out the bacteria once they do their job. We were initially considering using oxo-trophic strains, which are using inducible, putting the conjugation machinery under an inducible system, which would eventually run out. So one idea could be using liposomes and--"
+  },
+  {
+    "start": 1404.49,
+    "end": 1418.93,
+    "text": "and loading a predetermined concentration of arabinose, which is not natively found in the human body, and having the system only active for a certain period of time. And in combination with oxotrophy, the bacteria would eventually die."
+  },
+  {
+    "start": 1426.25,
+    "end": 1426.67,
+    "text": "It goes"
+  },
+  {
+    "start": 1427.59,
+    "end": 1430.61,
+    "text": "I think I would comment on this with the targeting."
+  },
+  {
+    "start": 1431.46,
+    "end": 1438.16,
+    "text": "I think there are way many things now in targeting to cancer cells that you have not even touched upon."
+  },
+  {
+    "start": 1438.79,
+    "end": 1442.8,
+    "text": "I think there will be lots of possibilities to do this, but again..."
+  },
+  {
+    "start": 1444.58,
+    "end": 1447.63,
+    "text": "in 20 years, right? I mean, not tomorrow"
+  },
+  {
+    "start": 1449.03,
+    "end": 1449.58,
+    "text": "but we put"
+  },
+  {
+    "start": 1451.62,
+    "end": 1456.34,
+    "text": "Well, just a small question. I was curious in the video you said that this technology would give..."
+  },
+  {
+    "start": 1456.81,
+    "end": 1461.33,
+    "text": "perspectives in genome evolution. So it was--"
+  },
+  {
+    "start": 1461.77,
+    "end": 1464.66,
+    "text": "just wanted to hear your thoughts about it. Like, why did you say that?"
+  },
+  {
+    "start": 1470.73,
+    "end": 1497.21,
+    "text": "So if I understood your question correctly, it's regarding that shaping the genome in a certain way has a huge impact on what the organism looks like at the end. And one example would be that part of the difference between, for example, the great apes and humans can be explained by also the way that certain genes are arranged to each other, even though there's a pretty huge similarity between the two genomes."
+  },
+  {
+    "start": 1497.32,
+    "end": 1499.18,
+    "text": "They are also shaped in a different way."
+  },
+  {
+    "start": 1499.75,
+    "end": 1523.57,
+    "text": "which impacts at the end the way the organism looks like and studying this is also a possibility. Or thinking about just different cells in the body. Can I finish the sentence? You know how they all have the same genome but at the end they have different functions and look different but they're essentially on the sequence level the same but the shape is different and all of this is now possible to study."
+  },
+  {
+    "start": 1524.36,
+    "end": 1526.0,
+    "text": "Very, very interesting. Thank you very much"
+  },
+  {
+    "start": 1534.34,
+    "end": 1535.01,
+    "text": "Thank you."
+  }
+]

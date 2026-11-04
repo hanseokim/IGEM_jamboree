@@ -1,0 +1,740 @@
+1
+00:00:00,840 --> 00:00:06,380
+Right. Good morning. We are Gray Bay SCIE. This year we are dealing with the most.
+
+2
+00:00:07,780 --> 00:00:15,440
+Motes should not be unfamiliar to you, but did you know that in Shenzhen, motes are attributed to 30% of all cases of childhood asthma?
+
+3
+00:00:15,850 --> 00:00:22,990
+Did you know that in the US, the estimated economic burden of Fungal diseases was $11.5 billion in 2019 alone?
+
+4
+00:00:23,880 --> 00:00:29,170
+Beyond health, mode infestation also poses a serious threat to building senses of historical relics.
+
+5
+00:00:29,670 --> 00:00:34,770
+This is a global crisis, one that we Great Bay SEIE feel obliged to address.
+
+6
+00:00:35,210 --> 00:00:37,010
+Thus, we developed Armageddon.
+
+7
+00:00:37,640 --> 00:00:38,860
+So what is Armageddon?
+
+8
+00:00:40,230 --> 00:00:42,580
+Armageddon is a brand new mode eliminator.
+
+9
+00:00:43,080 --> 00:00:50,350
+It combines highly efficient enzymes, kinases, glucanases, and lysosomes with geranium, enhanced by AI and fusion protein technology.
+
+10
+00:00:50,890 --> 00:00:51,890
+What did we achieve?
+
+11
+00:00:52,520 --> 00:00:58,830
+Initially, we successfully expressed most wild-type enzymes except PR-CHA, which forms inclusion bodies.
+
+12
+00:00:59,240 --> 00:01:09,620
+Performance testing then showed that gel-nax HIV was inactive and BGLS2-7 has low activity. Thus, these three underperforming enzymes were selected for AI optimization.
+
+13
+00:01:10,120 --> 00:01:18,290
+As a side note, human life exam and alpha-cluconase, AGLE K14 did not achieve expression and requirements for the investigation.
+
+14
+00:01:19,050 --> 00:01:27,440
+To optimize in-time performance, we interviewed with expert Mr. Hsu, who inspired us to use deep learning based modeling tools, protein MPN and ligand MPN.
+
+15
+00:01:27,940 --> 00:01:37,650
+Following this idea, we developed a protein engineering pipeline that includes sequence redesign by the two NPN models after selecting redesign residues by MSA.
+
+16
+00:01:38,920 --> 00:01:44,460
+After the redesign, we evaluated the generated variance using AlphaFold, Rosetta, and Glide.
+
+17
+00:01:45,060 --> 00:01:51,440
+Glide is used for ligand docking and is selected after comparing several docking engines for docking of large carbohydrates.
+
+18
+00:01:52,040 --> 00:01:56,780
+A custom docking method was then developed, which combines glide docking with structural alignment.
+
+19
+00:01:57,510 --> 00:02:01,900
+After evaluation, the best performing variants are set as candidates for wet lab.
+
+20
+00:02:02,280 --> 00:02:02,670
+testing.
+
+21
+00:02:03,850 --> 00:02:06,540
+The redesign of PR-CHA was hugely successful.
+
+22
+00:02:06,950 --> 00:02:12,400
+Five of the six redesigned variants exhibit good solar wave expression with two showing hydrolytic activity.
+
+23
+00:02:13,570 --> 00:02:20,460
+Through interviews with stakeholders, we realized that diversifying our product forms and formulas could enable greater reach and impact.
+
+24
+00:02:20,870 --> 00:02:21,230
+Thus
+
+25
+00:02:21,610 --> 00:02:23,980
+We design a range of product formats.
+
+26
+00:02:24,450 --> 00:02:33,420
+Since numerous experts and end users reported more growth in the ventilation system, we especially focused on developing the anti-mode AC filter.
+
+27
+00:02:34,310 --> 00:02:41,230
+To do this, we've used additional CBM modules onto our enzymes, allowing our enzymes to bind tightly to AC filter materials.
+
+28
+00:02:41,640 --> 00:02:53,550
+This design is again highly successful as our CBM modules displayed strong affinity to many kinds of fibers, polymers, and surprisingly increased our enzymes' chitinolytic activity and hydrolytic activity.
+
+29
+00:02:55,240 --> 00:02:57,330
+We also innovated on the synthesis of geranium.
+
+30
+00:02:57,830 --> 00:03:09,260
+By truncating the first 65 amino acids of the geranial synthase, we achieved the final geranial yield of 0.157 g/L. This is nearly 3-fold compared to the untrancated version.
+
+31
+00:03:09,770 --> 00:03:16,300
+We also synthesized gamma cyclodextrin to encapsulate the geranial allowing our geranial to have better solubility and stability.
+
+32
+00:03:17,700 --> 00:03:29,390
+From the very start of our investigation, we realized that a critical gap exists between public perception and scientific reality for synthetic biology. Thus, we set out to share our passion and knowledge to everybody.
+
+33
+00:03:30,340 --> 00:03:37,230
+Following the thick framework we developed, we facilitate learning through thorough hands-on interest-guided communications.
+
+34
+00:03:37,960 --> 00:03:42,740
+Among the activities, I'd like to draw your attention to SimBio Nightland's SimBio themed orienteering.
+
+35
+00:03:43,370 --> 00:03:50,000
+These events use games, debate, and performances to make synthetic biology an engaging and immersive experience.
+
+36
+00:03:50,440 --> 00:03:58,190
+More importantly, the debate facilitates critical thinking about bioethics, helping the public develop a more holistic view on this technology.
+
+37
+00:04:00,070 --> 00:04:04,880
+To make our product more accessible, we also develop a comprehensive entrepreneurial effort.
+
+38
+00:04:05,670 --> 00:04:11,020
+The overview of our market seems optimistic and we will carry on the effort to bring Armageddon to everyone.
+
+39
+00:04:12,010 --> 00:04:19,790
+At the same time, we also made sure that our project follows the UN's SDGs, allowing Armageddon to grow sustainably and responsibly.
+
+40
+00:04:20,970 --> 00:04:30,610
+After a dedicated investigation and extensive engagement with numerous stakeholders, we in the end confirmed Armageddon as necessary, feasible, unique, and good for the world.
+
+41
+00:04:31,530 --> 00:04:33,620
+That's all from Gray B.S.E. Thank
+
+42
+00:04:40,900 --> 00:04:42,030
+Thank you for the presentation.
+
+43
+00:04:42,500 --> 00:04:54,060
+We can turn out one of the judges asking the question and take one round for questions. - Excellent presentation. - Yeah, thank you. - So those are our model and we work the same.
+
+44
+00:04:54,470 --> 00:04:57,460
+In Fungal Mycelia versus Fungal Sports
+
+45
+00:04:58,410 --> 00:05:03,180
+So you mean its effect on sports and mycelium? In the same way or different, what do you think?
+
+46
+00:05:03,590 --> 00:05:18,380
+Well, spores, it has a thicker cell wall. So definitely it's hard to kill spores. However, they have generally they have the same composition, chitin and glucan. So we believe with so many enzymes combined, it's both effective to end.
+
+47
+00:05:21,090 --> 00:05:25,810
+This is the other room. Okay, so it's both effective to both sports and mycelium.
+
+48
+00:05:26,180 --> 00:05:27,730
+I mention that because sometimes...
+
+49
+00:05:28,360 --> 00:05:54,080
+Sports can have other components like lipids and things like that. You will think about modifying or adding other enzymes. Yeah, sure. We're all considering that. We're now currently developing and making our product to cope with different scenarios and solutions. In the future, we're going to test on real fungi and to test for its antifungal effect, and we will develop its effect more comprehensive. That will be my second question.
+
+50
+00:05:54,340 --> 00:05:57,870
+Can you describe to me how do you gonna test?
+
+51
+00:05:58,890 --> 00:06:01,740
+that with small sports like an experiment.
+
+52
+00:06:05,220 --> 00:06:27,090
+So when during the enzyme selection, we actually screen a lot because there's a lot of chitinases and glucanases, but those four that we chose for chitinase is also targeting the mycelia as well. They have different functions on the mycelia tip or the mature wall. So they also have antifungal ability.
+
+53
+00:06:28,680 --> 00:06:35,020
+What's your second question? The second question, I also put it also in there. But the second question is, how do you want to test?
+
+54
+00:06:35,590 --> 00:06:37,010
+Any idea how you're gonna test?
+
+55
+00:06:37,640 --> 00:07:02,560
+their magneton into a real fungi or spores. Any experiment that you have to think about it. - Yeah, yeah, sure. Because there's one thing called fungal mycelial extension experiment. You put a fungi at the end and let it grow and it drop your solution onto it and to see whether it inhibits fungal growth around it. Just to observe the inhibition circle. Yeah, that's from numerous literature. We also observed that. - Okay. - Yeah, thank you. - Thank you.
+
+56
+00:07:04,230 --> 00:07:17,580
+Alright, I met you guys right here and I asked most of my questions yesterday but I just have one more that I wanted to check if you all noticed after the redesign of your Kaitanase from figure 2 to figure 5 you guys successfully managed to make it soluble so very good for that
+
+57
+00:07:17,990 --> 00:07:33,810
+But I noticed if I understood the graph correctly, the access to activity dropped quite a bit, right from the magnitude of about 100 units to about two or three units. So how confident are you guys in using that same AI model to redesign the Kaitenase for higher activity while retaining solubility?
+
+58
+00:07:34,660 --> 00:07:35,250
+So-- [
+
+59
+00:07:35,810 --> 00:07:37,940
+Did you mean that this brought the activity?
+
+60
+00:07:38,410 --> 00:07:41,170
+The bottom graph.
+
+61
+00:07:41,700 --> 00:07:55,090
+The X seems to be on the magnitude of like until about three units by your previous graph showed a magnitude of about a hundred plus Oh, I see. So the previous graph is not about PRChA PRChA was not expressed at first
+
+62
+00:07:55,590 --> 00:07:59,410
+This is the first time we test the activity on PRChA.
+
+63
+00:08:00,520 --> 00:08:17,520
+Oh, but compared to the other kite nazes, they seem to have much higher activity. Are you confident in using an AI model to redesign this one to reach the same activity as let's say the BC kite naze? Yeah, sure. Well, we are confident because this PRChA was not expressive first. So we focused mainly on expression.
+
+64
+00:08:17,960 --> 00:08:30,540
+we can focus on the multiple parameters like DDG to make it to be expressed as much as possible. In the future, we're going to orientate our design mechanism, our design direction on increasing this hydrolytic activity.
+
+65
+00:08:31,330 --> 00:08:32,780
+- Okay, thank you so much.
+
+66
+00:08:33,540 --> 00:08:44,880
+I also have something to add on. So for chitinase, we use colloidal chitin as the substrate while the literature suggests that they use a
+
+67
+00:08:45,250 --> 00:08:51,150
+soluble kite as the substrate. So I guess there's like a discrepancy in the substrate we choose.
+
+68
+00:08:51,560 --> 00:09:01,140
+So yeah, the activity that we have as a result may have this kind of difference. So it's not like very equivalent at this point.
+
+69
+00:09:01,730 --> 00:09:03,060
+Okay. All right. Thank you
+
+70
+00:09:04,490 --> 00:09:12,400
+- Yeah, thank you for this nice presentation. I have some questions left. Hi guys. So regarding the multi-enzyme formulations that you proposed. (static)
+
+71
+00:09:12,870 --> 00:09:19,340
+Did you test different enzyme ratios to optimize the activity? And if so, how were these ratios chosen and validated?
+
+72
+00:09:19,970 --> 00:09:24,750
+Sorry, enzyme ratio? The enzyme ratio that you use for your... I mean the enzyme you should put into the solution.
+
+73
+00:09:25,990 --> 00:09:37,010
+Actually, we didn't test on the, uh, comprehensively test the enzyme ratio. However, we do observe the enzyme activity and estimate its composition in the, uh, final solution.
+
+74
+00:09:38,280 --> 00:09:43,440
+uh... just if the enzyme is really a reactive then we've required less of that enzyme in the solution
+
+75
+00:09:44,870 --> 00:10:14,360
+But now our effort is focusing on like to test them like separately. So we have considered to put all of the parameters the same. So it's these kinds of results we get while foster the future effort we put in because like they're uniform and they're easier for us to modify. But it's definitely our future development plan. Yeah. In the future, we're going to test some real fungi. So we're going to drop the Armageddon and test different formulations as well to maximize the defect.
+
+76
+00:10:14,730 --> 00:10:16,240
+minimum composition.
+
+77
+00:10:17,030 --> 00:10:21,200
+Cool. Thank you. And another follow-up question to the Guiragnol.
+
+78
+00:10:21,730 --> 00:10:47,550
+How stable is it or the other enzymes in general under lifetime conditions like sunlight humidity or temperature fluctuations? Yeah, so for this, although we didn't test really for each enzyme, it can't be hence the stability range. We use multiple enzymes with different optimum conditions with different optimum temperatures and you know, different adaptations. So we believe that this mixture can enable our product to
+
+79
+00:10:47,620 --> 00:11:13,690
+work in different environments. And also, well, with the AI engineering pipeline, we are confident that we will make our enzymes more stable across multiple range of temperature and environment conditions to make it stable and increase in stability and performance. - And this is also considered during the literature research when we have chosen these four enzymes. - Yeah, yeah. - Both need to possess very strong stability and this hydrolyzed activity across.
+
+80
+00:11:13,830 --> 00:11:16,180
+various ranges. - Mm-hmm, cool, thank you
+
+81
+00:11:17,610 --> 00:11:21,870
+Thank you so much for this nice presentation and congratulations on this amazing project.
+
+82
+00:11:22,600 --> 00:11:26,420
+I have a few questions, but I'll focus on one and then get to the other ones.
+
+83
+00:11:26,920 --> 00:11:29,680
+So first, since we are on this slide, can you talk about the
+
+84
+00:11:30,250 --> 00:11:34,100
+Did you find any correlation between the mutations or the changes that happen in the...
+
+85
+00:11:34,600 --> 00:11:36,370
+protein after you optimize it.
+
+86
+00:11:36,810 --> 00:11:39,660
+Oh, he says the activity of the chitin is
+
+87
+00:11:40,070 --> 00:12:07,000
+You mean the dry lab in silica parameters and real testing? Yes, we do find one. So that's far in the end. You know, there's one parameter that we tested while we measured on our enzyme called SaaSaa score. Yes. And that is actually positively related to our yield. So that is actually confirming our model works. So it correctly predicts that with higher SaaSaa score, it generally will have a higher yield.
+
+88
+00:12:08,490 --> 00:12:09,390
+And on--
+
+89
+00:12:09,770 --> 00:12:10,830
+What's your second question?
+
+90
+00:12:11,620 --> 00:12:14,770
+Did I answer your question? Yeah, yeah. Thank you.
+
+91
+00:12:15,300 --> 00:12:18,130
+And my second question is related to your education.
+
+92
+00:12:18,690 --> 00:12:19,920
+No, education.
+
+93
+00:12:20,490 --> 00:12:28,430
+briefly talk about how your education had a two-way dialogue with your project and how did you integrate any of these changes in your project.
+
+94
+00:12:30,370 --> 00:12:56,380
+Okay, thank you for your question. And I would like to draw attention to the iGEM Club that we designed. So for the iGEM Club, we have a special design of a physical advice box. And before and after each session, the pupils will write what they want to learn and what advice they will have to us in that box. And they will put it in it. We will draw our... We will draw our...
+
+95
+00:12:57,000 --> 00:12:57,550
+Mmm.
+
+96
+00:12:58,090 --> 00:13:15,060
+our topic for the next session from this box. So for example, the students, they asked actively about the editing protocols of East and E. coli. They want to know what's the difference between these two creatures. So in our following session, we included.
+
+97
+00:13:16,770 --> 00:13:17,260
+very
+
+98
+00:13:17,670 --> 00:13:19,950
+comprehensive range of surveys across them,
+
+99
+00:13:20,330 --> 00:13:43,280
+So after even you see the orientarian scene by all night We have those kind of Kahoot games or these kind of questions even for public lecture We have the T can cross like these kind of cars to see there to measure their progress in real time and to see how do you adjust our Later even like 10 minute after how do we describe it to them and also
+
+100
+00:13:43,850 --> 00:14:10,300
+Before that, we are focusing on each age group, which they have different understanding of synthetic biology, and then have different needs for synthetic biology. For example, for adults, they really don't know about the science, right? But they need to have the scientific understanding of it to help to make a judgment to some synthetic biology product in the real world and to be responsible for their families. So these are also the ways we are communicating.
+
+101
+00:14:10,570 --> 00:14:18,800
+And after each, each these kinds of games or activities, we always have surveys to improve our product.
+
+102
+00:14:20,130 --> 00:14:46,080
+So to briefly add on, so for each A group, we are starting from lectures, which is really traditional for education. However, we not only just teach them about what they wanted to learn in the starter of the lecture, we also gather feedback from them, like what they just talked about. We gather feedback to decide and design what activity we are going to do next.
+
+103
+00:14:46,310 --> 00:15:06,800
+So that's like a longer logical chain for all our activities. - Yeah, so for our education, we are not simply just throwing these activities to people, but you can see every age groups, we have our logic change, which is very, my color, very unique and very essential in toward it. - Yeah, thank you. - Okay.
+
+104
+00:15:07,300 --> 00:15:08,500
+and blah, blah, blah,
+
+105
+00:15:09,700 --> 00:15:16,910
+Thanks a lot for this great presentation, great to hear, and so far, great presentation as well. And team-- team--
+
+106
+00:15:17,730 --> 00:15:26,260
+I have three questions that span a bit different aspects conceptual aspects, technical aspects and entrepreneurship.
+
+107
+00:15:26,920 --> 00:15:35,600
+First, for the conceptual aspects, you choose to go with four different enzymes that target different components of the mold to destroy it.
+
+108
+00:15:36,550 --> 00:15:38,540
+Did you consider that
+
+109
+00:15:39,140 --> 00:15:43,950
+maybe you could have started with only one enzyme, only two enzymes, or only three, which would have--
+
+110
+00:15:44,740 --> 00:16:10,650
+as many positive effect on mold than a combination of four or even better to improve project visibility, project streamlining and maybe economic application afterwards. - Yeah, we definitely consider about that. However, after initial literature research, we found out that mold, it's diverse. And that's many, many different compositions in the mode cell wall. And these three enzymes we've chosen. (static)
+
+111
+00:16:11,050 --> 00:16:20,140
+They allow ARPA to combat generic modes, to combat any mode, to degrade any...
+
+112
+00:16:20,580 --> 00:16:27,730
+The chitin and glucan, some of the most, they don't have chitin in their wall. Some of them have very much.
+
+113
+00:16:28,100 --> 00:16:37,420
+There was very much composed of chitin but little glucan. So this combination of enzymes allow us to combat different mode strains. Yeah.
+
+114
+00:16:38,340 --> 00:16:50,160
+Definitely, we will consider the optimum efficiency, optimum formula for our product in the future development plan and we have access to real modes.
+
+115
+00:16:53,090 --> 00:16:53,490
+All right
+
+116
+00:16:54,790 --> 00:17:00,240
+Now to the design build test learn cycle.
+
+117
+00:17:00,740 --> 00:17:13,870
+Some software I had trouble to understand the choice and the rationale at the learn stage to the next design cycle. Sometimes you illustrate that some enzyme show a very good activity in your assay.
+
+118
+00:17:14,530 --> 00:17:21,710
+Another one, a bit less activity, typically the example of BGL-U1 and BGL-US27.
+
+119
+00:17:22,150 --> 00:17:29,970
+where BGLU1 has a very strong activity and BGLU 27 has a lower activity. And then for the next...
+
+120
+00:17:30,340 --> 00:17:34,830
+Iteration cycle, you choose to focus on the enzyme that had less activity to optimize it.
+
+121
+00:17:35,240 --> 00:17:45,900
+I would have chosen the first one that already show a great activity to optimize it even further rather than focusing on the, it's great that you focus on those hard work because that's, that's make it more complicated.
+
+122
+00:17:46,470 --> 00:17:47,280
+But I would have
+
+123
+00:17:48,070 --> 00:18:15,840
+in entrepreneurship vision chosen the one that is already very active at the first cycle to implement it. - Yeah, actually that has to do with the target of the enzyme. You know, BGLS2-7 is targeting the beta 1,3-glucan and beta 1,3-glucan is the main component of the mode cell wall for many modes. It counts for 60 to 80% of the mode cell wall. So it's very, very important for us. And that's why we choose to optimize that his import his
+
+124
+00:18:15,940 --> 00:18:16,720
+uh uh
+
+125
+00:18:17,160 --> 00:18:35,150
+its activity and its activity. And B-glue-1, well, it focuses on beta-1,3,1,4-glucan, which is slightly different from beta-1,3-glucan. So we saw that we observed it has already got a very good soluble activity. Then we just choose to design the other one.
+
+126
+00:18:36,230 --> 00:18:48,300
+And I know if that answers your question. Yeah, it makes sense. It's a trade off between a lower activity, but a better specificity. So yeah, yeah. Better target the mode because mode is really important for killing modes. Yeah.
+
+127
+00:18:49,960 --> 00:18:54,260
+Yeah, you can go. Maybe one last one. No, no, no, no.
+
+128
+00:18:54,660 --> 00:18:58,610
+So you mentioned that you want to carry on with this work. You presented a set of...
+
+129
+00:18:59,010 --> 00:19:04,820
+project, product that you could do with this, whether it's a filter, spray, jetting and so on.
+
+130
+00:19:05,570 --> 00:19:21,710
+If you had six extra months, what would be your next step to bring this a bit closer market? What test would you like to do? What assay would you like to conduct? And which of the products you proposed would you prioritize as a...
+
+131
+00:19:22,150 --> 00:19:47,320
+your first choice, would it be coating a spray, a filter and why? - Okay, so definitely we will carry out a comprehensive testing on our products toxicity and you know, a third party report generated to report our products real feasibility and also test them on real mode. And that's what we're gonna do next. And also we're gonna measure our enzymes activity in different conditions to do more. (static)
+
+132
+00:19:47,460 --> 00:19:57,140
+to broaden our measurements. And what's your second question? - The product you showed, the painting, the spray and so on, which one would you choose and why?
+
+133
+00:19:57,540 --> 00:20:05,140
+on spray is the one we are like spray is the main main product form of our product because like
+
+134
+00:20:05,510 --> 00:20:31,870
+according to many human practice effort with like diverse, like people and some often like money to spray that into many kinds of areas. And that is the most convenient one. Even, yeah, even like our main target customer, including the individual household and the stakeholders she expressed, she like she thought I expressed that spray is the one is very convenient and very convenient to use.
+
+135
+00:20:31,940 --> 00:20:40,500
+Yeah, so that's why we are focusing on that. And also like comparing to existing markets and market products, they also chose the spray one. So.
+
+136
+00:20:41,030 --> 00:21:00,110
+There must be some reason for that, not just for convenience, but also easier to use, right? - Yeah, some other product formats, they require additional development of the hardware section. You know, some of the atomizers, they require hardware development. - Yeah, they are going to be developed at the same time for multiple use. - Yeah, that's for sure. - Yeah.
+
+137
+00:21:00,580 --> 00:21:25,660
+Another reason we choose spray as our primarily developed product form is that the cost of production is rather low and it is easier to develop because the public has a lot of acceptance to it. So compared to other of the products, they require exceptional fund. For example, like the titration device, the titration device itself, it has a-- [AUDIO OUT]
+
+138
+00:21:25,730 --> 00:21:34,350
+cost of $25, which is not good for pilot selling. So this is our choice. - Yeah, this allows us to stand firm in the market.
+
+139
+00:21:37,540 --> 00:21:39,410
+All right. Thank you very much. Thank you.
+
+140
+00:21:42,280 --> 00:21:50,830
+Hi, hello team. Thank you for your presentation. So I have just a few questions. I'm going to start with the modeling part.
+
+141
+00:21:51,620 --> 00:21:56,560
+So I was wondering why did you choose to...
+
+142
+00:21:57,320 --> 00:21:58,030
+uh
+
+143
+00:21:58,850 --> 00:22:04,110
+to model the protein, I mean the go for structural modeling.
+
+144
+00:22:04,650 --> 00:22:05,360
+because I know--
+
+145
+00:22:05,730 --> 00:22:09,900
+is not an easy task. So why did you choose that type of modeling?
+
+146
+00:22:10,630 --> 00:22:36,540
+type of modeling? Yeah. Oh, actually this, as I mentioned, we interviewed with an expert and that is the solution he offered to us. Like it's a shining point. We just got, we just got to know this at the first hand. Oh, we can actually do this. We can actually model our enzymes and just let's do it. And also the protein engineering enzymes, they're our main components and really want them to perform good to perform.
+
+147
+00:22:36,770 --> 00:22:43,890
+to have good performance. There are many active ingredients to kill the mode. So they're really important.
+
+148
+00:22:44,900 --> 00:22:59,060
+So that means that the one that you found in the literature, or maybe in your lab, they were like not enough for your project. I mean, with specific activities or production labels, I don't know.
+
+149
+00:23:00,520 --> 00:23:06,260
+Did you mean that we selected these enzymes and these enzymes may not... No, I mean, did you...
+
+150
+00:23:07,170 --> 00:23:11,920
+search in the literature first before going to let's model.
+
+151
+00:23:12,390 --> 00:23:13,810
+all the proteins that we need.
+
+152
+00:23:19,210 --> 00:23:21,140
+about modelling, literature review about modelling.
+
+153
+00:23:22,210 --> 00:23:24,850
+- No, I'm asking...
+
+154
+00:23:26,690 --> 00:23:31,980
+why if the proteins that you need for your product
+
+155
+00:23:32,580 --> 00:23:33,200
+were
+
+156
+00:23:33,730 --> 00:23:38,480
+you found them in the literature or that is why you go for them.
+
+157
+00:23:39,270 --> 00:23:44,660
+the first step going to let's create a new enzymes.
+
+158
+00:23:45,030 --> 00:23:45,490
+um
+
+159
+00:23:45,890 --> 00:23:55,060
+So it's proven by the literature that the novel enzyme design is not quite reliable nowadays. And we also... (static)
+
+160
+00:23:55,620 --> 00:24:10,960
+have looked over several literatures suggesting different types of enzymes, their activity, their optimum conditions. The enzymes candidates we found are like around their optimum temperature are around 50.
+
+161
+00:24:11,370 --> 00:24:20,210
+Celsius degrees to 60 Celsius degrees. Initially we wanted to improve its activity at room temperature and pH value because
+
+162
+00:24:20,610 --> 00:24:25,460
+You know, it's like nearly impossible to change the optimum pH and temperature.
+
+163
+00:24:25,830 --> 00:24:27,120
+So, um,
+
+164
+00:24:27,490 --> 00:24:33,710
+But, you know, just unfortunately we didn't achieve that at the end, but what is like.
+
+165
+00:24:34,280 --> 00:24:38,930
+good for our modeling is that you know the PRCHIA
+
+166
+00:24:39,490 --> 00:24:46,670
+It didn't have the solvable expression at first, but after our modeling is improved by is like solvable expression.
+
+167
+00:24:47,080 --> 00:24:54,130
+So yeah, we initially targeted to, you know, just to improve what the enzyme candidates didn't have.
+
+168
+00:24:54,690 --> 00:24:58,060
+And yeah, that's basic, our goal for model.
+
+169
+00:24:58,890 --> 00:24:59,470
+Okay.
+
+170
+00:25:01,000 --> 00:25:01,840
+Yes, yes, yes
+
+171
+00:25:02,310 --> 00:25:02,770
+Thank you
+
+172
+00:25:03,460 --> 00:25:07,150
+So you mentioned the SAS parameter.
+
+173
+00:25:07,690 --> 00:25:22,320
+Could you elaborate a little bit more about this parameter because it's new for me? So, SASA. SASA parameters 10. Sorry, before you answer, I would like to say that we are almost on time.
+
+174
+00:25:22,920 --> 00:25:38,160
+try to be brief and we have to switch to the next team. - Solvent accessible surface area. It measures the solvent accessible area of our protein. - Yeah. - Okay. So the one that you, at the end, you have some experiments later so that data...
+
+175
+00:25:38,890 --> 00:25:49,550
+Yeah, yeah. Because the more, the harder the source of value, the more soluble it will be. It's expected to be. So the labels that you got at the end are good enough.
+
+176
+00:25:49,930 --> 00:25:52,880
+Yeah, it's soluble yield increases with higher Sasa value.
+
+177
+00:25:53,570 --> 00:26:18,130
+- Yeah, there is actually a correlation, the positive correlation between SESTA and the yield, but it's like this R-square value kind of is awkward because we have the limited time to test all of our enzymes and there's only six enzyme candidates that we developed. (static buzzing)
+
+178
+00:26:18,500 --> 00:26:30,030
+Yeah, so you know, this is also somewhere we would like to improve in the future as well because the time constraint basically. Okay, so what are the units in the x axis?
+
+179
+00:26:30,500 --> 00:26:35,730
+x-axis. It's the angstrom squared.
+
+180
+00:26:36,680 --> 00:26:44,020
+Can you see it? - Yeah. - Yeah, yeah. Okay, thank you. - Yeah, I think with that, we'd love to conclude the Q&A.
+
+181
+00:26:44,840 --> 00:26:49,330
+We can, if any of you have any questions, you can talk to the team afterwards.
+
+182
+00:26:50,180 --> 00:27:00,270
+This is also a very good example of how our human practice linked to our product. I think we should wrap up now. So thank you so much. Thank you.
+
+183
+00:27:04,840 --> 00:27:19,820
+- Awesome gift for you. - Maybe you should do this afterwards because there would be a next team waiting for their presentation and we don't want to. - Thank you so much. - Thank you. - Thank you. - Well done. - Thank you. - Good job guys.
+
+184
+00:27:23,530 --> 00:27:24,820
+Bye!
+
+185
+00:27:25,890 --> 00:27:27,010
+Thank you. See you.
+

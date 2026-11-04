@@ -1,0 +1,1422 @@
+[
+  {
+    "start": 1.45,
+    "end": 8.82,
+    "text": "Okay, then first of all good morning. Thank you for having us with the representatives of iGMT Munster. My name is Nico."
+  },
+  {
+    "start": 9.48,
+    "end": 14.67,
+    "text": "And my name is Annika and we are very proud to present to you our project we worked this year on."
+  },
+  {
+    "start": 15.21,
+    "end": 16.53,
+    "text": "We are Noskito."
+  },
+  {
+    "start": 17.0,
+    "end": 18.64,
+    "text": "And now we will jump right into it."
+  },
+  {
+    "start": 19.69,
+    "end": 30.51,
+    "text": "Mosquitoes are the deadliest animals to humans. Around 700,000 people die every year due to mosquito-borne diseases such as malaria, Zika virus, dengue and yellow fever."
+  },
+  {
+    "start": 31.21,
+    "end": 40.34,
+    "text": "Due to climate change and the associated global warming, mosquitoes are opening up more and more habitats and will spread drastically over the coming years, along with the diseases they transmit."
+  },
+  {
+    "start": 41.25,
+    "end": 51.31,
+    "text": "To hinder the spread of these diseases, several prevention strategies have been developed, such as insecticides as a vector control or mosquito repellents for dermatological use."
+  },
+  {
+    "start": 51.91,
+    "end": 59.5,
+    "text": "in order to enhance mosquito bite prevention, we believe the most promising approach is to enable the..."
+  },
+  {
+    "start": 60.01,
+    "end": 63.18,
+    "text": "biothenesthetic production of mosquito repellents."
+  },
+  {
+    "start": 64.58,
+    "end": 67.44,
+    "text": "Heron repellents are based on the substance DEET."
+  },
+  {
+    "start": 68.1,
+    "end": 77.71,
+    "text": "Unfortunately, its production is based on crude oil and produces a lot of toxic byproducts, which makes the process environmentally harmful and unsustainable."
+  },
+  {
+    "start": 78.34,
+    "end": 79.98,
+    "text": "But here we present an alternative."
+  },
+  {
+    "start": 80.42,
+    "end": 92.5,
+    "text": "The structurally similar molecule, NBP, is a promising mosquito repellent and can be produced in microorganisms. So we decided to work with coronobacterium glutamicum as it's ultimately based on a minor acid."
+  },
+  {
+    "start": 96.68,
+    "end": 109.2,
+    "text": "To build the body of our project, we first had to lay the foundation for a fomentative production. And as MVP is currently not synthesized in any organism, we had to develop an artificial pathway using enzymes from several different organisms."
+  },
+  {
+    "start": 109.73,
+    "end": 117.01,
+    "text": "This pathway is based on the two common amino acids, lysine and phenylalanine, which are then refined to form piperidine and benzoate, respectively."
+  },
+  {
+    "start": 117.67,
+    "end": 121.26,
+    "text": "These two molecules are then combined to form our bio repellent NBP."
+  },
+  {
+    "start": 123.59,
+    "end": 134.13,
+    "text": "For this pathway, we generated several constructs for the expression in corona bacteria and glutamicome, contributing to the implementation of this non-standard organism in the iGen community."
+  },
+  {
+    "start": 134.73,
+    "end": 138.51,
+    "text": "and just neither piperidine nor bensoid is natively present in Corinobacteria."
+  },
+  {
+    "start": 139.01,
+    "end": 144.56,
+    "text": "We performed tolerance essays to calculate the optimal concentrations of these precursors."
+  },
+  {
+    "start": 145.96,
+    "end": 153.97,
+    "text": "To make our project functional and viable, we had to engineer the last protein of our enzyme cascade, as it has a fairly low starting activity for NBP formation."
+  },
+  {
+    "start": 154.69,
+    "end": 166.61,
+    "text": "For this, we first predicted its structure and then its exercise by protein ligand docking using a tool developed by Nobel Prize winner David Baker, which he also spoke about on our international meetup."
+  },
+  {
+    "start": 168.23,
+    "end": 171.15,
+    "text": "Using these insights, we generated a mutant library."
+  },
+  {
+    "start": 171.69,
+    "end": 174.54,
+    "text": "using both rational design and AI-based methods."
+  },
+  {
+    "start": 174.92,
+    "end": 178.13,
+    "text": "These enzyme variants were then tested in the wet lab for their activity."
+  },
+  {
+    "start": 178.85,
+    "end": 185.97,
+    "text": "To obtain even better variants, we introduced the results of this activity essay to a low-end model, which is also part of a self-treature."
+  },
+  {
+    "start": 188.61,
+    "end": 194.0,
+    "text": "This model then proposed us with new and improved variants, some of which were also tested in a wetland."
+  },
+  {
+    "start": 194.69,
+    "end": 195.47,
+    "text": "Additionally,"
+  },
+  {
+    "start": 196.07,
+    "end": 196.53,
+    "text": "Howie"
+  },
+  {
+    "start": 196.97,
+    "end": 201.04,
+    "text": "software tool incorporates a method for restriction enzyme-mediated DNA shuffling."
+  },
+  {
+    "start": 202.31,
+    "end": 215.38,
+    "text": "All of these approaches together led us to an enzyme variant performing 550% of the catalytic activity compared to the Y-type, rendering our fermentative production a viable alternative to chemical synthesis."
+  },
+  {
+    "start": 217.09,
+    "end": 217.81,
+    "text": "Pimentation"
+  },
+  {
+    "start": 219.05,
+    "end": 230.38,
+    "text": "Fermentation processes are highly tied to biotechnologically advanced regions because they need a lot of technical equipment and knowledge to also enable decentralized and easy to access."
+  },
+  {
+    "start": 231.01,
+    "end": 238.67,
+    "text": "We thought of plants as an excellent production chassis because they need no technical equipment and less maintenance."
+  },
+  {
+    "start": 239.91,
+    "end": 243.31,
+    "text": "with the ultimate goal of implementing black pepper for..."
+  },
+  {
+    "start": 243.75,
+    "end": 246.86,
+    "text": "Mosquito repellent production we pursued three different approaches."
+  },
+  {
+    "start": 247.49,
+    "end": 254.77,
+    "text": "First, we tested the enzyme activity of the most important enzyme and its localization in the model plant, Nicotiana bentamiana."
+  },
+  {
+    "start": 255.3,
+    "end": 264.91,
+    "text": "Furthermore, we succeeded in transiently transforming black pepper leaves, which has never been reported before. Here you can see a fluorescing thus transformed pepper stomatal cells."
+  },
+  {
+    "start": 265.67,
+    "end": 268.02,
+    "text": "Second, we developed a new..."
+  },
+  {
+    "start": 268.58,
+    "end": 276.4,
+    "text": "Unstereostable transformation protocol for black pepper to make genetic transformation more accessible and efficient in general."
+  },
+  {
+    "start": 277.22,
+    "end": 290.9,
+    "text": "Lastly, we optimized the accessibility of plant cultivation by designing a low-budget grow chamber that future Agim teams can use to conduct plant synthetic biology even if they don't have access to a specialized biosafety greenhouse."
+  },
+  {
+    "start": 295.97,
+    "end": 306.67,
+    "text": "Our combined approaches enable a cheap, sustainable and decentralized method to produce NBP, which is a highly effective insect repellent, revolutionizing the way we combat mosquito-borne diseases."
+  },
+  {
+    "start": 307.21,
+    "end": 309.62,
+    "text": "We are Noskeeto, the ultimate bug fix."
+  },
+  {
+    "start": 319.27,
+    "end": 323.89,
+    "text": "Well done. It's a very impressive project in quite a few ways."
+  },
+  {
+    "start": 326.15,
+    "end": 327.82,
+    "text": "leave it to anyone if"
+  },
+  {
+    "start": 328.61,
+    "end": 330.86,
+    "text": "if anyone has any questions you want to start with"
+  },
+  {
+    "start": 335.24,
+    "end": 336.14,
+    "text": "I think it's a"
+  },
+  {
+    "start": 336.71,
+    "end": 345.23,
+    "text": "huge team and it's an impressive project. I have a question because I see you."
+  },
+  {
+    "start": 345.67,
+    "end": 353.87,
+    "text": "You do project a project and renewing for you and them but as I see you select"
+  },
+  {
+    "start": 354.25,
+    "end": 355.22,
+    "text": "R35"
+  },
+  {
+    "start": 355.69,
+    "end": 366.35,
+    "text": "But when you do cloning, you only select 27. I think about the reason for it."
+  },
+  {
+    "start": 371.14,
+    "end": 377.26,
+    "text": "Thank you for your question. So the question was why we only initially selected 24 variants."
+  },
+  {
+    "start": 377.73,
+    "end": 385.81,
+    "text": "So our AI method was based on a paper and they showed that only a low selection of a variance is also sufficient."
+  },
+  {
+    "start": 386.25,
+    "end": 387.09,
+    "text": "for this model."
+  },
+  {
+    "start": 387.72,
+    "end": 393.58,
+    "text": "because we only train a small linear regression model that only takes a little number of"
+  },
+  {
+    "start": 394.12,
+    "end": 397.94,
+    "text": "test samples that is actually sufficient. That was shown."
+  },
+  {
+    "start": 400.45,
+    "end": 405.68,
+    "text": "And we also showed it our benchmarks that it's also sufficient and performs actually good."
+  },
+  {
+    "start": 411.21,
+    "end": 413.62,
+    "text": "So for your modeling, you guys."
+  },
+  {
+    "start": 414.18,
+    "end": 419.76,
+    "text": "suggested your two mutations to increase your enzymatic activity by a bunch. Where exactly--"
+  },
+  {
+    "start": 420.45,
+    "end": 424.18,
+    "text": "Are there mutations and how does it affect the protein? Like how does it make the change?"
+  },
+  {
+    "start": 428.26,
+    "end": 431.38,
+    "text": "So as you can see in the next slide post,"
+  },
+  {
+    "start": 431.78,
+    "end": 432.53,
+    "text": "over here."
+  },
+  {
+    "start": 433.29,
+    "end": 444.4,
+    "text": "You can see the comparison of the two substrates. Green is our substrate that we wanted to use for the production of MVP. And in pink you can see the native substrate that is usually used by the enzyme for the production of piperine."
+  },
+  {
+    "start": 445.03,
+    "end": 450.64,
+    "text": "And as you can see, our substrate is a little bit smaller or shorter, but a little bit wider in this place because this is-- [AUDIO OUT]"
+  },
+  {
+    "start": 451.3,
+    "end": 451.98,
+    "text": "Just a..."
+  },
+  {
+    "start": 452.77,
+    "end": 454.06,
+    "text": "one chain and here we have"
+  },
+  {
+    "start": 454.44,
+    "end": 455.06,
+    "text": "final group"
+  },
+  {
+    "start": 455.46,
+    "end": 457.84,
+    "text": "So we tried mainly to-- [AUDIO OUT]"
+  },
+  {
+    "start": 458.63,
+    "end": 465.9,
+    "text": "on this pocket a little bit so the ligand can't slide in too far because we need this group to be right here because this is our active center."
+  },
+  {
+    "start": 466.89,
+    "end": 467.38,
+    "text": "and"
+  },
+  {
+    "start": 467.94,
+    "end": 472.21,
+    "text": "Looking at the best performing variant, you can see that we did two mutations right here."
+  },
+  {
+    "start": 472.61,
+    "end": 473.78,
+    "text": "where we closed off the pocket"
+  },
+  {
+    "start": 474.15,
+    "end": 476.05,
+    "text": "So you can see that the Fener group is really"
+  },
+  {
+    "start": 476.81,
+    "end": 478.8,
+    "text": "tight in the space and it fits perfectly in there."
+  },
+  {
+    "start": 480.23,
+    "end": 481.87,
+    "text": "We didn't know this beforehand. This was"
+  },
+  {
+    "start": 482.57,
+    "end": 487.82,
+    "text": "a combination of rational design and Likert MPNN another tool by David Baker"
+  },
+  {
+    "start": 488.26,
+    "end": 488.78,
+    "text": "um"
+  },
+  {
+    "start": 489.35,
+    "end": 495.82,
+    "text": "which produced these two single mutations and then we combined them and then we predicted the structure by alpha-pro-3 again."
+  },
+  {
+    "start": 496.29,
+    "end": 498.03,
+    "text": "And then we saw that this is really perfect."
+  },
+  {
+    "start": 498.69,
+    "end": 502.1,
+    "text": "and you can really see why the enzyme performs better than the right type."
+  },
+  {
+    "start": 503.17,
+    "end": 503.79,
+    "text": "Gotcha,"
+  },
+  {
+    "start": 508.58,
+    "end": 521.39,
+    "text": "Okay, so I'm intrigued by the work that did on plants in terribology. I understand it was quite a challenge and black pepper is like a..."
+  },
+  {
+    "start": 521.83,
+    "end": 524.75,
+    "text": "interesting choice of a chassis organism."
+  },
+  {
+    "start": 525.13,
+    "end": 534.06,
+    "text": "And I'm just curious as to what limitations you find so you identified in this process and how you plan to exactly use."
+  },
+  {
+    "start": 534.57,
+    "end": 537.33,
+    "text": "This is how you plan to extract the product."
+  },
+  {
+    "start": 537.77,
+    "end": 538.13,
+    "text": "from"
+  },
+  {
+    "start": 538.69,
+    "end": 539.86,
+    "text": "plant in the end."
+  },
+  {
+    "start": 570.6,
+    "end": 589.3,
+    "text": "The product itself will be produced within the pepper seeds. The enzyme pass will normally produce in the plant the piperine which is responsible for the spice of the black pepper. So exchanging the functionality of the pass not produce piperine anymore to our product"
+  },
+  {
+    "start": 589.7,
+    "end": 595.5,
+    "text": "will lead to an accumulation in the seeds and will probably make it possible to just..."
+  },
+  {
+    "start": 595.94,
+    "end": 599.5,
+    "text": "You crunch them like you normally crunch pepper and instead of..."
+  },
+  {
+    "start": 600.36,
+    "end": 605.78,
+    "text": "having a sharp spice you will have insect repellent which you can maybe put in your pocket."
+  },
+  {
+    "start": 606.31,
+    "end": 610.38,
+    "text": "For example, for DEED it was shown that you can dissolve it in..."
+  },
+  {
+    "start": 611.05,
+    "end": 611.76,
+    "text": "Um..."
+  },
+  {
+    "start": 612.29,
+    "end": 615.76,
+    "text": "polymers of plastic and having this in a"
+  },
+  {
+    "start": 616.26,
+    "end": 617.33,
+    "text": "and it's still"
+  },
+  {
+    "start": 617.83,
+    "end": 619.7,
+    "text": "works as insect repellent and..."
+  },
+  {
+    "start": 620.55,
+    "end": 621.23,
+    "text": "So we're--"
+  },
+  {
+    "start": 622.09,
+    "end": 626.99,
+    "text": "We are hoping that this will work for our product and pepper seeds as well."
+  },
+  {
+    "start": 628.68,
+    "end": 630.7,
+    "text": "Okay, so you"
+  },
+  {
+    "start": 631.14,
+    "end": 633.62,
+    "text": "You're mentioning you could dissolve it in..."
+  },
+  {
+    "start": 634.09,
+    "end": 642.93,
+    "text": "In a plastic polymer? Yeah, for DEET it was shown. So, for DEET it was shown that it works in a plastic polymer and..."
+  },
+  {
+    "start": 643.69,
+    "end": 645.78,
+    "text": "still function as"
+  },
+  {
+    "start": 646.18,
+    "end": 648.24,
+    "text": "as a working insect repellent."
+  },
+  {
+    "start": 649.32,
+    "end": 652.91,
+    "text": "So just thinking about it as that final product."
+  },
+  {
+    "start": 653.41,
+    "end": 657.97,
+    "text": "like where do you intend for it to be applied?"
+  },
+  {
+    "start": 659.88,
+    "end": 660.34,
+    "text": "where it"
+  },
+  {
+    "start": 660.93,
+    "end": 662.51,
+    "text": "like as a repellent."
+  },
+  {
+    "start": 662.95,
+    "end": 689.56,
+    "text": "just the replacement for regular repellent sprays? - Well, we hope is that you can just put it on cloth, not even put it on your skin anymore, or just have a bunch of it in your pocket. That would be most suitable, but of course it need to be tested before because it was never tested in a plant especially. So it's a theoretical exploration. - And have you made any predictions as to the yield that you could produce?"
+  },
+  {
+    "start": 690.73,
+    "end": 694.61,
+    "text": "Well, piperine actually accumulates up to 7 to 10%."
+  },
+  {
+    "start": 695.08,
+    "end": 698.93,
+    "text": "Regarding on the variety you're choosing. So we're hoping to get at least"
+  },
+  {
+    "start": 699.53,
+    "end": 706.38,
+    "text": "7% of dry mass of the pepper seeds from our product. So it's not tested but it's like you."
+  },
+  {
+    "start": 706.98,
+    "end": 716.78,
+    "text": "which part of the Wiki can I find more detail on this? On a plant synthetic biology? So, I take it the..."
+  },
+  {
+    "start": 717.67,
+    "end": 719.38,
+    "text": "second part."
+  },
+  {
+    "start": 720.2,
+    "end": 720.69,
+    "text": "Wet lab"
+  },
+  {
+    "start": 724.26,
+    "end": 729.42,
+    "text": "I haven't found it. I mean, I can dig up a bit more, but if you can just like I mean the right direction."
+  },
+  {
+    "start": 738.66,
+    "end": 745.36,
+    "text": "Yeah, I found that one. So all the details about the final stages of the project would be in there."
+  },
+  {
+    "start": 748.36,
+    "end": 748.75,
+    "text": "Okay."
+  },
+  {
+    "start": 753.09,
+    "end": 757.71,
+    "text": "Great, well done on your project. So I just have one question on safety."
+  },
+  {
+    "start": 758.34,
+    "end": 762.96,
+    "text": "So how do you plan to assess and mitigate potential environmental?"
+  },
+  {
+    "start": 763.46,
+    "end": 775.47,
+    "text": "We're associated with the widespread conservation of GMO, like black pepper plants in affected regions. You're going to use that, right? You plan into assessing mitigates there."
+  },
+  {
+    "start": 776.42,
+    "end": 802.36,
+    "text": "Can you hear me? So I just had a question concerning safety since you're dealing with plants, right? So how do you plan to assess and mitigate potential environmental risk associated with the widespread cultivation of the genetically modified black pepper plants in these affected regions? I don't know if you want to speak a bit on the safety aspect. Have you considered that in any?"
+  },
+  {
+    "start": 802.95,
+    "end": 806.03,
+    "text": "potential risk that could, you know."
+  },
+  {
+    "start": 806.63,
+    "end": 808.24,
+    "text": "Have you considered anything?"
+  },
+  {
+    "start": 814.37,
+    "end": 834.93,
+    "text": "Yes, we've thought about that. I mean, in this project, we were just kind of evaluating the possibilities there are. But we thought about different methods that could be applied if our product came to a stage where it could be applied actually. And we thought about pollen sterility that can be introduced into the pepper plant."
+  },
+  {
+    "start": 835.3,
+    "end": 836.88,
+    "text": "which would prevent"
+  },
+  {
+    "start": 837.61,
+    "end": 842.74,
+    "text": "the genes to spread among populations and also the pepper."
+  },
+  {
+    "start": 843.11,
+    "end": 845.1,
+    "text": "that contains the NBP."
+  },
+  {
+    "start": 845.48,
+    "end": 852.59,
+    "text": "does not contain the quantities of piperine, so it can be distinguished quite clearly from the wild pepper plants."
+  },
+  {
+    "start": 860.68,
+    "end": 861.62,
+    "text": "Any other questions?"
+  },
+  {
+    "start": 864.07,
+    "end": 864.43,
+    "text": "Yep."
+  },
+  {
+    "start": 865.61,
+    "end": 872.27,
+    "text": "Would somebody mind talking just maybe a little bit about the chemical safety of MVP and how it compares like efficacy wise to deep?"
+  },
+  {
+    "start": 894.92,
+    "end": 897.68,
+    "text": "Yes, thank you for the question."
+  },
+  {
+    "start": 906.21,
+    "end": 907.06,
+    "text": "One second, I'm"
+  },
+  {
+    "start": 912.52,
+    "end": 913.49,
+    "text": "So, um..."
+  },
+  {
+    "start": 914.28,
+    "end": 919.5,
+    "text": "The main advantage of NBP compared to DEED is the sustainability."
+  },
+  {
+    "start": 920.2,
+    "end": 923.57,
+    "text": "And that breaks down to these..."
+  },
+  {
+    "start": 923.94,
+    "end": 925.3,
+    "text": "categories that you see."
+  },
+  {
+    "start": 925.73,
+    "end": 926.42,
+    "text": "on screen."
+  },
+  {
+    "start": 927.01,
+    "end": 929.39,
+    "text": "which were used during our sustainability report."
+  },
+  {
+    "start": 930.05,
+    "end": 930.96,
+    "text": "And so."
+  },
+  {
+    "start": 931.81,
+    "end": 932.82,
+    "text": "It's--"
+  },
+  {
+    "start": 933.54,
+    "end": 936.56,
+    "text": "Basically the conclusion is that MVP is more sustainable."
+  },
+  {
+    "start": 937.06,
+    "end": 938.61,
+    "text": "because the waste"
+  },
+  {
+    "start": 939.17,
+    "end": 941.58,
+    "text": "is much lower and"
+  },
+  {
+    "start": 942.02,
+    "end": 955.54,
+    "text": "Indeed, there is chlorinated intermediates. You have to use dichloromethane as a solvent. And those, of course, are very bad for the environment. They have to be recycled, but that also cannot be done indefinitely."
+  },
+  {
+    "start": 956.23,
+    "end": 961.65,
+    "text": "So, and for MVP, you don't need any solvents, you don't need toxic chemicals."
+  },
+  {
+    "start": 962.02,
+    "end": 967.06,
+    "text": "The only toxic chemical that could be used is in black pepper. You would need fertilizer."
+  },
+  {
+    "start": 967.72,
+    "end": 970.48,
+    "text": "That is the case for almost every agricultural plant."
+  },
+  {
+    "start": 971.72,
+    "end": 977.46,
+    "text": "Then if you go to save chemicals, it's basically just what I said."
+  },
+  {
+    "start": 978.09,
+    "end": 982.58,
+    "text": "The energy efficiency is for black pepper very good"
+  },
+  {
+    "start": 983.11,
+    "end": 987.7,
+    "text": "You of course, there's always the fertilizer, but other than that, you can just."
+  },
+  {
+    "start": 988.23,
+    "end": 992.4,
+    "text": "Basically, in tropical regions, set it on a field and it should grow."
+  },
+  {
+    "start": 993.16,
+    "end": 996.27,
+    "text": "for the fermentation with Coronavirus bacteria."
+  },
+  {
+    "start": 996.68,
+    "end": 1000.59,
+    "text": "You would have energy required to keep the fermenter running."
+  },
+  {
+    "start": 1001.0,
+    "end": 1004.75,
+    "text": "But that could be, for example, coupled to biogas plants."
+  },
+  {
+    "start": 1005.16,
+    "end": 1007.09,
+    "text": "So it would also be quite efficient."
+  },
+  {
+    "start": 1007.81,
+    "end": 1014.67,
+    "text": "But you also have to say that DEEDS due to being a petrochemical process is very optimized."
+  },
+  {
+    "start": 1016.1,
+    "end": 1018.1,
+    "text": "It creates a lot of waste."
+  },
+  {
+    "start": 1018.76,
+    "end": 1022.35,
+    "text": "Then another very important point is that it uses renewable feedstock."
+  },
+  {
+    "start": 1022.79,
+    "end": 1028.75,
+    "text": "So DEET is based on crude oil, which obviously is finite and will eventually run out."
+  },
+  {
+    "start": 1029.48,
+    "end": 1030.61,
+    "text": "and"
+  },
+  {
+    "start": 1031.43,
+    "end": 1034.64,
+    "text": "the NBP production would be based on glucose."
+  },
+  {
+    "start": 1035.21,
+    "end": 1044.05,
+    "text": "And that obviously then comes from sugar beet, for example, which is just the carbon resource, which is a..."
+  },
+  {
+    "start": 1044.49,
+    "end": 1045.17,
+    "text": "Sustainable."
+  },
+  {
+    "start": 1046.34,
+    "end": 1049.71,
+    "text": "that also contributes to the fact that..."
+  },
+  {
+    "start": 1050.31,
+    "end": 1050.99,
+    "text": "The."
+  },
+  {
+    "start": 1051.75,
+    "end": 1055.7,
+    "text": "fermentation, the production of NBP."
+  },
+  {
+    "start": 1056.2,
+    "end": 1061.52,
+    "text": "is sustainable while D does not. So the switch is inevitable at some point."
+  },
+  {
+    "start": 1062.5,
+    "end": 1066.0,
+    "text": "Then if we go to catalysis, we obviously have our pass."
+  },
+  {
+    "start": 1066.53,
+    "end": 1068.5,
+    "text": "as a catalytic, as an enzyme."
+  },
+  {
+    "start": 1069.22,
+    "end": 1074.48,
+    "text": "And that's yeah, as we have shown with the 550% increase in."
+  },
+  {
+    "start": 1074.95,
+    "end": 1077.23,
+    "text": "An activity that has a huge potential"
+  },
+  {
+    "start": 1077.96,
+    "end": 1082.96,
+    "text": "and the catalysts used in deep production are, for example, titanium based."
+  },
+  {
+    "start": 1083.33,
+    "end": 1086.9,
+    "text": "and then those produce titanium dioxide as a waste product."
+  },
+  {
+    "start": 1087.3,
+    "end": 1089.62,
+    "text": "And that is also carcinogenic and..."
+  },
+  {
+    "start": 1090.6,
+    "end": 1091.95,
+    "text": "very toxic to humans"
+  },
+  {
+    "start": 1093.0,
+    "end": 1095.02,
+    "text": "Then the biodegradability."
+  },
+  {
+    "start": 1095.43,
+    "end": 1096.21,
+    "text": "Both?"
+  },
+  {
+    "start": 1096.65,
+    "end": 1098.48,
+    "text": "Deets is shown to be a..."
+  },
+  {
+    "start": 1099.21,
+    "end": 1103.31,
+    "text": "readily biodegradable, which means it's like 60% of deed can be..."
+  },
+  {
+    "start": 1103.81,
+    "end": 1107.47,
+    "text": "are degraded by microorganisms in a certain amount of time."
+  },
+  {
+    "start": 1108.29,
+    "end": 1116.69,
+    "text": "And with NVP, there's very scarce research on it, but it's shown that piperidine is very biodegradable. So it can be."
+  },
+  {
+    "start": 1117.41,
+    "end": 1121.33,
+    "text": "perhaps speculated that NBP as well can be biodegraded."
+  },
+  {
+    "start": 1122.18,
+    "end": 1127.28,
+    "text": "And also they are structurally very similar. So it's probably biodegradable as well."
+  },
+  {
+    "start": 1128.1,
+    "end": 1128.62,
+    "text": "Um..."
+  },
+  {
+    "start": 1129.45,
+    "end": 1132.4,
+    "text": "towards the accident prevention if there's no..."
+  },
+  {
+    "start": 1133.03,
+    "end": 1143.44,
+    "text": "high pressures for example, no high temperatures required for the synthesis, then you can say that the chance of an accident is very low."
+  },
+  {
+    "start": 1144.13,
+    "end": 1148.27,
+    "text": "And for deep, there are steps where you need to like."
+  },
+  {
+    "start": 1148.65,
+    "end": 1149.2,
+    "text": "heat it up"
+  },
+  {
+    "start": 1149.64,
+    "end": 1152.85,
+    "text": "And you also obviously have the chemicals which are very dangerous."
+  },
+  {
+    "start": 1153.38,
+    "end": 1155.89,
+    "text": "So accidents would be much more."
+  },
+  {
+    "start": 1157.09,
+    "end": 1159.28,
+    "text": "much more dangerous to people."
+  },
+  {
+    "start": 1159.94,
+    "end": 1160.91,
+    "text": "around the plant."
+  },
+  {
+    "start": 1163.72,
+    "end": 1164.08,
+    "text": "That's"
+  },
+  {
+    "start": 1165.19,
+    "end": 1165.94,
+    "text": "God's very"
+  },
+  {
+    "start": 1167.4,
+    "end": 1169.04,
+    "text": "OK, that's fine."
+  },
+  {
+    "start": 1170.37,
+    "end": 1170.74,
+    "text": "Thank you"
+  },
+  {
+    "start": 1174.12,
+    "end": 1175.66,
+    "text": "- Hi, apologies for being late ahead of"
+  },
+  {
+    "start": 1177.45,
+    "end": 1180.37,
+    "text": "pop-up window blockers. So. (static)"
+  },
+  {
+    "start": 1181.35,
+    "end": 1181.87,
+    "text": "uh"
+  },
+  {
+    "start": 1182.57,
+    "end": 1186.22,
+    "text": "Thanks for a great project. I really super enjoyed reading it. I have two."
+  },
+  {
+    "start": 1186.79,
+    "end": 1188.78,
+    "text": "parenthetical questions. One is connected."
+  },
+  {
+    "start": 1189.29,
+    "end": 1190.99,
+    "text": "what you were just talking about, which is"
+  },
+  {
+    "start": 1191.85,
+    "end": 1195.76,
+    "text": "the pepper plants, which I was really impressed you were able to to"
+  },
+  {
+    "start": 1196.39,
+    "end": 1202.19,
+    "text": "apply the leaf production process over from tobacco so quickly."
+  },
+  {
+    "start": 1202.69,
+    "end": 1203.18,
+    "text": "Um."
+  },
+  {
+    "start": 1204.29,
+    "end": 1208.72,
+    "text": "But just now in talking about sustainability, you kind of glossed over."
+  },
+  {
+    "start": 1209.19,
+    "end": 1216.14,
+    "text": "know, the need for nitrogen and so on, which is a pretty big need. So I wonder whether by any chance that you"
+  },
+  {
+    "start": 1216.77,
+    "end": 1218.06,
+    "text": "considered a"
+  },
+  {
+    "start": 1218.44,
+    "end": 1222.96,
+    "text": "Also creating a pepper plant that was sustainable. In other words,"
+  },
+  {
+    "start": 1225.0,
+    "end": 1227.44,
+    "text": "supply its own nitrogen source."
+  },
+  {
+    "start": 1235.88,
+    "end": 1236.62,
+    "text": "I mean it's"
+  },
+  {
+    "start": 1237.25,
+    "end": 1242.35,
+    "text": "It's not directly related to MVP and so on, but I wondered if it just occurred to you that."
+  },
+  {
+    "start": 1242.82,
+    "end": 1249.87,
+    "text": "that you could actually clone in the nitrogen producing bacteria into the roots and so on. Should be pretty cool. Sorry, the genes from the nitrogen. (static)"
+  },
+  {
+    "start": 1250.76,
+    "end": 1251.76,
+    "text": "producing bacteria."
+  },
+  {
+    "start": 1252.55,
+    "end": 1258.13,
+    "text": "Yeah, within this project we have not considered that. I mean, we just tried to..."
+  },
+  {
+    "start": 1258.5,
+    "end": 1261.52,
+    "text": "First of all, get the pathway in place to produce our..."
+  },
+  {
+    "start": 1261.93,
+    "end": 1267.89,
+    "text": "our active compound, once there is an active compound in the plant, and that's all working then."
+  },
+  {
+    "start": 1268.29,
+    "end": 1273.97,
+    "text": "making the process more efficient could be considered, but we try to first get the process in place."
+  },
+  {
+    "start": 1274.34,
+    "end": 1277.14,
+    "text": "Of course, I just was wondering if you'd considered it and was thinking..."
+  },
+  {
+    "start": 1278.05,
+    "end": 1279.54,
+    "text": "to have a sort of stand-alone"
+  },
+  {
+    "start": 1280.36,
+    "end": 1283.02,
+    "text": "completely stand alone plant there would be great"
+  },
+  {
+    "start": 1283.4,
+    "end": 1284.59,
+    "text": "I really loved the..."
+  },
+  {
+    "start": 1285.16,
+    "end": 1286.32,
+    "text": "pepper and nigram work."
+  },
+  {
+    "start": 1287.11,
+    "end": 1288.05,
+    "text": "Um, my"
+  },
+  {
+    "start": 1288.74,
+    "end": 1292.85,
+    "text": "Second question is also kind of off the-- [AUDIO OUT]"
+  },
+  {
+    "start": 1293.73,
+    "end": 1294.48,
+    "text": "on the side."
+  },
+  {
+    "start": 1294.89,
+    "end": 1297.74,
+    "text": "adjacent to the project and that's whether you"
+  },
+  {
+    "start": 1298.66,
+    "end": 1301.33,
+    "text": "considered some of the"
+  },
+  {
+    "start": 1301.7,
+    "end": 1306.16,
+    "text": "properties of NBP for its use in brain function."
+  },
+  {
+    "start": 1307.78,
+    "end": 1312.82,
+    "text": "depression treatment and so on. Did you run into any of that literature and were you concerned about that at all?"
+  },
+  {
+    "start": 1321.16,
+    "end": 1325.65,
+    "text": "So you mean because of the structural similarity to some of the..."
+  },
+  {
+    "start": 1326.02,
+    "end": 1326.8,
+    "text": "[AUDIO OUT"
+  },
+  {
+    "start": 1327.53,
+    "end": 1327.89,
+    "text": "What?"
+  },
+  {
+    "start": 1329.61,
+    "end": 1330.74,
+    "text": "So..."
+  },
+  {
+    "start": 1331.78,
+    "end": 1334.32,
+    "text": "don't know about any literature with NBP itself."
+  },
+  {
+    "start": 1334.76,
+    "end": 1335.15,
+    "text": "this"
+  },
+  {
+    "start": 1336.33,
+    "end": 1337.81,
+    "text": "in this context."
+  },
+  {
+    "start": 1339.3,
+    "end": 1344.02,
+    "text": "like is did you find something with nvp or just similar compounds"
+  },
+  {
+    "start": 1344.84,
+    "end": 1351.76,
+    "text": "- Yeah, I did find something with the key just because I was looking for some of the synthetic pathways, alternate synthetic pathways."
+  },
+  {
+    "start": 1352.36,
+    "end": 1355.09,
+    "text": "I can forward it to you."
+  },
+  {
+    "start": 1356.52,
+    "end": 1359.18,
+    "text": "So, you know, I don't think it's a..."
+  },
+  {
+    "start": 1359.75,
+    "end": 1360.21,
+    "text": "you know"
+  },
+  {
+    "start": 1360.93,
+    "end": 1364.82,
+    "text": "deal thinker at all, but just something that I think you might want to."
+  },
+  {
+    "start": 1365.35,
+    "end": 1372.82,
+    "text": "So I mean, it's structurally similar and in some insects it can probably dock in some neuronal systems."
+  },
+  {
+    "start": 1373.25,
+    "end": 1376.21,
+    "text": "But to my knowledge, that's not a problem in humans."
+  },
+  {
+    "start": 1376.65,
+    "end": 1377.1,
+    "text": "I could"
+  },
+  {
+    "start": 1377.77,
+    "end": 1378.42,
+    "text": "Okay."
+  },
+  {
+    "start": 1379.37,
+    "end": 1381.3,
+    "text": "It was also tested on skin."
+  },
+  {
+    "start": 1382.53,
+    "end": 1383.57,
+    "text": "There were no reports."
+  },
+  {
+    "start": 1384.77,
+    "end": 1386.16,
+    "text": "was harmful."
+  },
+  {
+    "start": 1388.39,
+    "end": 1392.88,
+    "text": "Either way, positive additional effects to look into."
+  },
+  {
+    "start": 1394.09,
+    "end": 1406.19,
+    "text": "Okay, so just for the end, we have about two minutes left. If you want to address maybe how you plan to take this project further, what would your next plans be if you were to continue working on it?"
+  },
+  {
+    "start": 1413.0,
+    "end": 1420.5,
+    "text": "So first of all, as you saw, we introduced two mutations and already got an enzyme that's 550% of the enzyme."
+  },
+  {
+    "start": 1421.19,
+    "end": 1426.54,
+    "text": "and the mid activity. And that was just two rounds. So we tested our."
+  },
+  {
+    "start": 1427.08,
+    "end": 1431.02,
+    "text": "way of protein engineering and we proved that it's very viable."
+  },
+  {
+    "start": 1431.49,
+    "end": 1437.68,
+    "text": "and we are pretty certain that we could increase the endemic activity even further with just a little bit more lab work."
+  },
+  {
+    "start": 1438.12,
+    "end": 1439.41,
+    "text": "So we're definitely going to work"
+  },
+  {
+    "start": 1440.45,
+    "end": 1441.1,
+    "text": "and"
+  },
+  {
+    "start": 1441.64,
+    "end": 1445.84,
+    "text": "So you can see we had two different approaches, one in the bacteria and one in the plant."
+  },
+  {
+    "start": 1446.31,
+    "end": 1452.02,
+    "text": "and we're definitely trying to do both at the same time. It's not like the plant is the ultimate goal and the bacteria is just a step."
+  },
+  {
+    "start": 1452.42,
+    "end": 1453.17,
+    "text": "We're going to"
+  },
+  {
+    "start": 1453.54,
+    "end": 1454.8,
+    "text": "and"
+  },
+  {
+    "start": 1455.46,
+    "end": 1460.94,
+    "text": "We definitely want to do more fermentation tests to see how big the yield in the fermentation could be."
+  },
+  {
+    "start": 1467.43,
+    "end": 1468.24,
+    "text": "Yeah."
+  },
+  {
+    "start": 1468.61,
+    "end": 1480.43,
+    "text": "And just additionally also for the plant project, we already also considered maybe not only doing an unsterile transformation of pepper, but also sterile transformation. So we..."
+  },
+  {
+    "start": 1481.54,
+    "end": 1498.19,
+    "text": "started to develop also sterilization protocol for pepper seeds. But due to pepper not being a model organism and needs like 90 days until the seed starts growing something. Yeah."
+  },
+  {
+    "start": 1498.73,
+    "end": 1506.0,
+    "text": "to lack of time we're not quite able to test all of that but also yeah, steroid cultivation could also be."
+  },
+  {
+    "start": 1507.17,
+    "end": 1507.98,
+    "text": "a next step."
+  },
+  {
+    "start": 1508.39,
+    "end": 1510.26,
+    "text": "Thank you. - Perfect, thank you."
+  },
+  {
+    "start": 1511.3,
+    "end": 1512.21,
+    "text": "[AUDIO OUT]"
+  },
+  {
+    "start": 1514.41,
+    "end": 1523.02,
+    "text": "That's time. Right, well, very impressive project. Thank you so much for coming as a whole team. It's a really huge team."
+  },
+  {
+    "start": 1523.65,
+    "end": 1524.85,
+    "text": "And yeah."
+  },
+  {
+    "start": 1526.69,
+    "end": 1527.18,
+    "text": "Good luck"
+  },
+  {
+    "start": 1540.1,
+    "end": 1540.72,
+    "text": "Also."
+  },
+  {
+    "start": 1541.32,
+    "end": 1543.76,
+    "text": "Bye to the zoom people. She's handling."
+  },
+  {
+    "start": 1545.09,
+    "end": 1545.49,
+    "text": "What do"
+  },
+  {
+    "start": 1545.89,
+    "end": 1546.96,
+    "text": "link of the"
+  },
+  {
+    "start": 1550.21,
+    "end": 1550.93,
+    "text": "really, I don"
+  },
+  {
+    "start": 1561.77,
+    "end": 1563.15,
+    "text": "Okay."
+  },
+  {
+    "start": 1567.01,
+    "end": 1567.63,
+    "text": "[static]"
+  },
+  {
+    "start": 1568.26,
+    "end": 1569.2,
+    "text": "Sun's ventrically"
+  },
+  {
+    "start": 1570.05,
+    "end": 1571.86,
+    "text": "such as \"Who's Who\" and \"Star"
+  },
+  {
+    "start": 1577.25,
+    "end": 1579.6,
+    "text": "Thank you."
+  },
+  {
+    "start": 1580.13,
+    "end": 1580.99,
+    "text": "See ya."
+  }
+]

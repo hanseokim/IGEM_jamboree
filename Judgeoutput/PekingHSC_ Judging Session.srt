@@ -1,0 +1,884 @@
+1
+00:00:01,090 --> 00:00:15,540
+Hello everyone, we are team KickingHRC. Our project focuses on liver cirrhosis. Cirrhosis poses a fear health burden. In China, there are 400 million patients living with it. It has many complications and can even lead to hep Cylar carcinoma.
+
+2
+00:00:15,970 --> 00:00:21,970
+So the deficiency of S-Dinosoma signing, SIN, can lead to the development of cirrhosis.
+
+3
+00:00:22,660 --> 00:00:48,920
+Conversely, the excessively high level of SAM can lead to the hyper-methylation and trigger some fatty fats. So maintaining the SAM level within the physiological range is the key. So here we design an RNA therapy, like use them E to regulate intracellular SAM level. It can achieve negative feedback regulation of intracellular SAM concentration by an mRNA element. It is composed of a sensor, a controller, and a factor.
+
+4
+00:00:49,250 --> 00:00:53,810
+The sensor is a same actamer. It can undergo precise structural change and combine into steps.
+
+5
+00:00:54,280 --> 00:01:19,200
+The controller is a subclinear ribosome. We replace the stem loop of the ribosome with the aptamer to build a sound-responsive aptamer. And the factor is a match-1 encoding sequence. It can encode match-1 enzyme. This is responsible for the production of sound. And we insert the actusome into the 3-prime electrocontrastate region of the mRNA. So in serotic exercise with low-scent concentration,
+
+6
+00:01:19,370 --> 00:01:30,670
+The upper xamines is inactive. So the structure of the MRI is intact. It can translate out the might one enzyme and then raise the some concentration.
+
+7
+00:01:31,050 --> 00:01:39,150
+So in healthy cells with normal stem concentration, the upper stem can bind with our stem and then self-quieve. So the armory...
+
+8
+00:01:39,810 --> 00:01:50,930
+become unstable because of the loss of the 3-prem poly-tau and no protection, so it just goes with degradation so that we can prevent over-accumulation of SANS.
+
+9
+00:01:51,780 --> 00:01:57,070
+We first tried sensors and controllers and chose the best ones for the next step validation.
+
+10
+00:01:57,990 --> 00:02:00,780
+And during HP, Professor John Young-Otto told us that
+
+11
+00:02:01,160 --> 00:02:05,970
+The linker between the ribozon and the aptamer is crucial for the after-zon function.
+
+12
+00:02:06,340 --> 00:02:11,700
+So we start by systematically optimizing the Linker space care number.
+
+13
+00:02:12,200 --> 00:02:19,090
+And then we tried a variety of face sequences and used two track models to help with our backflap screening.
+
+14
+00:02:19,530 --> 00:02:25,100
+And then we chose three optimal response candidates for the next step validation.
+
+15
+00:02:26,150 --> 00:02:40,880
+So here, a following by the selection using eGFP as a reporter will make the final choice. And when tested with MITE-1A as a factor, it can successfully alleviate the intracellular SAM level without causing overaccumulation of SAM.
+
+16
+00:02:41,770 --> 00:03:03,180
+So as part of our model section, we comprehensively employed powerful tools such as ordinary differential equations, molecular dynamics, and deep learning to establish a series of models for addressing six screening, RNA target integration prediction, and de novo RNA design, and pharmaceutical analysis.
+
+17
+00:03:04,200 --> 00:03:16,820
+So during the project, we integrated both dry lab and wire requirements, leveraging research outcomes from our teams, open source communities, and the collaborative partners to develop all the thresholds.
+
+18
+00:03:17,190 --> 00:03:28,820
+highly reusable and multifunctional RNA analysis platform, RNA Factory. This platform can deliver end-to-end services, spanning from structural prediction to de-novel design.
+
+19
+00:03:29,960 --> 00:03:57,470
+So after the BK3s, we tried to analyze SAM concentration eight hours later than the delivery. And the SAM went back to the normal level. And for next step, we want to try utilize cellular circular RNA or a D-Nose associated virus to expand the invariable half-life of the erogotomy. And for RNA Factory, we will also continue to enhance its user-friendliness.
+
+20
+00:03:57,700 --> 00:03:59,310
+and expanding its functionality.
+
+21
+00:04:00,170 --> 00:04:06,860
+So during the cycle, we communicated with many experts in different fields and getting improved with their feedbacks.
+
+22
+00:04:08,070 --> 00:04:27,890
+part of our human practice work, we focus on supporting vulnerable groups. On a theoretical level, we summarize inclusive approaches in science communication and develop inclusivity guidelines. On practical level, we created NaviWave, a product that can help visually impaired individuals to overcome barriers in their daily mobility.
+
+23
+00:04:28,420 --> 00:04:29,330
+and our
+
+24
+00:04:29,890 --> 00:04:32,620
+Our human practice plan focuses on
+
+25
+00:04:33,190 --> 00:04:36,720
+Expanding our real world feedback or real world impact.
+
+26
+00:04:37,090 --> 00:04:42,290
+We will advance our scenario wave and get some internal improvement with the feedback.
+
+27
+00:04:42,690 --> 00:04:54,540
+And we also want to collaborate with other communities and to incorporate our inclusive guidelines to students activity programs. We also want to expand the...
+
+28
+00:04:55,010 --> 00:05:02,960
+impact of our inclusive guidelines, but it's a promotion in online ways. So.
+
+29
+00:05:03,780 --> 00:05:07,120
+Thank you for your attention and we are waiting for your questions.
+
+30
+00:05:08,610 --> 00:05:09,620
+Thank you so much.
+
+31
+00:05:12,170 --> 00:05:19,790
+That was a wonderful presentation. We will move on to questions now and the remote judges will start with their questions first.
+
+32
+00:05:21,130 --> 00:05:24,080
+Okay, so I have two questions.
+
+33
+00:05:24,550 --> 00:05:32,270
+The first one is, as I understand your project, focus on the liver disease therapy.
+
+34
+00:05:32,770 --> 00:05:40,370
+Could you please clarify why your human practice work engaged with the visual impact community too?
+
+35
+00:05:41,350 --> 00:05:45,040
+to the collaboration instead of like
+
+36
+00:05:45,640 --> 00:05:48,370
+the societies related to liver disease.
+
+37
+00:05:49,000 --> 00:05:56,180
+Because this will make that feels like a side project instead of you.
+
+38
+00:05:57,060 --> 00:05:59,540
+as a part of your main project.
+
+39
+00:06:00,070 --> 00:06:08,110
+So I would like to clarify, is there a rationale behind choosing the visually impaired society?
+
+40
+00:06:11,010 --> 00:06:11,820
+like please
+
+41
+00:06:12,200 --> 00:06:12,690
+[BL
+
+42
+00:06:14,370 --> 00:06:29,650
+Thank you for your question. Firstly, the requirement of the inclusivity is not only include the people of all projects, but also connect to the-- [AUDIO OUT]
+
+43
+00:06:31,300 --> 00:06:33,840
+Disable groups or STM
+
+44
+00:06:34,280 --> 00:06:41,360
+group and so on so as you know in O'Ricky we set our
+
+45
+00:06:41,800 --> 00:07:08,670
+initial idea from our project like hepatitis patients is not only suffering the disease pain but also suffering the mental pain. So we find this point, we create our project from the people like disabled and also suffering the
+
+46
+00:07:08,900 --> 00:07:09,390
+uh
+
+47
+00:07:10,310 --> 00:07:13,970
+mental pain like emotional problems.
+
+48
+00:07:14,340 --> 00:07:16,940
+So when we--
+
+49
+00:07:17,350 --> 00:07:19,060
+- Will we, will we want to? -
+
+50
+00:07:19,590 --> 00:07:25,840
+is rough but like yeah I understand that part in the inclusivity
+
+51
+00:07:26,310 --> 00:07:35,820
+page, but I was just checking for the human practice page because the human practice should be your project interact with
+
+52
+00:07:36,200 --> 00:07:42,350
+These stakeholders, standard stakeholders give you feedback and make you improve your own project.
+
+53
+00:07:42,730 --> 00:07:43,860
+So like why?
+
+54
+00:07:44,360 --> 00:07:51,820
+Why is there the visual impact part inside your human practice page? That was
+
+55
+00:07:52,390 --> 00:07:53,870
+my question. Yeah.
+
+56
+00:08:05,670 --> 00:08:27,860
+I think our Wiki has showed that what our IHP has helped our wet labs work or dry labs work. For example, Professor John Long has helped us. He has provided the advice that we should focus on the lens of the linker and what's more.
+
+57
+00:08:28,490 --> 00:08:41,460
+Drylabs IFP. - For example, John Long give us the idea that we can optimize the number of base pairs between a steam loop and the barge.
+
+58
+00:08:41,830 --> 00:08:58,100
+And Professor John Chiangfeng has gave us some ideas of optimizing the bunny affinity using some deep learning neural network. And you can find this on the page of IHP. And we have all linked to the deep learning page and also the WellApp page.
+
+59
+00:09:00,290 --> 00:09:10,990
+Yes, I can find those information and I think your IHP actually is very pretty good. Can see the impact on your project.
+
+60
+00:09:11,650 --> 00:09:15,980
+just a little bit confused with the visual impact part.
+
+61
+00:09:16,450 --> 00:09:21,200
+But I guess I think I can move on to the second question first.
+
+62
+00:09:21,860 --> 00:09:24,620
+So maybe I have missed it
+
+63
+00:09:25,030 --> 00:09:28,300
+all on your wiki but could you please
+
+64
+00:09:29,000 --> 00:09:34,670
+Tell me like where is your register parts listed?
+
+65
+00:09:35,430 --> 00:09:40,500
+If they are not shown on your wiki, would you like uh
+
+66
+00:09:41,540 --> 00:09:45,330
+Would you mind sharing at least one example of your registered part?
+
+67
+00:09:46,180 --> 00:09:46,580
+here.
+
+68
+00:09:47,240 --> 00:09:50,100
+Okay, well find the registrar and I'm weakly for you.
+
+69
+00:09:50,790 --> 00:09:51,250
+the name
+
+70
+00:10:16,870 --> 00:10:18,030
+Okay, here's our.
+
+71
+00:10:18,470 --> 00:10:20,500
+Arts Register Parts.
+
+72
+00:10:22,150 --> 00:10:28,370
+I see it's only under the registration. It's not a separate page. I see. Thank you.
+
+73
+00:10:29,290 --> 00:10:29,780
+Thank you
+
+74
+00:10:30,250 --> 00:10:31,730
+Yeah, that's all from me.
+
+75
+00:10:38,600 --> 00:10:43,220
+Hi, first of all, thank you for your presentation.
+
+76
+00:10:44,070 --> 00:10:53,420
+My general concern is, did you detect any off-target cleavage or off-target effects of the host RAs?
+
+77
+00:10:53,930 --> 00:11:00,140
+And did you run any tests, for example, are a sequencing to check for unintended effects?
+
+78
+00:11:07,140 --> 00:11:07,730
+and
+
+79
+00:11:08,260 --> 00:11:15,540
+Of course we do that. And according to our experiments...
+
+80
+00:11:15,970 --> 00:11:19,280
+Low-Semitism countries did not cause self-courage.
+
+81
+00:11:22,310 --> 00:11:25,010
+and high SAM concentrations.
+
+82
+00:11:33,060 --> 00:11:40,780
+and high SAM concentration upsides. So I think this would answer your question about the off-target.
+
+83
+00:11:46,370 --> 00:11:53,330
+So what is the intended, like what is the optimal concentration for SAM?
+
+84
+00:11:57,320 --> 00:11:58,290
+on a bottle.
+
+85
+00:12:00,010 --> 00:12:02,800
+in our lever. 60 micromole in the lever.
+
+86
+00:12:04,490 --> 00:12:05,650
+Okay, got it. Thank
+
+87
+00:12:09,480 --> 00:12:12,560
+Okay, I have a few questions about your modeling.
+
+88
+00:12:13,350 --> 00:12:19,440
+I saw you use molecular dynamics in your RNA structure.
+
+89
+00:12:19,850 --> 00:12:24,270
+and I'd like to note which force field you select and why.
+
+90
+00:12:25,000 --> 00:12:29,550
+Actually, we selected M-bird double nine SP and yeah because
+
+91
+00:12:29,930 --> 00:12:34,700
+When we started this project, we wanted to build a pipeline and...
+
+92
+00:12:35,140 --> 00:12:53,330
+At that time, we just chose this build in force field for convenience. But later we realized that actually there is a better force field like OL3 for RNN. But we did some literature review comparing the two different force fields. And we found that-- [AUDIO OUT]
+
+93
+00:12:53,960 --> 00:13:01,870
+Actually, M-1 double-nigh sp is already in the four-hour calculation. And for the-- [AUDIO OUT]
+
+94
+00:13:02,370 --> 00:13:07,500
+energy calculation so eventually we did not border to change our force field
+
+95
+00:13:08,290 --> 00:13:08,880
+Hey.
+
+96
+00:13:10,210 --> 00:13:13,650
+and I thought you build such great software
+
+97
+00:13:14,310 --> 00:13:23,660
+And I'd like to know whether you consider about someone will use your software to build some biochemistry weapons and how to prevent it.
+
+98
+00:13:24,290 --> 00:13:29,620
+I think that that would be not easy for those
+
+99
+00:13:30,180 --> 00:13:32,110
+those people with bad
+
+100
+00:13:32,810 --> 00:13:45,580
+and this is to use our software to create weapons because you see that our software contains only some basic neural networks to...
+
+101
+00:13:46,180 --> 00:13:47,020
+help with the...
+
+102
+00:13:47,690 --> 00:14:12,890
+basic RNA analysis. So if someone wants to use them to create something like a super virus or some biologic weapons, then this person could not only depend on this simple neural networks. It must need some greater-- [AUDIO OUT]
+
+103
+00:14:13,700 --> 00:14:20,750
+like a better artificial intelligence, not only these tools.
+
+104
+00:14:21,130 --> 00:14:25,300
+That's not enough for them too. Okay. I have the last question.
+
+105
+00:14:25,800 --> 00:14:30,320
+How to ensure your parameter is correct in all of your model?
+
+106
+00:14:32,230 --> 00:14:35,730
+You mean the ODE model? All of the model.
+
+107
+00:14:36,290 --> 00:14:45,550
+So first I will talk about the ODE part and before constructing the whole model with this any literature reviews
+
+108
+00:14:45,930 --> 00:14:46,640
+Yeah, and--
+
+109
+00:14:47,110 --> 00:15:02,000
+as you may have seen on our wiki, our ODA part consists of three different steps. The first one, the PPPK simulation. And this one, in this part, we can find all the parameters in the literature.
+
+110
+00:15:03,050 --> 00:15:06,770
+And before the second part, the sound model.
+
+111
+00:15:07,460 --> 00:15:14,320
+That's a little bit hard. So we make some guesses and kind of like approximation to these parameters.
+
+112
+00:15:14,730 --> 00:15:16,660
+Yeah, so basically test the...
+
+113
+00:15:17,290 --> 00:15:31,540
+about the deep learning model. I think the biggest advantage of deep learning model is that it can find its best parameters by itself. So we just choose the right data.
+
+114
+00:15:31,910 --> 00:15:36,780
+and it just find its own parameter by itself.
+
+115
+00:15:37,830 --> 00:15:39,660
+through the learning progress.
+
+116
+00:15:40,330 --> 00:15:41,550
+Okay, it's on my question
+
+117
+00:15:43,210 --> 00:15:43,570
+I mean
+
+118
+00:15:44,230 --> 00:15:44,910
+Hi.
+
+119
+00:15:45,730 --> 00:15:46,800
+Great work.
+
+120
+00:15:47,370 --> 00:15:48,880
+I was wondering about-- [AUDIO OUT
+
+121
+00:15:49,320 --> 00:15:53,810
+your measurements where you measured the negative feedback loop where you shown that
+
+122
+00:15:54,210 --> 00:15:57,360
+your concert can keep a stable concentration of sound.
+
+123
+00:15:58,090 --> 00:16:00,530
+Have you thought about
+
+124
+00:16:01,250 --> 00:16:07,280
+showing this under different circumstances, such as a longer time or after recovery or disturbance.
+
+125
+00:16:07,720 --> 00:16:08,780
+of the concentrations
+
+126
+00:16:17,350 --> 00:16:43,230
+That is actually our next step design, because with MRA drugs, we can only extend to a normal level or physiological level in a certain time space. And this is relatively short. And due to our data, it's waving with the time. And it's decreasing pretty fast. And if you want to achieve a longer time for recurring-- [AUDIO OUT]
+
+127
+00:16:43,530 --> 00:17:06,700
+For example, cure the heightened cirrhosis, like for a life, maybe we have to inject some MRI drug and without ribozymes and only with ribose switch and it has to be less for long or it can ritual transcript to the whole genome or something like that. And our deep learning model can be easily trans...
+
+128
+00:17:07,210 --> 00:17:17,900
+transfer to that task because we have considered this problem. And our next step design is to build a rival design-free rival switches which can regulate the...
+
+129
+00:17:18,630 --> 00:17:21,140
+concentration of the protein only sensing a sap.
+
+130
+00:17:22,280 --> 00:17:22,960
+OK, thank you
+
+131
+00:17:23,460 --> 00:17:23,890
+um
+
+132
+00:17:24,710 --> 00:17:27,470
+Also I was wondering, you used hepti2 cells.
+
+133
+00:17:28,100 --> 00:17:32,460
+Have you also planned on considering other models such as
+
+134
+00:17:32,870 --> 00:17:34,800
+have a R.G. or co-cultures
+
+135
+00:17:37,860 --> 00:17:48,050
+Actually we do not, but we plan to expand our models like, you know,
+
+136
+00:17:48,450 --> 00:17:53,140
+animal models or other cells or some
+
+137
+00:17:53,770 --> 00:17:55,340
+a lever.
+
+138
+00:17:57,030 --> 00:17:59,630
+cancer, no liver cancer.
+
+139
+00:18:02,980 --> 00:18:11,570
+liver tissue and another thing is to test our elements and to see if it could control the same concentration.
+
+140
+00:18:15,940 --> 00:18:16,910
+Okay, uh...
+
+141
+00:18:17,290 --> 00:18:27,600
+First, I just want to give you guys some time to, can you just explain what exactly you did after the wiki freeze? I want just the update.
+
+142
+00:18:29,190 --> 00:18:33,810
+So we can see that in the result part, the concentration-- [AUDIO OUT]
+
+143
+00:18:35,490 --> 00:18:40,880
+of the cell to not catch up as the same as the normal cell.
+
+144
+00:18:41,320 --> 00:19:05,230
+We wondered if that we get the sample too early or we have the analysis too early so that it can happen, go back to the level. So we tried to give analysis of the sample level. So for a longer time after the delivery of our regular exam, and we found that it can successfully go back to the normal level as the first one, the purple one.
+
+145
+00:19:05,730 --> 00:19:10,510
+So we found that it can actually make sense and you're back to the normal.
+
+146
+00:19:12,650 --> 00:19:16,240
+Okay, thank you. My next question is...
+
+147
+00:19:16,650 --> 00:19:22,640
+What do you think the dosage and administration of your drug would be?
+
+148
+00:19:23,460 --> 00:19:30,480
+You mentioned that the current methods rely on daily supplementation. So what do you expect your...
+
+149
+00:19:31,050 --> 00:19:35,180
+administration to be. Do you also have to take these injections daily?
+
+150
+00:19:44,070 --> 00:19:57,810
+So we haven't tried it yet, but we want to inject our MRI using LMP to envelope it. And we haven't tested experiments, but we use ODE on our things to...
+
+151
+00:19:59,780 --> 00:20:02,830
+to know how
+
+152
+00:20:03,240 --> 00:20:04,500
+much training you need to use it
+
+153
+00:20:05,090 --> 00:20:06,000
+and
+
+154
+00:20:06,530 --> 00:20:26,060
+we plan to try another type of RNA like sarcoan-A or self-replicate RNA to langer our therapy time. And we also think about a substance release formulations or a way to...
+
+155
+00:20:26,500 --> 00:20:28,690
+lever over MRA.
+
+156
+00:20:31,300 --> 00:20:31,760
+Okay.
+
+157
+00:20:32,330 --> 00:20:35,250
+We have five more minutes for questions if anyone has.
+
+158
+00:20:36,650 --> 00:20:37,650
+Go first.
+
+159
+00:20:38,120 --> 00:20:38,510
+(static
+
+160
+00:20:39,690 --> 00:20:42,220
+Yeah, you said a lot of modeling. It's great.
+
+161
+00:20:42,790 --> 00:20:46,060
+I realized in this go-up item, it's hard to actually.
+
+162
+00:20:46,730 --> 00:20:52,560
+tests validate these experimentally, but did you look into how you could validate...
+
+163
+00:20:53,030 --> 00:20:56,050
+your simulations for example for the drug delivery predictions.
+
+164
+00:21:03,110 --> 00:21:05,170
+actually to validate the
+
+165
+00:21:05,930 --> 00:21:14,930
+our simulation, I think the best way is to use animal models. Yeah, you know, in IJN competition, we have no answers to animals, so.
+
+166
+00:21:17,800 --> 00:21:21,680
+What about so maybe after the actual competition we can.
+
+167
+00:21:22,310 --> 00:21:24,880
+kind of like test our jogs in Animosaur.
+
+168
+00:21:25,800 --> 00:21:29,070
+possibly eventually in humans, I don't know.
+
+169
+00:21:29,770 --> 00:21:32,460
+And did you also look into like organs on a chip?
+
+170
+00:21:33,770 --> 00:21:34,540
+organ furniture, organ
+
+171
+00:21:35,080 --> 00:21:36,210
+into that you're not
+
+172
+00:21:36,610 --> 00:21:38,700
+Or, "organize."
+
+173
+00:21:41,030 --> 00:21:41,680
+Thank you.
+
+174
+00:21:43,430 --> 00:21:44,530
+(static)
+
+175
+00:21:46,530 --> 00:21:48,750
+Okay, I'd like to move.
+
+176
+00:21:50,340 --> 00:21:53,940
+any experimental feedback to your modeling
+
+177
+00:21:55,430 --> 00:21:56,300
+I remember Viva
+
+178
+00:22:02,250 --> 00:22:02,640
+sorry
+
+179
+00:22:08,580 --> 00:22:09,940
+So actually, I'm--
+
+180
+00:22:10,440 --> 00:22:22,190
+When we do our ND simulations, we finish that in two different parts. The first one is to screen the different types of ribo-switches and the linker length.
+
+181
+00:22:22,850 --> 00:22:25,900
+Yeah, so after simulations, we-- [AUDIO OUT]
+
+182
+00:22:26,370 --> 00:22:32,590
+CanLife gave the results to our well app and they screen like
+
+183
+00:22:33,090 --> 00:22:34,290
+the best of them.
+
+184
+00:22:34,730 --> 00:22:35,280
+T-R
+
+185
+00:22:35,720 --> 00:22:38,060
+It's kind of like I read the next step.
+
+186
+00:22:38,920 --> 00:22:43,980
+optimization. And for the second part, we optimized the different kind of line.
+
+187
+00:22:45,000 --> 00:22:46,700
+different
+
+188
+00:22:47,720 --> 00:23:06,670
+Base pair, base pair. Base pair combination. Yeah, different base pair combination of the same length. Yes. So in this stage, we also screen line more than 30 rygo switches. And we also gave the results to our web lab. And so that they can screen the best of them.
+
+189
+00:23:14,730 --> 00:23:18,160
+to predict the answer and we use our Well app.
+
+190
+00:23:18,570 --> 00:23:30,960
+results to make sure that the smart net is a state of the art on our task. As you know, there are lots of, a lot of which can predict the value of infinity between the R A and small molecules.
+
+191
+00:23:31,330 --> 00:23:33,740
+But we've tried them and we...
+
+192
+00:23:34,530 --> 00:23:37,420
+Found all that's at this moment is
+
+193
+00:23:38,090 --> 00:23:41,330
+pretty good for our tasks so we use it as a kinds of a
+
+194
+00:23:41,730 --> 00:23:44,110
+Okay, and the last question
+
+195
+00:23:44,710 --> 00:23:50,030
+I'd like to know how to do the RNA protein in the example Dix cell.
+
+196
+00:23:50,470 --> 00:23:53,100
+and count to ensure it is correct.
+
+197
+00:23:55,050 --> 00:24:03,600
+We used two embeddings existing open source models. One is ESM2, one is REBert.
+
+198
+00:24:04,100 --> 00:24:09,680
+And after that, we found out only use MLP, the multilayer perceptron.
+
+199
+00:24:10,050 --> 00:24:11,630
+the normal
+
+200
+00:24:12,040 --> 00:24:20,780
+deep learning neural network is not enough. So we added cross attention layer between us to the between embedding and.
+
+201
+00:24:21,250 --> 00:24:37,170
+deep learning neural network to make sure that each embedding could capture the token level interaction between these two features. And after that, we draw the heat map, make sure that the heat map is evolving from the noise heat map to a...
+
+202
+00:24:37,640 --> 00:24:46,260
+filterize the heat map and that means our model is learning the true rules of the interaction and then after that we
+
+203
+00:24:46,790 --> 00:24:48,780
+invalidated our
+
+204
+00:24:49,640 --> 00:24:55,660
+predictions in a well lab and the confidence the trends of the confidence is a pretty
+
+205
+00:24:56,840 --> 00:24:58,800
+while validating our well-lapse so
+
+206
+00:24:59,970 --> 00:25:08,560
+It's true. And besides that, if you want to use different tools. Our time is unfortunately up, but thank you so much for your presentation.
+
+207
+00:25:10,250 --> 00:25:10,830
+Thank you.
+
+208
+00:25:11,620 --> 00:25:14,320
+Good luck for the jamboree. I hope you have a good time
+
+209
+00:25:14,890 --> 00:25:16,240
+Thank you. See you.
+
+210
+00:25:20,610 --> 00:25:21,620
+So, yeah.
+
+211
+00:25:49,160 --> 00:25:50,030
+[static]
+
+212
+00:25:52,360 --> 00:25:59,790
+Would you guys like to discuss anything? Maybe we can make a different Zoom link.
+
+213
+00:26:00,290 --> 00:26:04,020
+If you feel like we need to discuss something or we can just use the slack channel.
+
+214
+00:26:04,770 --> 00:26:05,870
+Whatever you prefer.
+
+215
+00:26:07,690 --> 00:26:08,880
+Which one is okay?
+
+216
+00:26:10,020 --> 00:26:12,940
+It's... I need a break though.
+
+217
+00:26:13,730 --> 00:26:19,860
+Yeah, so I guess just if any questions we can just post in the Slack channel. There we go.
+
+218
+00:26:20,840 --> 00:26:21,550
+this guy. Okay
+
+219
+00:26:21,960 --> 00:26:22,670
+OK, cool.
+
+220
+00:26:23,370 --> 00:26:25,490
+Thank you guys.
+
+221
+00:26:26,470 --> 00:26:28,030
+Thank you guys, bye!
+

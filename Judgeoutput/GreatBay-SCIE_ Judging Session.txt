@@ -1,0 +1,185 @@
+Right. Good morning. We are Gray Bay SCIE. This year we are dealing with the most.
+Motes should not be unfamiliar to you, but did you know that in Shenzhen, motes are attributed to 30% of all cases of childhood asthma?
+Did you know that in the US, the estimated economic burden of Fungal diseases was $11.5 billion in 2019 alone?
+Beyond health, mode infestation also poses a serious threat to building senses of historical relics.
+This is a global crisis, one that we Great Bay SEIE feel obliged to address.
+Thus, we developed Armageddon.
+So what is Armageddon?
+Armageddon is a brand new mode eliminator.
+It combines highly efficient enzymes, kinases, glucanases, and lysosomes with geranium, enhanced by AI and fusion protein technology.
+What did we achieve?
+Initially, we successfully expressed most wild-type enzymes except PR-CHA, which forms inclusion bodies.
+Performance testing then showed that gel-nax HIV was inactive and BGLS2-7 has low activity. Thus, these three underperforming enzymes were selected for AI optimization.
+As a side note, human life exam and alpha-cluconase, AGLE K14 did not achieve expression and requirements for the investigation.
+To optimize in-time performance, we interviewed with expert Mr. Hsu, who inspired us to use deep learning based modeling tools, protein MPN and ligand MPN.
+Following this idea, we developed a protein engineering pipeline that includes sequence redesign by the two NPN models after selecting redesign residues by MSA.
+After the redesign, we evaluated the generated variance using AlphaFold, Rosetta, and Glide.
+Glide is used for ligand docking and is selected after comparing several docking engines for docking of large carbohydrates.
+A custom docking method was then developed, which combines glide docking with structural alignment.
+After evaluation, the best performing variants are set as candidates for wet lab.
+testing.
+The redesign of PR-CHA was hugely successful.
+Five of the six redesigned variants exhibit good solar wave expression with two showing hydrolytic activity.
+Through interviews with stakeholders, we realized that diversifying our product forms and formulas could enable greater reach and impact.
+Thus
+We design a range of product formats.
+Since numerous experts and end users reported more growth in the ventilation system, we especially focused on developing the anti-mode AC filter.
+To do this, we've used additional CBM modules onto our enzymes, allowing our enzymes to bind tightly to AC filter materials.
+This design is again highly successful as our CBM modules displayed strong affinity to many kinds of fibers, polymers, and surprisingly increased our enzymes' chitinolytic activity and hydrolytic activity.
+We also innovated on the synthesis of geranium.
+By truncating the first 65 amino acids of the geranial synthase, we achieved the final geranial yield of 0.157 g/L. This is nearly 3-fold compared to the untrancated version.
+We also synthesized gamma cyclodextrin to encapsulate the geranial allowing our geranial to have better solubility and stability.
+From the very start of our investigation, we realized that a critical gap exists between public perception and scientific reality for synthetic biology. Thus, we set out to share our passion and knowledge to everybody.
+Following the thick framework we developed, we facilitate learning through thorough hands-on interest-guided communications.
+Among the activities, I'd like to draw your attention to SimBio Nightland's SimBio themed orienteering.
+These events use games, debate, and performances to make synthetic biology an engaging and immersive experience.
+More importantly, the debate facilitates critical thinking about bioethics, helping the public develop a more holistic view on this technology.
+To make our product more accessible, we also develop a comprehensive entrepreneurial effort.
+The overview of our market seems optimistic and we will carry on the effort to bring Armageddon to everyone.
+At the same time, we also made sure that our project follows the UN's SDGs, allowing Armageddon to grow sustainably and responsibly.
+After a dedicated investigation and extensive engagement with numerous stakeholders, we in the end confirmed Armageddon as necessary, feasible, unique, and good for the world.
+That's all from Gray B.S.E. Thank
+Thank you for the presentation.
+We can turn out one of the judges asking the question and take one round for questions. - Excellent presentation. - Yeah, thank you. - So those are our model and we work the same.
+In Fungal Mycelia versus Fungal Sports
+So you mean its effect on sports and mycelium? In the same way or different, what do you think?
+Well, spores, it has a thicker cell wall. So definitely it's hard to kill spores. However, they have generally they have the same composition, chitin and glucan. So we believe with so many enzymes combined, it's both effective to end.
+This is the other room. Okay, so it's both effective to both sports and mycelium.
+I mention that because sometimes...
+Sports can have other components like lipids and things like that. You will think about modifying or adding other enzymes. Yeah, sure. We're all considering that. We're now currently developing and making our product to cope with different scenarios and solutions. In the future, we're going to test on real fungi and to test for its antifungal effect, and we will develop its effect more comprehensive. That will be my second question.
+Can you describe to me how do you gonna test?
+that with small sports like an experiment.
+So when during the enzyme selection, we actually screen a lot because there's a lot of chitinases and glucanases, but those four that we chose for chitinase is also targeting the mycelia as well. They have different functions on the mycelia tip or the mature wall. So they also have antifungal ability.
+What's your second question? The second question, I also put it also in there. But the second question is, how do you want to test?
+Any idea how you're gonna test?
+their magneton into a real fungi or spores. Any experiment that you have to think about it. - Yeah, yeah, sure. Because there's one thing called fungal mycelial extension experiment. You put a fungi at the end and let it grow and it drop your solution onto it and to see whether it inhibits fungal growth around it. Just to observe the inhibition circle. Yeah, that's from numerous literature. We also observed that. - Okay. - Yeah, thank you. - Thank you.
+Alright, I met you guys right here and I asked most of my questions yesterday but I just have one more that I wanted to check if you all noticed after the redesign of your Kaitanase from figure 2 to figure 5 you guys successfully managed to make it soluble so very good for that
+But I noticed if I understood the graph correctly, the access to activity dropped quite a bit, right from the magnitude of about 100 units to about two or three units. So how confident are you guys in using that same AI model to redesign the Kaitenase for higher activity while retaining solubility?
+So-- [
+Did you mean that this brought the activity?
+The bottom graph.
+The X seems to be on the magnitude of like until about three units by your previous graph showed a magnitude of about a hundred plus Oh, I see. So the previous graph is not about PRChA PRChA was not expressed at first
+This is the first time we test the activity on PRChA.
+Oh, but compared to the other kite nazes, they seem to have much higher activity. Are you confident in using an AI model to redesign this one to reach the same activity as let's say the BC kite naze? Yeah, sure. Well, we are confident because this PRChA was not expressive first. So we focused mainly on expression.
+we can focus on the multiple parameters like DDG to make it to be expressed as much as possible. In the future, we're going to orientate our design mechanism, our design direction on increasing this hydrolytic activity.
+- Okay, thank you so much.
+I also have something to add on. So for chitinase, we use colloidal chitin as the substrate while the literature suggests that they use a
+soluble kite as the substrate. So I guess there's like a discrepancy in the substrate we choose.
+So yeah, the activity that we have as a result may have this kind of difference. So it's not like very equivalent at this point.
+Okay. All right. Thank you
+- Yeah, thank you for this nice presentation. I have some questions left. Hi guys. So regarding the multi-enzyme formulations that you proposed. (static)
+Did you test different enzyme ratios to optimize the activity? And if so, how were these ratios chosen and validated?
+Sorry, enzyme ratio? The enzyme ratio that you use for your... I mean the enzyme you should put into the solution.
+Actually, we didn't test on the, uh, comprehensively test the enzyme ratio. However, we do observe the enzyme activity and estimate its composition in the, uh, final solution.
+uh... just if the enzyme is really a reactive then we've required less of that enzyme in the solution
+But now our effort is focusing on like to test them like separately. So we have considered to put all of the parameters the same. So it's these kinds of results we get while foster the future effort we put in because like they're uniform and they're easier for us to modify. But it's definitely our future development plan. Yeah. In the future, we're going to test some real fungi. So we're going to drop the Armageddon and test different formulations as well to maximize the defect.
+minimum composition.
+Cool. Thank you. And another follow-up question to the Guiragnol.
+How stable is it or the other enzymes in general under lifetime conditions like sunlight humidity or temperature fluctuations? Yeah, so for this, although we didn't test really for each enzyme, it can't be hence the stability range. We use multiple enzymes with different optimum conditions with different optimum temperatures and you know, different adaptations. So we believe that this mixture can enable our product to
+work in different environments. And also, well, with the AI engineering pipeline, we are confident that we will make our enzymes more stable across multiple range of temperature and environment conditions to make it stable and increase in stability and performance. - And this is also considered during the literature research when we have chosen these four enzymes. - Yeah, yeah. - Both need to possess very strong stability and this hydrolyzed activity across.
+various ranges. - Mm-hmm, cool, thank you
+Thank you so much for this nice presentation and congratulations on this amazing project.
+I have a few questions, but I'll focus on one and then get to the other ones.
+So first, since we are on this slide, can you talk about the
+Did you find any correlation between the mutations or the changes that happen in the...
+protein after you optimize it.
+Oh, he says the activity of the chitin is
+You mean the dry lab in silica parameters and real testing? Yes, we do find one. So that's far in the end. You know, there's one parameter that we tested while we measured on our enzyme called SaaSaa score. Yes. And that is actually positively related to our yield. So that is actually confirming our model works. So it correctly predicts that with higher SaaSaa score, it generally will have a higher yield.
+And on--
+What's your second question?
+Did I answer your question? Yeah, yeah. Thank you.
+And my second question is related to your education.
+No, education.
+briefly talk about how your education had a two-way dialogue with your project and how did you integrate any of these changes in your project.
+Okay, thank you for your question. And I would like to draw attention to the iGEM Club that we designed. So for the iGEM Club, we have a special design of a physical advice box. And before and after each session, the pupils will write what they want to learn and what advice they will have to us in that box. And they will put it in it. We will draw our... We will draw our...
+Mmm.
+our topic for the next session from this box. So for example, the students, they asked actively about the editing protocols of East and E. coli. They want to know what's the difference between these two creatures. So in our following session, we included.
+very
+comprehensive range of surveys across them,
+So after even you see the orientarian scene by all night We have those kind of Kahoot games or these kind of questions even for public lecture We have the T can cross like these kind of cars to see there to measure their progress in real time and to see how do you adjust our Later even like 10 minute after how do we describe it to them and also
+Before that, we are focusing on each age group, which they have different understanding of synthetic biology, and then have different needs for synthetic biology. For example, for adults, they really don't know about the science, right? But they need to have the scientific understanding of it to help to make a judgment to some synthetic biology product in the real world and to be responsible for their families. So these are also the ways we are communicating.
+And after each, each these kinds of games or activities, we always have surveys to improve our product.
+So to briefly add on, so for each A group, we are starting from lectures, which is really traditional for education. However, we not only just teach them about what they wanted to learn in the starter of the lecture, we also gather feedback from them, like what they just talked about. We gather feedback to decide and design what activity we are going to do next.
+So that's like a longer logical chain for all our activities. - Yeah, so for our education, we are not simply just throwing these activities to people, but you can see every age groups, we have our logic change, which is very, my color, very unique and very essential in toward it. - Yeah, thank you. - Okay.
+and blah, blah, blah,
+Thanks a lot for this great presentation, great to hear, and so far, great presentation as well. And team-- team--
+I have three questions that span a bit different aspects conceptual aspects, technical aspects and entrepreneurship.
+First, for the conceptual aspects, you choose to go with four different enzymes that target different components of the mold to destroy it.
+Did you consider that
+maybe you could have started with only one enzyme, only two enzymes, or only three, which would have--
+as many positive effect on mold than a combination of four or even better to improve project visibility, project streamlining and maybe economic application afterwards. - Yeah, we definitely consider about that. However, after initial literature research, we found out that mold, it's diverse. And that's many, many different compositions in the mode cell wall. And these three enzymes we've chosen. (static)
+They allow ARPA to combat generic modes, to combat any mode, to degrade any...
+The chitin and glucan, some of the most, they don't have chitin in their wall. Some of them have very much.
+There was very much composed of chitin but little glucan. So this combination of enzymes allow us to combat different mode strains. Yeah.
+Definitely, we will consider the optimum efficiency, optimum formula for our product in the future development plan and we have access to real modes.
+All right
+Now to the design build test learn cycle.
+Some software I had trouble to understand the choice and the rationale at the learn stage to the next design cycle. Sometimes you illustrate that some enzyme show a very good activity in your assay.
+Another one, a bit less activity, typically the example of BGL-U1 and BGL-US27.
+where BGLU1 has a very strong activity and BGLU 27 has a lower activity. And then for the next...
+Iteration cycle, you choose to focus on the enzyme that had less activity to optimize it.
+I would have chosen the first one that already show a great activity to optimize it even further rather than focusing on the, it's great that you focus on those hard work because that's, that's make it more complicated.
+But I would have
+in entrepreneurship vision chosen the one that is already very active at the first cycle to implement it. - Yeah, actually that has to do with the target of the enzyme. You know, BGLS2-7 is targeting the beta 1,3-glucan and beta 1,3-glucan is the main component of the mode cell wall for many modes. It counts for 60 to 80% of the mode cell wall. So it's very, very important for us. And that's why we choose to optimize that his import his
+uh uh
+its activity and its activity. And B-glue-1, well, it focuses on beta-1,3,1,4-glucan, which is slightly different from beta-1,3-glucan. So we saw that we observed it has already got a very good soluble activity. Then we just choose to design the other one.
+And I know if that answers your question. Yeah, it makes sense. It's a trade off between a lower activity, but a better specificity. So yeah, yeah. Better target the mode because mode is really important for killing modes. Yeah.
+Yeah, you can go. Maybe one last one. No, no, no, no.
+So you mentioned that you want to carry on with this work. You presented a set of...
+project, product that you could do with this, whether it's a filter, spray, jetting and so on.
+If you had six extra months, what would be your next step to bring this a bit closer market? What test would you like to do? What assay would you like to conduct? And which of the products you proposed would you prioritize as a...
+your first choice, would it be coating a spray, a filter and why? - Okay, so definitely we will carry out a comprehensive testing on our products toxicity and you know, a third party report generated to report our products real feasibility and also test them on real mode. And that's what we're gonna do next. And also we're gonna measure our enzymes activity in different conditions to do more. (static)
+to broaden our measurements. And what's your second question? - The product you showed, the painting, the spray and so on, which one would you choose and why?
+on spray is the one we are like spray is the main main product form of our product because like
+according to many human practice effort with like diverse, like people and some often like money to spray that into many kinds of areas. And that is the most convenient one. Even, yeah, even like our main target customer, including the individual household and the stakeholders she expressed, she like she thought I expressed that spray is the one is very convenient and very convenient to use.
+Yeah, so that's why we are focusing on that. And also like comparing to existing markets and market products, they also chose the spray one. So.
+There must be some reason for that, not just for convenience, but also easier to use, right? - Yeah, some other product formats, they require additional development of the hardware section. You know, some of the atomizers, they require hardware development. - Yeah, they are going to be developed at the same time for multiple use. - Yeah, that's for sure. - Yeah.
+Another reason we choose spray as our primarily developed product form is that the cost of production is rather low and it is easier to develop because the public has a lot of acceptance to it. So compared to other of the products, they require exceptional fund. For example, like the titration device, the titration device itself, it has a-- [AUDIO OUT]
+cost of $25, which is not good for pilot selling. So this is our choice. - Yeah, this allows us to stand firm in the market.
+All right. Thank you very much. Thank you.
+Hi, hello team. Thank you for your presentation. So I have just a few questions. I'm going to start with the modeling part.
+So I was wondering why did you choose to...
+uh
+to model the protein, I mean the go for structural modeling.
+because I know--
+is not an easy task. So why did you choose that type of modeling?
+type of modeling? Yeah. Oh, actually this, as I mentioned, we interviewed with an expert and that is the solution he offered to us. Like it's a shining point. We just got, we just got to know this at the first hand. Oh, we can actually do this. We can actually model our enzymes and just let's do it. And also the protein engineering enzymes, they're our main components and really want them to perform good to perform.
+to have good performance. There are many active ingredients to kill the mode. So they're really important.
+So that means that the one that you found in the literature, or maybe in your lab, they were like not enough for your project. I mean, with specific activities or production labels, I don't know.
+Did you mean that we selected these enzymes and these enzymes may not... No, I mean, did you...
+search in the literature first before going to let's model.
+all the proteins that we need.
+about modelling, literature review about modelling.
+- No, I'm asking...
+why if the proteins that you need for your product
+were
+you found them in the literature or that is why you go for them.
+the first step going to let's create a new enzymes.
+um
+So it's proven by the literature that the novel enzyme design is not quite reliable nowadays. And we also... (static)
+have looked over several literatures suggesting different types of enzymes, their activity, their optimum conditions. The enzymes candidates we found are like around their optimum temperature are around 50.
+Celsius degrees to 60 Celsius degrees. Initially we wanted to improve its activity at room temperature and pH value because
+You know, it's like nearly impossible to change the optimum pH and temperature.
+So, um,
+But, you know, just unfortunately we didn't achieve that at the end, but what is like.
+good for our modeling is that you know the PRCHIA
+It didn't have the solvable expression at first, but after our modeling is improved by is like solvable expression.
+So yeah, we initially targeted to, you know, just to improve what the enzyme candidates didn't have.
+And yeah, that's basic, our goal for model.
+Okay.
+Yes, yes, yes
+Thank you
+So you mentioned the SAS parameter.
+Could you elaborate a little bit more about this parameter because it's new for me? So, SASA. SASA parameters 10. Sorry, before you answer, I would like to say that we are almost on time.
+try to be brief and we have to switch to the next team. - Solvent accessible surface area. It measures the solvent accessible area of our protein. - Yeah. - Okay. So the one that you, at the end, you have some experiments later so that data...
+Yeah, yeah. Because the more, the harder the source of value, the more soluble it will be. It's expected to be. So the labels that you got at the end are good enough.
+Yeah, it's soluble yield increases with higher Sasa value.
+- Yeah, there is actually a correlation, the positive correlation between SESTA and the yield, but it's like this R-square value kind of is awkward because we have the limited time to test all of our enzymes and there's only six enzyme candidates that we developed. (static buzzing)
+Yeah, so you know, this is also somewhere we would like to improve in the future as well because the time constraint basically. Okay, so what are the units in the x axis?
+x-axis. It's the angstrom squared.
+Can you see it? - Yeah. - Yeah, yeah. Okay, thank you. - Yeah, I think with that, we'd love to conclude the Q&A.
+We can, if any of you have any questions, you can talk to the team afterwards.
+This is also a very good example of how our human practice linked to our product. I think we should wrap up now. So thank you so much. Thank you.
+- Awesome gift for you. - Maybe you should do this afterwards because there would be a next team waiting for their presentation and we don't want to. - Thank you so much. - Thank you. - Thank you. - Well done. - Thank you. - Good job guys.
+Bye!
+Thank you. See you.

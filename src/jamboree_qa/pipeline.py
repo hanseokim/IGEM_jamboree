@@ -68,13 +68,17 @@ def transcribe(src: Path, model_dir: Path, threads: int = 4):
         samples = read_wav(wav)
     rec = make_recognizer(model_dir, threads)
     res = []
-    for start, seg in segments(samples, make_vad(model_dir)):
-        st = rec.create_stream()
-        st.accept_waveform(SR, seg)
-        rec.decode_stream(st)
-        text = st.result.text.strip()
-        if text:
-            res.append({"start": round(start, 2), "end": round(start + len(seg) / SR, 2), "text": text})
+    chunk = 28 * SR  # Whisper handles <30 s per decode; split longer VAD segments
+    for seg_start, full in segments(samples, make_vad(model_dir)):
+        for off in range(0, len(full), chunk):
+            seg = full[off:off + chunk]
+            start = seg_start + off / SR
+            st = rec.create_stream()
+            st.accept_waveform(SR, seg)
+            rec.decode_stream(st)
+            text = st.result.text.strip()
+            if text:
+                res.append({"start": round(start, 2), "end": round(start + len(seg) / SR, 2), "text": text})
     return res
 
 
